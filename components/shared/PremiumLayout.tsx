@@ -49,6 +49,8 @@ interface PremiumLayoutProps {
   exitOnBack?: boolean;
 }
 
+import { useRouter } from 'next/navigation';
+
 export const PremiumLayout: React.FC<PremiumLayoutProps> = ({
   children,
   title,
@@ -58,8 +60,14 @@ export const PremiumLayout: React.FC<PremiumLayoutProps> = ({
   showBack = true,
   icon,
 }) => {
+  const router = useRouter();
+
   const handleBack = () => {
-    handlePlatformExit();
+    if (onBack) {
+      onBack();
+    } else {
+      router.back();
+    }
   };
 
   return (

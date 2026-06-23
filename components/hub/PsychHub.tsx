@@ -536,15 +536,9 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                   <div className="flex items-center gap-4">
                     <button
                       onClick={() => {
-                        if (typeof window !== 'undefined') {
-                          if ((window as any).ReactNativeWebView) {
-                            (window as any).ReactNativeWebView.postMessage(JSON.stringify({ action: 'exit' }));
-                          } else if (window.parent !== window) {
-                            window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-                          } else {
-                            window.location.href = 'https://web.mantracare.com/app/psychiatry';
-                          }
-                        }
+                        import('@/lib/navigation').then((mod) => {
+                          mod.handlePlatformExit();
+                        });
                       }}
                       className="text-slate-400 hover:text-slate-900 transition-colors"
                     >

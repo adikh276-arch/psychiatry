@@ -1,13 +1,17 @@
 export const handlePlatformExit = () => {
   if (typeof window === 'undefined') return;
 
+  // React Native WebView
   if ((window as any).ReactNativeWebView) {
     (window as any).ReactNativeWebView.postMessage(JSON.stringify({ action: 'exit' }));
-  } else if (window.parent !== window) {
+  }
+  // iframe inside client-web
+  else if (window.parent !== window) {
     window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
-  } else {
-    // Ponytail: Perfect exit action for psychiatry portal
-    window.location.href = 'https://web.mantracare.com/app/psychiatry';
+  }
+  // standalone browser
+  else {
+    window.location.href = 'https://web.mantracare.com';
   }
 };
 

@@ -70,34 +70,6 @@ export const PremiumComplete: React.FC<PremiumCompleteProps> = ({
     playComplete();
     const timer = setTimeout(() => setShowConfetti(false), 3200);
 
-    // Trigger global activity completion webhook
-    if (typeof window !== 'undefined') {
-      const upaId = sessionStorage.getItem('upa_id');
-      const uid = sessionStorage.getItem('uid');
-      
-      console.log('[PremiumComplete] Attempting to trigger webhook. Extracted from sessionStorage -> upa_id:', upaId, 'uid:', uid);
-      
-      if (upaId) {
-        console.log('[PremiumComplete] Executing POST request to pathway webhook...');
-        fetch('https://api.mantracare.com/webhook/pathway', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            intent: 'complete_activity',
-            upa_id: Number(upaId),
-            ...(uid && { uid: isNaN(Number(uid)) ? uid : Number(uid) }),
-          }),
-        }).then(res => {
-          console.log('[PremiumComplete] Webhook response HTTP status:', res.status);
-          return res.text();
-        }).then(text => {
-          console.log('[PremiumComplete] Webhook response body:', text);
-        }).catch((err) => console.error('[PremiumComplete] Webhook execution error:', err));
-      } else {
-        console.log('[PremiumComplete] WARNING: No upa_id found in sessionStorage! Webhook was skipped.');
-      }
-    }
-
     return () => clearTimeout(timer);
   }, [playComplete]);
 
@@ -106,7 +78,33 @@ export const PremiumComplete: React.FC<PremiumCompleteProps> = ({
     message ||
     t('common.completion_message', "You've successfully completed this activity. Take a moment to appreciate your progress.");
 
-  const handleHome = () => {
+  const handleHome = async () => {
+    if (typeof window !== 'undefined') {
+      const upaId = sessionStorage.getItem('upa_id');
+      const uid = sessionStorage.getItem('uid');
+      
+      console.log('[PremiumComplete] Triggering webhook on exit. Extracted from sessionStorage -> upa_id:', upaId, 'uid:', uid);
+      
+      if (upaId) {
+        try {
+          await fetch('https://api.mantracare.com/webhook/pathway', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              intent: 'complete_activity',
+              upa_id: Number(upaId),
+              ...(uid && { uid: isNaN(Number(uid)) ? uid : Number(uid) }),
+            }),
+          });
+          console.log('[PremiumComplete] Webhook POST successful.');
+        } catch (err) {
+          console.error('[PremiumComplete] Webhook execution error:', err);
+        }
+      } else {
+        console.log('[PremiumComplete] WARNING: No upa_id found in sessionStorage! Webhook was skipped.');
+      }
+    }
+
     handlePlatformExit();
   };
 

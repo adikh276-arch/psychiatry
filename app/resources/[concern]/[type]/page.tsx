@@ -115,10 +115,10 @@ function ResourceListInner({ concern, type }: ResourceListInnerProps) {
                 
                 <div className="flex-1 min-w-0 space-y-1">
                   <h3 className="font-bold text-slate-900 text-lg md:text-xl group-hover:text-primary transition-colors leading-tight">
-                    {res.title}
+                    {(res as any).title || (res as any).name || (res as any).myth}
                   </h3>
                   <p className="text-slate-400 text-sm font-medium leading-relaxed line-clamp-2 pr-4">
-                    {res.preview}
+                    {(res as any).preview || (res as any).identity || (res as any).truth || (res as any).deck}
                   </p>
                 </div>
                 

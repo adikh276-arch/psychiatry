@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { CalendarClock, ArrowRight, Check, Copy, CheckCheck } from 'lucide-react';
 import { PremiumLayout } from '@/components/shared/PremiumLayout';
 import { PremiumIntro } from '@/components/shared/PremiumIntro';
+import { PremiumComplete } from '@/components/shared/PremiumComplete';
 
 type Screen = 'intro' | 'step1' | 'step2' | 'step3' | 'summary';
 
@@ -97,7 +98,7 @@ ${questions || 'No questions noted.'}
                       onChange={e => setSinceLastVisit(e.target.value)}
                     />
                   </div>
-                  <button onClick={() => setScreen('step2')} className="act-btn-primary">
+                  <button onClick={() => setScreen('step2')} className="act-btn-primary disabled:opacity-40" disabled={!sinceLastVisit.trim()}>
                     Next: Side Effects <ArrowRight size={16} />
                   </button>
                 </>
@@ -116,7 +117,7 @@ ${questions || 'No questions noted.'}
                       onChange={e => setSideEffects(e.target.value)}
                     />
                   </div>
-                  <button onClick={() => setScreen('step3')} className="act-btn-primary">
+                  <button onClick={() => setScreen('step3')} className="act-btn-primary disabled:opacity-40" disabled={!sideEffects.trim()}>
                     Next: Questions <ArrowRight size={16} />
                   </button>
                 </>
@@ -135,7 +136,7 @@ ${questions || 'No questions noted.'}
                       onChange={e => setQuestions(e.target.value)}
                     />
                   </div>
-                  <button onClick={() => setScreen('summary')} className="act-btn-primary">
+                  <button onClick={() => setScreen('summary')} className="act-btn-primary disabled:opacity-40" disabled={!questions.trim()}>
                     Generate Summary <Check size={16} />
                   </button>
                 </>
@@ -145,43 +146,43 @@ ${questions || 'No questions noted.'}
 
           {screen === 'summary' && (
             <motion.div key="summary" initial={{ opacity: 0, scale: 0.97 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }} className="flex-1 flex flex-col space-y-5 pb-10">
-              <div>
-                <p className="text-xs font-bold uppercase tracking-widest text-emerald-500 mb-1">Your Prep Summary</p>
-                <h1 className="act-heading">Ready for Your Appointment</h1>
-                <p className="text-sm text-slate-500 mt-1">Screenshot this or copy it to share with your psychiatrist.</p>
-              </div>
-
-              <div className="bg-white rounded-3xl border border-slate-200 shadow-md overflow-hidden">
-                {/* Header strip */}
-                <div className="bg-gradient-to-r from-emerald-500 to-teal-500 px-6 py-4">
-                  <p className="text-white font-black text-sm uppercase tracking-widest">Psychiatry Appointment Prep</p>
-                  <p className="text-emerald-100 text-xs mt-0.5">{new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}</p>
-                </div>
-                <div className="p-6 space-y-5">
-                  {[
-                    { icon: '📋', label: 'Since My Last Visit', content: sinceLastVisit },
-                    { icon: '⚠️', label: 'Side Effects & Concerns', content: sideEffects },
-                    { icon: '❓', label: 'Questions for My Doctor', content: questions },
-                  ].map(section => (
-                    <div key={section.label} className="space-y-1">
-                      <p className="text-xs font-black text-slate-400 uppercase tracking-widest">{section.icon} {section.label}</p>
-                      <p className="text-slate-700 text-sm leading-relaxed whitespace-pre-wrap">
-                        {section.content || <span className="text-slate-300 italic">Nothing noted.</span>}
-                      </p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <button
-                onClick={handleCopy}
-                className={`act-btn-primary transition-all ${copied ? 'opacity-90' : ''}`}
-                style={copied ? { background: 'linear-gradient(135deg, #059669 0%, #047857 100%)' } : {}}
+              <PremiumComplete
+                title="Ready for Your Appointment"
+                message="Your prep notes are neatly summarized. Keep them handy for your doctor."
+                onRestart={handleReset}
+                icon={<CalendarClock size={48} className="text-emerald-600" />}
+                shareContent={summary}
               >
-                {copied ? <><CheckCheck size={16} /> Copied!</> : <><Copy size={16} /> Copy Summary</>}
-              </button>
-
-              <button onClick={handleReset} className="act-btn-ghost">Start Over</button>
+                <div className="bg-white rounded-3xl border border-slate-200 shadow-md overflow-hidden mt-6 text-left">
+                  {/* Header strip */}
+                  <div className="bg-gradient-to-r from-emerald-500 to-teal-500 px-6 py-4">
+                    <p className="text-white font-black text-sm uppercase tracking-widest">Psychiatry Appointment Prep</p>
+                    <p className="text-emerald-100 text-xs mt-0.5">{new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}</p>
+                  </div>
+                  <div className="p-6 space-y-5">
+                    {[
+                      { icon: '📋', label: 'Since My Last Visit', content: sinceLastVisit },
+                      { icon: '⚠️', label: 'Side Effects & Concerns', content: sideEffects },
+                      { icon: '❓', label: 'Questions for My Doctor', content: questions },
+                    ].map(section => (
+                      <div key={section.label} className="space-y-1">
+                        <p className="text-xs font-black text-slate-400 uppercase tracking-widest">{section.icon} {section.label}</p>
+                        <p className="text-slate-700 text-sm leading-relaxed whitespace-pre-wrap">
+                          {section.content || <span className="text-slate-300 italic">Nothing noted.</span>}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                
+                <button
+                  onClick={handleCopy}
+                  className={`w-full mt-4 py-4 rounded-2xl font-bold text-white text-base shadow-md flex items-center justify-center gap-2 transition-all ${copied ? 'opacity-90' : ''}`}
+                  style={copied ? { background: 'linear-gradient(135deg, #059669 0%, #047857 100%)' } : { background: 'linear-gradient(135deg, #10B981 0%, #059669 100%)' }}
+                >
+                  {copied ? <><CheckCheck size={20} /> Copied!</> : <><Copy size={20} /> Copy Summary</>}
+                </button>
+              </PremiumComplete>
             </motion.div>
           )}
         </AnimatePresence>

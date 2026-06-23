@@ -6,6 +6,8 @@ import { ShieldAlert, ArrowRight, Check, Copy, CheckCheck, UserCheck, AlertTrian
 import { PremiumLayout } from '@/components/shared/PremiumLayout';
 import { PremiumIntro } from '@/components/shared/PremiumIntro';
 
+import { PremiumComplete } from '@/components/shared/PremiumComplete';
+
 type Screen = 'intro' | 'gateway' | 'step1' | 'step2' | 'step3' | 'step4' | 'plan';
 
 const STEP_LABELS = ['Warning Signs', 'Coping Strategies', 'People to Contact', 'Next Steps'];
@@ -144,7 +146,7 @@ ${nextSteps || 'Not filled in.'}
                       placeholder="e.g. I stop replying to messages. I sleep more than 12 hours. I start thinking everything is pointless. I feel disconnected from my body..."
                       value={warningSigns} onChange={e => setWarningSigns(e.target.value)} />
                   </div>
-                  <button onClick={() => setScreen('step2')} className="act-btn-primary">Next <ArrowRight size={16} /></button>
+                  <button onClick={() => setScreen('step2')} className="act-btn-primary disabled:opacity-40" disabled={!warningSigns.trim()}>Next <ArrowRight size={16} /></button>
                 </>
               )}
 
@@ -158,7 +160,7 @@ ${nextSteps || 'Not filled in.'}
                       placeholder="e.g. Go for a walk even if it's short. Make tea. Put on a familiar TV show. Do box breathing for 5 minutes. Write in my journal. Take a shower..."
                       value={copingStrategies} onChange={e => setCopingStrategies(e.target.value)} />
                   </div>
-                  <button onClick={() => setScreen('step3')} className="act-btn-primary">Next <ArrowRight size={16} /></button>
+                  <button onClick={() => setScreen('step3')} className="act-btn-primary disabled:opacity-40" disabled={!copingStrategies.trim()}>Next <ArrowRight size={16} /></button>
                 </>
               )}
 
@@ -172,7 +174,7 @@ ${nextSteps || 'Not filled in.'}
                       placeholder="e.g.&#10;1. [Name] — mobile: +XX XXXX XXXX&#10;2. [Name] — they know about my condition&#10;3. My psychiatrist: +XX XXXX XXXX&#10;4. Crisis line: XXXX XXXX"
                       value={contacts} onChange={e => setContacts(e.target.value)} />
                   </div>
-                  <button onClick={() => setScreen('step4')} className="act-btn-primary">Next <ArrowRight size={16} /></button>
+                  <button onClick={() => setScreen('step4')} className="act-btn-primary disabled:opacity-40" disabled={!contacts.trim()}>Next <ArrowRight size={16} /></button>
                 </>
               )}
 
@@ -186,7 +188,7 @@ ${nextSteps || 'Not filled in.'}
                       placeholder="e.g. If I feel unsafe, I will call [Name]. If I can't reach them, I will go to [Hospital name]. I will not be alone. I will tell someone where I am..."
                       value={nextSteps} onChange={e => setNextSteps(e.target.value)} />
                   </div>
-                  <button onClick={() => setScreen('plan')} className="act-btn-primary">
+                  <button onClick={() => setScreen('plan')} className="act-btn-primary disabled:opacity-40" disabled={!nextSteps.trim()}>
                     Generate My Plan <Check size={16} />
                   </button>
                 </>
@@ -196,49 +198,49 @@ ${nextSteps || 'Not filled in.'}
 
           {screen === 'plan' && (
             <motion.div key="plan" initial={{ opacity: 0, scale: 0.97 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }} className="flex-1 flex flex-col space-y-5 pb-10">
-              <div>
-                <p className="text-xs font-bold uppercase tracking-widest text-red-500 mb-1">Your Safety Plan</p>
-                <h1 className="act-heading">Keep This Somewhere Safe</h1>
-                <p className="text-sm text-slate-500 mt-1">Screenshot this or copy it. Share with your therapist or a trusted person.</p>
-              </div>
-
-              <div className="bg-white rounded-3xl border border-slate-200 shadow-md overflow-hidden">
-                <div className="bg-gradient-to-r from-red-500 to-rose-600 px-6 py-4">
-                  <p className="text-white font-black text-sm uppercase tracking-widest">My Personal Safety Plan</p>
-                  <p className="text-red-100 text-xs mt-0.5">{new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}</p>
-                </div>
-                <div className="p-6 space-y-5">
-                  {[
-                    { icon: '🚨', label: 'My Warning Signs', content: warningSigns },
-                    { icon: '🛡️', label: 'My Coping Strategies', content: copingStrategies },
-                    { icon: '📞', label: 'People I Will Contact', content: contacts },
-                    { icon: '🏥', label: 'If Things Escalate', content: nextSteps },
-                  ].map(section => (
-                    <div key={section.label} className="space-y-1">
-                      <p className="text-xs font-black text-slate-400 uppercase tracking-widest">{section.icon} {section.label}</p>
-                      <p className="text-slate-700 text-sm leading-relaxed whitespace-pre-wrap">
-                        {section.content || <span className="text-slate-300 italic">Not filled in.</span>}
-                      </p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <button
-                onClick={handleCopy}
-                className={`act-btn-primary transition-all`}
-                style={copied ? { background: 'linear-gradient(135deg, #059669 0%, #047857 100%)' } : { background: 'linear-gradient(135deg, #ef4444 0%, #dc2626 100%)' }}
+              <PremiumComplete
+                title="Your Safety Plan is Ready"
+                message="Keep this somewhere safe. Share it with your therapist or a trusted person."
+                onRestart={handleReset}
+                icon={<ShieldAlert size={48} className="text-red-600" />}
+                shareContent={plan}
               >
-                {copied ? <><CheckCheck size={16} /> Copied!</> : <><Copy size={16} /> Copy My Safety Plan</>}
-              </button>
+                <div className="bg-white rounded-3xl border border-slate-200 shadow-md overflow-hidden mt-6 text-left">
+                  <div className="bg-gradient-to-r from-red-500 to-rose-600 px-6 py-4">
+                    <p className="text-white font-black text-sm uppercase tracking-widest">My Personal Safety Plan</p>
+                    <p className="text-red-100 text-xs mt-0.5">{new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}</p>
+                  </div>
+                  <div className="p-6 space-y-5">
+                    {[
+                      { icon: '🚨', label: 'My Warning Signs', content: warningSigns },
+                      { icon: '🛡️', label: 'My Coping Strategies', content: copingStrategies },
+                      { icon: '📞', label: 'People I Will Contact', content: contacts },
+                      { icon: '🏥', label: 'If Things Escalate', content: nextSteps },
+                    ].map(section => (
+                      <div key={section.label} className="space-y-1">
+                        <p className="text-xs font-black text-slate-400 uppercase tracking-widest">{section.icon} {section.label}</p>
+                        <p className="text-slate-700 text-sm leading-relaxed whitespace-pre-wrap">
+                          {section.content || <span className="text-slate-300 italic">Not filled in.</span>}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
 
-              <button onClick={handleConnectTherapist}
-                className="w-full rounded-2xl font-bold text-sm flex items-center justify-center gap-2 h-12 border-2 border-violet-200 text-violet-700 bg-violet-50 hover:bg-violet-100 transition-all"
-              >
-                <UserCheck size={18} /> Share with My Therapist
-              </button>
+                <button
+                  onClick={handleCopy}
+                  className={`w-full mt-4 py-4 rounded-2xl font-bold text-white text-base shadow-md flex items-center justify-center gap-2 transition-all ${copied ? 'opacity-90' : ''}`}
+                  style={copied ? { background: 'linear-gradient(135deg, #059669 0%, #047857 100%)' } : { background: 'linear-gradient(135deg, #ef4444 0%, #dc2626 100%)' }}
+                >
+                  {copied ? <><CheckCheck size={20} /> Copied!</> : <><Copy size={20} /> Copy My Safety Plan</>}
+                </button>
 
-              <button onClick={handleReset} className="act-btn-ghost">Start Over</button>
+                <button onClick={handleConnectTherapist}
+                  className="w-full mt-3 rounded-2xl font-bold text-sm flex items-center justify-center gap-2 h-12 border-2 border-violet-200 text-violet-700 bg-violet-50 hover:bg-violet-100 transition-all"
+                >
+                  <UserCheck size={18} /> Share with My Therapist
+                </button>
+              </PremiumComplete>
             </motion.div>
           )}
         </AnimatePresence>

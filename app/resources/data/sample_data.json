@@ -43,7 +43,10 @@
           "Look up patient advocacy organizations (e.g., NAMI, NIMH) rather than relying solely on general internet searches"
         ],
         "gentleReminder": "You don't need to become an expert overnight. Start with one reliable source and one honest conversation with your provider.",
-        "example": "Instead of Googling your diagnosis at 2am and spiraling, try saving three trusted links to read during daylight hours when you feel regulated."
+        "example": {
+          "instead": "Googling your diagnosis at 2am and spiraling.",
+          "tryThis": "Saving three trusted links to read during daylight hours when you feel regulated."
+        }
       },
       {
         "title": "Separate the Label from the Story",
@@ -112,7 +115,10 @@
           "Note any side effects — when they started, their severity, and whether they improve over time",
           "Bring this log to every appointment, even if it's just a photo of a notebook page"
         ],
-        "example": "Instead of saying 'I think the medication is helping a bit,' try 'My sleep improved from around a 4/10 to a 7/10 in week three, but my anxiety is unchanged.'"
+        "example": {
+          "instead": "Saying 'I think the medication is helping a bit.'",
+          "tryThis": "Saying 'My sleep improved from around a 4/10 to a 7/10 in week three, but my anxiety is unchanged.'"
+        }
       },
       {
         "title": "Never Stop Medication Without a Taper Plan",
@@ -181,7 +187,10 @@
           "Write a 'when I notice X, I will do Y' action plan for both poles",
           "Share your early warning signs with at least one trusted person who can alert you when they see signs you might miss"
         ],
-        "example": "Instead of waiting until you're in a full episode to act, practice the rule: 'If I notice two or more early warning signs, I contact my psychiatrist within 24 hours.'"
+        "example": {
+          "instead": "Waiting until you're in a full episode to act.",
+          "tryThis": "Practicing the rule: 'If I notice two or more early warning signs, I contact my psychiatrist within 24 hours.'"
+        }
       },
       {
         "title": "Protect Sleep Like Your Mood Depends On It",
@@ -250,7 +259,10 @@
           "Gamify repetitive tasks — timers, scoring systems, or small rewards after completion activate the reward circuit",
           "Limit task-switching during focus periods — notifications are kryptonite; use app blockers and phone-in-a-drawer strategies"
         ],
-        "example": "Instead of sitting down to 'study for three hours,' try: 'I'll do four 25-minute pomodoros on this chapter, with a 5-minute movement break between each.'"
+        "example": {
+          "instead": "Sitting down to 'study for three hours.'",
+          "tryThis": "Saying: 'I'll do four 25-minute pomodoros on this chapter, with a 5-minute movement break between each.'"
+        }
       },
       {
         "title": "Build External Structure for an Internal Regulation Gap",
@@ -331,7 +343,10 @@
           "If in-person socializing is hard, peer support groups (in-person or online) connect you with people who share your experience",
           "Tell your psychiatrist if you notice yourself withdrawing — it's a clinical signal worth tracking"
         ],
-        "example": "Instead of waiting until you feel ready to socialize, try a low-commitment regular contact: a 10-minute call with a family member every Sunday, regardless of how you're feeling."
+        "example": {
+          "instead": "Waiting until you feel ready to socialize.",
+          "tryThis": "A low-commitment regular contact: a 10-minute call with a family member every Sunday, regardless of how you're feeling."
+        }
       }
     ],
     "articles": [

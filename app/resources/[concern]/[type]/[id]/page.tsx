@@ -9,6 +9,7 @@ import { PremiumLayout } from '@/components/shared/PremiumLayout';
 import i18n, { loadLocale } from '../../../i18n';
 import { getLocalizedData } from '../../../dataLoader';
 import { Resource, Tip, Article, Story, Myth } from '../../../types';
+import ReactMarkdown from 'react-markdown';
 
 interface ResourceDetailInnerProps {
   concern: string;
@@ -170,10 +171,9 @@ function ResourceDetailInner({ concern, type, id }: ResourceDetailInnerProps) {
     return (
       <div className="w-full space-y-12 pb-24">
         <article className="prose prose-slate max-w-none">
-          <div 
-            className="text-slate-750 text-xl leading-relaxed space-y-8 font-medium article-content"
-            dangerouslySetInnerHTML={{ __html: article.body }} 
-          />
+          <div className="text-slate-750 text-xl leading-relaxed space-y-8 font-medium article-content">
+            <ReactMarkdown>{article.body}</ReactMarkdown>
+          </div>
         </article>
 
         <motion.section 
@@ -266,10 +266,9 @@ function ResourceDetailInner({ concern, type, id }: ResourceDetailInnerProps) {
 
         <article className="p-12 bg-white rounded-[4rem] border border-white/60 shadow-sm space-y-8">
           <h3 className="text-[11px] font-black text-slate-400 uppercase tracking-[0.4em]">{t("detail.myth.explanation_label")}</h3>
-          <div 
-            className="text-slate-700 text-xl leading-relaxed space-y-8 font-medium article-content"
-            dangerouslySetInnerHTML={{ __html: myth.explanation }} 
-          />
+          <div className="text-slate-700 text-xl leading-relaxed space-y-8 font-medium article-content">
+            <ReactMarkdown>{myth.explanation}</ReactMarkdown>
+          </div>
         </article>
 
         <motion.section 

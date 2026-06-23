@@ -49,12 +49,12 @@ interface TopicCard {
 }
 
 const toolCards = [
-  { id: "symptom-check-in",    icon: ScanLine,      label: "Symptom Check-In",   bgClass: "bg-[#F8FAFC]", textClass: "text-[#0F172A]", iconClass: "text-[#6366F1]", url: "/symptom-check-in" },
-  { id: "medication-log",      icon: Pill,           label: "Medication Log",     bgClass: "bg-[#F8FAFC]", textClass: "text-[#0F172A]", iconClass: "text-[#0EA5E9]", url: "/medication-log" },
-  { id: "appointment-prep",    icon: CalendarClock,  label: "Appointment Prep",   bgClass: "bg-[#F8FAFC]", textClass: "text-[#0F172A]", iconClass: "text-[#10B981]", url: "/appointment-prep" },
-  { id: "vibe-tracker",        icon: HeartPulse,     label: "Mood Tracker",       bgClass: "bg-[#F8FAFC]", textClass: "text-[#0F172A]", iconClass: "text-[#F59E0B]", url: "/vibe-tracker" },
-  { id: "sleep-audit",         icon: Moon,           label: "Sleep Audit",        bgClass: "bg-[#F8FAFC]", textClass: "text-[#0F172A]", iconClass: "text-[#8B5CF6]", url: "/sleep-audit" },
-  { id: "crisis-plan",         icon: ShieldAlert,    label: "Crisis Plan",        bgClass: "bg-[#F8FAFC]", textClass: "text-[#0F172A]", iconClass: "text-[#EF4444]", url: "/crisis-plan" },
+  { id: "symptom-check-in",    icon: ScanLine,      label: "Symptom Check-In",   bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-indigo-400", url: "/symptom-check-in" },
+  { id: "medication-log",      icon: Pill,           label: "Medication Log",     bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-sky-400", url: "/medication-log" },
+  { id: "appointment-prep",    icon: CalendarClock,  label: "Appointment Prep",   bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-emerald-400", url: "/appointment-prep" },
+  { id: "vibe-tracker",        icon: HeartPulse,     label: "Mood Tracker",       bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-amber-400", url: "/vibe-tracker" },
+  { id: "sleep-audit",         icon: Moon,           label: "Sleep Audit",        bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-violet-400", url: "/sleep-audit" },
+  { id: "crisis-plan",         icon: ShieldAlert,    label: "Crisis Plan",        bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-rose-400", url: "/crisis-plan" },
 ];
 
 const topicCards: TopicCard[] = [
@@ -532,8 +532,8 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                 className="space-y-8"
               >
                 {/* Header */}
-                <div className="space-y-4 mb-8">
-                  <div className="flex items-center gap-4">
+                <div className="space-y-2 mb-8">
+                  <div className="flex items-center gap-3">
                     <button
                       onClick={() => {
                         if (typeof window !== 'undefined') {
@@ -546,16 +546,16 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                           }
                         }
                       }}
-                      className="p-3 -ml-3 text-slate-400 hover:text-slate-900 transition-colors rounded-full hover:bg-slate-100"
+                      className="p-2 -ml-2 text-slate-400 hover:text-slate-900 transition-colors rounded-full"
                     >
                       <ChevronLeft size={24} />
                     </button>
-                    <div className="w-12 h-12 bg-indigo-50 rounded-2xl flex items-center justify-center border border-indigo-100/50">
-                      <Brain size={24} className="text-indigo-500" />
+                    <div className="w-10 h-10 bg-[#0F172A] rounded-xl flex items-center justify-center shadow-md">
+                      <Brain size={20} className="text-white" />
                     </div>
-                    <h1 className="text-4xl font-black text-slate-900 tracking-tight">Psychiatry</h1>
+                    <h1 className="text-3xl font-bold text-slate-900 tracking-tight">Psychiatry Self-Care</h1>
                   </div>
-                  <p className="text-slate-500 font-medium text-lg ml-[4.5rem]">Understand your brain, diagnosis, and treatment.</p>
+                  <p className="text-slate-500 font-medium ml-12">Understand your brain, your diagnosis, and your treatment</p>
                 </div>
 
                 {/* Quick-Access Tools */}
@@ -577,13 +577,11 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                           playPop();
                           router.push(withLang(tool.url));
                         }}
-                        className={`p-5 rounded-[1.5rem] flex flex-col justify-between h-32 border border-slate-100/50 shadow-[0_4px_20px_rgba(0,0,0,0.02)] hover:shadow-[0_8px_30px_rgba(0,0,0,0.06)] hover:border-slate-200 transition-all relative overflow-hidden group ${tool.bgClass || 'bg-white'}`}
+                        className={`p-5 rounded-2xl flex flex-col justify-between h-28 shadow-[0_8px_30px_rgba(0,0,0,0.06)] hover:shadow-[0_10px_40px_rgba(0,0,0,0.12)] transition-all relative overflow-hidden group ${tool.bgClass}`}
                       >
-                        <div className={`w-12 h-12 rounded-[1rem] flex items-center justify-center bg-white shadow-sm border border-slate-50 transition-transform group-hover:scale-110 relative z-10 ${tool.iconClass}`}>
-                          <tool.icon size={24} />
-                        </div>
-                        <span className={`font-bold text-[13px] tracking-tight text-left leading-tight relative z-10 ${tool.textClass}`}>{tool.label}</span>
-                        <div className={`absolute -right-4 -bottom-4 opacity-[0.04] group-hover:scale-125 transition-transform duration-500 ${tool.iconClass}`}>
+                        <tool.icon size={26} className={`relative z-10 ${tool.iconClass}`} />
+                        <span className={`text-[12px] font-bold tracking-tight text-left leading-tight relative z-10 ${tool.textClass}`}>{tool.label}</span>
+                        <div className={`absolute -right-4 -bottom-4 opacity-10 group-hover:scale-125 transition-transform duration-500 ${tool.iconClass}`}>
                           <tool.icon size={80} />
                         </div>
                       </motion.button>

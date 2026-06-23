@@ -49,12 +49,12 @@ interface TopicCard {
 }
 
 const toolCards = [
-  { id: "symptom-check-in",    icon: ScanLine,      label: "Symptom Check-In",   bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-indigo-400", url: "/symptom-check-in" },
-  { id: "medication-log",      icon: Pill,           label: "Medication Log",     bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-sky-400", url: "/medication-log" },
-  { id: "appointment-prep",    icon: CalendarClock,  label: "Appointment Prep",   bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-emerald-400", url: "/appointment-prep" },
-  { id: "vibe-tracker",        icon: HeartPulse,     label: "Mood Tracker",       bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-amber-400", url: "/vibe-tracker" },
-  { id: "sleep-audit",         icon: Moon,           label: "Sleep Audit",        bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-violet-400", url: "/sleep-audit" },
-  { id: "crisis-plan",         icon: ShieldAlert,    label: "Crisis Plan",        bgClass: "bg-[#0F172A]", textClass: "text-white", iconClass: "text-rose-400", url: "/crisis-plan" },
+  { id: "symptom-check-in",    icon: ScanLine,      label: "Symptom Check-In",   bgClass: "bg-[#EDE9FE]", textClass: "text-[#4C1D95]", iconClass: "text-[#6D28D9]", url: "/symptom-check-in" },
+  { id: "medication-log",      icon: Pill,           label: "Medication Log",     bgClass: "bg-[#E0F2FE]", textClass: "text-[#0C4A6E]", iconClass: "text-[#0369A1]", url: "/medication-log" },
+  { id: "appointment-prep",    icon: CalendarClock,  label: "Appointment Prep",   bgClass: "bg-[#D1FAE5]", textClass: "text-[#064E3B]", iconClass: "text-[#047857]", url: "/appointment-prep" },
+  { id: "vibe-tracker",        icon: HeartPulse,     label: "Mood Tracker",       bgClass: "bg-[#FEF3C7]", textClass: "text-[#78350F]", iconClass: "text-[#B45309]", url: "/vibe-tracker" },
+  { id: "sleep-audit",         icon: Moon,           label: "Sleep Audit",        bgClass: "bg-[#E0E7FF]", textClass: "text-[#312E81]", iconClass: "text-[#4338CA]", url: "/sleep-audit" },
+  { id: "crisis-plan",         icon: ShieldAlert,    label: "Crisis Plan",        bgClass: "bg-[#FFE4E6]", textClass: "text-[#881337]", iconClass: "text-[#BE123C]", url: "/crisis-plan" },
 ];
 
 const topicCards: TopicCard[] = [
@@ -550,8 +550,8 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                     >
                       <ChevronLeft size={24} />
                     </button>
-                    <div className="w-10 h-10 bg-[#0F172A] rounded-xl flex items-center justify-center shadow-md">
-                      <Brain size={20} className="text-white" />
+                    <div className="w-10 h-10 bg-violet-100 rounded-xl flex items-center justify-center shadow-sm">
+                      <Brain size={20} className="text-violet-600" />
                     </div>
                     <h1 className="text-3xl font-bold text-slate-900 tracking-tight">Psychiatry Self-Care</h1>
                   </div>

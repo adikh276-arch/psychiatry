@@ -48,8 +48,7 @@ ${nextSteps || 'Not filled in.'}
   };
 
   // ── Therapist gateway component
-  // NOTE: Replace the redirect URL below with the actual MantraCare therapy connection snippet
-  const THERAPY_REDIRECT_URL = 'https://web.mantracare.com/app/therapy';
+  const PSYCHIATRY_REDIRECT_URL = 'https://web.mantracare.com/app/psychiatry';
 
   const handleConnectTherapist = () => {
     if (typeof window !== 'undefined') {
@@ -58,7 +57,8 @@ ${nextSteps || 'Not filled in.'}
       } else if (window.parent !== window) {
         window.parent.postMessage({ action: 'connect_therapist' }, 'https://web.mantracare.com');
       } else {
-        window.location.href = THERAPY_REDIRECT_URL;
+        // Ponytail: Perfect exit action for psychiatry portal
+        window.location.href = PSYCHIATRY_REDIRECT_URL;
       }
     }
   };

@@ -58,6 +58,7 @@ export const AuthGuard: React.FC<AuthGuardProps> = ({ children }) => {
         return;
       }
 
+      // Ponytail: The only necessary auth handshake paths.
       // 2. Handle Auth Portal Return & Magic Links
       if (token) {
         try {
@@ -127,7 +128,7 @@ export const AuthGuard: React.FC<AuthGuardProps> = ({ children }) => {
       localStorage.setItem('APP_REDIRECT_PATH', currentUrl);
       
       // Redirect to the main web app which handles adding the token
-      window.location.href = 'https://web.mantracare.com/app/therapy';
+      window.location.href = 'https://web.mantracare.com/app/psychiatry';
     }
   };
 

@@ -542,7 +542,8 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                           } else if (window.parent !== window) {
                             window.parent.postMessage({ action: 'exit' }, 'https://web.mantracare.com');
                           } else {
-                            window.location.href = 'https://web.mantracare.com';
+                            // Ponytail: Perfect exit action for psychiatry portal
+                            window.location.href = 'https://web.mantracare.com/app/psychiatry';
                           }
                         }
                       }}

@@ -1,0 +1,136 @@
+{
+  "app_title": "আপনার মনের নাম দিন",
+  "intro": {
+    "title": "মিট ইয়োর মাইন্ড",
+    "description": "আপনার অভ্যন্তরীণ কণ্ঠস্বরকে একটি নাম দিয়ে অপ্রতিরোধ্য চিন্তাভাবনা থেকে নিজেকে দূরে রাখতে শিখুন।",
+    "benefits": {
+      "0": "মানসিক দূরত্ব তৈরি করুন",
+      "1": "কঠোর চিন্তার শক্তি হ্রাস করুন",
+      "2": "চিন্তাভাবনা না হয়ে লক্ষ্য করুন"
+    },
+    "duration": "2-3 মিনিট",
+    "view_past": "অতীত এন্ট্রিগুলি দেখুন"
+  },
+  "history": {
+    "title": "অতীত এন্ট্রিগুলি",
+    "no_entries": "এখনও কোনও এন্ট্রি নেই।",
+    "reflection_label": "প্রতিফলন: {{text}}"
+  },
+  "complete": {
+    "title": "কার্যকলাপ সম্পূর্ণ",
+    "great_job": "দুর্দান্ত কাজ!",
+    "message": "আপনি সফলভাবে আপনার মনের নামকরণ করেছেন এবং নিজের এবং আপনার চিন্তাভাবনার মধ্যে কিছু জায়গা তৈরি করেছেন।",
+    "footer": "মনে রাখবেন: আপনার মনের প্রতিটি চিন্তাভাবনা আপনাকে বিশ্বাস করতে হবে না।"
+  },
+  "subtitles": {
+    "concept": "দৃষ্টিভঙ্গি",
+    "input_thought": "নোটিশ",
+    "input_name": "নাম",
+    "practice": "অনুশীলন",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "ছোট্ট একটা শিফট",
+      "example": "'আমি যথেষ্ট ভালো নই'",
+      "desc": "যখন কোনও চিন্তাভাবনা প্রদর্শিত হয়, তখন প্রায়শই মনে হয় এটি <0>আপনি< / 0>। তবে আপনি যদি পিছনে সরে যেতে পারেন এবং পরিবর্তে এটি <1>নোটিস< / 1> করতে পারেন?"
+    },
+    "input_thought": {
+      "title": "আসুন একটি বাস্তব চিন্তা দিয়ে শুরু করা যাক",
+      "desc": "ইদানীং এমন কোন চিন্তাভাবনা যা আপনাকে বিরক্ত করছে?",
+      "placeholder": "আপনার কাছে যেমন আসে ঠিক সেভাবেই লিখুন..."
+    },
+    "input_name": {
+      "title": "কিছু দূরত্ব তৈরি করুন",
+      "desc": "এই চিন্তাভাবনাগুলি থেকে নিজেকে আলাদা করতে সহায়তা করার জন্য আপনার মনকে একটি নাম দিন।",
+      "placeholder": "অথবা নিজের টাইপ করুন...",
+      "examples": {
+        "0": "সমালোচক",
+        "1": "ওভারথিঙ্কার",
+        "2": "উদ্বেগ এফএম",
+        "3": "ওভারথিঙ্কিং মেশিন",
+        "4": "অভ্যন্তরীণ সমালোচক",
+        "5": "হোয়াট-ইফ জেনারেটর",
+        "6": "নাট্য পরিচালক"
+      }
+    },
+    "practice": {
+      "title": "এই শিফটটি চেষ্টা করুন",
+      "instead_of": "পরিবর্তে",
+      "try_saying": "বলার চেষ্টা করুন",
+      "is_telling_me": "{{name}} আমাকে বলছে:",
+      "guide": "আপনার নিজের গতিতে এই বাক্যটি আলতো করে নিজের কাছে 4-5 বার পুনরাবৃত্তি করুন।",
+      "button": "আমি প্রস্তুত"
+    },
+    "reflection": {
+      "title": "আপনি কি লক্ষ্য করেছেন?",
+      "desc": "নাম দেওয়ার পরে চিন্তাটি কেমন অনুভূত হয়েছিল?",
+      "options": {
+        "0": "চিন্তাটি আগের চেয়ে কিছুটা কম তীব্র মনে হয়েছিল",
+        "1": "আমার মনে হচ্ছিল আমি চিন্তাভাবনা থেকে কিছুটা দূরত্ব পেয়েছি",
+        "2": "এটি এখনও আগের মতোই শক্তিশালী বোধ করছিল",
+        "3": "আমি জানি না কী পরিবর্তন হয়েছে, যদি কিছু হয়"
+      },
+      "button": "সম্পূর্ণ প্রতিফলন"
+    }
+  },
+  "buttons": {
+    "continue": "চালিয়ে যান",
+    "restart": "পুনরায় শুরু করুন"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "নতুন করে শুরু করুন",
+    "finish_exit": "শেষ করুন এবং প্রস্থান করুন",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "সম্পূর্ণ করার সময়",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "শেয়ার",
+    "share_progress": "শেয়ার অগ্রগতি",
+    "inspire_others": "আজ অন্যদের অনুপ্রাণিত করুন",
+    "share_text": "আমি থেরাপিমন্ত্রা-তে এই {{activityName}} কাজটি করেছি এবং এটি আমার খুব ভালো লেগেছে, আপনিও এটি করতে পারেন। এর জন্য শুধু অ্যান্ড্রয়েড অ্যাপ {{androidUrl}} অথবা আইওএস অ্যাপ {{iosUrl}} এর লিঙ্কটি অনুসরণ করুন।",
+    "this_activity": "এই কার্যকলাপ",
+    "copied": "অনুলিপি করা হয়েছে!",
+    "copy_message": "বার্তা কপি করুন",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "আপনার মনের নাম দিন",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "যখন কোনো চিন্তা মাথায় আসে, তখন প্রায়ই মনে হয় যে এটা",
+  "more": "আরও",
+  "breadcrumb": "রুটির গুঁড়ো",
+  "previous_slide": "পূর্ববর্তী স্লাইড",
+  "next_slide": "পরবর্তী স্লাইড",
+  "close": "বন্ধ করুন",
+  "previous": "পূর্ববর্তী",
+  "more_pages": "আরও পৃষ্ঠা",
+  "pagination": "পৃষ্ঠা সংখ্যা",
+  "go_to_previous_page": "পূর্ববর্তী পৃষ্ঠায় যান",
+  "go_to_next_page": "পরবর্তী পৃষ্ঠায় যান",
+  "toggle_sidebar": "সাইডবার টগল করুন",
+  "oops_page_not_found": "ওহ! পৃষ্ঠাটি খুঁজে পাওয়া যায়নি।",
+  "return_to_home": "হোমপেজে ফিরে যান",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "দীর্ঘ"
+}

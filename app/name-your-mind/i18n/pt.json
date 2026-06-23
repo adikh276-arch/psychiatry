@@ -1,0 +1,136 @@
+{
+  "app_title": "Diga Sua Mente",
+  "intro": {
+    "title": "Encontre Sua Mente",
+    "description": "Aprenda a se distanciar dos pensamentos avassaladores dando um nome à sua voz interior.",
+    "benefits": {
+      "0": "Crie distância mental",
+      "1": "Reduza o poder dos pensamentos duros",
+      "2": "Perceba os pensamentos sem ser eles"
+    },
+    "duration": "2-3 minutos",
+    "view_past": "Veja Inscrições Anteriores"
+  },
+  "history": {
+    "title": "Entradas Anteriores",
+    "no_entries": "Ainda não há inscrições.",
+    "reflection_label": "Reflexão: {{text}}"
+  },
+  "complete": {
+    "title": "Atividade Concluída",
+    "great_job": "Ótimo trabalho!",
+    "message": "Você conseguiu nomear sua mente e criar um espaço entre você e seus pensamentos.",
+    "footer": "Lembre-se: você não precisa acreditar em cada pensamento que sua mente lhe dá."
+  },
+  "subtitles": {
+    "concept": "Perspectiva",
+    "input_thought": "Aviso",
+    "input_name": "Nome",
+    "practice": "Prática",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Uma pequena mudança",
+      "example": "\"Eu não sou bom o suficiente\"",
+      "desc": "Quando um pensamento aparece, muitas vezes parece que é <0>você</0>. Mas e se você pudesse dar um passo atrás e <1>notar</1> em vez disso?"
+    },
+    "input_thought": {
+      "title": "Vamos começar com um pensamento real",
+      "desc": "Qual é um pensamento que tem te incomodado ultimamente?",
+      "placeholder": "Escreva exatamente como vier à sua mente..."
+    },
+    "input_name": {
+      "title": "Crie alguma distância",
+      "desc": "Dê um nome à sua mente para ajudar a se separar desses pensamentos.",
+      "placeholder": "Ou digite o seu próprio...",
+      "examples": {
+        "0": "O Crítico",
+        "1": "Pensador excessivo",
+        "2": "Worry FM",
+        "3": "A Máquina de Pensar Demais",
+        "4": "O Crítico Interno",
+        "5": "O Gerador do E Se.",
+        "6": "Diretor de Drama"
+      }
+    },
+    "practice": {
+      "title": "Tente essa mudança",
+      "instead_of": "Em vez de",
+      "try_saying": "Tente dizer",
+      "is_telling_me": "{{name}} está me dizendo:",
+      "guide": "Repita essa frase suavemente para si mesmo 4 ou 5 vezes, no seu próprio ritmo.",
+      "button": "Estou pronto"
+    },
+    "reflection": {
+      "title": "O que você percebeu?",
+      "desc": "Como foi o pensamento depois de lhe dar um nome?",
+      "options": {
+        "0": "O pensamento parecia um pouco menos intenso do que antes",
+        "1": "Senti que estava um pouco afastada desse pensamento",
+        "2": "Ainda parecia tão forte quanto antes",
+        "3": "Não sei o que mudou, se é que mudou."
+      },
+      "button": "Reflexão Completa"
+    }
+  },
+  "buttons": {
+    "continue": "Continue",
+    "restart": "Reinício"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Recomeçar",
+    "finish_exit": "Finalizar e sair",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo para concluir",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Compartilhar",
+    "share_progress": "Compartilhar progresso",
+    "inspire_others": "Inspire outras pessoas hoje",
+    "share_text": "Eu fiz essa atividade {{activityName}} no TherapyMantra e gostei muito. Você também pode fazer, basta seguir o link para o aplicativo Android {{androidUrl}} ou para o aplicativo iOS {{iosUrl}}.",
+    "this_activity": "esta atividade",
+    "copied": "Copiado!",
+    "copy_message": "Copiar mensagem",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Dê um nome à sua mente",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Quando um pensamento surge, muitas vezes parece que é",
+  "more": "Mais",
+  "breadcrumb": "farinha de rosca",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "more_pages": "Mais páginas",
+  "pagination": "paginação",
+  "go_to_previous_page": "Ir para a página anterior",
+  "go_to_next_page": "Acesse a próxima página.",
+  "toggle_sidebar": "Alternar barra lateral",
+  "oops_page_not_found": "Ops! Página não encontrada",
+  "return_to_home": "Voltar para a página inicial",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "longo"
+}

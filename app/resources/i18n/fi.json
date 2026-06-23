@@ -1,0 +1,99 @@
+{
+  "app_title": "Lähteet",
+  "not_found": {
+    "title": "Ei löytynyt",
+    "message": "Resurssi ei löytynyt",
+    "description": "Etsimäsi sisältö on saattanut siirtyä.",
+    "button": "Mene takaisin"
+  },
+  "list": {
+    "empty_title": "Ei {{type}} saatavilla",
+    "empty_desc": "Kuratoimme parhaillaan lisää resursseja tähän aiheeseen.",
+    "footer": "Mantra-hoito • Näyttöön perustuvat resurssit"
+  },
+  "detail": {
+    "loading": "Ladataan...",
+    "tip": {
+      "insight_label": "Oivallus",
+      "plan_title": "Päivittäinen toimintasuunnitelma",
+      "steps": "{{count}} Askeleet",
+      "example_label": "Harjoitusesimerkki",
+      "instead_of": "Sijasta",
+      "try_this": "Kokeile tätä"
+    },
+    "article": {
+      "final_thought": "Viimeinen ajatus"
+    },
+    "story": {
+      "reflection_label": "Jotain, minkä kanssa istua",
+      "note_label": "Kirjoittajan huomautus"
+    },
+    "myth": {
+      "truth_label": "Tieteellinen totuus",
+      "explanation_label": "Yksityiskohtainen selitys",
+      "insight_label": "Keskeinen oivallus"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Aloita alusta",
+    "finish_exit": "Lopeta ja poistu",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Aikaa valmistua",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Jakaa",
+    "share_progress": "Jaa edistyminen",
+    "inspire_others": "Inspiroi muita tänään",
+    "share_text": "Olen tehnyt tämän {{activityName}} TherapyMantrassa ja nautin siitä todella paljon. Voit tehdä sen sinäkin seuraamalla linkkiä Android-sovellukseen {{androidUrl}} tai iOS-sovellukseen {{iosUrl}}",
+    "this_activity": "tämä toiminta",
+    "copied": "Kopioitu!",
+    "copy_message": "Kopioi viesti",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Resurssit",
+  "concerns": {
+    "acceptance": "Hyväksyminen",
+    "adolescent": "Murrosikäinen",
+    "anger": "Suututtaa",
+    "anxiety": "Ahdistus",
+    "depression": "Masennus",
+    "eating-disorder": "Syömishäiriö",
+    "grief": "Suru",
+    "parenting": "Vanhemmuus",
+    "postpartum": "Synnytyksen jälkeinen",
+    "ptsd": "PTSD-oireyhtymä",
+    "relationship": "Suhde",
+    "sexuality": "Seksuaalisuus",
+    "sleep": "Nukkua",
+    "stress": "Korostaa",
+    "workplace": "Työpaikka"
+  },
+  "types": {
+    "stories": "Tarinoita",
+    "articles": "Artikkelit",
+    "myths": "Myytit",
+    "tips": "Vinkkejä"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

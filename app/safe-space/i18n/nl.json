@@ -1,0 +1,115 @@
+{
+  "app_title": "Veilige Ruimte",
+  "nav": {
+    "0": "Inchecken",
+    "1": "Zachtjes Terugroepen",
+    "2": "Observeren",
+    "3": "Aanwezig blijven",
+    "4": "Vooruit gaan"
+  },
+  "s1": {
+    "title": "Laten we een plek zoeken die goed voelt",
+    "description": {
+      "0": "Voordat we beginnen, neem even de tijd om in te checken...",
+      "1": "Hoe voel je je nu?",
+      "2": "We zoeken niet naar een perfecte \"veilige plek\". Gewoon iets dat zelfs maar een beetje kalm of oké aanvoelt."
+    },
+    "placeholder": "Hoe voel je je nu?",
+    "button": "Begin met visualiseren"
+  },
+  "s2": {
+    "title": "Herinner het voorzichtig",
+    "description": {
+      "0": "Denk aan een plek waar je je ook maar een beetje op je gemak voelde... Of een plek waarvan je zou willen dat die bestond.",
+      "1": "Plaats jezelf daar nu...",
+      "2": "Zit je, sta je of lig je?"
+    },
+    "button": "Ga verder"
+  },
+  "s3": {
+    "title": "Kijk langzaam om je heen",
+    "description": {
+      "0": "Kijk voorzichtig om je heen...",
+      "1": "Wat is één ding dat je kunt zien?",
+      "2": "Let nu op een geluid... Wat hoor je?"
+    },
+    "button": "Ga verder"
+  },
+  "s4": {
+    "title": "Blijf hierbij",
+    "description": {
+      "0": "Wat is het aan deze plek dat het ook maar een beetje veilig of oké doet voelen?",
+      "1": "Zoals je merkt dat...",
+      "2": "Breng ook je aandacht naar je ademhaling."
+    },
+    "breathe": "Adem in",
+    "notice": "Als het moeilijk is om je voor te stellen, denk dan eens aan het idee van deze plek.",
+    "button": "Ga verder"
+  },
+  "s5": {
+    "title": "Neem dit mee",
+    "description": {
+      "0": "Let op hoe je je nu voelt. Zelfs een kleine verandering doet ertoe.",
+      "1": "Kijk of je zelfs maar 5% van dit gevoel met je mee kunt nemen."
+    },
+    "placeholder": "Hoe voel je je nu?",
+    "button": "Volledige sessie"
+  },
+  "complete": {
+    "title": "Sessie voltooid",
+    "message": "Deze veilige plek is altijd voor je beschikbaar. Je kunt hier terugkomen wanneer je een moment van rust nodig hebt."
+  },
+  "common": {
+    "get_started": "Begin",
+    "start_over": "Opnieuw beginnen",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Goed gedaan!",
+    "completion_message": "Je hebt deze activiteit succesvol voltooid. Neem even de tijd om je vooruitgang te waarderen.",
+    "time_to_complete": "Tijd om af te ronden",
+    "back": "Achteruit",
+    "next": "Volgende",
+    "save": "Sla op",
+    "loading": "Laden...",
+    "share": "Deel",
+    "share_progress": "Voortgang delen",
+    "inspire_others": "Inspireer vandaag anderen",
+    "share_text": "Ik heb dit {{activityName}} gedaan in TherapyMantra en vind het echt leuk, je kunt het ook doen, volg gewoon de link naar de Android-app {{androidUrl}} of iOS-app {{iosUrl}}",
+    "this_activity": "Deze activiteit",
+    "copied": "Gekopieerd!",
+    "copy_message": "Kopieer bericht",
+    "yes": "Ja",
+    "no": "Nee",
+    "date": "Datum",
+    "continue": "Ga verder",
+    "step_of": "Stap {{current}} van {{total}}",
+    "round_of": "Ronde {{current}} van {{total}}",
+    "phase_label": "Fase",
+    "rounds_selector": "{{count}} Rondes",
+    "instruction_ready": "Stel je rondes in en tik op play om te beginnen",
+    "instruction_running": "Volg de cirkel om je ademhaling te reguleren"
+  },
+  "app_description": "Veilige Ruimte",
+  "more": "Meer",
+  "breadcrumb": "broodkruimel",
+  "previous_slide": "Vorige dia",
+  "next_slide": "Volgende dia",
+  "close": "Sluit",
+  "previous": "Eerder",
+  "more_pages": "Meer pagina's",
+  "pagination": "Paginering",
+  "go_to_previous_page": "Ga naar vorige pagina",
+  "go_to_next_page": "Ga naar volgende pagina",
+  "toggle_sidebar": "Toggle zijbalk",
+  "oops_page_not_found": "Oeps! Pagina niet gevonden",
+  "return_to_home": "Terugkeer naar huis",
+  "phase_label": "Fase",
+  "instruction_ready": "Stel je rondes in en tik op play om te beginnen",
+  "instruction_running": "Volg de cirkel om je ademhaling te reguleren",
+  "round_x_of_y": "Ronde {{current}} van {{total}}",
+  "rounds_selector": "{{count}} Rondes",
+  "yes": "Ja",
+  "no": "Nee",
+  "date": "Datum",
+  "continue": "Ga verder",
+  "lang": "lang"
+}

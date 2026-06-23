@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Commencer",
+    "start_over": "Recommencer",
+    "finish_exit": "Fin et sortie",
+    "well_done": "Bien joué !",
+    "completion_message": "Vous avez terminé cette activité avec succès. Prenez un moment pour apprécier vos progrès.",
+    "time_to_complete": "Temps écoulé",
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Enregistrer",
+    "loading": "Chargement...",
+    "share": "Partager",
+    "share_progress": "Partager les progrès",
+    "inspire_others": "Inspirez les autres aujourd'hui",
+    "share_text": "J'ai réalisé cette activité {{activityName}} sur TherapyMantra et j'ai beaucoup apprécié. Vous pouvez la faire aussi ; il suffit de suivre le lien vers l'application Android {{androidUrl}} ou l'application iOS {{iosUrl}}.",
+    "this_activity": "cette activité",
+    "copied": "Copié !",
+    "copy_message": "Copier le message",
+    "yes": "Oui",
+    "no": "Non",
+    "date": "Date",
+    "continue": "Continuer",
+    "add_activity": "Add another activity...",
+    "step_of": "Étape {{current}} sur {{total}}",
+    "round_of": "Round {{current}} sur {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+    "instruction_running": "Suivez le cercle pour réguler votre respiration"
+  },
+  "screens": {
+    "intro": {
+      "title": "Outil de suivi d’auto-soin",
+      "description": "Suivez vos habitudes quotidiennes de soins personnels et voyez comment elles impactent votre bien-être global. La constance est la clé d’un esprit plus sain.",
+      "benefits": {
+        "0": "Consignez les activités quotidiennes de soin de vous",
+        "1": "Suivez le temps passé sur vous-même",
+        "2": "Surveillez vos habitudes d’humeur",
+        "3": "Voir l’histoire et les progrès"
+      },
+      "duration": "2-3 minutes",
+      "benefit1": "Consignez quotidiennement les actes de santé physique et mentale",
+      "benefit2": "Remarquez les difficultés qui vous empêchent de vous reposer",
+      "benefit3": "Développez la pleine conscience par le renforcement positif"
+    },
+    "checkin": {
+      "title": "Contrôle 🌿 de l’auto-soin",
+      "subtitle": "Comment as-tu pris soin de toi aujourd’hui ?",
+      "question": "As-tu pratiqué le soin de toi aujourd’hui ? *",
+      "description": "Le soin de soi est toute activité que nous réalisons de manière délibérée afin de prendre soin de notre santé mentale, émotionnelle et physique."
+    },
+    "activities": {
+      "title": "Vos activités 🎯",
+      "subtitle": "Quelles activités de soin de soin de soi as-tu faites aujourd’hui ?"
+    },
+    "duration": {
+      "title": "Temps passé ⏱️",
+      "subtitle": "Combien de temps avez-vous passé à prendre soin de vous ? (optionnel)"
+    },
+    "noSelfCare": {
+      "title": "Ce n’est pas 💛 grave",
+      "subtitle": "Comprenons ce qui s’est passé aujourd’hui.",
+      "question1": "Qu’est-ce qui empêchait le soin de soi aujourd’hui ? (optionnel)",
+      "question2": "Quel type de soin de soi aurait aidé ? (optionnel)"
+    },
+    "mood": {
+      "title": "Comment tu te sens ? 🫧",
+      "subtitle": "Sélectionnez votre humeur actuelle (optionnel)"
+    },
+    "review": {
+      "title": "Votre entrée 📋",
+      "subtitle": "Voici un résumé de l’enregistrement d’aujourd’hui",
+      "didSelfCare": "Est-ce que tu prends soin de soi ?",
+      "activities": "Activités",
+      "duration": "Durée",
+      "mood": "Ambiance",
+      "challenges": "Empêché par",
+      "whatHelps": "Ça aurait aidé",
+      "viewHistory": "Histoire hebdomadaire",
+      "editToday": "Modifier l’entrée",
+      "summary": "Résumé"
+    },
+    "history": {
+      "title": "Histoire 📅 hebdomadaire",
+      "subtitle": "Aucune inscription au cours des 7 derniers jours"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Oups ! Page non trouvée",
+      "returnHome": "Retour au pays"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Exercice",
+      "Meditation": "Méditation",
+      "Journaling": "Journalisation",
+      "Reading": "Lecture",
+      "Rest / Nap": "Repos / Sieste",
+      "Skincare": "Soins de la peau",
+      "Healthy Meal": "Repas sains",
+      "Nature / Walk": "Nature / Promenade",
+      "Social Time": "Temps social",
+      "Hobby": "Loisir",
+      "Therapy": "Thérapie",
+      "Digital Detox": "Détox numérique"
+    },
+    "durations": {
+      "10–30 minutes": "10 à 30 minutes",
+      "30–60 minutes": "30 à 60 minutes",
+      "1+ hour": "1+ heure",
+      "< 10 minutes": "< 10 minutes"
+    },
+    "reasons": {
+      "Busy schedule": "Emploi du temps chargé",
+      "Low energy": "Faible énergie",
+      "Forgot": "J’ai oublié",
+      "Not feeling well": "Je ne me sens pas bien",
+      "Lack of time": "Manque de temps",
+      "Emotional overwhelm": "Débordement émotionnel",
+      "Stress": "Stresser",
+      "No motivation": "Aucune motivation"
+    },
+    "helpfulTypes": {
+      "Rest": "Repos",
+      "Physical activity": "Activité physique",
+      "Talking to someone": "Parler à quelqu’un",
+      "Quiet time": "Temps de calme",
+      "Creative activity": "Activité créative",
+      "Relaxation": "Relaxation"
+    },
+    "moods": {
+      "Happy": "Heureux",
+      "Calm": "Calme-toi",
+      "Neutral": "Neutre",
+      "Stressed": "Stressé",
+      "Tired": "Fatigué",
+      "Low": "Faible"
+    },
+    "positiveStatements": {
+      "0": "Tu t’es montré pour toi-même aujourd’hui. C’est puissant. 🌿",
+      "1": "Le soin de soi n’est pas égoïste — c’est essentiel. Bien joué. 💚",
+      "2": "Chaque petit geste de soin construit un toi plus fort. 🌱",
+      "3": "Tu as investi en toi aujourd’hui. Ça compte. ✨",
+      "4": "Prendre soin de toi est la meilleure chose que tu aies faite aujourd’hui. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Ça va. Demain, c’est un nouveau départ. Sois doux avec toi-même. 🤍",
+      "1": "Tous les jours ne seront pas parfaits, et c’est parfaitement normal. 🕊️",
+      "2": "Tu fais de ton mieux. C’est toujours suffisant. 💛",
+      "3": "Le repos est aussi une forme de soin de soi. Sois indulgent avec toi-même. 🌸",
+      "4": "Reconnaître aujourd’hui demande du courage. Tu grandis déjà. 🌷"
+    }
+  },
+  "app_title": "Suivi des soins personnels",
+  "app_description": "Suivez vos habitudes quotidiennes de bien-être et observez leur impact sur votre santé mentale. La régularité est essentielle à une meilleure santé mentale.",
+  "initializing_session": "Initialisation de la session",
+  "language": "Langue",
+  "your_progress_over_the_last_7_days": "Vos progrès au cours des 7 derniers jours",
+  "fetching_data": "Récupération des données...",
+  "more": "Plus",
+  "breadcrumb": "chapelure",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "more_pages": "Plus de pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Aller à la page précédente",
+  "go_to_next_page": "Passer à la page suivante",
+  "toggle_sidebar": "Afficher/masquer la barre latérale",
+  "phase_label": "Phase",
+  "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+  "instruction_running": "Suivez le cercle pour réguler votre respiration",
+  "round_x_of_y": "Round {{current}} sur {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Oui",
+  "no": "Non",
+  "date": "Date",
+  "continue": "Continuer",
+  "lang": "long"
+}

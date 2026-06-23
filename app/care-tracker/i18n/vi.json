@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Bắt đầu lại",
+    "finish_exit": "Hoàn thành & Lối ra",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Đã đến lúc hoàn thành",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Chia sẻ",
+    "share_progress": "Chia sẻ tiến độ",
+    "inspire_others": "Hãy truyền cảm hứng cho người khác ngay hôm nay!",
+    "share_text": "Tôi đã thực hiện hoạt động này {{activityName}} trên TherapyMantra và thực sự rất thích, bạn cũng có thể làm được, chỉ cần theo liên kết đến ứng dụng Android {{androidUrl}} hoặc ứng dụng iOS {{iosUrl}}.",
+    "this_activity": "hoạt động này",
+    "copied": "Đã sao chép!",
+    "copy_message": "Sao chép tin nhắn",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Trình theo dõi tự chăm sóc",
+      "description": "Theo dõi thói quen chăm sóc bản thân hàng ngày của bạn và xem chúng ảnh hưởng như thế nào đến sức khỏe tổng thể của bạn. Tính nhất quán là chìa khóa để có một tâm trí khỏe mạnh hơn.",
+      "benefits": {
+        "0": "Ghi lại các hoạt động tự chăm sóc hàng ngày",
+        "1": "Theo dõi thời gian dành cho bản thân",
+        "2": "Theo dõi các kiểu tâm trạng của bạn",
+        "3": "Xem lịch sử và tiến độ"
+      },
+      "duration": "2-3 phút",
+      "benefit1": "Ghi lại các hoạt động chăm sóc sức khỏe thể chất và tinh thần hàng ngày",
+      "benefit2": "Nhận thấy những thách thức khiến bạn không thể nghỉ ngơi",
+      "benefit3": "Xây dựng chánh niệm thông qua củng cố tích cực"
+    },
+    "checkin": {
+      "title": "Tự chăm sóc check-in 🌿",
+      "subtitle": "Hôm nay bạn đã chăm sóc bản thân như thế nào?",
+      "question": "Hôm nay bạn đã thực hành chăm sóc bản thân chưa? *",
+      "description": "Tự chăm sóc bản thân là bất kỳ hoạt động nào mà chúng ta thực hiện một cách có chủ ý để chăm sóc sức khỏe tinh thần, cảm xúc và thể chất của mình."
+    },
+    "activities": {
+      "title": "Hoạt động 🎯 của bạn",
+      "subtitle": "Hôm nay bạn đã thực hiện những hoạt động chăm sóc bản thân nào?"
+    },
+    "duration": {
+      "title": "Thời gian đã sử dụng ⏱️",
+      "subtitle": "Bạn đã dành bao lâu cho việc chăm sóc bản thân? (tùy chọn)"
+    },
+    "noSelfCare": {
+      "title": "Không sao 💛",
+      "subtitle": "Hãy hiểu những gì đã xảy ra ngày hôm nay.",
+      "question1": "Điều gì đã ngăn cản việc tự chăm sóc bản thân ngày nay? (tùy chọn)",
+      "question2": "Loại chăm sóc bản thân nào sẽ giúp ích? (tùy chọn)"
+    },
+    "mood": {
+      "title": "Bạn cảm thấy thế nào? 🫧",
+      "subtitle": "Chọn tâm trạng hiện tại của bạn (tùy chọn)"
+    },
+    "review": {
+      "title": "Bài dự thi 📋 của bạn",
+      "subtitle": "Dưới đây là tóm tắt về check-in hôm nay",
+      "didSelfCare": "Có chăm sóc bản thân không?",
+      "activities": "Hoạt động",
+      "duration": "Độ dài khóa học",
+      "mood": "Tâm trạng",
+      "challenges": "Ngăn chặn bởi",
+      "whatHelps": "Sẽ giúp",
+      "viewHistory": "Lịch sử hàng tuần",
+      "editToday": "Chỉnh sửa mục nhập",
+      "summary": "Tóm tắt"
+    },
+    "history": {
+      "title": "Lịch sử 📅 hàng tuần",
+      "subtitle": "Không có mục nào trong 7 ngày qua"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Rất tiếc! Không tìm thấy trang",
+      "returnHome": "Trở về nhà"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Tập thể dục",
+      "Meditation": "Thiền định",
+      "Journaling": "Viết nhật ký",
+      "Reading": "Đọc",
+      "Rest / Nap": "Nghỉ ngơi / Ngủ trưa",
+      "Skincare": "Chăm sóc da",
+      "Healthy Meal": "Bữa ăn lành mạnh",
+      "Nature / Walk": "Thiên nhiên / Đi bộ",
+      "Social Time": "Thời gian xã hội",
+      "Hobby": "Sở thích",
+      "Therapy": "Trị liệu",
+      "Digital Detox": "Giải độc kỹ thuật số"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 phút",
+      "10–30 minutes": "10–30 phút",
+      "30–60 minutes": "30–60 phút",
+      "1+ hour": "1+ giờ"
+    },
+    "reasons": {
+      "Busy schedule": "Lịch trình bận rộn",
+      "Low energy": "Năng lượng thấp",
+      "Stress": "Căng thẳng",
+      "Forgot": "Quên",
+      "No motivation": "Không có động lực",
+      "Not feeling well": "Cảm thấy không khỏe",
+      "Lack of time": "Thiếu thời gian",
+      "Emotional overwhelm": "Cảm xúc choáng ngợp"
+    },
+    "helpfulTypes": {
+      "Rest": "Nghỉ ngơi",
+      "Relaxation": "Thư giãn",
+      "Physical activity": "Hoạt động thể chất",
+      "Talking to someone": "Nói chuyện với ai đó",
+      "Quiet time": "Thời gian yên tĩnh",
+      "Creative activity": "Hoạt động sáng tạo"
+    },
+    "moods": {
+      "Happy": "Hạnh phúc",
+      "Calm": "Bình tĩnh",
+      "Neutral": "Trung lập",
+      "Low": "Thấp",
+      "Stressed": "Căng thẳng",
+      "Tired": "Mệt mỏi"
+    },
+    "positiveStatements": {
+      "0": "Bạn đã xuất hiện cho chính mình ngày hôm nay. Điều đó thật mạnh mẽ. 🌿",
+      "1": "Chăm sóc bản thân không phải là ích kỷ - đó là điều cần thiết. Làm tốt lắm. 💚",
+      "2": "Mỗi hành động chăm sóc nhỏ sẽ xây dựng một bạn mạnh mẽ hơn. 🌱",
+      "3": "Bạn đã đầu tư vào bản thân ngày hôm nay. Điều đó quan trọng. ✨",
+      "4": "Chăm sóc bạn là điều tuyệt vời nhất bạn đã làm ngày hôm nay. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Không sao cả. Ngày mai là một khởi đầu mới. Hãy nhẹ nhàng với bản thân. 🤍",
+      "1": "Không phải ngày nào cũng hoàn hảo, và điều đó hoàn toàn ổn. 🕊️",
+      "2": "Bạn đang cố gắng hết sức. Điều đó luôn luôn là đủ. 💛",
+      "3": "Nghỉ ngơi cũng là một hình thức tự chăm sóc bản thân. Hãy cho bản thân mình ân sủng. 🌸",
+      "4": "Thừa nhận ngày hôm nay cần có can đảm. Bạn đã phát triển. 🌷"
+    }
+  },
+  "app_title": "Công cụ theo dõi chăm sóc bản thân",
+  "app_description": "Hãy theo dõi những thói quen tự chăm sóc bản thân hàng ngày và xem chúng ảnh hưởng đến sức khỏe tổng thể của bạn như thế nào. Sự nhất quán là chìa khóa cho một tinh thần khỏe mạnh hơn.",
+  "initializing_session": "Khởi tạo phiên",
+  "language": "Ngôn ngữ",
+  "your_progress_over_the_last_7_days": "Tiến độ của bạn trong 7 ngày qua",
+  "fetching_data": "Đang tải dữ liệu...",
+  "more": "Hơn",
+  "breadcrumb": "vụn bánh mì",
+  "previous_slide": "Trang trước",
+  "next_slide": "Trang chiếu tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "more_pages": "Thêm trang",
+  "pagination": "đánh số trang",
+  "go_to_previous_page": "Quay lại trang trước",
+  "go_to_next_page": "Chuyển sang trang tiếp theo",
+  "toggle_sidebar": "Ẩn/Hiện thanh bên",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "dài"
+}

@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Začít znovu",
+    "finish_exit": "Dokončit a ukončit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Čas na dokončení",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Podíl",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní ještě dnes",
+    "share_text": "Tuto aktivitu {{activityName}} jsem dělal/a v TherapyMantra a opravdu mě baví, můžete to dělat i vy, stačí kliknout na odkaz na aplikaci pro Android {{androidUrl}} nebo aplikaci pro iOS {{iosUrl}}.",
+    "this_activity": "tato aktivita",
+    "copied": "Zkopírováno!",
+    "copy_message": "Kopírovat zprávu",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Sledovač péče o sebe",
+      "description": "Sledujte své každodenní návyky péče o sebe a sledujte, jak ovlivňují vaši celkovou pohodu. Konzistence je klíčem ke zdravější mysli.",
+      "benefits": {
+        "0": "Zaznamenávejte denní aktivity péče o sebe",
+        "1": "Sledujte čas strávený sám sebou",
+        "2": "Sledujte své náladové vzorce",
+        "3": "Zobrazit historii a pokrok"
+      },
+      "duration": "2-3 minuty",
+      "benefit1": "Denně si zapisujte fyzické a duševní zdravé aktivity",
+      "benefit2": "Všimněte si překážek, které vám brání odpočinout",
+      "benefit3": "Budujte mindfulness prostřednictvím pozitivního posilování"
+    },
+    "checkin": {
+      "title": "Kontrola 🌿 péče o sebe",
+      "subtitle": "Jak ses dnes o sebe staral?",
+      "question": "Cvičila jsi dnes péči o sebe? *",
+      "description": "Péče o sebe je jakákoli činnost, kterou děláme záměrně, abychom se postarali o své duševní, emoční a fyzické zdraví."
+    },
+    "activities": {
+      "title": "Vaše aktivity 🎯",
+      "subtitle": "Jaké aktivity péče o sebe jste dnes dělali?"
+    },
+    "duration": {
+      "title": "Čas strávený ⏱️",
+      "subtitle": "Jak dlouho jste věnovali péči o sebe? (volitelné)"
+    },
+    "noSelfCare": {
+      "title": "To je v pořádku 💛",
+      "subtitle": "Pojďme pochopit, co se dnes stalo.",
+      "question1": "Co dnes bránilo péči o sebe? (volitelné)",
+      "question2": "Jaký druh péče o sebe by pomohl? (volitelné)"
+    },
+    "mood": {
+      "title": "Jak se cítíš? 🫧",
+      "subtitle": "Vyberte si svou aktuální náladu (volitelné)"
+    },
+    "review": {
+      "title": "Váš příspěvek 📋",
+      "subtitle": "Zde je shrnutí dnešního check-inu",
+      "didSelfCare": "Péče o sebe?",
+      "activities": "Aktivity",
+      "duration": "Délka trvání",
+      "mood": "Nálada",
+      "challenges": "Zabránil",
+      "whatHelps": "Pomohlo by to",
+      "viewHistory": "Týdenní historie",
+      "editToday": "Editace záznam",
+      "summary": "Shrnutí"
+    },
+    "history": {
+      "title": "Týdenní historie 📅",
+      "subtitle": "Za posledních 7 dní žádné záznamy"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Jejda! Stránka nenalezena",
+      "returnHome": "Návrat domů"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Cvičení",
+      "Meditation": "Meditace",
+      "Journaling": "Psaní deníku",
+      "Reading": "Čtení",
+      "Rest / Nap": "Odpočinek / Zdřímnutí",
+      "Skincare": "Péče o pleť",
+      "Healthy Meal": "Zdravé jídlo",
+      "Nature / Walk": "Příroda / Procházky",
+      "Social Time": "Společenský čas",
+      "Hobby": "Koníček",
+      "Therapy": "Terapie",
+      "Digital Detox": "Digitální detoxikace"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minut",
+      "10–30 minutes": "10–30 minut",
+      "30–60 minutes": "30–60 minut",
+      "1+ hour": "1+ hodina"
+    },
+    "reasons": {
+      "Busy schedule": "Nabitý program",
+      "Low energy": "Nízká energie",
+      "Stress": "Stres",
+      "Forgot": "Zapomněl jsem",
+      "No motivation": "Žádná motivace",
+      "Not feeling well": "Necítím se dobře",
+      "Lack of time": "Nedostatek času",
+      "Emotional overwhelm": "Emocionální přetížení"
+    },
+    "helpfulTypes": {
+      "Rest": "Odpočinek",
+      "Relaxation": "Relaxace",
+      "Physical activity": "Fyzická aktivita",
+      "Talking to someone": "Mluvit s někým",
+      "Quiet time": "Ticho",
+      "Creative activity": "Tvůrčí činnost"
+    },
+    "moods": {
+      "Happy": "Šťastný",
+      "Calm": "Klid",
+      "Neutral": "Neutrální",
+      "Low": "Nízké",
+      "Stressed": "Stresovaný",
+      "Tired": "Unavený"
+    },
+    "positiveStatements": {
+      "0": "Dnes jsi přišel kvůli sobě. To je silné. 🌿",
+      "1": "Péče o sebe není sobecká — je nezbytná. Dobrá práce. 💚",
+      "2": "Každý malý projev péče buduje silnější vás. 🌱",
+      "3": "Dnes jsi investoval do sebe. To je důležité. ✨",
+      "4": "Starat se o tebe je to nejlepší, co jsi dnes udělal. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "To je v pořádku. Zítra je nový začátek. Buď na sebe laskavý. 🤍",
+      "1": "Ne každý den bude dokonalý, a to je naprosto v pořádku. 🕊️",
+      "2": "Děláš, co můžeš. To je vždycky dost. 💛",
+      "3": "Odpočinek je také formou péče o sebe. Buď k sobě shovívavý. 🌸",
+      "4": "Přiznat dnešek vyžaduje odvahu. Už rosteš. 🌷"
+    }
+  },
+  "app_title": "Sledovač péče o sebe",
+  "app_description": "Sledujte své každodenní návyky v péči o sebe a sledujte, jak ovlivňují vaši celkovou pohodu. Důslednost je klíčem ke zdravější mysli.",
+  "initializing_session": "Inicializace relace",
+  "language": "Jazyk",
+  "your_progress_over_the_last_7_days": "Váš pokrok za posledních 7 dní",
+  "fetching_data": "Načítání dat...",
+  "more": "Více",
+  "breadcrumb": "strouhanka",
+  "previous_slide": "Předchozí snímek",
+  "next_slide": "Další snímek",
+  "close": "Blízko",
+  "previous": "Předchozí",
+  "more_pages": "Více stránek",
+  "pagination": "stránkování",
+  "go_to_previous_page": "Přejít na předchozí stránku",
+  "go_to_next_page": "Přejít na další stránku",
+  "toggle_sidebar": "Přepnout postranní panel",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "dlouhý"
+}

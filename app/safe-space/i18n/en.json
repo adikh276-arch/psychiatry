@@ -1,0 +1,115 @@
+{
+  "app_title": "Safe Space",
+  "nav": [
+    "Check-in",
+    "Gently Recall",
+    "Observing",
+    "Staying Present",
+    "Taking Forward"
+  ],
+  "s1": {
+    "title": "Let's find a place that feels okay",
+    "description": [
+      "Before we begin, take a moment to check in…",
+      "How are you feeling right now?",
+      "We're not looking for a perfect \"safe place\". Just something that feels even a little calm or okay."
+    ],
+    "placeholder": "How do you feel right now?",
+    "button": "Begin Visualization"
+  },
+  "s2": {
+    "title": "Gently bring it to mind",
+    "description": [
+      "Think of a place where you felt even a little at ease… or a place you wish existed.",
+      "Now place yourself there…",
+      "Are you sitting, standing, or lying down?"
+    ],
+    "button": "Continue"
+  },
+  "s3": {
+    "title": "Look around slowly",
+    "description": [
+      "Take a gentle look around…",
+      "What's one thing you can see?",
+      "Now notice a sound… what do you hear?"
+    ],
+    "button": "Continue"
+  },
+  "s4": {
+    "title": "Stay with this",
+    "description": [
+      "What is it about this place that makes it feel even a little safe or okay?",
+      "As you notice that…",
+      "also bring your attention to your breath."
+    ],
+    "breathe": "Breathe",
+    "notice": "If imagining feels hard, just think about the idea of this place.",
+    "button": "Continue"
+  },
+  "s5": {
+    "title": "Take this with you",
+    "description": [
+      "Notice how you feel right now. Even a small shift matters.",
+      "See if you can carry even 5% of this feeling with you."
+    ],
+    "placeholder": "How do you feel now?",
+    "button": "Complete Session"
+  },
+  "complete": {
+    "title": "Session Complete",
+    "message": "This safe place is always available to you. You can return here whenever you need a moment of calm."
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Safe Space",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

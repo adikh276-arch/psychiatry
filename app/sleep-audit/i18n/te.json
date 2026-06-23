@@ -1,0 +1,150 @@
+{
+  "app_title": "స్లీప్ ఆడిట్",
+  "app_subtitle": "మీ విశ్రాంతి గురించి అర్థం చేసుకోండి",
+  "intro": {
+    "title": "మీ నిద్ర ఆడిట్",
+    "description": "మీ నిద్రను ప్రభావితం చేసేది మరియు చిన్న మార్పులు ఎక్కడ సహాయపడతాయో అర్థం చేసుకోండి.",
+    "start_button": "ఆడిట్ ప్రారంభించండి",
+    "history_button": "గత ఆడిట్ లు",
+    "more_insights": "బ్యాక్ టు స్టార్ట్"
+  },
+  "screens": {
+    "s1": {
+      "phase": "దశ 01",
+      "title": "మీ నిద్ర ఎలా ఉంది?",
+      "desc": "ఇటీవల మీకు నిజం అనిపించే వేటినైనా ఎంచుకోండి"
+    },
+    "s2": {
+      "phase": "దశ 02",
+      "title": "మీ సాధారణ విశ్రాంతికి రేటింగ్ ఇవ్వండి",
+      "label": "నిర్దిష్ట ఆందోళనలు?",
+      "placeholder": "ఒత్తిడి, శబ్దం, స్క్రోలింగ్..."
+    },
+    "s3": {
+      "score_label": "యొక్క 7",
+      "recommendations": {
+        "solid": "మీ అలవాట్లు దృఢమైనవి! చిన్న సర్దుబాట్లు దీన్ని మరింత మెరుగ్గా చేస్తాయి.",
+        "some": "కొన్ని అంతరాయాలు గుర్తించబడ్డాయి. అలవాట్ల మార్పులు త్వరగా సహాయపడతాయి.",
+        "many": "అనేక కారకాలు మీ నిద్రను ప్రభావితం చేస్తున్నాయి. మనం కలిసి వాటి ద్వారా పని చేయవచ్చు."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "నేను ప్రతి రాత్రి చాలా విభిన్న సమయాల్లో పడుకుంటాను."
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "నా నిద్ర వాతావరణం చీకటిగా, నిశ్శబ్దంగా లేదా సౌకర్యవంతంగా లేదు"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "నేను నిద్రపోయే ముందు నా ఫోన్ పై స్క్రోల్ చేస్తాను."
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "నాకు నిద్రవేళకు దగ్గరగా కెఫిన్ లేదా ఆల్కహాల్ ఉంది"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "నేను రాత్రిపూట మేల్కొంటాను మరియు తిరిగి నిద్రపోవడానికి కష్టపడతాను."
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "నేను నిద్రపోవడానికి ప్రయత్నించినప్పుడు నా మనస్సు ఆలోచనలతో పరుగెత్తుతుంది"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "రాత్రిపూట నిద్రపోయిన తర్వాత నేను చాలా అరుదుగా రిఫ్రెష్ అవుతాను"
+    }
+  },
+  "rating_labels": {
+    "0": "చాలా పేలవంగా ఉంది",
+    "1": "పేద",
+    "2": "సరే",
+    "3": "బాగుంది",
+    "4": "గ్రేట్"
+  },
+  "status_labels": {
+    "track": "ఎక్కువగా ట్రాక్ లో ఉంది",
+    "disruptions": "కొన్ని అంతరాయాలు",
+    "attention": "శ్రద్ధ అవసరం"
+  },
+  "buttons": {
+    "continue": "కొనసాగించండి",
+    "see_results": "ఫలితాలను చూడండి",
+    "preserve": "ఫలితాన్ని భద్రపరచండి",
+    "preserving": "సంరక్షించడం...",
+    "back_to_intro": "తిరిగి పరిచయానికి"
+  },
+  "history": {
+    "title": "గత ఆడిట్ లు",
+    "no_entries": "ఇంకా ఎలాంటి ఆడిట్ లు భద్రపరచబడలేదు.",
+    "score_label": "యొక్క 7"
+  },
+  "complete": {
+    "title": "ఆడిట్ పూర్తయింది",
+    "message": "మీ స్లీప్ స్కోరు {{score}}/7. ఈ నమూనాలను అర్థం చేసుకోవడం లోతైన, మరింత పునరుద్ధరణ విశ్రాంతి వైపు మొదటి అడుగు."
+  },
+  "toasts": {
+    "save_success": "ఆడిట్ సేవ్ చేయబడింది",
+    "save_error": "ఆడిట్ సేవ్ చేయడం విఫలమైంది",
+    "auth_error": "ప్రమాణీకరణ సెషన్ మిస్ అయింది లేదా DB కాన్ఫిగర్ చేయబడలేదు"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "మళ్ళీ ప్రారంభించండి",
+    "finish_exit": "ముగించి నిష్క్రమించండి",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "పూర్తి చేయడానికి సమయం",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "పంచుకోండి",
+    "share_progress": "పురోగతిని పంచుకోండి",
+    "inspire_others": "ఈరోజు ఇతరులకు స్ఫూర్తినివ్వండి",
+    "share_text": "నేను థెరపీమంత్రలో ఈ {{activityName}} చేశాను మరియు నాకు ఇది చాలా నచ్చింది. మీరు కూడా దీన్ని చేయవచ్చు, కేవలం ఈ లింక్‌ను అనుసరించండి: ఆండ్రాయిడ్ యాప్ {{androidUrl}} లేదా ఐఓఎస్ యాప్ {{iosUrl}}",
+    "this_activity": "ఈ కార్యాచరణ",
+    "copied": "కాపీ చేయబడింది!",
+    "copy_message": "సందేశాన్ని కాపీ చేయండి",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "మీ మిగిలిన వాటిని అర్థం చేసుకోండి",
+  "more": "మరిన్ని",
+  "breadcrumb": "బ్రెడ్‌క్రంబ్",
+  "previous_slide": "మునుపటి స్లైడ్",
+  "next_slide": "తదుపరి స్లైడ్",
+  "close": "మూసివేయండి",
+  "previous": "మునుపటి",
+  "more_pages": "మరిన్ని పేజీలు",
+  "pagination": "పేజీల సంఖ్య",
+  "go_to_previous_page": "మునుపటి పేజీకి వెళ్లండి",
+  "go_to_next_page": "తదుపరి పేజీకి వెళ్లండి",
+  "toggle_sidebar": "సైడ్‌బార్‌ను టోగుల్ చేయండి",
+  "oops_page_not_found": "అయ్యో! పేజీ కనుగొనబడలేదు",
+  "return_to_home": "హోమ్‌కు తిరిగి వెళ్లండి",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2 డి",
+  "lang": "పొడవు",
+  "loading": "లోడ్ అవుతున్న చరిత్ర..."
+}

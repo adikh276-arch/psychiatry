@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Comenzar",
+    "start_over": "Volver a empezar",
+    "finish_exit": "Finalizar y salir",
+    "well_done": "¡Bien hecho!",
+    "completion_message": "Has completado esta actividad con éxito. Tómate un momento para apreciar tu progreso.",
+    "time_to_complete": "Tiempo para completar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "loading": "Cargando...",
+    "share": "Compartir",
+    "share_progress": "Compartir el progreso",
+    "inspire_others": "Inspira a otros hoy",
+    "share_text": "He realizado esta actividad {{activityName}} en TherapyMantra y me ha gustado mucho. Tú también puedes hacerlo; solo tienes que seguir el enlace a la aplicación para Android {{androidUrl}} o a la aplicación para iOS {{iosUrl}}.",
+    "this_activity": "esta actividad",
+    "copied": "¡Copiado!",
+    "copy_message": "Copiar mensaje",
+    "yes": "Sí",
+    "no": "No",
+    "date": "Fecha",
+    "continue": "Continuar",
+    "add_activity": "Añadir otra actividad...",
+    "step_of": "Paso {{current}} de {{total}}",
+    "round_of": "Ronda {{current}} de {{total}}",
+    "phase_label": "Fase",
+    "rounds_selector": "{{count}} Rondas",
+    "instruction_ready": "Configura tus rondas y toca play para comenzar",
+    "instruction_running": "Sigue el círculo para regular tu respiración"
+  },
+  "screens": {
+    "intro": {
+      "title": "Rastreador de autocuidado",
+      "description": "Haz un seguimiento de tus hábitos diarios de autocuidado y observa cómo afectan a tu bienestar general. La constancia es clave para una mente más sana.",
+      "benefits": {
+        "0": "Registrar las actividades diarias de autocuidado",
+        "1": "Registra el tiempo dedicado a ti mismo",
+        "2": "Monitoriza tus patrones de ánimo",
+        "3": "Ver historia y progreso"
+      },
+      "duration": "2-3 minutos",
+      "benefit1": "Registrar diariamente actos de bienestar físico y mental",
+      "benefit2": "Observa los desafíos que te impiden descansar",
+      "benefit3": "Fomenta la atención plena mediante el refuerzo positivo"
+    },
+    "checkin": {
+      "title": "Revisión 🌿 de autocuidado",
+      "subtitle": "¿Cómo te has cuidado hoy?",
+      "question": "¿Has practicado el autocuidado hoy? *",
+      "description": "El autocuidado es cualquier actividad que realizamos deliberadamente para cuidar nuestra salud mental, emocional y física."
+    },
+    "activities": {
+      "title": "Tus actividades 🎯",
+      "subtitle": "¿Qué actividades de autocuidado hiciste hoy?"
+    },
+    "duration": {
+      "title": "Tiempo invertido ⏱️",
+      "subtitle": "¿Cuánto tiempo dedicaste al autocuidado? (opcional)"
+    },
+    "noSelfCare": {
+      "title": "No pasa 💛 nada",
+      "subtitle": "Vamos a entender qué ha pasado hoy.",
+      "question1": "¿Qué ha impedido el autocuidado hoy en día? (opcional)",
+      "question2": "¿Qué tipo de autocuidado habría ayudado? (opcional)"
+    },
+    "mood": {
+      "title": "¿Cómo te encuentras? 🫧",
+      "subtitle": "Selecciona tu estado de ánimo actual (opcional)"
+    },
+    "review": {
+      "title": "Tu entrada 📋",
+      "subtitle": "Aquí tienes un resumen de la reunión de hoy",
+      "didSelfCare": "¿Te cuidas a ti mismo?",
+      "activities": "Actividades",
+      "duration": "Duración",
+      "mood": "Ambiente",
+      "challenges": "Prevenido por",
+      "whatHelps": "Habría ayudado",
+      "viewHistory": "Historia semanal",
+      "editToday": "Editar entrada",
+      "summary": "Resumen"
+    },
+    "history": {
+      "title": "Historia 📅 semanal",
+      "subtitle": "No ha habido inscripciones en los últimos 7 días"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "¡Ups! Página no encontrada",
+      "returnHome": "Regreso a casa"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Ejercicio",
+      "Meditation": "Meditación",
+      "Journaling": "Escritura de diario",
+      "Reading": "Lectura",
+      "Rest / Nap": "Descanso / Descanso",
+      "Skincare": "Cuidado de la piel",
+      "Healthy Meal": "Comida saludable",
+      "Nature / Walk": "Naturaleza / Paseo",
+      "Social Time": "Tiempo social",
+      "Hobby": "Afición",
+      "Therapy": "Terapia",
+      "Digital Detox": "Desintoxicación Digital"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minutos",
+      "10–30 minutes": "10–30 minutos",
+      "30–60 minutes": "30–60 minutos",
+      "1+ hour": "1+ hora"
+    },
+    "reasons": {
+      "Busy schedule": "Agenda ajetreada",
+      "Low energy": "Baja energía",
+      "Stress": "Estrés",
+      "Forgot": "Se me olvidó",
+      "No motivation": "Sin motivación",
+      "Not feeling well": "No me encuentro bien",
+      "Lack of time": "Falta de tiempo",
+      "Emotional overwhelm": "Sobrecarga emocional"
+    },
+    "helpfulTypes": {
+      "Rest": "Descanso",
+      "Relaxation": "Relajación",
+      "Physical activity": "Actividad física",
+      "Talking to someone": "Hablando con alguien",
+      "Quiet time": "Tiempo de silencio",
+      "Creative activity": "Actividad creativa"
+    },
+    "moods": {
+      "Happy": "Feliz",
+      "Calm": "Calma",
+      "Neutral": "Neutro",
+      "Low": "Bajo",
+      "Stressed": "Estresado",
+      "Tired": "Cansado"
+    },
+    "positiveStatements": {
+      "0": "Hoy has estado presente por ti mismo. Eso es poderoso. 🌿",
+      "1": "El autocuidado no es egoísta, es esencial. Bien hecho. 💚",
+      "2": "Cada pequeño acto de cuidado construye un tú más fuerte. 🌱",
+      "3": "Hoy has invertido en ti mismo. Eso importa. ✨",
+      "4": "Cuidarte es lo mejor que has hecho hoy. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Está bien. Mañana es un nuevo comienzo. Sé amable contigo mismo. 🤍",
+      "1": "No todos los días serán perfectos, y eso está perfectamente bien. 🕊️",
+      "2": "Estás haciendo lo mejor que puedes. Eso siempre es suficiente. 💛",
+      "3": "El descanso también es una forma de autocuidado. Sé comprensivo contigo mismo. 🌸",
+      "4": "Reconocer hoy requiere valor. Ya estás creciendo. 🌷"
+    }
+  },
+  "app_title": "Rastreador de autocuidado",
+  "app_description": "Registra tus hábitos diarios de autocuidado y observa cómo influyen en tu bienestar general. La constancia es clave para una mente más sana.",
+  "initializing_session": "Inicializando sesión",
+  "language": "Idioma",
+  "your_progress_over_the_last_7_days": "Tu progreso durante los últimos 7 días",
+  "fetching_data": "Obteniendo datos...",
+  "more": "Más",
+  "breadcrumb": "migaja de pan",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cerca",
+  "previous": "Anterior",
+  "more_pages": "Más páginas",
+  "pagination": "paginación",
+  "go_to_previous_page": "Ir a la página anterior",
+  "go_to_next_page": "Ir a la página siguiente",
+  "toggle_sidebar": "Alternar barra lateral",
+  "phase_label": "Fase",
+  "instruction_ready": "Configura tus rondas y toca play para comenzar",
+  "instruction_running": "Sigue el círculo para regular tu respiración",
+  "round_x_of_y": "Ronda {{current}} de {{total}}",
+  "rounds_selector": "{{count}} Rondas",
+  "yes": "Sí",
+  "no": "No",
+  "date": "Fecha",
+  "continue": "Continuar",
+  "lang": "largo"
+}

@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Újrakezdés",
+    "finish_exit": "Befejezés és kilépés",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Elkészítési idő",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Részesedés",
+    "share_progress": "Haladás megosztása",
+    "inspire_others": "Inspirálj másokat még ma",
+    "share_text": "Ezt a(z) {{activityName}} tevékenységet csináltam a TherapyMantra-ban, és nagyon élvezem, te is meg tudod csinálni, csak kövesd az {{androidUrl}} androidos vagy {{iosUrl}} iOS-es alkalmazás linkjét.",
+    "this_activity": "ez a tevékenység",
+    "copied": "Másolva!",
+    "copy_message": "Üzenet másolása",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Amikor magányosnak és szomorúnak érzed magad",
+      "affirmations": {
+        "0": "Nem vagyok egyedül, még akkor sem, ha így érzem.",
+        "1": "Az érzéseim megérdemlik a gondoskodást és gyengédséget.",
+        "2": "Ez a pillanat nem tart örökké.",
+        "3": "Jogom van ahhoz, hogy kapcsolatra van szükségem.",
+        "4": "Most azonnal melegséget tudok felajánlani magamnak."
+      }
+    },
+    "terrified": {
+      "label": "Amikor rettegsz,",
+      "affirmations": {
+        "0": "Ebben a pillanatban biztonságban vagyok.",
+        "1": "A félelem érzés, nem jóslat.",
+        "2": "Ezt egy lélegzetvételt tudom venni egyszerre.",
+        "3": "Nem kell mindent most megoldanom.",
+        "4": "Erősebb vagyok ennél a pillanatnál."
+      }
+    },
+    "insignificant": {
+      "label": "Amikor jelentéktelennek érzed magad",
+      "affirmations": {
+        "0": "A kis pillanatok még mindig számítanak.",
+        "1": "Nem kell bizonyítanom az értékemet.",
+        "2": "Szabad helyet foglalnom.",
+        "3": "A létezésem számít.",
+        "4": "Elég vagyok úgy, ahogy vagyok."
+      }
+    },
+    "overwhelmed": {
+      "label": "Amikor túlterheltnek érzed magad",
+      "affirmations": {
+        "0": "Nem kell mindent egyszerre csinálnom.",
+        "1": "Egy apró lépés elég.",
+        "2": "Rendben van, ha megállsz.",
+        "3": "Engedem pihenni.",
+        "4": "Ez ismét kezelhetővé válik."
+      }
+    },
+    "hopeless": {
+      "label": "Amikor reménytelennek érzed magad",
+      "affirmations": {
+        "0": "Ma nincs szükségem válaszokra.",
+        "1": "A változás még mindig lehetséges.",
+        "2": "Már túléltem nehéz napokat korábban.",
+        "3": "Most itt maradhatok.",
+        "4": "Valami gyengéd még mindig kibontakozhat."
+      }
+    },
+    "conflicted": {
+      "label": "Amikor ellentmondásos érzésed van",
+      "affirmations": {
+        "0": "Rendben van, ha egyszerre több dolgot is érezel.",
+        "1": "Nem kell azonnal tisztázni.",
+        "2": "A zavar nem jelenti a kudarcot.",
+        "3": "Adhatok magamnak időt.",
+        "4": "Bízom magamban, hogy kitalálom ezt."
+      }
+    },
+    "self-critical": {
+      "label": "Amikor nagyon önkritikus vagy",
+      "affirmations": {
+        "0": "Kedvesen tudok magamhoz beszélni.",
+        "1": "Nem kell magamat megbüntetnem ahhoz, hogy fejlődjek.",
+        "2": "A hibák nem határozzák meg, ki vagyok.",
+        "3": "Tanulok, nem bukok el.",
+        "4": "A növekedéshez nem kell kegyetlenség."
+      }
+    },
+    "out-of-place": {
+      "label": "Amikor társadalmilag idegennek érzed magad",
+      "affirmations": {
+        "0": "Megengedett, hogy csendben legyek vagy más.",
+        "1": "Nem kell mások energiájával versenyeznem.",
+        "2": "Úgy tartozom a helyem, ahogy vagyok.",
+        "3": "Finoman elfoglalok helyet.",
+        "4": "Nem csinálom rosszul ezt."
+      }
+    },
+    "unsafe": {
+      "label": "Amikor idegenek közelében biztonságban érzed magad",
+      "affirmations": {
+        "0": "A saját tempómban tudok haladni.",
+        "1": "Megengedett, hogy megvédjem a határaimat.",
+        "2": "A testemben tudok maradni.",
+        "3": "Megengedik, hogy elhagyjam a helyzeteket.",
+        "4": "Biztonságban tudom tartani magam."
+      }
+    },
+    "pressured": {
+      "label": "Amikor nyomás alatt érzed magad a munkahelyen",
+      "affirmations": {
+        "0": "Az értékem nem a termelékenységem.",
+        "1": "Nem kell folyamatosan bizonyítanom magam.",
+        "2": "Ma már a legjobbat nyújtva is elég.",
+        "3": "Egy feladat egyszerre rendben van.",
+        "4": "Több vagyok, mint a szerepem."
+      }
+    },
+    "face-the-day": {
+      "label": "Amikor nem akarsz szembe nézni a nappal",
+      "affirmations": {
+        "0": "Ma apró darabokban tudom elvini.",
+        "1": "A túljutás elég.",
+        "2": "Nincs szükségem motivációra a kezdéshez.",
+        "3": "A finoman megjelenni még mindig számít.",
+        "4": "Ez a nap nem határoz meg engem."
+      }
+    },
+    "future": {
+      "label": "Amikor a jövődért aggódsz",
+      "affirmations": {
+        "0": "Visszatérhetek a jelenbe.",
+        "1": "Úgy kezelem a dolgokat, ahogy jönnek.",
+        "2": "Ma nincs szükségem bizonyosságra.",
+        "3": "Képes vagyok alkalmazkodni.",
+        "4": "Kicsit jobban bízhatok magamban."
+      }
+    },
+    "stuck": {
+      "label": "Amikor úgy érzed, hogy egy problémába szorulsz",
+      "affirmations": {
+        "0": "Az, hogy beragadtam, nem azt jelenti, hogy törött vagyok.",
+        "1": "Megállhatok anélkül, hogy feladnám.",
+        "2": "Nincs szükségem azonnali megoldásokra.",
+        "3": "Megengedett, hogy bizonytalan vagyok.",
+        "4": "Még mindig haladok, még lassan."
+      }
+    },
+    "compare": {
+      "label": "Amikor összehasonlítod magad",
+      "affirmations": {
+        "0": "Az én utam az enyém.",
+        "1": "Nem kell versenyeznem ahhoz, hogy méltó legyek.",
+        "2": "Megengedik, hogy a saját tempómban fejlődjek.",
+        "3": "Valaki más sikere nem törli el az enyémet.",
+        "4": "Nem vagyok lemaradva."
+      }
+    },
+    "give-up": {
+      "label": "Amikor fel akarod adni",
+      "affirmations": {
+        "0": "Most nem kell semmit döntenem.",
+        "1": "Ez az érzés el fog múlni.",
+        "2": "Többet éltem túl, mint gondolnám.",
+        "3": "Maradhatok még egy pillanatig.",
+        "4": "Még mindig itt vagyok — és ez számít."
+      }
+    }
+  },
+  "app_complete_title": "Érezd magad megerősítettnek",
+  "app_complete_message": "A napi megerősítések segítenek átalakítani a gondolkodásmódodat. Vigyél magaddal ezeket a pozitív gondolatokat ma magaddal.",
+  "app_duration": "2-3 perc",
+  "app_title": "Gondolkodásmód",
+  "app_description": "Alakítsd át a gondolkodásmódodat napi megerősítésekkel.",
+  "intro": {
+    "description": "A napi megerősítések segítenek átalakítani a gondolkodásmódodat és érzelmi ellenálló képességet fejleszteni. Szánj néhány percet arra, hogy a pozitív gondolatokra koncentrálj, és beszélj kedvesen magaddal.",
+    "benefits": {
+      "0": "Találj békét a nehéz pillanatokban",
+      "1": "A negatív gondolkodási minták kihívása",
+      "2": "Fejlessz önmagaddal való együttérzést és erőt"
+    }
+  },
+  "affirmation_for": "Megerősítés a következőre:",
+  "affirmation": "Megerősítés",
+  "language": "Nyelv",
+  "more": "Több",
+  "breadcrumb": "navigációs morzsa",
+  "previous_slide": "Előző dia",
+  "next_slide": "Következő dia",
+  "close": "Közeli",
+  "previous": "Előző",
+  "more_pages": "További oldalak",
+  "pagination": "lapszámozás",
+  "go_to_previous_page": "Ugrás az előző oldalra",
+  "go_to_next_page": "Ugrás a következő oldalra",
+  "toggle_sidebar": "Oldalsáv be- és kikapcsolása",
+  "oops_page_not_found": "Hoppá! Az oldal nem található.",
+  "return_to_home": "Vissza a kezdőlapra",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Hogy érzed magad?",
+  "feelings_subheading": "Válaszd ki azt az érzelmet, amit te",
+  "lang": "hosszú"
+}

@@ -1,0 +1,150 @@
+{
+  "app_title": "ঘুম নিরীক্ষা",
+  "app_subtitle": "আপনার বিশ্রাম বুঝুন",
+  "intro": {
+    "title": "আপনার ঘুমের নিরীক্ষা",
+    "description": "আপনার ঘুমকে কী প্রভাবিত করছে এবং কোথায় ছোট পরিবর্তনগুলি সহায়তা করতে পারে তা বুঝুন।",
+    "start_button": "নিরীক্ষা শুরু করুন",
+    "history_button": "অতীত নিরীক্ষা",
+    "more_insights": "ব্যাক টু স্টার্ট"
+  },
+  "screens": {
+    "s1": {
+      "phase": "ফেজ 01",
+      "title": "আপনার ঘুম কেমন ছিল?",
+      "desc": "ইদানীং আপনার জন্য সত্য মনে হয় এমন কোনও একটি নির্বাচন করুন"
+    },
+    "s2": {
+      "phase": "ফেজ 02",
+      "title": "আপনার সাধারণ বিশ্রামের রেট দিন",
+      "label": "বিশেষ উদ্বেগ?",
+      "placeholder": "স্ট্রেস, গোলমাল, স্ক্রোলিং..."
+    },
+    "s3": {
+      "score_label": "7 এর",
+      "recommendations": {
+        "solid": "আপনার অভ্যাসগুলি শক্ত! ছোট ছোট টুইকগুলি এটিকে আরও ভাল করে তুলতে পারে।",
+        "some": "কিছু বাধা শনাক্ত হয়েছে। অভ্যাসের পরিবর্তন দ্রুত সাহায্য করতে পারে।",
+        "many": "বেশ কয়েকটি কারণ আপনার ঘুমের উপর প্রভাব ফেলছে। আমরা একসঙ্গে তাদের মাধ্যমে কাজ করতে পারি।"
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "আমি প্রতি রাতে খুব আলাদা সময়ে বিছানায় যাই"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "আমার ঘুমের পরিবেশ অন্ধকার, শান্ত বা আরামদায়ক নয়"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "আমি ঘুমানোর ঠিক আগে আমার ফোনে স্ক্রোল করি"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "আমার শোবার সময় কাছাকাছি ক্যাফিন বা অ্যালকোহল রয়েছে"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "আমি রাতের বেলা জেগে থাকি এবং ঘুমাতে ফিরে যাওয়ার জন্য লড়াই করি"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "আমি যখন ঘুমানোর চেষ্টা করি তখন আমার মন চিন্তার সাথে দৌড়ায়"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "রাতের ঘুমের পরে আমি খুব কমই সতেজ বোধ করি"
+    }
+  },
+  "rating_labels": {
+    "0": "খুব গরিব",
+    "1": "দরিদ্র",
+    "2": "ঠিক আছে",
+    "3": "ভালো",
+    "4": "দুর্দান্ত"
+  },
+  "status_labels": {
+    "track": "বেশিরভাগই ট্র্যাকে",
+    "disruptions": "কিছু বাধা",
+    "attention": "মনোযোগ প্রয়োজন"
+  },
+  "buttons": {
+    "continue": "চালিয়ে যান",
+    "see_results": "ফলাফল দেখুন",
+    "preserve": "ফলাফল সংরক্ষণ করুন",
+    "preserving": "সংরক্ষণ...",
+    "back_to_intro": "ভূমিকায় ফিরে যান"
+  },
+  "history": {
+    "title": "অতীত নিরীক্ষা",
+    "no_entries": "এখনও কোনও অডিট সংরক্ষণ করা হয়নি।",
+    "score_label": "7 এর"
+  },
+  "complete": {
+    "title": "নিরীক্ষা সম্পন্ন",
+    "message": "আপনার নিদ্রার স্কোর হল {{score}}/7। এই নিদর্শনগুলি বোঝা গভীর, আরও পুনরুদ্ধারমূলক বিশ্রামের প্রথম পদক্ষেপ।"
+  },
+  "toasts": {
+    "save_success": "নিরীক্ষা সংরক্ষণ করা হয়েছে",
+    "save_error": "অডিট সংরক্ষণ করতে ব্যর্থ হয়েছে",
+    "auth_error": "অথ সেশন অনুপস্থিত বা DB কনফিগার করা হয়নি"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "নতুন করে শুরু করুন",
+    "finish_exit": "শেষ করুন এবং প্রস্থান করুন",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "সম্পূর্ণ করার সময়",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "শেয়ার",
+    "share_progress": "শেয়ার অগ্রগতি",
+    "inspire_others": "আজ অন্যদের অনুপ্রাণিত করুন",
+    "share_text": "আমি থেরাপিমন্ত্রা-তে এই {{activityName}} কাজটি করেছি এবং এটি আমার খুব ভালো লেগেছে, আপনিও এটি করতে পারেন। এর জন্য শুধু অ্যান্ড্রয়েড অ্যাপ {{androidUrl}} অথবা আইওএস অ্যাপ {{iosUrl}} এর লিঙ্কটি অনুসরণ করুন।",
+    "this_activity": "এই কার্যকলাপ",
+    "copied": "অনুলিপি করা হয়েছে!",
+    "copy_message": "বার্তা কপি করুন",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "আপনার বিশ্রাম বুঝুন",
+  "more": "আরও",
+  "breadcrumb": "রুটির গুঁড়ো",
+  "previous_slide": "পূর্ববর্তী স্লাইড",
+  "next_slide": "পরবর্তী স্লাইড",
+  "close": "বন্ধ করুন",
+  "previous": "পূর্ববর্তী",
+  "more_pages": "আরও পৃষ্ঠা",
+  "pagination": "পৃষ্ঠা সংখ্যা",
+  "go_to_previous_page": "পূর্ববর্তী পৃষ্ঠায় যান",
+  "go_to_next_page": "পরবর্তী পৃষ্ঠায় যান",
+  "toggle_sidebar": "সাইডবার টগল করুন",
+  "oops_page_not_found": "ওহ! পৃষ্ঠাটি খুঁজে পাওয়া যায়নি।",
+  "return_to_home": "হোমপেজে ফিরে যান",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2 ডি",
+  "lang": "দীর্ঘ",
+  "loading": "ইতিহাস লোড হচ্ছে..."
+}

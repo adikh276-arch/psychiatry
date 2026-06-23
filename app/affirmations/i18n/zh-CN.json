@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成时间",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "chooseAnother": "Choose another feeling",
+    "share": "Share",
+    "share_progress": "Share progress",
+    "inspire_others": "Inspire others",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied",
+    "copy_message": "Copy message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "当你感到孤独和悲伤时",
+      "affirmations": {
+        "0": "即使有时感觉如此，但我并不孤单。",
+        "1": "我的感受需要被呵护和温柔对待。",
+        "2": "这一刻不会永远持续下去。",
+        "3": "我有权利需要网络连接。",
+        "4": "我现在可以给自己一些温暖。"
+      }
+    },
+    "terrified": {
+      "label": "当你感到恐惧时",
+      "affirmations": {
+        "0": "此刻我很安全。",
+        "1": "恐惧是一种感觉，而不是预测。",
+        "2": "我可以一口气慢慢来。",
+        "3": "我不需要现在就解决所有问题。",
+        "4": "我能战胜眼前的困境。"
+      }
+    },
+    "insignificant": {
+      "label": "当你觉得自己微不足道时",
+      "affirmations": {
+        "0": "细微的瞬间也很重要。",
+        "1": "我不需要证明自己的价值。",
+        "2": "我可以占用空间。",
+        "3": "我的存在意义重大。",
+        "4": "我这样就足够好了。"
+      }
+    },
+    "overwhelmed": {
+      "label": "当你感到压力过大时",
+      "affirmations": {
+        "0": "我不需要一次性完成所有事情。",
+        "1": "迈出一小步就足够了。",
+        "2": "暂停一下也没关系。",
+        "3": "我可以休息了。",
+        "4": "这件事会再次变得可控。"
+      }
+    },
+    "hopeless": {
+      "label": "当你感到绝望时",
+      "affirmations": {
+        "0": "我今天不需要答案。",
+        "1": "改变依然可能。",
+        "2": "我以前也经历过艰难的日子。",
+        "3": "我暂时可以待在这里。",
+        "4": "温柔的事情或许还会发生。"
+      }
+    },
+    "conflicted": {
+      "label": "当你感到矛盾时",
+      "affirmations": {
+        "0": "同时感受到不止一种情绪是可以的。",
+        "1": "我不需要马上得到明确的答复。",
+        "2": "困惑并不意味着失败。",
+        "3": "我可以给自己一些时间。",
+        "4": "我相信自己能解决这个问题。"
+      }
+    },
+    "self-critical": {
+      "label": "当你非常苛责自己时",
+      "affirmations": {
+        "0": "我可以对自己说友善的话。",
+        "1": "我不需要通过惩罚自己来成长。",
+        "2": "错误并不能定义我是谁。",
+        "3": "我是在学习，而不是失败。",
+        "4": "成长并不需要残酷的手段。"
+      }
+    },
+    "out-of-place": {
+      "label": "当你感到社交格格不入时",
+      "affirmations": {
+        "0": "我可以保持沉默，也可以与众不同。",
+        "1": "我不需要跟别人一样精力充沛。",
+        "2": "我就是我，我属于这里。",
+        "3": "我可以轻柔地占据空间。",
+        "4": "我这样做没错。"
+      }
+    },
+    "unsafe": {
+      "label": "当你在陌生人身边感到不安全时",
+      "affirmations": {
+        "0": "我可以按照自己的节奏来。",
+        "1": "我有权维护我的界限。",
+        "2": "我可以保持与身体的连接。",
+        "3": "我有权离开某些情况。",
+        "4": "我可以保护自己。"
+      }
+    },
+    "pressured": {
+      "label": "当你在工作中感到压力时",
+      "affirmations": {
+        "0": "我的价值不在于我的生产力。",
+        "1": "我不需要不断证明自己。",
+        "2": "今天尽力而为就足够了。",
+        "3": "一次只做一件事是可以的。",
+        "4": "我的价值远不止于我的角色。"
+      }
+    },
+    "face-the-day": {
+      "label": "当你不想面对这一天的时候",
+      "affirmations": {
+        "0": "我可以把今天分成小段来过。",
+        "1": "能通过就足够了。",
+        "2": "我不需要动力就能开始。",
+        "3": "温和地出现也算数。",
+        "4": "这一天并不能定义我。"
+      }
+    },
+    "future": {
+      "label": "当你担忧未来时",
+      "affirmations": {
+        "0": "我可以回到现在。",
+        "1": "我会随机应变。",
+        "2": "我今天不需要确定性。",
+        "3": "我适应能力很强。",
+        "4": "我可以更信任自己一些了。"
+      }
+    },
+    "stuck": {
+      "label": "当你感觉自己陷入困境时",
+      "affirmations": {
+        "0": "陷入困境并不代表我出了问题。",
+        "1": "我可以暂停而不放弃。",
+        "2": "我不需要立竿见影的解决方案。",
+        "3": "我有权利感到不确定。",
+        "4": "我仍在前进，即使速度很慢。"
+      }
+    },
+    "compare": {
+      "label": "当你与自己比较时",
+      "affirmations": {
+        "0": "我的旅程只属于我自己。",
+        "1": "我不需要通过竞争来证明自己的价值。",
+        "2": "我可以按照自己的节奏成长。",
+        "3": "别人的成功并不会抹杀我的成功。",
+        "4": "我没有落后。"
+      }
+    },
+    "give-up": {
+      "label": "当你想要放弃的时候",
+      "affirmations": {
+        "0": "我现在不需要做任何决定。",
+        "1": "这种感觉会过去的。",
+        "2": "我经历的比我意识到的要多得多。",
+        "3": "我还能再待一会儿。",
+        "4": "我还在这里——这很重要。"
+      }
+    }
+  },
+  "app_complete_title": "感到更有力量",
+  "app_complete_message": "每日肯定语有助于重塑你的思维模式。今天就带着这些积极的想法吧。",
+  "app_title": "Mindset",
+  "app_duration": "2-3 minutes",
+  "app_description": "Reshape your mindset through daily affirmations.",
+  "intro": {
+    "description": "Daily affirmations help reshape your mindset and build emotional resilience. Take a few moments to focus on positive thoughts and Speak kindly to yourself.",
+    "benefits": {
+      "0": "Find peace in difficult moments",
+      "1": "Challenge negative thought patterns",
+      "2": "Build self-compassion and strength"
+    }
+  },
+  "affirmation_for": "Affirmation for",
+  "affirmation": "Affirmation",
+  "language": "Language",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "你感觉怎么样？",
+  "feelings_subheading": "选择你自己的情绪",
+  "lang": "很长"
+}

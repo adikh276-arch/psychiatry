@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "最初からやり直す",
+    "finish_exit": "終了して退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完了までの時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "共有",
+    "share_progress": "進捗状況を共有する",
+    "inspire_others": "今日、他の人にインスピレーションを与えましょう",
+    "share_text": "私はTherapyMantraで{{activityName}}を試してみましたが、とても楽しかったです。あなたも試せますよ。Androidアプリ{{androidUrl}}またはiOSアプリ{{iosUrl}}へのリンクをクリックしてください。",
+    "this_activity": "このアクティビティ",
+    "copied": "コピーしました！",
+    "copy_message": "メッセージをコピー",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "セルフケアトラッカー",
+      "description": "日々のセルフケア習慣を記録し、それが全体的な健康にどのように影響するかを見てみましょう。一貫性は健康な心の鍵です。",
+      "benefits": {
+        "0": "毎日のセルフケア活動を記録しましょう",
+        "1": "自分自身に費やした時間を記録しましょう",
+        "2": "気分パターンをモニターしましょう",
+        "3": "歴史と進捗を見る"
+      },
+      "duration": "2〜3分",
+      "benefit1": "毎日の身体的・精神的健康の行動を記録しましょう",
+      "benefit2": "休息を妨げる課題に気づく",
+      "benefit3": "ポジティブな強化を通じてマインドフルネスを育てましょう"
+    },
+    "checkin": {
+      "title": "セルフケア・チェックイン 🌿",
+      "subtitle": "今日はどうやって自分のケアをしましたか?",
+      "question": "今日はセルフケアをしましたか?*",
+      "description": "セルフケアとは、私たちの精神的、感情的、身体的な健康を守るために意図的に行うあらゆる活動のことです。"
+    },
+    "activities": {
+      "title": "あなたの活動 🎯",
+      "subtitle": "今日はどんなセルフケア活動をしましたか?"
+    },
+    "duration": {
+      "title": "滞在期間 ⏱️",
+      "subtitle": "セルフケアにどれくらいの時間を費やしましたか?(任意)"
+    },
+    "noSelfCare": {
+      "title": "大💛丈夫です",
+      "subtitle": "今日何が起きたのかを理解しましょう。",
+      "question1": "今日、セルフケアを妨げたものは何でしょうか?(任意)",
+      "question2": "どんなセルフケアが役立ったでしょうか?(任意)"
+    },
+    "mood": {
+      "title": "調子はどう?🫧",
+      "subtitle": "現在の気分を選択する(オプション)"
+    },
+    "review": {
+      "title": "あなたのエントリー 📋",
+      "subtitle": "今日のチェックインの概要はこちらです",
+      "didSelfCare": "セルフケアは?",
+      "activities": "活動",
+      "duration": "期間",
+      "mood": "ムード",
+      "challenges": "妨げられた理由",
+      "whatHelps": "助かったのに",
+      "viewHistory": "週刊歴史",
+      "editToday": "編集項目",
+      "summary": "概要"
+    },
+    "history": {
+      "title": "週刊歴史 📅",
+      "subtitle": "過去7日間の記録はありません"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "おっと!ページが見つかりません",
+      "returnHome": "帰郷"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "運動",
+      "Meditation": "瞑想",
+      "Journaling": "ジャーナリング",
+      "Reading": "リーディング",
+      "Rest / Nap": "休息/昼寝",
+      "Skincare": "スキンケア",
+      "Healthy Meal": "ヘルシーな食事",
+      "Nature / Walk": "自然 / 散策",
+      "Social Time": "ソーシャルタイム",
+      "Hobby": "趣味",
+      "Therapy": "セラピー",
+      "Digital Detox": "デジタルデトックス"
+    },
+    "durations": {
+      "< 10 minutes": "< 10分",
+      "10–30 minutes": "10〜30分",
+      "30–60 minutes": "30〜60分",
+      "1+ hour": "1+時間"
+    },
+    "reasons": {
+      "Busy schedule": "多忙なスケジュール",
+      "Low energy": "低エネルギー",
+      "Stress": "ストレス",
+      "Forgot": "忘れた",
+      "No motivation": "やる気がない",
+      "Not feeling well": "体調が良くない",
+      "Lack of time": "時間の不足",
+      "Emotional overwhelm": "感情的な圧倒"
+    },
+    "helpfulTypes": {
+      "Rest": "残り",
+      "Relaxation": "緩和",
+      "Physical activity": "身体活動",
+      "Talking to someone": "誰かと話す",
+      "Quiet time": "静かな時間",
+      "Creative activity": "創作活動"
+    },
+    "moods": {
+      "Happy": "ハッピー",
+      "Calm": "落ち着いて",
+      "Neutral": "ニュートラル",
+      "Low": "低め",
+      "Stressed": "ストレス",
+      "Tired": "疲れている"
+    },
+    "positiveStatements": {
+      "0": "今日は自分のために来たんだね。それは力強い。🌿",
+      "1": "セルフケアは利己的ではなく、不可欠なものです。よくやった。💚",
+      "2": "小さな思いやりの一つ一つが、あなたをより強くしてくれます。🌱",
+      "3": "今日は自分に投資したんだ。それは重要なことです。✨",
+      "4": "今日、君の世話をしたことが一番いいことだ。🍃"
+    },
+    "supportiveStatements": {
+      "0": "大丈夫だよ。明日は新たなスタートだ。自分に優しくしてください。🤍",
+      "1": "毎日が完璧になるわけではなく、それで全く問題ありません。🕊️",
+      "2": "君は最善を尽くしている。それだけで十分です。💛",
+      "3": "休息もセルフケアの一形態です。自分に優しくしてください。🌸",
+      "4": "今日を認めることには勇気が必要です。もう成長している。🌷"
+    }
+  },
+  "app_title": "セルフケアトラッカー",
+  "app_description": "日々のセルフケア習慣を記録し、それが全体的な健康状態にどのような影響を与えるかを確認しましょう。継続することが、より健康な精神状態を保つ鍵となります。",
+  "initializing_session": "セッションを初期化しています",
+  "language": "言語",
+  "your_progress_over_the_last_7_days": "過去7日間の進捗状況",
+  "fetching_data": "データを取得中...",
+  "more": "もっと",
+  "breadcrumb": "パン粉",
+  "previous_slide": "前のスライド",
+  "next_slide": "次のスライド",
+  "close": "近い",
+  "previous": "前の",
+  "more_pages": "その他のページ",
+  "pagination": "ページネーション",
+  "go_to_previous_page": "前のページへ",
+  "go_to_next_page": "次のページへ",
+  "toggle_sidebar": "サイドバーの表示/非表示を切り替える",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "長い"
+}

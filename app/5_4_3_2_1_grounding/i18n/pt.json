@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Vamos fazer uma pequena pausa juntos.\n\nDurante o próximo minuto, não há nada que você precise resolver, consertar ou responder. Simplesmente permita-se desacelerar.\n\nSente-se confortavelmente, coloque os pés no chão, se possível, e respire fundo e lentamente... e expire lentamente.\n\nEste é o seu momento para recomeçar e se reconectar com o presente.",
+      "button": "Começar"
+    },
+    "1": {
+      "heading": "5 coisas que você pode ver",
+      "body": "Olhe lentamente ao seu redor. Deixe seus olhos percorrerem o espaço suavemente. Observe as cores, as formas, a luz, as sombras ou pequenos detalhes aos quais você talvez não tenha prestado atenção antes.",
+      "button": "Próximo"
+    },
+    "2": {
+      "heading": "4 coisas que você pode sentir",
+      "body": "Traga sua atenção para o seu corpo. Sinta seus pés tocando o chão, suas costas contra a cadeira, suas roupas em contato com a pele ou o ar ao seu redor. Reconheça quatro sensações físicas.",
+      "button": "Próximo"
+    },
+    "3": {
+      "heading": "3 coisas que você pode ouvir",
+      "body": "Escute com atenção. Você poderá ouvir sons distantes, um ventilador, digitação, respiração ou até mesmo silêncio. Identifique três sons sem julgá-los.",
+      "button": "Próximo"
+    },
+    "4": {
+      "heading": "2 coisas que você pode cheirar",
+      "body": "Veja se consegue detectar algum cheiro no ambiente. Se nada se destacar, simplesmente observe o cheiro neutro do ar ao seu redor.",
+      "button": "Próximo"
+    },
+    "5": {
+      "heading": "1 coisa que você pode provar",
+      "body": "Preste atenção ao gosto na sua boca. Pode ser sutil ou neutro — apenas observe.",
+      "button": "Próximo"
+    },
+    "6": {
+      "heading": "Reflexão",
+      "body": "Inspire lentamente... e expire suavemente.",
+      "button": "Enviar"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Recomeçar",
+    "finish_exit": "Finalizar e sair",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo para concluir",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Compartilhar",
+    "share_progress": "Compartilhar progresso",
+    "inspire_others": "Inspire outras pessoas hoje",
+    "share_text": "Eu fiz essa atividade {{activityName}} no TherapyMantra e gostei muito. Você também pode fazer, basta seguir o link para o aplicativo Android {{androidUrl}} ou para o aplicativo iOS {{iosUrl}}.",
+    "this_activity": "esta atividade",
+    "copied": "Copiado!",
+    "copy_message": "Copiar mensagem",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Aterramento",
+  "intro_p1": "Reduz a ansiedade rapidamente",
+  "intro_p2": "Traz você de volta ao presente.",
+  "intro_p3": "Acalma a mente agitada.",
+  "app_description": "5-4-3-2-1 Aterramento",
+  "more": "Mais",
+  "breadcrumb": "farinha de rosca",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "more_pages": "Mais páginas",
+  "pagination": "paginação",
+  "go_to_previous_page": "Ir para a página anterior",
+  "go_to_next_page": "Acesse a próxima página.",
+  "toggle_sidebar": "Alternar barra lateral",
+  "oops_page_not_found": "Ops! Página não encontrada",
+  "return_to_home": "Voltar para a página inicial",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-Aterramento"
+}

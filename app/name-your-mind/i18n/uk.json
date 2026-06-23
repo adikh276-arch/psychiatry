@@ -1,0 +1,136 @@
+{
+  "app_title": "Назви свій розум",
+  "intro": {
+    "title": "Зустріч свій розум",
+    "description": "Навчіться дистанціюватися від надмірних думок, даючи своєму внутрішньому голосу ім'я.",
+    "benefits": {
+      "0": "Створіть ментальну дистанцію",
+      "1": "Зменшити силу жорстких думок",
+      "2": "Помічати думки, не будучи ними"
+    },
+    "duration": "2-3 хвилини",
+    "view_past": "Переглянути попередні записи"
+  },
+  "history": {
+    "title": "Попередні записи",
+    "no_entries": "Поки що записів немає.",
+    "reflection_label": "Відображення: {{text}}"
+  },
+  "complete": {
+    "title": "Діяльність завершена",
+    "great_job": "Чудова робота!",
+    "message": "Ви успішно назвали свій розум і створили простір між собою і думками.",
+    "footer": "Пам'ятайте: вам не потрібно вірити кожній думці, яку дає вам розум."
+  },
+  "subtitles": {
+    "concept": "Перспектива",
+    "input_thought": "Повідомлення",
+    "input_name": "Ім'я",
+    "practice": "Практика",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Невелика зміна",
+      "example": "\"Я недостатньо хороша\"",
+      "desc": "Коли з'являється думка, часто здається, що вона <0>ти</0>. Але що, якби ви могли зробити крок назад і <1>помітити</1> замість цього?"
+    },
+    "input_thought": {
+      "title": "Почнемо з справжньої думки",
+      "desc": "Яка одна думка вас останнім часом турбує?",
+      "placeholder": "Пиши саме так, як прийде до тебе..."
+    },
+    "input_name": {
+      "title": "Створіть певну дистанцію",
+      "desc": "Дайте своєму розуму ім'я, щоб відокремитися від цих думок.",
+      "placeholder": "Або напишіть власно...",
+      "examples": {
+        "0": "Критик",
+        "1": "Надмірно обдумувач",
+        "2": "Worry FM",
+        "3": "Машина надмірного обдумування",
+        "4": "Внутрішній критик",
+        "5": "Генератор «що, якби»",
+        "6": "Режисер драми"
+      }
+    },
+    "practice": {
+      "title": "Спробуй цю зміну",
+      "instead_of": "Замість",
+      "try_saying": "Спробуй сказати",
+      "is_telling_me": "{{name}} каже мені:",
+      "guide": "Обережно повторюйте це речення 4–5 разів у своєму темпі.",
+      "button": "Я готовий"
+    },
+    "reflection": {
+      "title": "Що ти помітив?",
+      "desc": "Які були відчуття цієї думки після того, як дали їй ім'я?",
+      "options": {
+        "0": "Ця думка здавалася трохи менш інтенсивною, ніж раніше",
+        "1": "Я відчував, що віддаляюся від цієї думки",
+        "2": "Вона все ще здавалася такою ж сильною, як і раніше",
+        "3": "Я не впевнений, що змінилося, якщо взагалі щось змінилося"
+      },
+      "button": "Повне роздуми"
+    }
+  },
+  "buttons": {
+    "continue": "Продовжуй",
+    "restart": "Перезапуск"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Почати спочатку",
+    "finish_exit": "Фініш і вихід",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Час завершити",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Поділитися",
+    "share_progress": "Поділитися прогресом",
+    "inspire_others": "Надихайте інших сьогодні",
+    "share_text": "Я виконав(-ла) цю активність ({{activityName}}) у TherapyMantra і мені дуже подобається, ви теж можете це зробити, просто перейдіть за посиланням на додаток для Android ({androidUrl}}) або iOS ({iosUrl}}).",
+    "this_activity": "ця діяльність",
+    "copied": "Скопійовано!",
+    "copy_message": "Копіювати повідомлення",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Назвіть свій розум",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Коли з'являється думка, часто здається, що вона",
+  "more": "Більше",
+  "breadcrumb": "хлібні крихти",
+  "previous_slide": "Попередній слайд",
+  "next_slide": "Наступний слайд",
+  "close": "Закрити",
+  "previous": "Попередній",
+  "more_pages": "Більше сторінок",
+  "pagination": "пагінація",
+  "go_to_previous_page": "Перейти на попередню сторінку",
+  "go_to_next_page": "Перейти на наступну сторінку",
+  "toggle_sidebar": "Перемикання бічної панелі",
+  "oops_page_not_found": "Ой! Сторінку не знайдено",
+  "return_to_home": "Повернення додому",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "довгий"
+}

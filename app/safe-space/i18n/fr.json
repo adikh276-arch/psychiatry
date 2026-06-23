@@ -1,0 +1,115 @@
+{
+  "app_title": "Espace sécurisé",
+  "nav": {
+    "0": "Enregistrement",
+    "1": "Rappel doux",
+    "2": "Observation",
+    "3": "Rester présent",
+    "4": "Aller de l’avant"
+  },
+  "s1": {
+    "title": "Trouvons un endroit qui nous convient",
+    "description": {
+      "0": "Avant de commencer, prenez un moment pour prendre de vos nouvelles...",
+      "1": "Comment te sens-tu en ce moment ?",
+      "2": "Nous ne cherchons pas un « endroit sûr » parfait. Juste quelque chose qui semble un peu calme ou acceptable."
+    },
+    "placeholder": "Comment te sens-tu en ce moment ?",
+    "button": "Commencez la visualisation"
+  },
+  "s2": {
+    "title": "Rappelle-le doucement",
+    "description": {
+      "0": "Imagine un endroit où tu te sentais ne serait-ce qu’un peu à l’aise... Ou un endroit que vous souhaiteriez voir exister.",
+      "1": "Maintenant, place-toi là...",
+      "2": "Êtes-vous assis, debout ou allongé ?"
+    },
+    "button": "Continuez"
+  },
+  "s3": {
+    "title": "Regarde autour de toi lentement",
+    "description": {
+      "0": "Regarde doucement autour de toi...",
+      "1": "Quelle est une chose que tu peux voir ?",
+      "2": "Maintenant, remarquez un bruit... Qu’entendez-vous ?"
+    },
+    "button": "Continuez"
+  },
+  "s4": {
+    "title": "Reste avec ça",
+    "description": {
+      "0": "Qu’est-ce qui rend cet endroit un peu sûr ou acceptable ?",
+      "1": "Comme tu le remarques...",
+      "2": "Concentrez-vous aussi sur votre respiration."
+    },
+    "breathe": "Respire",
+    "notice": "Si imaginer vous semble difficile, pensez simplement à l’idée de cet endroit.",
+    "button": "Continuez"
+  },
+  "s5": {
+    "title": "Prends ça avec toi",
+    "description": {
+      "0": "Remarquez ce que vous ressentez en ce moment. Même un petit changement compte.",
+      "1": "Essaie de supporter ne serait-ce que 5 % de ce sentiment avec toi."
+    },
+    "placeholder": "Comment te sens-tu maintenant ?",
+    "button": "Session complète"
+  },
+  "complete": {
+    "title": "Session terminée",
+    "message": "Cet endroit sûr est toujours à votre disposition. Tu peux revenir ici quand tu as besoin d’un moment de calme."
+  },
+  "common": {
+    "get_started": "Commencez",
+    "start_over": "Recommencer à zéro",
+    "finish_exit": "Fin et sortie",
+    "well_done": "Bravo !",
+    "completion_message": "Vous avez réussi cette activité. Prenez un moment pour apprécier vos progrès.",
+    "time_to_complete": "Il est temps de terminer",
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Sauvegarder",
+    "loading": "Chargement...",
+    "share": "Partager",
+    "share_progress": "Partagez les progrès",
+    "inspire_others": "Inspirez les autres aujourd’hui",
+    "share_text": "J’ai fait ça {{activityName}} dans TherapyMantra et j’aime vraiment ça, tu peux le faire aussi, il suffit de suivre le lien vers l’application Android {{androidUrl}} ou l’application iOS {{iosUrl}}",
+    "this_activity": "Cette activité",
+    "copied": "Copié !",
+    "copy_message": "Copie du message",
+    "yes": "Oui",
+    "no": "Non",
+    "date": "Date",
+    "continue": "Continuez",
+    "step_of": "Étape {{current}} de {{total}}",
+    "round_of": "Ronde {{current}} de {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Manches",
+    "instruction_ready": "Fixez vos parties et appuyez sur jeu pour commencer",
+    "instruction_running": "Suivez le cercle pour réguler votre respiration"
+  },
+  "app_description": "Espace sécurisé",
+  "more": "Plus",
+  "breadcrumb": "miette de pain",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "more_pages": "Plus de pages",
+  "pagination": "Pagination",
+  "go_to_previous_page": "Aller à la page précédente",
+  "go_to_next_page": "Aller à la page suivante",
+  "toggle_sidebar": "Basculer la barre latérale",
+  "oops_page_not_found": "Oups ! Page non trouvée",
+  "return_to_home": "Retour au pays",
+  "phase_label": "Phase",
+  "instruction_ready": "Fixez vos parties et appuyez sur jeu pour commencer",
+  "instruction_running": "Suivez le cercle pour réguler votre respiration",
+  "round_x_of_y": "Ronde {{current}} de {{total}}",
+  "rounds_selector": "{{count}} Manches",
+  "yes": "Oui",
+  "no": "Non",
+  "date": "Date",
+  "continue": "Continuez",
+  "lang": "long"
+}

@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Von vorne beginnen",
+    "finish_exit": "Ziel & Ausgang",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Zeit zum Fertigstellen",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Aktie",
+    "share_progress": "Fortschritt teilen",
+    "inspire_others": "Inspiriere heute andere.",
+    "share_text": "Ich habe diese Aktivität {{activityName}} in TherapyMantra ausprobiert und finde sie richtig toll. Du kannst das auch machen! Folge einfach dem Link zur Android-App {{androidUrl}} oder zur iOS-App {{iosUrl}}.",
+    "this_activity": "diese Aktivität",
+    "copied": "Kopiert!",
+    "copy_message": "Nachricht kopieren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Selbstfürsorge-Tracker",
+      "description": "Verfolgen Sie Ihre täglichen Selbstfürsorgegewohnheiten und sehen Sie, wie sie sich auf Ihr gesamtes Wohlbefinden auswirken. Beständigkeit ist der Schlüssel zu einem gesünderen Geist.",
+      "benefits": {
+        "0": "Protokolliere tägliche Selbstfürsorgeaktivitäten",
+        "1": "Tracke die Zeit, die du für dich selbst verwendest,",
+        "2": "Beobachte deine Stimmungsmuster",
+        "3": "Geschichte und Fortschritt ansehen"
+      },
+      "duration": "2-3 Minuten",
+      "benefit1": "Protokolliere täglich körperliche und geistige Gesundheitsmaßnahmen",
+      "benefit2": "Beachte Herausforderungen, die dich vor Ruhe hindern",
+      "benefit3": "Baue Achtsamkeit durch positive Verstärkung auf"
+    },
+    "checkin": {
+      "title": "Selbstfürsorge-Check-in 🌿",
+      "subtitle": "Wie hast du dich heute gekümmert?",
+      "question": "Hast du heute Selbstfürsorge praktiziert? *",
+      "description": "Selbstfürsorge ist jede Tätigkeit, die wir bewusst tun, um unsere geistige, emotionale und körperliche Gesundheit zu schützen."
+    },
+    "activities": {
+      "title": "Ihre Aktivitäten 🎯",
+      "subtitle": "Welche Selbstfürsorge-Aktivitäten hast du heute gemacht?"
+    },
+    "duration": {
+      "title": "Verbrachte ⏱️ Zeit",
+      "subtitle": "Wie lange hast du für Selbstfürsorge investiert? (optional)"
+    },
+    "noSelfCare": {
+      "title": "Das ist in Ordnung 💛",
+      "subtitle": "Lass uns verstehen, was heute passiert ist.",
+      "question1": "Was hat heute Selbstfürsorge verhindert? (optional)",
+      "question2": "Welche Art von Selbstfürsorge hätte geholfen? (optional)"
+    },
+    "mood": {
+      "title": "Wie fühlst du dich? 🫧",
+      "subtitle": "Wählen Sie Ihre aktuelle Stimmung (optional)"
+    },
+    "review": {
+      "title": "Dein Beitrag 📋",
+      "subtitle": "Hier ist eine Zusammenfassung des heutigen Check-ins",
+      "didSelfCare": "Hat sie sich um sich selbst gekümmert?",
+      "activities": "Aktivitäten",
+      "duration": "Dauer",
+      "mood": "Stimmung",
+      "challenges": "Verhindert durch",
+      "whatHelps": "Hätte geholfen",
+      "viewHistory": "Wöchentliche Geschichte",
+      "editToday": "Beitrag bearbeiten",
+      "summary": "Zusammenfassung"
+    },
+    "history": {
+      "title": "Wöchentliche Geschichte 📅",
+      "subtitle": "In den letzten 7 Tagen keine Einträge"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ups! Seite nicht gefunden",
+      "returnHome": "Rückkehr in die Heimat"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Bewegung",
+      "Journaling": "Tagebuchschreiben",
+      "Reading": "Lektüre",
+      "Rest / Nap": "Erholung / Nickerchen",
+      "Skincare": "Hautpflege",
+      "Healthy Meal": "Gesunde Mahlzeit",
+      "Nature / Walk": "Natur / Spaziergang",
+      "Social Time": "Sozialzeit",
+      "Therapy": "Therapie",
+      "Digital Detox": "Digitale Entgiftung",
+      "Meditation": "Meditation",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 Minuten",
+      "10–30 minutes": "10–30 Minuten",
+      "30–60 minutes": "30–60 Minuten",
+      "1+ hour": "1+ Stunden"
+    },
+    "reasons": {
+      "Busy schedule": "Voller Terminkalender",
+      "Low energy": "Niedrige Energie",
+      "Forgot": "Vergessen",
+      "No motivation": "Keine Motivation",
+      "Not feeling well": "Mir geht es nicht gut",
+      "Lack of time": "Zeitmangel",
+      "Emotional overwhelm": "Emotionale Überforderung",
+      "Stress": "Stress"
+    },
+    "helpfulTypes": {
+      "Rest": "Ruhe",
+      "Relaxation": "Entspannung",
+      "Physical activity": "Körperliche Aktivität",
+      "Talking to someone": "Mit jemandem sprechen",
+      "Quiet time": "Ruhezeit",
+      "Creative activity": "Kreative Tätigkeit"
+    },
+    "moods": {
+      "Happy": "Glücklich",
+      "Calm": "Ruhe",
+      "Low": "Niedrig",
+      "Stressed": "Gestresst",
+      "Tired": "Müde",
+      "Neutral": "Neutral"
+    },
+    "positiveStatements": {
+      "0": "Du bist heute für dich selbst aufgetaucht. Das ist kraftvoll. 🌿",
+      "1": "Selbstfürsorge ist nicht egoistisch – sie ist unerlässlich. Gut gemacht. 💚",
+      "2": "Jede kleine Fürsorge baut ein stärkeres Ich auf. 🌱",
+      "3": "Du hast heute in dich selbst investiert. Das ist wichtig. ✨",
+      "4": "Sich um dich zu kümmern ist das Beste, was du heute getan hast. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Ist schon okay. Morgen ist ein Neuanfang. Sei sanft zu dir selbst. 🤍",
+      "1": "Nicht jeder Tag wird perfekt sein, und das ist völlig in Ordnung. 🕊️",
+      "2": "Du gibst dein Bestes. Das reicht immer. 💛",
+      "3": "Ruhe ist auch eine Form der Selbstfürsorge. Sei nachsichtig. 🌸",
+      "4": "Heute anzuerkennen erfordert Mut. Du wächst schon. 🌷"
+    }
+  },
+  "app_title": "Selbstfürsorge-Tracker",
+  "app_description": "Verfolge deine täglichen Selbstfürsorgegewohnheiten und beobachte, wie sie sich auf dein allgemeines Wohlbefinden auswirken. Regelmäßigkeit ist der Schlüssel zu einem gesünderen Geist.",
+  "initializing_session": "Sitzung wird initialisiert",
+  "language": "Sprache",
+  "your_progress_over_the_last_7_days": "Ihr Fortschritt der letzten 7 Tage",
+  "fetching_data": "Daten werden abgerufen...",
+  "more": "Mehr",
+  "breadcrumb": "Brotkrumen",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Vorherige",
+  "more_pages": "Weitere Seiten",
+  "pagination": "Pagination",
+  "go_to_previous_page": "Zur vorherigen Seite",
+  "go_to_next_page": "Weiter zur nächsten Seite",
+  "toggle_sidebar": "Seitenleiste ein-/ausblenden",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

@@ -1,0 +1,115 @@
+{
+  "app_title": "Không gian an toàn",
+  "nav": {
+    "0": "Nhận phòng",
+    "1": "Nhẹ nhàng nhớ lại",
+    "2": "Quan sát",
+    "3": "Luôn hiện diện",
+    "4": "Tiến lên phía trước"
+  },
+  "s1": {
+    "title": "Hãy tìm một nơi cảm thấy ổn",
+    "description": {
+      "0": "Trước khi chúng ta bắt đầu, hãy dành một chút thời gian để kiểm tra...",
+      "1": "Bạn cảm thấy thế nào ngay bây giờ?",
+      "2": "Chúng tôi không tìm kiếm một \"nơi an toàn\" hoàn hảo. Chỉ là một cái gì đó cảm thấy bình tĩnh hoặc ổn một chút."
+    },
+    "placeholder": "Bạn cảm thấy thế nào ngay bây giờ?",
+    "button": "Bắt đầu trực quan hóa"
+  },
+  "s2": {
+    "title": "Nhẹ nhàng đưa nó vào tâm trí",
+    "description": {
+      "0": "Hãy nghĩ về một nơi mà bạn cảm thấy thoải mái dù chỉ một chút... hoặc một nơi bạn muốn tồn tại.",
+      "1": "Bây giờ hãy đặt mình ở đó...",
+      "2": "Bạn đang ngồi, đứng hay nằm?"
+    },
+    "button": "Tiếp tục"
+  },
+  "s3": {
+    "title": "Nhìn xung quanh từ từ",
+    "description": {
+      "0": "Hãy nhẹ nhàng nhìn xung quanh...",
+      "1": "Một điều bạn có thể nhìn thấy là gì?",
+      "2": "Bây giờ hãy chú ý một âm thanh... Bạn nghe thấy gì?"
+    },
+    "button": "Tiếp tục"
+  },
+  "s4": {
+    "title": "Ở lại với điều này",
+    "description": {
+      "0": "Điều gì ở nơi này khiến nó cảm thấy an toàn hoặc ổn dù chỉ một chút?",
+      "1": "Như bạn nhận thấy rằng...",
+      "2": "cũng chú ý đến hơi thở của bạn."
+    },
+    "breathe": "Hít thở",
+    "notice": "Nếu tưởng tượng cảm thấy khó khăn, chỉ cần nghĩ về ý tưởng về nơi này.",
+    "button": "Tiếp tục"
+  },
+  "s5": {
+    "title": "Mang theo bên mình",
+    "description": {
+      "0": "Chú ý cảm giác của bạn ngay bây giờ. Ngay cả một sự thay đổi nhỏ cũng quan trọng.",
+      "1": "Hãy xem liệu bạn có thể mang theo thậm chí 5% cảm giác này bên mình hay không."
+    },
+    "placeholder": "Bây giờ bạn cảm thấy thế nào?",
+    "button": "Hoàn thành phiên"
+  },
+  "complete": {
+    "title": "Phiên hoàn tất",
+    "message": "Nơi an toàn này luôn sẵn sàng cho bạn. Bạn có thể trở lại đây bất cứ khi nào bạn cần một giây phút bình tĩnh."
+  },
+  "common": {
+    "get_started": "Bắt đầu",
+    "start_over": "Bắt đầu lại",
+    "finish_exit": "Kết thúc & Thoát",
+    "well_done": "Làm tốt lắm!",
+    "completion_message": "Bạn đã hoàn thành thành công hoạt động này. Hãy dành một chút thời gian để đánh giá cao sự tiến bộ của bạn.",
+    "time_to_complete": "Thời gian hoàn thành",
+    "back": "Quay lại",
+    "next": "Kế tiếp",
+    "save": "Lưu",
+    "loading": "Đang tải...",
+    "share": "Chia sẻ",
+    "share_progress": "Chia sẻ tiến độ",
+    "inspire_others": "Truyền cảm hứng cho người khác ngay hôm nay",
+    "share_text": "Tôi đã làm điều này {{activityName}} trong TherapyMantra và thực sự thích nó, bạn cũng có thể làm điều đó chỉ cần nhấp vào liên kết đến ứng dụng Android {{androidUrl}} hoặc ứng dụng ios {{iosUrl}}",
+    "this_activity": "Hoạt động này",
+    "copied": "Đã sao chép!",
+    "copy_message": "Sao chép tin nhắn",
+    "yes": "Có",
+    "no": "Không",
+    "date": "Ngày",
+    "continue": "Tiếp tục",
+    "step_of": "Bước {{current}} của {{total}}",
+    "round_of": "Làm tròn {{current}} của {{total}}",
+    "phase_label": "Giai đoạn",
+    "rounds_selector": "{{đếm}} Vòng",
+    "instruction_ready": "Đặt vòng của bạn và nhấn vào chơi để bắt đầu",
+    "instruction_running": "Đi theo vòng tròn để điều chỉnh hơi thở của bạn"
+  },
+  "app_description": "Không gian an toàn",
+  "more": "Xem thêm",
+  "breadcrumb": "vụn bánh mì",
+  "previous_slide": "Trang trình bày trước",
+  "next_slide": "Trang trình bày tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "more_pages": "Các trang khác",
+  "pagination": "Phân trang",
+  "go_to_previous_page": "Chuyển đến trang trước",
+  "go_to_next_page": "Chuyển đến trang tiếp theo",
+  "toggle_sidebar": "Chuyển đổi thanh bên",
+  "oops_page_not_found": "Rất tiếc! Không tìm thấy trang",
+  "return_to_home": "Trở về nhà",
+  "phase_label": "Giai đoạn",
+  "instruction_ready": "Đặt vòng của bạn và nhấn vào chơi để bắt đầu",
+  "instruction_running": "Đi theo vòng tròn để điều chỉnh hơi thở của bạn",
+  "round_x_of_y": "Làm tròn {{current}} của {{total}}",
+  "rounds_selector": "{{đếm}} Vòng",
+  "yes": "Có",
+  "no": "Không",
+  "date": "Ngày",
+  "continue": "Tiếp tục",
+  "lang": "dài"
+}

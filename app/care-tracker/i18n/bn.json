@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "নতুন করে শুরু করুন",
+    "finish_exit": "শেষ করুন এবং প্রস্থান করুন",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "সম্পূর্ণ করার সময়",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "শেয়ার",
+    "share_progress": "শেয়ার অগ্রগতি",
+    "inspire_others": "আজ অন্যদের অনুপ্রাণিত করুন",
+    "share_text": "আমি থেরাপিমন্ত্রা-তে এই {{activityName}} কাজটি করেছি এবং এটি আমার খুব ভালো লেগেছে, আপনিও এটি করতে পারেন। এর জন্য শুধু অ্যান্ড্রয়েড অ্যাপ {{androidUrl}} অথবা আইওএস অ্যাপ {{iosUrl}} এর লিঙ্কটি অনুসরণ করুন।",
+    "this_activity": "এই কার্যকলাপ",
+    "copied": "অনুলিপি করা হয়েছে!",
+    "copy_message": "বার্তা কপি করুন",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "স্ব-যত্ন ট্র্যাকার",
+      "description": "আপনার প্রতিদিনের স্ব-যত্নের অভ্যাসগুলি ট্র্যাক করুন এবং দেখুন যে তারা কীভাবে আপনার সামগ্রিক সুস্থতাকে প্রভাবিত করে। ধারাবাহিকতা একটি সুস্থ মনের মূল চাবিকাঠি।",
+      "benefits": {
+        "0": "প্রতিদিনের স্ব-যত্নের ক্রিয়াকলাপগুলি লগ করুন",
+        "1": "নিজের জন্য ব্যয় করা সময় ট্র্যাক করুন",
+        "2": "আপনার মেজাজের প্যাটার্নগুলি মনিটর করুন",
+        "3": "ইতিহাস এবং অগ্রগতি দেখুন"
+      },
+      "duration": "2-3 মিনিট",
+      "benefit1": "প্রতিদিনের শারীরিক ও মানসিক সুস্থতার ক্রিয়াকলাপগুলি লগ করুন",
+      "benefit2": "আপনাকে বিশ্রাম থেকে বিরত রাখার চ্যালেঞ্জগুলি লক্ষ্য করুন",
+      "benefit3": "ইতিবাচক শক্তিবৃদ্ধির মাধ্যমে মননশীলতা তৈরি করুন"
+    },
+    "checkin": {
+      "title": "স্ব-যত্ন চেক-ইন 🌿",
+      "subtitle": "আজ আপনি কীভাবে নিজের যত্ন নিলেন?",
+      "question": "আপনি কি আজ স্ব-যত্ন অনুশীলন করেছেন? *",
+      "description": "স্ব-যত্ন হ'ল এমন কোনও ক্রিয়াকলাপ যা আমরা আমাদের মানসিক, মানসিক এবং শারীরিক স্বাস্থ্যের যত্ন নেওয়ার জন্য ইচ্ছাকৃতভাবে করি।"
+    },
+    "activities": {
+      "title": "আপনার কার্যক্রম 🎯",
+      "subtitle": "আজ আপনি কোন স্ব-যত্নের ক্রিয়াকলাপগুলি করেছেন?"
+    },
+    "duration": {
+      "title": "ব্যয় করা সময় ⏱️",
+      "subtitle": "আপনি কতক্ষণ স্ব-যত্নের জন্য ব্যয় করেছেন? (ঐচ্ছিক)"
+    },
+    "noSelfCare": {
+      "title": "ঠিক আছে 💛",
+      "subtitle": "চলুন জেনে নেওয়া যাক আজ কী হয়েছে।",
+      "question1": "আজ স্ব-যত্নকে কী বাধা দেয়? (ঐচ্ছিক)",
+      "question2": "কোন ধরণের স্ব-যত্ন সাহায্য করতে পারে? (ঐচ্ছিক)"
+    },
+    "mood": {
+      "title": "আপনি কেমন বোধ করছেন? 🫧",
+      "subtitle": "আপনার বর্তমান মেজাজ নির্বাচন করুন (ঐচ্ছিক)"
+    },
+    "review": {
+      "title": "আপনার এন্ট্রি 📋",
+      "subtitle": "এখানে আজকের চেক-ইনের একটি সংক্ষিপ্তসার দেওয়া হল",
+      "didSelfCare": "স্ব-যত্ন নিয়েছেন?",
+      "activities": "কার্যক্রম",
+      "duration": "সময়কাল",
+      "mood": "মেজাজ",
+      "challenges": "দ্বারা প্রতিরোধ করা হয়েছে",
+      "whatHelps": "সাহায্য করতাম",
+      "viewHistory": "সাপ্তাহিক ইতিহাস",
+      "editToday": "এন্ট্রি সম্পাদনা করুন",
+      "summary": "সারসংক্ষেপ"
+    },
+    "history": {
+      "title": "সাপ্তাহিক ইতিহাস 📅",
+      "subtitle": "গত 7 দিনে কোনও এন্ট্রি নেই"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "ওফ! পাতা খুঁজে পাওয়া যায়নি",
+      "returnHome": "দেশে ফিরে যান"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "ব্যায়াম",
+      "Meditation": "ধ্যান",
+      "Journaling": "জার্নালিং",
+      "Reading": "পড়া",
+      "Rest / Nap": "বিশ্রাম / ঘুম",
+      "Skincare": "ত্বকের যত্ন",
+      "Healthy Meal": "স্বাস্থ্যকর খাবার",
+      "Nature / Walk": "প্রকৃতি / হাঁটা",
+      "Social Time": "সামাজিক সময়",
+      "Hobby": "শখ",
+      "Therapy": "থেরাপি",
+      "Digital Detox": "ডিজিটাল ডিটক্স"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 মিনিট",
+      "10–30 minutes": "10-30 মিনিট",
+      "30–60 minutes": "30-60 মিনিট",
+      "1+ hour": "1+ ঘন্টা"
+    },
+    "reasons": {
+      "Busy schedule": "ব্যস্ত সময়সূচী",
+      "Low energy": "কম শক্তি",
+      "Stress": "মানসিক চাপ",
+      "Forgot": "ভুলে গেছেন",
+      "No motivation": "কোন অনুপ্রেরণা নেই",
+      "Not feeling well": "ভালো লাগছে না",
+      "Lack of time": "সময়ের অভাব",
+      "Emotional overwhelm": "আবেগময় অভিভূত"
+    },
+    "helpfulTypes": {
+      "Rest": "বিশ্রাম",
+      "Relaxation": "শিথিলতা",
+      "Physical activity": "শারীরিক কার্যকলাপ",
+      "Talking to someone": "কারো সাথে কথা বলা",
+      "Quiet time": "শান্ত সময়",
+      "Creative activity": "সৃজনশীল কার্যকলাপ"
+    },
+    "moods": {
+      "Happy": "হ্যাপি",
+      "Calm": "শান্ত থাকুন",
+      "Neutral": "নিরপেক্ষ",
+      "Low": "কম",
+      "Stressed": "চাপে",
+      "Tired": "ক্লান্ত"
+    },
+    "positiveStatements": {
+      "0": "আপনি আজ নিজের জন্য উপস্থিত হয়েছেন। এটি শক্তিশালী। 🌿",
+      "1": "স্ব-যত্ন স্বার্থপর নয় - এটি অপরিহার্য। সাবাশ। 💚",
+      "2": "যত্নের প্রতিটি ছোট কাজ আপনাকে আরও শক্তিশালী করে তোলে। 🌱",
+      "3": "আপনি আজ নিজের উপর বিনিয়োগ করেছেন। এটি গুরুত্বপূর্ণ। ✨",
+      "4": "আপনার যত্ন নেওয়া আজ আপনি সবচেয়ে ভাল কাজ। 🍃"
+    },
+    "supportiveStatements": {
+      "0": "ঠিক আছে। আগামীকাল একটি নতুন শুরু। নিজের সাথে নম্র হোন। 🤍",
+      "1": "প্রতিটি দিন নিখুঁত হবে না, এবং এটি পুরোপুরি ঠিক আছে। 🕊️",
+      "2": "আপনি আপনার সেরাটা দিচ্ছেন। এটুকুই সবসময়ই যথেষ্ট। 💛",
+      "3": "বিশ্রামও স্ব-যত্নের একটি রূপ। নিজেকে অনুগ্রহ দিন। 🌸",
+      "4": "আজ স্বীকার করার জন্য সাহস লাগে। আপনি ইতিমধ্যে বাড়ছেন। 🌷"
+    }
+  },
+  "app_title": "সেলফ-কেয়ার ট্র্যাকার",
+  "app_description": "আপনার দৈনন্দিন আত্ম-যত্নের অভ্যাসগুলো পর্যবেক্ষণ করুন এবং দেখুন সেগুলো আপনার সার্বিক সুস্থতাকে কীভাবে প্রভাবিত করে। সুস্থ মনের জন্য ধারাবাহিকতাই মূল চাবিকাঠি।",
+  "initializing_session": "সেশন শুরু করা হচ্ছে",
+  "language": "ভাষা",
+  "your_progress_over_the_last_7_days": "গত ৭ দিনে আপনার অগ্রগতি",
+  "fetching_data": "ডেটা আনা হচ্ছে...",
+  "more": "আরও",
+  "breadcrumb": "রুটির গুঁড়ো",
+  "previous_slide": "পূর্ববর্তী স্লাইড",
+  "next_slide": "পরবর্তী স্লাইড",
+  "close": "বন্ধ করুন",
+  "previous": "পূর্ববর্তী",
+  "more_pages": "আরও পৃষ্ঠা",
+  "pagination": "পৃষ্ঠা সংখ্যা",
+  "go_to_previous_page": "পূর্ববর্তী পৃষ্ঠায় যান",
+  "go_to_next_page": "পরবর্তী পৃষ্ঠায় যান",
+  "toggle_sidebar": "সাইডবার টগল করুন",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "দীর্ঘ"
+}

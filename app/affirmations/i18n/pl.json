@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Zacznij od nowa",
+    "finish_exit": "Zakończ i wyjdź",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Czas na ukończenie",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Udział",
+    "share_progress": "Udostępnij postęp",
+    "inspire_others": "Zainspiruj innych już dziś",
+    "share_text": "Wykonałem tę {{activityName}} w TherapyMantra i bardzo mi się to spodobało. Ty też możesz to zrobić, po prostu kliknij link do aplikacji na Androida {{androidUrl}} lub aplikacji na iOS {{iosUrl}}",
+    "this_activity": "ta aktywność",
+    "copied": "Skopiowano!",
+    "copy_message": "Kopiuj wiadomość",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Kiedy czujesz się samotny i smutny",
+      "affirmations": {
+        "0": "Nie jestem sam, nawet jeśli tak się czuję.",
+        "1": "Moje uczucia zasługują na troskę i delikatność.",
+        "2": "Ta chwila nie będzie trwała wiecznie.",
+        "3": "Mam prawo potrzebować połączenia.",
+        "4": "Mogę ofiarować sobie ciepło już teraz."
+      }
+    },
+    "terrified": {
+      "label": "Kiedy czujesz się przerażony",
+      "affirmations": {
+        "0": "W tej chwili jestem bezpieczny.",
+        "1": "Strach jest uczuciem, nie przewidywaniem.",
+        "2": "Mogę brać to oddech po oddechu.",
+        "3": "Nie muszę rozwiązywać wszystkiego od razu.",
+        "4": "Jestem silniejszy niż ta chwila."
+      }
+    },
+    "insignificant": {
+      "label": "Kiedy czujesz się nieistotny",
+      "affirmations": {
+        "0": "Małe chwile nadal się liczą.",
+        "1": "Nie muszę udowadniać swojej wartości.",
+        "2": "Mam prawo zająć przestrzeń.",
+        "3": "Moje istnienie ma znaczenie.",
+        "4": "Wystarczam sobie taki, jaki jestem."
+      }
+    },
+    "overwhelmed": {
+      "label": "Kiedy czujesz się przytłoczony",
+      "affirmations": {
+        "0": "Nie muszę robić wszystkiego na raz.",
+        "1": "Wystarczy jeden mały krok.",
+        "2": "Nie ma nic złego w zrobieniu pauzy.",
+        "3": "Mam prawo odpocząć.",
+        "4": "To znów stanie się możliwe do opanowania."
+      }
+    },
+    "hopeless": {
+      "label": "Kiedy czujesz się beznadziejnie",
+      "affirmations": {
+        "0": "Nie potrzebuję odpowiedzi dzisiaj.",
+        "1": "Zmiana jest nadal możliwa.",
+        "2": "Przetrwałem już trudne dni.",
+        "3": "Na razie mogę tu zostać.",
+        "4": "Coś delikatnego może się jeszcze wydarzyć."
+      }
+    },
+    "conflicted": {
+      "label": "Kiedy czujesz konflikt",
+      "affirmations": {
+        "0": "Nic nie stoi na przeszkodzie, aby odczuwać więcej niż jedną rzecz naraz.",
+        "1": "Nie potrzebuję natychmiastowej jasności.",
+        "2": "Zamieszanie nie oznacza porażki.",
+        "3": "Mogę dać sobie czas.",
+        "4": "Ufam, że uda mi się to rozgryźć."
+      }
+    },
+    "self-critical": {
+      "label": "Kiedy jesteś bardzo samokrytyczny",
+      "affirmations": {
+        "0": "Mogę rozmawiać ze sobą z życzliwością.",
+        "1": "Nie muszę karać siebie, żeby się rozwijać.",
+        "2": "Błędy nie definiują tego, kim jestem.",
+        "3": "Uczę się, a nie ponoszę porażkę.",
+        "4": "Wzrost nie wymaga okrucieństwa."
+      }
+    },
+    "out-of-place": {
+      "label": "Kiedy czujesz się nie na miejscu w towarzystwie",
+      "affirmations": {
+        "0": "Mogę być cichy lub inny.",
+        "1": "Nie muszę dorównywać niczyjej energii.",
+        "2": "Należę taki, jaki jestem.",
+        "3": "Potrafię zająć przestrzeń delikatnie.",
+        "4": "Nie robię tego źle."
+      }
+    },
+    "unsafe": {
+      "label": "Kiedy czujesz się niepewnie w towarzystwie nieznajomych",
+      "affirmations": {
+        "0": "Mogę poruszać się we własnym tempie.",
+        "1": "Mam prawo chronić swoje granice.",
+        "2": "Mogę pozostać zakotwiczony w swoim ciele.",
+        "3": "Mam prawo wyjść z sytuacji.",
+        "4": "Mogę zadbać o swoje bezpieczeństwo."
+      }
+    },
+    "pressured": {
+      "label": "Kiedy czujesz presję w pracy",
+      "affirmations": {
+        "0": "Moja wartość nie jest moją produktywnością.",
+        "1": "Nie muszę ciągle udowadniać swojej wartości.",
+        "2": "Dzisiaj wystarczy, że zrobię wszystko, co w mojej mocy.",
+        "3": "Można wykonywać tylko jedno zadanie na raz.",
+        "4": "Jestem czymś więcej niż tylko swoją rolą."
+      }
+    },
+    "face-the-day": {
+      "label": "Kiedy nie chcesz stawić czoła dniu",
+      "affirmations": {
+        "0": "Mogę podzielić dzisiejszy dzień na małe kawałki.",
+        "1": "Wystarczy, że się przedostaniesz.",
+        "2": "Nie potrzebuję motywacji, żeby zacząć.",
+        "3": "Delikatne zachowanie nadal ma znaczenie.",
+        "4": "Ten dzień mnie nie definiuje."
+      }
+    },
+    "future": {
+      "label": "Kiedy martwisz się o swoją przyszłość",
+      "affirmations": {
+        "0": "Mogę wrócić do teraźniejszości.",
+        "1": "Zajmę się sprawami takimi, jakie będą.",
+        "2": "Dziś nie potrzebuję pewności.",
+        "3": "Potrafię się przystosować.",
+        "4": "Mogę sobie trochę bardziej zaufać."
+      }
+    },
+    "stuck": {
+      "label": "Kiedy czujesz, że utknąłeś w jakimś problemie",
+      "affirmations": {
+        "0": "To, że utknąłem, nie znaczy, że jestem zepsuty.",
+        "1": "Mogę zrobić przerwę, nie poddając się.",
+        "2": "Nie potrzebuję natychmiastowych rozwiązań.",
+        "3": "Mam prawo czuć się niepewnie.",
+        "4": "Nadal się poruszam, nawet powoli."
+      }
+    },
+    "compare": {
+      "label": "Kiedy porównujesz siebie",
+      "affirmations": {
+        "0": "Moja podróż jest moja własna.",
+        "1": "Nie muszę rywalizować, żeby być godnym.",
+        "2": "Mogę rozwijać się we własnym tempie.",
+        "3": "Sukces innej osoby nie przekreśla mojego sukcesu.",
+        "4": "Nie jestem w tyle."
+      }
+    },
+    "give-up": {
+      "label": "Kiedy chcesz się poddać",
+      "affirmations": {
+        "0": "Nie muszę podejmować żadnej decyzji teraz.",
+        "1": "To uczucie minie.",
+        "2": "Przeżyłam więcej, niż zdaję sobie sprawę.",
+        "3": "Mogę zostać jeszcze chwilę.",
+        "4": "Nadal tu jestem — i to się liczy."
+      }
+    }
+  },
+  "app_complete_title": "Poczuj się wzmocniony",
+  "app_complete_message": "Codzienne afirmacje pomagają przekształcić twoje nastawienie. Zabierz ze sobą te pozytywne myśli już dziś.",
+  "app_duration": "2-3 minuty",
+  "app_title": "Sposób myślenia",
+  "app_description": "Zmień swój sposób myślenia poprzez codzienne afirmacje.",
+  "intro": {
+    "description": "Codzienne afirmacje pomagają zmienić sposób myślenia i zbudować odporność emocjonalną. Poświęć chwilę na skupienie się na pozytywnych myślach i mów do siebie życzliwie.",
+    "benefits": {
+      "0": "Znajdź spokój w trudnych chwilach",
+      "1": "Rzuć wyzwanie negatywnym schematom myślowym",
+      "2": "Zbuduj współczucie dla siebie i siłę"
+    }
+  },
+  "affirmation_for": "Potwierdzenie dla",
+  "affirmation": "Afirmacja",
+  "language": "Język",
+  "more": "Więcej",
+  "breadcrumb": "bułka tarta",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknąć",
+  "previous": "Poprzedni",
+  "more_pages": "Więcej stron",
+  "pagination": "paginacja",
+  "go_to_previous_page": "Przejdź do poprzedniej strony",
+  "go_to_next_page": "Przejdź do następnej strony",
+  "toggle_sidebar": "Przełącz pasek boczny",
+  "oops_page_not_found": "Ups! Strona nie została znaleziona",
+  "return_to_home": "Powrót do strony głównej",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Jak się czujesz?",
+  "feelings_subheading": "Wybierz emocję, którą chcesz",
+  "lang": "długie"
+}

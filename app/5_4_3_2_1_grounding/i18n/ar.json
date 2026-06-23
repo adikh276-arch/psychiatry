@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "لنأخذ استراحة قصيرة معًا.\n\nخلال الدقيقة القادمة، لا داعي لحل أي مشكلة أو إصلاح أي شيء أو الرد عليه. فقط اسمح لنفسك بالاسترخاء.\n\nاجلس براحة، وضع قدميك على الأرض إن أمكن، وتنفس ببطء وهدوء... ثم أخرج الزفير ببطء.\n\nهذه فرصتك لإعادة شحن طاقتك والتواصل مع اللحظة الحاضرة.",
+      "button": "يبدأ"
+    },
+    "1": {
+      "heading": "خمسة أشياء يمكنك رؤيتها",
+      "body": "انظر حولك ببطء. دع عينيك تتحركان برفق عبر المكان. لاحظ الألوان والأشكال والضوء والظلال أو التفاصيل الصغيرة التي ربما لم تنتبه إليها من قبل.",
+      "button": "التالي"
+    },
+    "2": {
+      "heading": "أربعة أشياء يمكنك الشعور بها",
+      "body": "وجّه انتباهك إلى جسدك. اشعر بقدميك تلامسان الأرض، وظهرك يلامس الكرسي، وملابسك على بشرتك، أو الهواء المحيط بك. لاحظ أربعة أحاسيس جسدية.",
+      "button": "التالي"
+    },
+    "3": {
+      "heading": "ثلاثة أشياء يمكنك سماعها",
+      "body": "استمع جيداً. قد تسمع أصواتاً بعيدة، أو صوت مروحة، أو صوت كتابة، أو تنفس، أو حتى صمتاً. حدد ثلاثة أصوات دون إصدار أحكام عليها.",
+      "button": "التالي"
+    },
+    "4": {
+      "heading": "شيئان يمكنك شمهما",
+      "body": "حاول أن تشم أي رائحة في الغرفة. إذا لم تلاحظ أي شيء مميز، فلاحظ ببساطة الرائحة المحايدة للهواء المحيط بك.",
+      "button": "التالي"
+    },
+    "5": {
+      "heading": "شيء واحد يمكنك تذوقه",
+      "body": "انتبه إلى الطعم في فمك. قد يكون خفيفاً أو محايداً - فقط لاحظه.",
+      "button": "التالي"
+    },
+    "6": {
+      "heading": "انعكاس",
+      "body": "خذ نفسًا بطيئًا واحدًا... ثم أخرجه برفق.",
+      "button": "يُقدِّم"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "ابدأ من جديد",
+    "finish_exit": "إنهاء العملية والخروج",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "الوقت اللازم للإنجاز",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "يشارك",
+    "share_progress": "مشاركة التقدم",
+    "inspire_others": "ألهم الآخرين اليوم",
+    "share_text": "لقد قمتُ بهذا النشاط {{activityName}} في تطبيق TherapyMantra واستمتعتُ به حقًا، يمكنك القيام به أيضًا، فقط اتبع الرابط إلى تطبيق أندرويد {{androidUrl}} أو تطبيق iOS {{iosUrl}}",
+    "this_activity": "هذا النشاط",
+    "copied": "تم النسخ!",
+    "copy_message": "انسخ الرسالة",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 التأريض",
+  "intro_p1": "يخفف القلق بسرعة",
+  "intro_p2": "يعيدك إلى الحاضر",
+  "intro_p3": "يهدئ العقل المتسارع",
+  "app_description": "5-4-3-2-1 التأريض",
+  "more": "أكثر",
+  "breadcrumb": "فتات الخبز",
+  "previous_slide": "الشريحة السابقة",
+  "next_slide": "الشريحة التالية",
+  "close": "يغلق",
+  "previous": "سابق",
+  "more_pages": "صفحات أخرى",
+  "pagination": "ترقيم الصفحات",
+  "go_to_previous_page": "انتقل إلى الصفحة السابقة",
+  "go_to_next_page": "انتقل إلى الصفحة التالية",
+  "toggle_sidebar": "تبديل الشريط الجانبي",
+  "oops_page_not_found": "عذراً! الصفحة غير موجودة",
+  "return_to_home": "العودة إلى الصفحة الرئيسية",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-التأريض"
+}

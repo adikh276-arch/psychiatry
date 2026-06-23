@@ -1,0 +1,99 @@
+{
+  "app_title": "Resurse",
+  "not_found": {
+    "title": "Negăsit",
+    "message": "Resursă negăsită",
+    "description": "Conținutul pe care îl cauți s-ar putea să fi mutat.",
+    "button": "Întoarce-te"
+  },
+  "list": {
+    "empty_title": "Nu există {{type}} disponibilă",
+    "empty_desc": "În prezent, selectăm mai multe resurse pentru acest subiect.",
+    "footer": "Îngrijirea mantrei • Resurse bazate pe dovezi"
+  },
+  "detail": {
+    "loading": "Se încarcă...",
+    "tip": {
+      "insight_label": "Perspectiva",
+      "plan_title": "Plan de acțiune zilnic",
+      "steps": "{{count}} Pași",
+      "example_label": "Exemplu de practică",
+      "instead_of": "În loc de",
+      "try_this": "Încearcă asta"
+    },
+    "article": {
+      "final_thought": "Gând final"
+    },
+    "story": {
+      "reflection_label": "Ceva cu care să stai",
+      "note_label": "O notă a autorului"
+    },
+    "myth": {
+      "truth_label": "Adevărul științific",
+      "explanation_label": "Explicație detaliată",
+      "insight_label": "Perspective cheie"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Începeți de la început",
+    "finish_exit": "Terminare și ieșire",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Timpul de finalizare",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Distribuie",
+    "share_progress": "Distribuiți progresul",
+    "inspire_others": "Inspiră-i pe alții astăzi",
+    "share_text": "Am făcut această {{activityName}} în TherapyMantra și îmi place foarte mult. O poți face și tu, trebuie doar să accesezi linkul către aplicația Android {{androidUrl}} sau aplicația iOS {{iosUrl}}.",
+    "this_activity": "această activitate",
+    "copied": "Copiat!",
+    "copy_message": "Copiați mesajul",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Resurse",
+  "concerns": {
+    "acceptance": "Acceptare",
+    "adolescent": "Adolescent",
+    "anger": "Furie",
+    "anxiety": "Anxietate",
+    "depression": "Depresie",
+    "eating-disorder": "Tulburare de alimentație",
+    "grief": "Durere",
+    "parenting": "Părinți",
+    "postpartum": "Postpartum",
+    "ptsd": "PTSD",
+    "relationship": "Relaţie",
+    "sexuality": "Sexualitate",
+    "sleep": "Dormi",
+    "stress": "Stres",
+    "workplace": "Locul de muncă"
+  },
+  "types": {
+    "stories": "Povești",
+    "articles": "Articole",
+    "myths": "Mituri",
+    "tips": "Sfaturi"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

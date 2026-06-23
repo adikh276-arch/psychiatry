@@ -1,0 +1,150 @@
+{
+  "app_title": "Spánkový audit",
+  "app_subtitle": "Pochopte svůj odpočinek",
+  "intro": {
+    "title": "Váš spánkový audit",
+    "description": "Pochopte, co ovlivňuje váš spánek a kde mohou pomoci malé změny.",
+    "start_button": "Začněte audit",
+    "history_button": "Minulé audity",
+    "more_insights": "Zpět na začátek"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Fáze 01",
+      "title": "Jak se ti daří?",
+      "desc": "Vyberte si nějaký, který vám v poslední době připadá pravý"
+    },
+    "s2": {
+      "phase": "Fáze 02",
+      "title": "Ohodnoťte svůj typický odpočinek",
+      "label": "Konkrétní obavy?",
+      "placeholder": "Stres, hluk, scrollování..."
+    },
+    "s3": {
+      "score_label": "ze 7",
+      "recommendations": {
+        "solid": "Tvé návyky jsou pevné! Malé úpravy to mohou ještě vylepšit.",
+        "some": "Zjištěny některé poruchy. Změny návyků mohou pomoci rychle.",
+        "many": "Na váš spánek má vliv několik faktorů. Můžeme je společně zvládnout."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Chodím spát každý večer v úplně jinou dobu"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Moje spánkové prostředí není tmavé, tiché ani pohodlné"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Těsně před spaním scrolluji na telefonu"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Kofein nebo alkohol piju těsně před spaním"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Probouzím se v noci a mám problém znovu usnout"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Když se snažím usnout, hlavou mi běží myšlenky"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Zřídka se po noci spánku cítím odpočatý"
+    }
+  },
+  "rating_labels": {
+    "0": "Velmi chudé",
+    "1": "Chudák",
+    "2": "Dobře",
+    "3": "Dobře",
+    "4": "Skvělé"
+  },
+  "status_labels": {
+    "track": "Většinou na trati",
+    "disruptions": "Některá narušení",
+    "attention": "Potřebuje pozornost"
+  },
+  "buttons": {
+    "continue": "Pokračovat",
+    "see_results": "Viz výsledky",
+    "preserve": "Zachovat výsledek",
+    "preserving": "Uchování...",
+    "back_to_intro": "Zpět k úvodu"
+  },
+  "history": {
+    "title": "Minulé audity",
+    "no_entries": "Audity zatím nejsou dochovány.",
+    "score_label": "ze 7"
+  },
+  "complete": {
+    "title": "Audit dokončen",
+    "message": "Vaše spánkové skóre je {{score}}/7. Pochopení těchto vzorců je prvním krokem k hlubšímu a obnovujícímu odpočinku."
+  },
+  "toasts": {
+    "save_success": "Audit uložen",
+    "save_error": "Audit neúspěšného uložení",
+    "auth_error": "Chybějící autentizační relace nebo nekonfigurovaná databáze"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Začít znovu",
+    "finish_exit": "Dokončit a ukončit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Čas na dokončení",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Podíl",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní ještě dnes",
+    "share_text": "Tuto aktivitu {{activityName}} jsem dělal/a v TherapyMantra a opravdu si ji užívám. Můžete to dělat i vy, stačí kliknout na odkaz na aplikaci pro Android {{androidUrl}} nebo aplikaci pro iOS {{iosUrl}}.",
+    "this_activity": "tato aktivita",
+    "copied": "Zkopírováno!",
+    "copy_message": "Kopírovat zprávu",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Pochopte svůj odpočinek",
+  "more": "Více",
+  "breadcrumb": "strouhanka",
+  "previous_slide": "Předchozí snímek",
+  "next_slide": "Další snímek",
+  "close": "Blízko",
+  "previous": "Předchozí",
+  "more_pages": "Více stránek",
+  "pagination": "stránkování",
+  "go_to_previous_page": "Přejít na předchozí stránku",
+  "go_to_next_page": "Přejít na další stránku",
+  "toggle_sidebar": "Přepnout postranní panel",
+  "oops_page_not_found": "Jejda! Stránka nenalezena.",
+  "return_to_home": "Návrat domů",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "dlouhý",
+  "loading": "Načítám historii..."
+}

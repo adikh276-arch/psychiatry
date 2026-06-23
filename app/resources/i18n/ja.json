@@ -1,0 +1,99 @@
+{
+  "app_title": "資料",
+  "not_found": {
+    "title": "見つかりませんでした",
+    "message": "リソースが見つかりません",
+    "description": "あなたが探しているコンテンツが移動している可能性があります。",
+    "button": "戻れ"
+  },
+  "list": {
+    "empty_title": "{{type}} は利用できません",
+    "empty_desc": "現在、このテーマに関するさらなるリソースをキュレーションしています。",
+    "footer": "マントラケア • エビデンスに基づくリソース"
+  },
+  "detail": {
+    "loading": "読み込み中...",
+    "tip": {
+      "insight_label": "洞察",
+      "plan_title": "日々の行動計画",
+      "steps": "{{count}} ステップ",
+      "example_label": "練習例",
+      "instead_of": "代わりに",
+      "try_this": "これを試してみて"
+    },
+    "article": {
+      "final_thought": "最終の思い"
+    },
+    "story": {
+      "reflection_label": "座るためのものが欲しい",
+      "note_label": "著者からの注記"
+    },
+    "myth": {
+      "truth_label": "科学的真実",
+      "explanation_label": "詳細な説明",
+      "insight_label": "重要な洞察"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "最初からやり直す",
+    "finish_exit": "終了して退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完了までの時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "共有",
+    "share_progress": "進捗状況を共有する",
+    "inspire_others": "今日、他の人にインスピレーションを与えましょう",
+    "share_text": "私はTherapyMantraで{{activityName}}を試してみましたが、とても楽しかったです。あなたも試せますよ。Androidアプリ{{androidUrl}}またはiOSアプリ{{iosUrl}}へのリンクをクリックしてください。",
+    "this_activity": "このアクティビティ",
+    "copied": "コピーしました！",
+    "copy_message": "メッセージをコピー",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "リソース",
+  "concerns": {
+    "acceptance": "受容",
+    "adolescent": "思春期",
+    "anger": "怒り",
+    "anxiety": "不安",
+    "depression": "うつ",
+    "eating-disorder": "摂食障害",
+    "grief": "悲しみ",
+    "parenting": "子育て",
+    "postpartum": "産後",
+    "ptsd": "PTSD",
+    "relationship": "関係",
+    "sexuality": "セクシュアリティ",
+    "sleep": "寝る",
+    "stress": "ストレス",
+    "workplace": "職場"
+  },
+  "types": {
+    "stories": "物語",
+    "articles": "記事",
+    "myths": "神話",
+    "tips": "ヒント"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

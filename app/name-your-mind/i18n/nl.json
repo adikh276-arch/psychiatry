@@ -1,0 +1,136 @@
+{
+  "app_title": "Noem je geest",
+  "intro": {
+    "title": "Ontmoet je geest",
+    "description": "Leer jezelf te distantiëren van overweldigende gedachten door je innerlijke stem een naam te geven.",
+    "benefits": {
+      "0": "Creëer mentale afstand",
+      "1": "Verminder de kracht van harde gedachten",
+      "2": "Let op gedachten zonder hen te zijn"
+    },
+    "duration": "2-3 minuten",
+    "view_past": "Bekijk eerdere inzendingen"
+  },
+  "history": {
+    "title": "Eerdere inschrijvingen",
+    "no_entries": "Nog geen inzendingen.",
+    "reflection_label": "Reflectie: {{text}}"
+  },
+  "complete": {
+    "title": "Activiteit voltooid",
+    "great_job": "Goed gedaan!",
+    "message": "Je hebt je geest succesvol een naam gegeven en wat ruimte gecreëerd tussen jezelf en je gedachten.",
+    "footer": "Onthoud: je hoeft niet elke gedachte die je geest je geeft te geloven."
+  },
+  "subtitles": {
+    "concept": "Perspectief",
+    "input_thought": "Kennisgeving",
+    "input_name": "Naam",
+    "practice": "Praktijk",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Een kleine verandering",
+      "example": "\"Ik ben niet goed genoeg\"",
+      "desc": "Wanneer een gedachte opduikt, voelt het vaak alsof het <0>jij</0> is. Maar wat als je een stap terug kon doen en het <1>notice</1> kon doen?"
+    },
+    "input_thought": {
+      "title": "Laten we beginnen met een echte gedachte",
+      "desc": "Wat is één gedachte die je de laatste tijd dwarszit?",
+      "placeholder": "Schrijf het precies zoals het bij je opkomt..."
+    },
+    "input_name": {
+      "title": "Creëer wat afstand",
+      "desc": "Geef je geest een naam om jezelf te helpen afstand te nemen van deze gedachten.",
+      "placeholder": "Of typ je eigen...",
+      "examples": {
+        "0": "De Criticus",
+        "1": "Overdenker",
+        "2": "Worry FM",
+        "3": "De Overdenkmachine",
+        "4": "De Innerlijke Criticus",
+        "5": "De Wat-Als Generator",
+        "6": "Dramaregisseur"
+      }
+    },
+    "practice": {
+      "title": "Probeer deze shift",
+      "instead_of": "In plaats van",
+      "try_saying": "Probeer het te zeggen",
+      "is_telling_me": "{{name}} vertelt me:",
+      "guide": "Herhaal deze zin zachtjes 4–5 keer voor jezelf in je eigen tempo.",
+      "button": "Ik ben er klaar voor"
+    },
+    "reflection": {
+      "title": "Wat viel je op?",
+      "desc": "Hoe voelde de gedachte nadat je het een naam had gegeven?",
+      "options": {
+        "0": "De gedachte voelde iets minder intens dan daarvoor",
+        "1": "Ik had het gevoel dat ik wat afstand had van die gedachte",
+        "2": "Het voelde nog steeds net zo sterk als voorheen",
+        "3": "Ik weet niet precies wat er veranderd is, als er al iets is veranderd"
+      },
+      "button": "Volledige reflectie"
+    }
+  },
+  "buttons": {
+    "continue": "Ga verder",
+    "restart": "Herstart"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Opnieuw beginnen",
+    "finish_exit": "Voltooien en afsluiten",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tijd om te voltooien",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Deel",
+    "share_progress": "Voortgang delen",
+    "inspire_others": "Inspireer anderen vandaag nog",
+    "share_text": "Ik heb deze activiteit {{activityName}} in TherapyMantra gedaan en ik vind het erg leuk. Jij kunt het ook doen, volg gewoon de link naar de Android-app {{androidUrl}} of de iOS-app {{iosUrl}}.",
+    "this_activity": "deze activiteit",
+    "copied": "Gekopieerd!",
+    "copy_message": "Bericht kopiëren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Geef je geest een naam",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Wanneer een gedachte opkomt, voelt het vaak alsof het",
+  "more": "Meer",
+  "breadcrumb": "paneermeel",
+  "previous_slide": "Vorige dia",
+  "next_slide": "Volgende dia",
+  "close": "Dichtbij",
+  "previous": "Vorig",
+  "more_pages": "Meer pagina's",
+  "pagination": "paginering",
+  "go_to_previous_page": "Ga naar de vorige pagina",
+  "go_to_next_page": "Ga naar de volgende pagina",
+  "toggle_sidebar": "Zijbalk in-/uitschakelen",
+  "oops_page_not_found": "Oeps! Pagina niet gevonden",
+  "return_to_home": "Terug naar de homepage",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

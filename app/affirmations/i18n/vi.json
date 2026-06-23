@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Bắt đầu lại",
+    "finish_exit": "Hoàn thành & Lối ra",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Đã đến lúc hoàn thành",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Chia sẻ",
+    "share_progress": "Chia sẻ tiến độ",
+    "inspire_others": "Hãy truyền cảm hứng cho người khác ngay hôm nay!",
+    "share_text": "Tôi đã thực hiện hoạt động này {{activityName}} trên TherapyMantra và thực sự rất thích, bạn cũng có thể làm được, chỉ cần theo liên kết đến ứng dụng Android {{androidUrl}} hoặc ứng dụng iOS {{iosUrl}}.",
+    "this_activity": "hoạt động này",
+    "copied": "Đã sao chép!",
+    "copy_message": "Sao chép tin nhắn",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Khi bạn cảm thấy cô đơn và buồn bã",
+      "affirmations": {
+        "0": "Tôi không cô đơn, ngay cả khi đôi lúc cảm thấy như vậy.",
+        "1": "Cảm xúc của tôi cần được quan tâm và đối xử nhẹ nhàng.",
+        "2": "Khoảnh khắc này sẽ không kéo dài mãi mãi.",
+        "3": "Tôi có quyền cần sự kết nối.",
+        "4": "Tôi có thể tự sưởi ấm cho chính mình ngay bây giờ."
+      }
+    },
+    "terrified": {
+      "label": "Khi bạn cảm thấy kinh hãi",
+      "affirmations": {
+        "0": "Tôi cảm thấy an toàn trong khoảnh khắc này.",
+        "1": "Sợ hãi là một cảm giác, không phải là một dự đoán.",
+        "2": "Tôi có thể vượt qua chuyện này từng chút một.",
+        "3": "Tôi không cần phải giải quyết mọi việc ngay bây giờ.",
+        "4": "Tôi mạnh mẽ hơn khoảnh khắc này."
+      }
+    },
+    "insignificant": {
+      "label": "Khi bạn cảm thấy mình không quan trọng",
+      "affirmations": {
+        "0": "Những khoảnh khắc nhỏ bé vẫn rất quan trọng.",
+        "1": "Tôi không cần phải chứng minh giá trị của mình.",
+        "2": "Tôi được phép chiếm chỗ.",
+        "3": "Sự tồn tại của tôi có ý nghĩa.",
+        "4": "Tôi thấy mình ổn rồi, không cần thay đổi gì nữa."
+      }
+    },
+    "overwhelmed": {
+      "label": "Khi bạn cảm thấy choáng ngợp",
+      "affirmations": {
+        "0": "Tôi không cần phải làm mọi việc cùng một lúc.",
+        "1": "Chỉ cần một bước nhỏ là đủ.",
+        "2": "Bạn có thể tạm dừng một chút.",
+        "3": "Tôi được phép nghỉ ngơi.",
+        "4": "Mọi việc sẽ trở nên dễ quản lý hơn."
+      }
+    },
+    "hopeless": {
+      "label": "Khi bạn cảm thấy tuyệt vọng",
+      "affirmations": {
+        "0": "Hôm nay tôi không cần câu trả lời.",
+        "1": "Sự thay đổi vẫn còn có thể xảy ra.",
+        "2": "Tôi đã từng vượt qua những ngày khó khăn trước đây.",
+        "3": "Tôi có thể ở lại đây tạm thời.",
+        "4": "Một điều gì đó nhẹ nhàng vẫn có thể diễn ra."
+      }
+    },
+    "conflicted": {
+      "label": "Khi bạn cảm thấy mâu thuẫn",
+      "affirmations": {
+        "0": "Bạn hoàn toàn có thể cảm thấy nhiều cảm xúc cùng một lúc.",
+        "1": "Tôi không cần sự rõ ràng ngay lập tức.",
+        "2": "Sự bối rối không có nghĩa là thất bại.",
+        "3": "Tôi có thể cho mình thời gian.",
+        "4": "Tôi tin tưởng bản thân mình có thể tự tìm ra lời giải."
+      }
+    },
+    "self-critical": {
+      "label": "Khi bạn quá khắt khe với bản thân",
+      "affirmations": {
+        "0": "Tôi có thể nói chuyện với chính mình bằng sự tử tế.",
+        "1": "Tôi không cần phải tự trừng phạt bản thân để trưởng thành.",
+        "2": "Những sai lầm không định nghĩa con người tôi.",
+        "3": "Tôi đang học hỏi, chứ không phải thất bại.",
+        "4": "Sự phát triển không đòi hỏi sự tàn nhẫn."
+      }
+    },
+    "out-of-place": {
+      "label": "Khi bạn cảm thấy lạc lõng trong xã hội",
+      "affirmations": {
+        "0": "Tôi được phép im lặng hoặc khác biệt.",
+        "1": "Tôi không cần phải bắt chước năng lượng của bất kỳ ai khác.",
+        "2": "Tôi thuộc về nơi này với chính con người tôi.",
+        "3": "Tôi có thể chiếm không gian một cách nhẹ nhàng.",
+        "4": "Tôi không làm điều này sai."
+      }
+    },
+    "unsafe": {
+      "label": "Khi bạn cảm thấy không an toàn khi ở gần người lạ",
+      "affirmations": {
+        "0": "Tôi có thể di chuyển theo tốc độ của riêng mình.",
+        "1": "Tôi có quyền bảo vệ ranh giới của mình.",
+        "2": "Tôi có thể giữ vững sự kết nối với cơ thể mình.",
+        "3": "Tôi được phép rời khỏi tình huống đó.",
+        "4": "Tôi có thể tự bảo vệ mình."
+      }
+    },
+    "pressured": {
+      "label": "Khi bạn cảm thấy áp lực trong công việc",
+      "affirmations": {
+        "0": "Giá trị của tôi không nằm ở năng suất làm việc.",
+        "1": "Tôi không cần phải liên tục chứng tỏ bản thân.",
+        "2": "Hôm nay, chỉ cần cố gắng hết sức là đủ.",
+        "3": "Làm từng việc một là được.",
+        "4": "Tôi còn hơn cả vai diễn của mình."
+      }
+    },
+    "face-the-day": {
+      "label": "Khi bạn không muốn đối mặt với ngày mới",
+      "affirmations": {
+        "0": "Tôi có thể chia nhỏ ngày hôm nay ra từng phần.",
+        "1": "Vượt qua được là đủ rồi.",
+        "2": "Tôi không cần động lực để bắt đầu.",
+        "3": "Việc xuất hiện một cách nhẹ nhàng vẫn rất quan trọng.",
+        "4": "Ngày hôm nay không định nghĩa con người tôi."
+      }
+    },
+    "future": {
+      "label": "Khi bạn lo lắng về tương lai của mình",
+      "affirmations": {
+        "0": "Tôi có thể quay trở lại hiện tại.",
+        "1": "Tôi sẽ xử lý mọi việc khi chúng phát sinh.",
+        "2": "Hôm nay tôi không cần sự chắc chắn.",
+        "3": "Tôi có khả năng thích nghi.",
+        "4": "Tôi có thể tin tưởng bản thân mình hơn một chút."
+      }
+    },
+    "stuck": {
+      "label": "Khi bạn cảm thấy bế tắc trong một vấn đề",
+      "affirmations": {
+        "0": "Bị mắc kẹt không có nghĩa là tôi có vấn đề gì.",
+        "1": "Tôi có thể tạm dừng mà không bỏ cuộc.",
+        "2": "Tôi không cần giải pháp ngay lập tức.",
+        "3": "Tôi có quyền cảm thấy không chắc chắn.",
+        "4": "Tôi vẫn đang tiếp tục di chuyển, dù chậm."
+      }
+    },
+    "compare": {
+      "label": "Khi bạn so sánh bản thân mình",
+      "affirmations": {
+        "0": "Hành trình của tôi là của riêng tôi.",
+        "1": "Tôi không cần phải cạnh tranh để chứng tỏ mình xứng đáng.",
+        "2": "Tôi được phép phát triển theo tốc độ của riêng mình.",
+        "3": "Thành công của người khác không thể xóa bỏ thành công của tôi.",
+        "4": "Tôi không hề bị tụt hậu."
+      }
+    },
+    "give-up": {
+      "label": "Khi bạn muốn bỏ cuộc",
+      "affirmations": {
+        "0": "Tôi không cần phải quyết định gì ngay bây giờ.",
+        "1": "Cảm giác này rồi sẽ qua đi.",
+        "2": "Tôi đã vượt qua nhiều chuyện hơn mình tưởng.",
+        "3": "Tôi có thể ở lại thêm một lát nữa.",
+        "4": "Tôi vẫn còn ở đây — và điều đó rất quan trọng."
+      }
+    }
+  },
+  "app_complete_title": "Cảm thấy được trao quyền",
+  "app_complete_message": "Những lời khẳng định hàng ngày giúp định hình lại tư duy của bạn. Hãy mang theo những suy nghĩ tích cực này với bạn ngay hôm nay.",
+  "app_duration": "2-3 phút",
+  "app_title": "Tư duy",
+  "app_description": "Thay đổi tư duy của bạn thông qua những lời khẳng định tích cực mỗi ngày.",
+  "intro": {
+    "description": "Những lời khẳng định tích cực mỗi ngày giúp định hình lại tư duy và xây dựng khả năng phục hồi cảm xúc. Hãy dành vài phút để tập trung vào những suy nghĩ tích cực và nói chuyện tử tế với chính mình.",
+    "benefits": {
+      "0": "Hãy tìm kiếm sự bình yên trong những khoảnh khắc khó khăn.",
+      "1": "Thách thức những mô hình suy nghĩ tiêu cực",
+      "2": "Xây dựng lòng tự thương và sức mạnh."
+    }
+  },
+  "affirmation_for": "Lời khẳng định cho",
+  "affirmation": "Sự khẳng định",
+  "language": "Ngôn ngữ",
+  "more": "Hơn",
+  "breadcrumb": "vụn bánh mì",
+  "previous_slide": "Trang trước",
+  "next_slide": "Trang chiếu tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "more_pages": "Thêm trang",
+  "pagination": "đánh số trang",
+  "go_to_previous_page": "Quay lại trang trước",
+  "go_to_next_page": "Chuyển sang trang tiếp theo",
+  "toggle_sidebar": "Ẩn/Hiện thanh bên",
+  "oops_page_not_found": "Ôi! Không tìm thấy trang!",
+  "return_to_home": "Trở về Trang chủ",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Bạn cảm thấy thế nào?",
+  "feelings_subheading": "Chọn cảm xúc bạn",
+  "lang": "dài"
+}

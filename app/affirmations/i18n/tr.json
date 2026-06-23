@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Baştan Başla",
+    "finish_exit": "Bitir ve Çık",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tamamlama süresi",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Paylaşmak",
+    "share_progress": "İlerlemenizi Paylaşın",
+    "inspire_others": "Bugün başkalarına ilham verin.",
+    "share_text": "Bu aktiviteyi ({{activityName}}) TherapyMantra'da yaptım ve gerçekten çok beğendim, siz de yapabilirsiniz, sadece Android uygulamasına ({{androidUrl}}) veya iOS uygulamasına ({{iosUrl}}) giden bağlantıyı takip edin.",
+    "this_activity": "bu aktivite",
+    "copied": "Kopyalandı!",
+    "copy_message": "Mesajı Kopyala",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Kendinizi yalnız ve üzgün hissettiğinizde",
+      "affirmations": {
+        "0": "Kendimi yalnız hissetsem bile yalnız değilim.",
+        "1": "Duygularım özen ve şefkati hak ediyor.",
+        "2": "Bu an sonsuza dek sürmeyecek.",
+        "3": "Bağlantıya ihtiyaç duyma hakkım var.",
+        "4": "Şu anda kendime sıcaklık sunabilirim."
+      }
+    },
+    "terrified": {
+      "label": "Korkuya kapıldığınızda",
+      "affirmations": {
+        "0": "Şu an güvendeyim.",
+        "1": "Korku bir duygudur, bir tahmin değil.",
+        "2": "Bunu adım adım, nefes nefese atlatabilirim.",
+        "3": "Şu anda her şeyi çözmek zorunda değilim.",
+        "4": "Ben bu anın üstesinden gelebilecek güçteyim."
+      }
+    },
+    "insignificant": {
+      "label": "Kendinizi önemsiz hissettiğinizde",
+      "affirmations": {
+        "0": "Küçük anlar bile önemlidir.",
+        "1": "Değerimi kanıtlamama gerek yok.",
+        "2": "Yer kaplamama izin veriliyor.",
+        "3": "Varoluşumun bir önemi var.",
+        "4": "Ben olduğum gibi yeterliyim."
+      }
+    },
+    "overwhelmed": {
+      "label": "Kendinizi bunalmış hissettiğinizde",
+      "affirmations": {
+        "0": "Her şeyi aynı anda yapmak zorunda değilim.",
+        "1": "Küçük bir adım bile yeterli.",
+        "2": "Duraklamak sorun değil.",
+        "3": "Dinlenmeme izin verildi.",
+        "4": "Bu durum tekrar kontrol altına alınabilir hale gelecek."
+      }
+    },
+    "hopeless": {
+      "label": "Umutsuz hissettiğinizde",
+      "affirmations": {
+        "0": "Bugün cevaplara ihtiyacım yok.",
+        "1": "Değişim hâlâ mümkün.",
+        "2": "Daha önce de zor günleri atlattım.",
+        "3": "Şimdilik burada kalabilirim.",
+        "4": "Hâlâ nazik bir şeyler ortaya çıkabilir."
+      }
+    },
+    "conflicted": {
+      "label": "Çelişkili hissettiğinizde",
+      "affirmations": {
+        "0": "Aynı anda birden fazla şey hissetmekte bir sakınca yok.",
+        "1": "Hemen açıklığa ihtiyacım yok.",
+        "2": "Kafa karışıklığı başarısızlık anlamına gelmez.",
+        "3": "Kendime zaman tanıyabilirim.",
+        "4": "Bunu çözebileceğime güveniyorum."
+      }
+    },
+    "self-critical": {
+      "label": "Kendinizi çok eleştirdiğinizde",
+      "affirmations": {
+        "0": "Kendime nazikçe konuşabiliyorum.",
+        "1": "Gelişmek için kendimi cezalandırmama gerek yok.",
+        "2": "Hatalarım kim olduğumu belirlemez.",
+        "3": "Öğreniyorum, başarısız olmuyorum.",
+        "4": "Gelişim, zulüm gerektirmez."
+      }
+    },
+    "out-of-place": {
+      "label": "Kendinizi sosyal olarak yabancı hissettiğinizde",
+      "affirmations": {
+        "0": "Sessiz kalmaya veya farklı olmaya hakkım var.",
+        "1": "Başka kimsenin enerjisine ayak uydurmak zorunda değilim.",
+        "2": "Ben olduğum gibi ait olduğum yere aitim.",
+        "3": "Yer kaplamayı nazikçe sağlayabilirim.",
+        "4": "Bunu yanlış yapmıyorum."
+      }
+    },
+    "unsafe": {
+      "label": "Yabancıların yanında kendinizi güvende hissetmediğinizde",
+      "affirmations": {
+        "0": "Kendi tempomda ilerleyebilirim.",
+        "1": "Sınırlarımı koruma hakkım var.",
+        "2": "Bedenimle bağlantımı koruyabiliyorum.",
+        "3": "Durumlardan uzaklaşmama izin veriliyor.",
+        "4": "Kendimi güvende tutabilirim."
+      }
+    },
+    "pressured": {
+      "label": "İş yerinde baskı altında hissettiğinizde",
+      "affirmations": {
+        "0": "Değerim üretkenliğimle ölçülmez.",
+        "1": "Kendimi sürekli kanıtlamak zorunda değilim.",
+        "2": "Bugün elimden gelenin en iyisini yapmak yeterli.",
+        "3": "Aynı anda sadece bir işe odaklanmak sorun değil.",
+        "4": "Ben rolümden çok daha fazlasıyım."
+      }
+    },
+    "face-the-day": {
+      "label": "Güne başlamak istemediğinizde",
+      "affirmations": {
+        "0": "Bugünü küçük parçalar halinde ele alabilirim.",
+        "1": "Atlatmak yeterli.",
+        "2": "Başlamak için motivasyona ihtiyacım yok.",
+        "3": "Nazikçe ortaya çıkmak da hâlâ önemlidir.",
+        "4": "Bu gün beni tanımlamaz."
+      }
+    },
+    "future": {
+      "label": "Geleceğiniz hakkında endişelendiğinizde",
+      "affirmations": {
+        "0": "Şimdiki zamana dönebilirim.",
+        "1": "Olaylar geliştikçe onlarla ilgileneceğim.",
+        "2": "Bugün kesinliğe ihtiyacım yok.",
+        "3": "Uyarlanma yeteneğine sahibim.",
+        "4": "Kendime biraz daha güvenebiliyorum artık."
+      }
+    },
+    "stuck": {
+      "label": "Bir sorun karşısında çıkmazda kaldığınızı hissettiğinizde",
+      "affirmations": {
+        "0": "Sıkışıp kalmış olmak, bozuk olduğum anlamına gelmez.",
+        "1": "Vazgeçmeden duraklayabilirim.",
+        "2": "Acil çözümlere ihtiyacım yok.",
+        "3": "Kendimi güvensiz hissetme hakkım var.",
+        "4": "Hâlâ hareket ediyorum, yavaş da olsa."
+      }
+    },
+    "compare": {
+      "label": "Kendinizi başkalarıyla karşılaştırdığınızda",
+      "affirmations": {
+        "0": "Benim yolculuğum bana özel.",
+        "1": "Değerli olmak için rekabet etmeme gerek yok.",
+        "2": "Kendi tempomda gelişmeme izin veriliyor.",
+        "3": "Başkasının başarısı benimkini silmez.",
+        "4": "Ben geride değilim."
+      }
+    },
+    "give-up": {
+      "label": "Vazgeçmek istediğinizde",
+      "affirmations": {
+        "0": "Şu an hiçbir şeye karar vermek zorunda değilim.",
+        "1": "Bu his geçecek.",
+        "2": "Tahmin ettiğimden çok daha fazlasını atlattım.",
+        "3": "Bir an daha kalabilirim.",
+        "4": "Hâlâ buradayım ve bu önemli."
+      }
+    }
+  },
+  "app_complete_title": "Kendini Güçlendirilmiş Hisset",
+  "app_complete_message": "Günlük onaylamalar zihniyetinizi yeniden şekillendirmeye yardımcı olur. Bu olumlu düşünceleri bugün yanınızda taşıyın.",
+  "app_duration": "2-3 dakika",
+  "app_title": "Zihniyet",
+  "app_description": "Günlük olumlamalarla zihniyetinizi yeniden şekillendirin.",
+  "intro": {
+    "description": "Günlük olumlamalar, zihniyetinizi yeniden şekillendirmenize ve duygusal dayanıklılığınızı geliştirmenize yardımcı olur. Olumlu düşüncelere odaklanmak için birkaç dakika ayırın ve kendinize nazikçe konuşun.",
+    "benefits": {
+      "0": "Zor anlarda huzuru bulun.",
+      "1": "Olumsuz düşünce kalıplarına meydan okuyun.",
+      "2": "Öz şefkat ve öz güç geliştirin."
+    }
+  },
+  "affirmation_for": "Onaylama",
+  "affirmation": "Onaylama",
+  "language": "Dil",
+  "more": "Daha",
+  "breadcrumb": "ekmek kırıntısı",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapalı",
+  "previous": "Öncesi",
+  "more_pages": "Daha fazla sayfa",
+  "pagination": "sayfalama",
+  "go_to_previous_page": "Önceki sayfaya git",
+  "go_to_next_page": "Sonraki sayfaya git",
+  "toggle_sidebar": "Kenar Çubuğunu Aç/Kapat",
+  "oops_page_not_found": "Ups! Sayfa bulunamadı.",
+  "return_to_home": "Ana sayfaya dön",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Nasıl hissediyorsun?",
+  "feelings_subheading": "Duyguyu seç",
+  "lang": "uzun"
+}

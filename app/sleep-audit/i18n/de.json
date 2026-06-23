@@ -1,0 +1,150 @@
+{
+  "app_title": "Schlafprüfung",
+  "app_subtitle": "Verstehe deine Ruhe",
+  "intro": {
+    "title": "Dein Schlafaudit",
+    "description": "Verstehe, was deinen Schlaf beeinflusst und wo kleine Veränderungen helfen können.",
+    "start_button": "Start Audit",
+    "history_button": "Frühere Prüfungen",
+    "more_insights": "Zurück zum Start"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Phase 01",
+      "title": "Wie ist dein Schlaf?",
+      "desc": "Wählen Sie welche aus, die sich in letzter Zeit für Sie wahr anfühlen"
+    },
+    "s2": {
+      "phase": "Phase 02",
+      "title": "Bewerten Sie Ihren typischen Ruhezustand",
+      "label": "Spezielle Bedenken?",
+      "placeholder": "Stress, Lärm, Scrollen..."
+    },
+    "s3": {
+      "score_label": "von 7",
+      "recommendations": {
+        "solid": "Deine Gewohnheiten sind solide! Kleine Anpassungen können es noch besser machen.",
+        "some": "Einige Störungen festgestellt. Gewohnheitsänderungen können schnell helfen.",
+        "many": "Mehrere Faktoren beeinflussen Ihren Schlaf. Wir können sie gemeinsam durchgehen."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Ich gehe jeden Abend zu sehr unterschiedlichen Zeiten ins Bett"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Meine Schlafumgebung ist weder dunkel, ruhig noch angenehm"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Ich scrolle direkt vor dem Schlafengehen auf meinem Handy."
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Ich trinke kurz vor dem Schlafengehen Koffein oder Alkohol"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Ich wache nachts auf und habe Schwierigkeiten, wieder einzuschlafen"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Mein Kopf rast mit Gedanken, wenn ich versuche zu schlafen"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Ich fühle mich nach einer Nacht Schlaf selten erfrischt"
+    }
+  },
+  "rating_labels": {
+    "0": "Sehr arm",
+    "1": "Armes",
+    "2": "Okay",
+    "3": "Gut",
+    "4": "Großartig"
+  },
+  "status_labels": {
+    "track": "Meistens auf der Strecke",
+    "disruptions": "Einige Störungen",
+    "attention": "Braucht Aufmerksamkeit"
+  },
+  "buttons": {
+    "continue": "Weitermachen",
+    "see_results": "Siehe Ergebnisse",
+    "preserve": "Erhaltung des Ergebnisses",
+    "preserving": "Bewahren...",
+    "back_to_intro": "Zurück zum Intro"
+  },
+  "history": {
+    "title": "Frühere Prüfungen",
+    "no_entries": "Es sind noch keine Audits erhalten.",
+    "score_label": "von 7"
+  },
+  "complete": {
+    "title": "Prüfung abgeschlossen",
+    "message": "Dein Schlafwert ist {{score}}/7. Das Verständnis dieser Muster ist der erste Schritt zu einer tieferen, erholsameren Ruhe."
+  },
+  "toasts": {
+    "save_success": "Prüfung gerettet",
+    "save_error": "Prüfung wurde nicht gespeichert",
+    "auth_error": "Authentifizierungssitzung fehlt oder Datenbank nicht konfiguriert"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Von vorne beginnen",
+    "finish_exit": "Ziel & Ausgang",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Zeit zum Fertigstellen",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Aktie",
+    "share_progress": "Fortschritt teilen",
+    "inspire_others": "Inspiriere heute andere.",
+    "share_text": "Ich habe diese Aktivität {{activityName}} in TherapyMantra ausprobiert und finde sie richtig toll. Du kannst das auch machen! Folge einfach dem Link zur Android-App {{androidUrl}} oder zur iOS-App {{iosUrl}}.",
+    "this_activity": "diese Aktivität",
+    "copied": "Kopiert!",
+    "copy_message": "Nachricht kopieren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Verstehe deine Ruhe",
+  "more": "Mehr",
+  "breadcrumb": "Brotkrumen",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Vorherige",
+  "more_pages": "Weitere Seiten",
+  "pagination": "Pagination",
+  "go_to_previous_page": "Zur vorherigen Seite",
+  "go_to_next_page": "Weiter zur nächsten Seite",
+  "toggle_sidebar": "Seitenleiste ein-/ausblenden",
+  "oops_page_not_found": "Hoppla! Seite nicht gefunden",
+  "return_to_home": "Zurück zur Startseite",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "lang",
+  "loading": "Ladeverlauf..."
+}

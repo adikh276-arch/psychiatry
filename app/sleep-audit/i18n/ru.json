@@ -1,0 +1,150 @@
+{
+  "app_title": "Аудит сна",
+  "app_subtitle": "Поймите свой отдых",
+  "intro": {
+    "title": "Ваш аудит сна",
+    "description": "Поймите, что влияет на ваш сон и где небольшие изменения могут помочь.",
+    "start_button": "Начните аудит",
+    "history_button": "Прошлые аудиты",
+    "more_insights": "Вернуться к началу"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Фаза 01",
+      "title": "Как у тебя сон?",
+      "desc": "Выберите те, которые сейчас вам действительно нравятся"
+    },
+    "s2": {
+      "phase": "Фаза 02",
+      "title": "Оцените свой типичный отдых",
+      "label": "Конкретные опасения?",
+      "placeholder": "Стресс, шум, прокрутка..."
+    },
+    "s3": {
+      "score_label": "из 7",
+      "recommendations": {
+        "solid": "Твои привычки крепкие! Небольшие изменения могут сделать его ещё лучше.",
+        "some": "Обнаружены некоторые сбои. Изменения привычек могут помочь быстро.",
+        "many": "На ваш сон влияет несколько факторов. Мы можем проработать их вместе."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Я ложусь спать в очень разное время каждую ночь"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Моя среда сна не тёмная, тихая и не комфортная"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Я листаю телефон прямо перед сном"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Кофеин или алкоголь я пью почти перед сном"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Я просыпаюсь ночью и с трудом снова усну"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Мой разум мчатся мыслями, когда я пытаюсь уснуть"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Я редко чувствую себя бодрой после ночного сна"
+    }
+  },
+  "rating_labels": {
+    "0": "Очень плохо",
+    "1": "Бедный",
+    "2": "Ладно",
+    "3": "Хорошо",
+    "4": "Отлично"
+  },
+  "status_labels": {
+    "track": "В основном на трассе",
+    "disruptions": "Некоторые сбои",
+    "attention": "Требует внимания"
+  },
+  "buttons": {
+    "continue": "Продолжайте",
+    "see_results": "См. результаты",
+    "preserve": "Сохранить результат",
+    "preserving": "Сохраняя...",
+    "back_to_intro": "Назад к введению"
+  },
+  "history": {
+    "title": "Прошлые аудиты",
+    "no_entries": "Пока не сохранились аудиты.",
+    "score_label": "из 7"
+  },
+  "complete": {
+    "title": "Аудит завершен",
+    "message": "Ваш показатель сна — {{score}}/7. Понимание этих закономерностей — первый шаг к более глубокому и восстанавливающему сну."
+  },
+  "toasts": {
+    "save_success": "Аудит сохранён",
+    "save_error": "Не удалось спасти аудит",
+    "auth_error": "Отсутствует сессия аутентификации или база данных не настроена"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Начать заново",
+    "finish_exit": "Финиш и выход",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Время выполнения",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Делиться",
+    "share_progress": "Поделиться прогрессом",
+    "inspire_others": "Вдохновите других сегодня!",
+    "share_text": "Я выполняла это упражнение {{activityName}} в TherapyMantra и мне это очень понравилось, вы тоже можете попробовать, просто перейдите по ссылке на приложение для Android {{androidUrl}} или iOS {{iosUrl}}.",
+    "this_activity": "эта деятельность",
+    "copied": "Скопировано!",
+    "copy_message": "Скопировать сообщение",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Поймите, что такое отдых.",
+  "more": "Более",
+  "breadcrumb": "хлебные крошки",
+  "previous_slide": "Предыдущий слайд",
+  "next_slide": "Следующий слайд",
+  "close": "Закрывать",
+  "previous": "Предыдущий",
+  "more_pages": "Больше страниц",
+  "pagination": "нумерация страниц",
+  "go_to_previous_page": "Перейти на предыдущую страницу",
+  "go_to_next_page": "Перейти на следующую страницу",
+  "toggle_sidebar": "Переключить боковую панель",
+  "oops_page_not_found": "Ой! Страница не найдена.",
+  "return_to_home": "Вернуться на главную",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "Долго",
+  "loading": "История загрузки..."
+}

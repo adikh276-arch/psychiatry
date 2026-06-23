@@ -1,0 +1,150 @@
+{
+  "app_title": "Audit del sonno",
+  "app_subtitle": "Comprendi il tuo riposo",
+  "intro": {
+    "title": "La tua revisione del sonno",
+    "description": "Capisci cosa sta influenzando il tuo sonno e dove piccoli cambiamenti possono aiutare.",
+    "start_button": "Inizio Audit",
+    "history_button": "Audit passati",
+    "more_insights": "Ritorno all'inizio"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Fase 01",
+      "title": "Com'è stato il tuo sonno?",
+      "desc": "Seleziona quelli che ultimamente ti sembrano più adatti"
+    },
+    "s2": {
+      "phase": "Fase 02",
+      "title": "Valuta il tuo riposo tipico",
+      "label": "Preoccupazioni specifiche?",
+      "placeholder": "Stress, rumore, scorrimento..."
+    },
+    "s3": {
+      "score_label": "di 7",
+      "recommendations": {
+        "solid": "Le tue abitudini sono solide! Piccole modifiche possono renderlo ancora migliore.",
+        "some": "Alcune interruzioni rilevate. I cambiamenti di abitudine possono aiutare rapidamente.",
+        "many": "Diversi fattori influenzano il tuo sonno. Possiamo affrontarli insieme."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Vado a letto in orari molto diversi ogni sera"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Il mio ambiente di sonno non è buio, silenzioso o confortevole"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Scorro sul telefono proprio prima di dormire"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Bevo caffeina o alcol vicino all'ora di andare a letto"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Mi sveglio durante la notte e faccio fatica a riaddormentarmi"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "La mia mente corre di pensieri quando cerco di dormire"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Raramente mi sento riposato dopo una notte di sonno"
+    }
+  },
+  "rating_labels": {
+    "0": "Molto povero",
+    "1": "Poveri",
+    "2": "Ok",
+    "3": "Bene",
+    "4": "Ottimo"
+  },
+  "status_labels": {
+    "track": "Per lo più in traccia",
+    "disruptions": "Alcune interruzioni",
+    "attention": "Ha bisogno di attenzione"
+  },
+  "buttons": {
+    "continue": "Continua",
+    "see_results": "Vedi Risultati",
+    "preserve": "Preserva il risultato",
+    "preserving": "Preservare...",
+    "back_to_intro": "Ritorno all'introduzione"
+  },
+  "history": {
+    "title": "Audit passati",
+    "no_entries": "Nessun audit è ancora stato conservato.",
+    "score_label": "di 7"
+  },
+  "complete": {
+    "title": "Audit completato",
+    "message": "Il tuo punteggio di sonno è {{score}}/7. Comprendere questi schemi è il primo passo verso un riposo più profondo e ristoratore."
+  },
+  "toasts": {
+    "save_success": "Audit salvato",
+    "save_error": "Non è riuscito a salvare l'audit",
+    "auth_error": "Sessione di autenticazione mancante o DB non configurato"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ricominciare",
+    "finish_exit": "Termina ed esci",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo di completamento",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Condividere",
+    "share_progress": "Condividi i progressi",
+    "inspire_others": "Ispira gli altri oggi",
+    "share_text": "Ho svolto questa attività {{activityName}} su TherapyMantra e mi è piaciuta molto. Puoi farlo anche tu, basta seguire il link all'app Android {{androidUrl}} o all'app iOS {{iosUrl}}.",
+    "this_activity": "questa attività",
+    "copied": "Copiato!",
+    "copy_message": "Copia messaggio",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Comprendi il tuo riposo",
+  "more": "Di più",
+  "breadcrumb": "pangrattato",
+  "previous_slide": "diapositiva precedente",
+  "next_slide": "diapositiva successiva",
+  "close": "Vicino",
+  "previous": "Precedente",
+  "more_pages": "Altre pagine",
+  "pagination": "paginazione",
+  "go_to_previous_page": "Vai alla pagina precedente",
+  "go_to_next_page": "Vai alla pagina successiva",
+  "toggle_sidebar": "Attiva/disattiva la barra laterale",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Torna alla home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "lunga",
+  "loading": "Sto caricando la cronologia..."
+}

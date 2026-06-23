@@ -1,0 +1,150 @@
+{
+  "app_title": "தூக்க தணிக்கை",
+  "app_subtitle": "உங்கள் ஓய்வைப் புரிந்து கொள்ளுங்கள்",
+  "intro": {
+    "title": "உங்கள் தூக்க தணிக்கை",
+    "description": "உங்கள் தூக்கத்தை எது பாதிக்கிறது மற்றும் சிறிய மாற்றங்கள் எங்கு உதவக்கூடும் என்பதைப் புரிந்து கொள்ளுங்கள்.",
+    "start_button": "தணிக்கையைத் தொடங்குங்கள்",
+    "history_button": "கடந்தகால தணிக்கைகள்",
+    "more_insights": "தொடக்கத்திற்குத் திரும்பு"
+  },
+  "screens": {
+    "s1": {
+      "phase": "கட்டம் 01",
+      "title": "உங்கள் தூக்கம் எப்படி இருந்தது?",
+      "desc": "சமீபத்தில் உங்களுக்கு உண்மையாக உணரும் ஏதேனும் ஒன்றைத் தேர்ந்தெடுக்கவும்"
+    },
+    "s2": {
+      "phase": "கட்டம் 02",
+      "title": "உங்கள் வழக்கமான ஓய்வை மதிப்பிடுங்கள்",
+      "label": "குறிப்பிட்ட கவலைகள்?",
+      "placeholder": "மன அழுத்தம், சத்தம், ஸ்க்ரோலிங்..."
+    },
+    "s3": {
+      "score_label": "7",
+      "recommendations": {
+        "solid": "உங்கள் பழக்கவழக்கங்கள் திடமானவை! சிறிய மாற்றங்கள் அதை இன்னும் சிறப்பாக மாற்றும்.",
+        "some": "சில இடையூறுகள் கண்டறியப்பட்டன. பழக்கவழக்க மாற்றங்கள் விரைவாக உதவும்.",
+        "many": "பல காரணிகள் உங்கள் தூக்கத்தை பாதிக்கின்றன. நாம் ஒன்றாக வேலை செய்யலாம்."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "நான் ஒவ்வொரு இரவும் வெவ்வேறு நேரங்களில் படுக்கைக்குச் செல்கிறேன்"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "எனது தூக்க சூழல் இருண்டதாகவோ, அமைதியாகவோ அல்லது வசதியாகவோ இல்லை"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "நான் தூங்குவதற்கு முன்பே என் தொலைபேசியில் உருட்டுகிறேன்"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "படுக்கைக்கு அருகில் எனக்கு காஃபின் அல்லது ஆல்கஹால் உள்ளது"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "நான் இரவில் எழுந்து மீண்டும் தூங்க போராடுகிறேன்"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "நான் தூங்க முயற்சிக்கும்போது என் மனம் எண்ணங்களுடன் ஓடுகிறது"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "ஒரு இரவு தூக்கத்திற்குப் பிறகு நான் அரிதாகவே புத்துணர்ச்சியை உணர்கிறேன்"
+    }
+  },
+  "rating_labels": {
+    "0": "மிகவும் ஏழை",
+    "1": "ஏழை",
+    "2": "சரி",
+    "3": "நல்லது",
+    "4": "கிரேட்"
+  },
+  "status_labels": {
+    "track": "பெரும்பாலும் பாதையில்",
+    "disruptions": "சில இடையூறுகள்",
+    "attention": "கவனம் தேவை"
+  },
+  "buttons": {
+    "continue": "தொடரவும்",
+    "see_results": "முடிவுகளைக் காண்க",
+    "preserve": "முடிவைப் பாதுகாக்கவும்",
+    "preserving": "பாதுகாக்கிறது...",
+    "back_to_intro": "அறிமுகத்திற்குத் திரும்பு"
+  },
+  "history": {
+    "title": "கடந்தகால தணிக்கைகள்",
+    "no_entries": "தணிக்கைகள் எதுவும் இதுவரை பாதுகாக்கப்படவில்லை.",
+    "score_label": "7"
+  },
+  "complete": {
+    "title": "கணக்காய்வு முடிந்தது",
+    "message": "உங்கள் தூக்க மதிப்பெண் {{score}}/7 ஆகும். இந்த வடிவங்களைப் புரிந்துகொள்வது ஆழமான, அதிக மறுசீரமைப்பு ஓய்வுக்கான முதல் படியாகும்."
+  },
+  "toasts": {
+    "save_success": "தணிக்கை சேமிக்கப்பட்டது",
+    "save_error": "தணிக்கையைச் சேமிப்பதில் தோல்வியுற்றது",
+    "auth_error": "அங்கீகார அமர்வு காணவில்லை அல்லது DB உள்ளமைக்கப்படவில்லை"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "மீண்டும் தொடங்கு",
+    "finish_exit": "முடித்துவிட்டு வெளியேறவும்",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "முடிக்க வேண்டிய நேரம்",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "பகிர்",
+    "share_progress": "முன்னேற்றத்தைப் பகிரவும்",
+    "inspire_others": "இன்று மற்றவர்களுக்கு ஊக்கமளியுங்கள்",
+    "share_text": "நான் தெரபிமந்த்ராவில் இந்த {{activityName}} செயல்பாட்டைச் செய்துள்ளேன், அது எனக்கு மிகவும் பிடித்திருக்கிறது. நீங்களும் இதைச் செய்யலாம், ஆண்ட்ராய்டு செயலி {{androidUrl}} அல்லது ஐஓஎஸ் செயலி {{iosUrl}} இணைப்பைப் பின்தொடரவும்.",
+    "this_activity": "இந்த செயல்பாடு",
+    "copied": "நகலெடுக்கப்பட்டது!",
+    "copy_message": "செய்தியை நகலெடுக்கவும்",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "உங்கள் ஓய்வைப் புரிந்து கொள்ளுங்கள்",
+  "more": "மேலும்",
+  "breadcrumb": "ரொட்டித்தூள்",
+  "previous_slide": "முந்தைய ஸ்லைடு",
+  "next_slide": "அடுத்த ஸ்லைடு",
+  "close": "அருகில்",
+  "previous": "முந்தைய",
+  "more_pages": "மேலும் பக்கங்கள்",
+  "pagination": "பக்க எண்",
+  "go_to_previous_page": "முந்தைய பக்கத்திற்குச் செல்லவும்",
+  "go_to_next_page": "அடுத்த பக்கத்திற்குச் செல்லவும்",
+  "toggle_sidebar": "பக்கப் பட்டியை மாற்று",
+  "oops_page_not_found": "அச்சச்சோ! பக்கம் காணப்படவில்லை",
+  "return_to_home": "முகப்புக்குத் திரும்பு",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2ஈ",
+  "lang": "நீண்ட",
+  "loading": "ஏற்றுதல் வரலாறு..."
+}

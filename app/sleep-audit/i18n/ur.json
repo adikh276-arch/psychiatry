@@ -1,0 +1,150 @@
+{
+  "app_title": "نیند کا آڈٹ",
+  "app_subtitle": "اپنے آرام کو سمجھو",
+  "intro": {
+    "title": "آپ کا نیند کا آڈٹ",
+    "description": "سمجھیں کہ آپ کی نیند پر کیا اثر پڑ رہا ہے اور چھوٹی تبدیلیاں کہاں مددگار ثابت ہو سکتی ہیں۔",
+    "start_button": "آڈٹ شروع کریں",
+    "history_button": "ماضی کے آڈٹس",
+    "more_insights": "واپس شروع کرنے کی طرف"
+  },
+  "screens": {
+    "s1": {
+      "phase": "مرحلہ 01",
+      "title": "آپ کی نیند کیسی رہی؟",
+      "desc": "کوئی بھی منتخب کریں جو حال ہی میں آپ کے لیے درست محسوس ہو"
+    },
+    "s2": {
+      "phase": "مرحلہ 02",
+      "title": "اپنے معمول کے آرام کی درجہ بندی کریں",
+      "label": "کیا کوئی خاص خدشات ہیں؟",
+      "placeholder": "دباؤ، شور، اسکرولنگ..."
+    },
+    "s3": {
+      "score_label": "7 میں سے",
+      "recommendations": {
+        "solid": "آپ کی عادات مضبوط ہیں! چھوٹی چھوٹی تبدیلیاں اسے اور بھی بہتر بنا سکتی ہیں۔",
+        "some": "کچھ خلل کا پتہ چلا۔ عادات میں تبدیلی جلدی مددگار ثابت ہو سکتی ہے۔",
+        "many": "کئی عوامل آپ کی نیند پر اثر انداز ہو رہے ہیں۔ ہم مل کر ان پر کام کر سکتے ہیں۔"
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "میں ہر رات بہت مختلف اوقات پر سوتا ہوں"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "میرا نیند کا ماحول نہ اندھیرا، نہ خاموش، اور نہ ہی آرام دہ ہے"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "میں سونے سے پہلے اپنے فون پر سکرول کرتا ہوں"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "میرے پاس سونے کے وقت کے قریب کیفین یا شراب ہوتی ہے"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "میں رات کو جاگتا ہوں اور دوبارہ سونے میں مشکل محسوس کرتا ہوں"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "جب میں سونے کی کوشش کرتا ہوں تو میرا ذہن خیالات سے بھرا ہوا ہے"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "میں شاذ و نادر ہی رات کی نیند کے بعد تازہ دم محسوس کرتا ہوں"
+    }
+  },
+  "rating_labels": {
+    "0": "بہت غریب",
+    "1": "غریب",
+    "2": "ٹھیک ہے",
+    "3": "اچھا",
+    "4": "زبردست"
+  },
+  "status_labels": {
+    "track": "زیادہ تر ٹریک پر",
+    "disruptions": "کچھ خلل",
+    "attention": "توجہ کی ضرورت ہے"
+  },
+  "buttons": {
+    "continue": "جاری رکھیں",
+    "see_results": "نتائج دیکھیں",
+    "preserve": "محفوظ نتیجہ",
+    "preserving": "محفوظ رکھنا...",
+    "back_to_intro": "تعارف کی طرف واپس"
+  },
+  "history": {
+    "title": "ماضی کے آڈٹس",
+    "no_entries": "ابھی تک کوئی آڈٹ محفوظ نہیں ہوا۔",
+    "score_label": "7 میں سے"
+  },
+  "complete": {
+    "title": "آڈٹ مکمل",
+    "message": "آپ کا نیند کا اسکور {{score}}/7 ہے۔ ان نمونوں کو سمجھنا گہرے، زیادہ بحالی بخش آرام کی طرف پہلا قدم ہے۔"
+  },
+  "toasts": {
+    "save_success": "آڈٹ محفوظ کر لیا گیا",
+    "save_error": "آڈٹ محفوظ کرنے میں ناکام رہا",
+    "auth_error": "آتھ سیشن غائب ہے یا ڈیٹا بیس کنفیگر نہیں ہے"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "دوبارہ شروع کریں۔",
+    "finish_exit": "ختم کریں اور باہر نکلیں۔",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "مکمل ہونے کا وقت",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "شیئر کریں۔",
+    "share_progress": "پیش رفت کا اشتراک کریں",
+    "inspire_others": "آج دوسروں کو متاثر کریں۔",
+    "share_text": "میں نے یہ {{activityName}} TherapyMantra میں کیا ہے اور واقعی اس سے لطف اندوز ہوں آپ بھی کر سکتے ہیں بس android ایپ {{androidUrl}} یا ios ایپ {{iosUrl}} کے لنک پر عمل کریں۔",
+    "this_activity": "اس سرگرمی",
+    "copied": "نقل کیا گیا!",
+    "copy_message": "پیغام کاپی کریں۔",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "اپنے آرام کو سمجھیں۔",
+  "more": "مزید",
+  "breadcrumb": "بریڈ کرمب",
+  "previous_slide": "پچھلی سلائیڈ",
+  "next_slide": "اگلی سلائیڈ",
+  "close": "بند",
+  "previous": "پچھلا",
+  "more_pages": "مزید صفحات",
+  "pagination": "صفحہ بندی",
+  "go_to_previous_page": "پچھلے صفحے پر جائیں۔",
+  "go_to_next_page": "اگلے صفحے پر جائیں۔",
+  "toggle_sidebar": "سائڈبار کو ٹوگل کریں۔",
+  "oops_page_not_found": "افوہ! صفحہ نہیں ملا",
+  "return_to_home": "گھر واپس جائیں۔",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "لمبا",
+  "loading": "لوڈنگ ہسٹری..."
+}

@@ -1,0 +1,115 @@
+{
+  "app_title": "Biztonságos tér",
+  "nav": {
+    "0": "Bejelentkezés",
+    "1": "Óvatosan visszahívni",
+    "2": "Megfigyelés",
+    "3": "Jelen maradás",
+    "4": "Előrelépés"
+  },
+  "s1": {
+    "title": "Keressünk egy helyet, ami rendben érzi magát",
+    "description": {
+      "0": "Mielőtt elkezdenénk, szánj egy pillanatot, hogy ellenőrizd, mi van...",
+      "1": "Hogy érzed magad most?",
+      "2": "Nem egy tökéletes \"biztonságos helyet\" keresünk. Csak valami, ami legalább egy kicsit nyugodtnak vagy rendben van."
+    },
+    "placeholder": "Hogy érzed magad most?",
+    "button": "Kezdje el a vizualizációt"
+  },
+  "s2": {
+    "title": "Óvatosan juttasd eszébe",
+    "description": {
+      "0": "Gondolj egy helyre, ahol akár egy kicsit is nyugodtnak érezted magad... vagy egy helyet, amit bárcsak létezne.",
+      "1": "Most pedig tedd magad oda...",
+      "2": "Ülsz, állsz vagy fekszel?"
+    },
+    "button": "Folytatás"
+  },
+  "s3": {
+    "title": "Nézz körül lassan.",
+    "description": {
+      "0": "Nézz körül...",
+      "1": "Mi az egyetlen dolog, amit látsz?",
+      "2": "Most figyelj egy hangot... Mit hallasz?"
+    },
+    "button": "Folytatás"
+  },
+  "s4": {
+    "title": "Maradj ezzel",
+    "description": {
+      "0": "Mi az, ami ebben a helyben egy kicsit biztonságosnak vagy rendben van?",
+      "1": "Ahogy észrevetted, hogy...",
+      "2": "A légzésedre is figyelj."
+    },
+    "breathe": "Lélegezz",
+    "notice": "Ha a képzelés nehéznek tűnik, gondolj csak erre a helyre.",
+    "button": "Folytatás"
+  },
+  "s5": {
+    "title": "Vidd magaddal ezt",
+    "description": {
+      "0": "Figyeld meg, hogyan érzed magad most. Még egy kis műszak is számít.",
+      "1": "Nézd meg, hogy akár 5%-át is magaddal hordozod ennek az érzésnek."
+    },
+    "placeholder": "Hogy érzed magad most?",
+    "button": "Teljes szekció"
+  },
+  "complete": {
+    "title": "A szekció befejezve",
+    "message": "Ez a biztonságos hely mindig elérhető számodra. Bármikor visszatérhetsz ide, amikor szükséged van egy kis nyugalomra."
+  },
+  "common": {
+    "get_started": "Kezdj el",
+    "start_over": "Kezdj újrakezdeni",
+    "finish_exit": "Befejezés és kilépés",
+    "well_done": "Szép munka!",
+    "completion_message": "Sikeresen teljesítetted ezt a feladatot. Szánj egy pillanatot, hogy értékeld a fejlődésedet.",
+    "time_to_complete": "Ideje befejezni",
+    "back": "Hátra",
+    "next": "Következő",
+    "save": "Mentés",
+    "loading": "Betöltés...",
+    "share": "Megosztás",
+    "share_progress": "Ossza meg a haladást",
+    "inspire_others": "Inspirálj másokat ma",
+    "share_text": "Ezt {{activityName}} csináltam már a TherapyMantrában, és nagyon élveztem, te is megcsinálhatod, csak kövesd az android alkalmazás {{androidUrl}} vagy az iOS alkalmazás {{iosUrl}} linkjét",
+    "this_activity": "ez a tevékenység",
+    "copied": "Másolva!",
+    "copy_message": "Másold az üzenetet",
+    "yes": "Igen",
+    "no": "Nem",
+    "date": "Dátum",
+    "continue": "Folytatás",
+    "step_of": "{{current}} lépés a {{total}}",
+    "round_of": "{{current}} kör a {{total}}",
+    "phase_label": "Fázis",
+    "rounds_selector": "{{count}} Fordulók",
+    "instruction_ready": "Állítsd be a köreidet, és kezdd meg a játékot",
+    "instruction_running": "Kövesd a kört, hogy szabályozd a légzésed"
+  },
+  "app_description": "Biztonságos tér",
+  "more": "További",
+  "breadcrumb": "morzsa",
+  "previous_slide": "Előző dia",
+  "next_slide": "Következő dia",
+  "close": "Zárt",
+  "previous": "Korábbi",
+  "more_pages": "További oldalak",
+  "pagination": "Lapozás",
+  "go_to_previous_page": "Menj az előző oldalra",
+  "go_to_next_page": "Menj a következő oldalra",
+  "toggle_sidebar": "Kapcsoló oldalsáv",
+  "oops_page_not_found": "Hoppá! Oldal nem talált meg",
+  "return_to_home": "Hazatérés",
+  "phase_label": "Fázis",
+  "instruction_ready": "Állítsd be a köreidet, és kezdd meg a játékot",
+  "instruction_running": "Kövesd a kört, hogy szabályozd a légzésed",
+  "round_x_of_y": "{{current}} kör a {{total}}",
+  "rounds_selector": "{{count}} Fordulók",
+  "yes": "Igen",
+  "no": "Nem",
+  "date": "Dátum",
+  "continue": "Folytatás",
+  "lang": "hosszú"
+}

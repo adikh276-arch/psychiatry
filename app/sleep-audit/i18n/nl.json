@@ -1,0 +1,150 @@
+{
+  "app_title": "Slaapcontrole",
+  "app_subtitle": "Begrijp je rust",
+  "intro": {
+    "title": "Jouw slaapcontrole",
+    "description": "Begrijp wat je slaap beïnvloedt en waar kleine veranderingen kunnen helpen.",
+    "start_button": "Start Audit",
+    "history_button": "Eerdere audits",
+    "more_insights": "Terug naar de start"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Fase 01",
+      "title": "Hoe is je slaap geweest?",
+      "desc": "Kies er een die de laatste tijd voor jou klopt"
+    },
+    "s2": {
+      "phase": "Fase 02",
+      "title": "Beoordeel je gemiddelde rust",
+      "label": "Specifieke zorgen?",
+      "placeholder": "Stress, lawaai, scrollen..."
+    },
+    "s3": {
+      "score_label": "van 7",
+      "recommendations": {
+        "solid": "Je habits zijn solide! Kleine aanpassingen kunnen het nog beter maken.",
+        "some": "Enkele verstoringen gedetecteerd. Gewoonteveranderingen kunnen snel helpen.",
+        "many": "Verschillende factoren beïnvloeden je slaap. We kunnen er samen doorheen werken."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Ik ga elke avond op heel verschillende tijden naar bed"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Mijn slaapomgeving is niet donker, stil of comfortabel"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Ik scroll op mijn telefoon vlak voordat ik ga slapen"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Ik drink cafeïne of alcohol vlak voor bedtijd"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Ik word 's nachts wakker en heb moeite om weer in slaap te vallen"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Mijn gedachten razen als ik probeer te slapen"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Ik voel me zelden verfrist na een nacht slaap"
+    }
+  },
+  "rating_labels": {
+    "0": "Heel arm",
+    "1": "Arme",
+    "2": "Oké",
+    "3": "Goed",
+    "4": "Geweldig"
+  },
+  "status_labels": {
+    "track": "Grotendeels op de baan",
+    "disruptions": "Enkele verstoringen",
+    "attention": "Heeft aandacht nodig"
+  },
+  "buttons": {
+    "continue": "Ga verder",
+    "see_results": "Zie resultaten",
+    "preserve": "Behoud Resultaat",
+    "preserving": "Bewaren...",
+    "back_to_intro": "Terug naar de intro"
+  },
+  "history": {
+    "title": "Eerdere audits",
+    "no_entries": "Er zijn nog geen audits bewaard gebleven.",
+    "score_label": "van 7"
+  },
+  "complete": {
+    "title": "Audit voltooid",
+    "message": "Je slaapscore is {{score}}/7. Het begrijpen van deze patronen is de eerste stap naar diepere, meer herstellende rust."
+  },
+  "toasts": {
+    "save_success": "Audit opgeslagen",
+    "save_error": "Audit niet opgeslagen",
+    "auth_error": "Auth-sessie ontbreekt of database niet geconfigureerd"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Opnieuw beginnen",
+    "finish_exit": "Voltooien en afsluiten",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tijd om te voltooien",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Deel",
+    "share_progress": "Voortgang delen",
+    "inspire_others": "Inspireer anderen vandaag nog",
+    "share_text": "Ik heb deze activiteit {{activityName}} in TherapyMantra gedaan en ik vind het erg leuk. Jij kunt het ook doen, volg gewoon de link naar de Android-app {{androidUrl}} of de iOS-app {{iosUrl}}.",
+    "this_activity": "deze activiteit",
+    "copied": "Gekopieerd!",
+    "copy_message": "Bericht kopiëren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Begrijp je rust",
+  "more": "Meer",
+  "breadcrumb": "paneermeel",
+  "previous_slide": "Vorige dia",
+  "next_slide": "Volgende dia",
+  "close": "Dichtbij",
+  "previous": "Vorig",
+  "more_pages": "Meer pagina's",
+  "pagination": "paginering",
+  "go_to_previous_page": "Ga naar de vorige pagina",
+  "go_to_next_page": "Ga naar de volgende pagina",
+  "toggle_sidebar": "Zijbalk in-/uitschakelen",
+  "oops_page_not_found": "Oeps! Pagina niet gevonden",
+  "return_to_home": "Terug naar de homepage",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "lang",
+  "loading": "Laadgeschiedenis..."
+}

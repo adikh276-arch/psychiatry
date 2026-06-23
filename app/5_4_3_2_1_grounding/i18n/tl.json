@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Sama-sama tayong magpahinga.\n\nSa susunod na minuto, wala kang kailangang lutasin, ayusin, o sagutin. Hayaan mo na lang na mabagal ang iyong sarili.\n\nUmupo nang komportable, ilagay ang iyong mga paa sa lupa kung maaari, at dahan-dahang huminga nang mabagal sa... at dahan-dahang huminga.\n\nIto na ang iyong oras upang i-reset at muling kumonekta sa kasalukuyan.",
+      "button": "Magsimula"
+    },
+    "1": {
+      "heading": "5 Mga Bagay na Maaari Mong Makita",
+      "body": "Dahan-dahang tumingin sa paligid mo. Hayaang malumanay na gumalaw ang iyong mga mata sa espasyo. Pansinin ang mga kulay, hugis, ilaw, anino, o maliliit na detalye na maaaring hindi mo pa napansin.",
+      "button": "Susunod"
+    },
+    "2": {
+      "heading": "4 Mga Bagay na Maaari Mong Madama",
+      "body": "Dalhin ang iyong pansin sa iyong katawan. Pakiramdam ang iyong mga paa ay nakahawak sa sahig, ang iyong likod sa upuan, ang iyong mga damit sa iyong balat, o ang hangin sa paligid mo. Kilalanin ang apat na pisikal na sensasyon.",
+      "button": "Susunod"
+    },
+    "3": {
+      "heading": "3 Mga Bagay na Maaari Mong Marinig",
+      "body": "Makinig nang mabuti. Maaari kang makarinig ng mga tunog sa malayo, fan, pag-type, paghinga, o kahit katahimikan. Tukuyin ang tatlong tunog nang hindi hinuhusgahan ang mga ito.",
+      "button": "Susunod"
+    },
+    "4": {
+      "heading": "2 Mga Bagay na Maaari Mong Amoy",
+      "body": "Tingnan kung makakakita ka ng anumang amoy sa silid. Kung walang nakatayo, pansinin lamang ang neutral na amoy ng hangin sa paligid mo.",
+      "button": "Susunod"
+    },
+    "5": {
+      "heading": "1 Bagay na Maaari Mong Tikman",
+      "body": "Bigyang-pansin ang lasa sa iyong bibig. Maaari itong maging banayad o neutral - obserbahan lamang ito.",
+      "button": "Susunod"
+    },
+    "6": {
+      "heading": "Pagmumuni-muni",
+      "body": "Huminga nang mabagal sa... at malumanay na huminga.",
+      "button": "Email Address *"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Pagsasanib",
+  "intro_p1": "Mabilis na binabawasan ang pagkabalisa",
+  "intro_p2": "Ibabalik ka sa kasalukuyan",
+  "intro_p3": "Pinapakalma ang nagmamadaling isipan",
+  "app_description": "5-4-3-2-1 Pagsasanib",
+  "more": "Higit pa",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "more_pages": "Mas maraming pahina",
+  "pagination": "paginasyon",
+  "go_to_previous_page": "Pumunta sa nakaraang pahina",
+  "go_to_next_page": "Pumunta sa susunod na pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar",
+  "oops_page_not_found": "Naku! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Bahay",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-grounding"
+}

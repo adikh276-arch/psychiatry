@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Kapag nalulungkot at nag-iisa ka",
+      "affirmations": {
+        "0": "Hindi ako nag-iisa, kahit na ganoon ang pakiramdam.",
+        "1": "Ang aking damdamin ay nararapat sa pag-aalaga at kahinahunan.",
+        "2": "Hindi magtatagal ang sandaling ito magpakailanman.",
+        "3": "Pinapayagan akong mangailangan ng koneksyon.",
+        "4": "Kaya kong ibigay ang init sa sarili ko ngayon."
+      }
+    },
+    "terrified": {
+      "label": "Kapag nakaramdam ka ng takot",
+      "affirmations": {
+        "0": "Ligtas ako sa sandaling ito.",
+        "1": "Ang takot ay isang pakiramdam, hindi isang hula.",
+        "2": "Kaya kong huminga nang paisa-isa.",
+        "3": "Hindi ko kailangang lutasin ang lahat ngayon.",
+        "4": "Mas malakas ako kaysa sa sandaling ito."
+      }
+    },
+    "insignificant": {
+      "label": "Kapag pakiramdam mo'y wala kang kwenta",
+      "affirmations": {
+        "0": "Mahalaga pa rin ang maliliit na sandali.",
+        "1": "Hindi ko kailangang patunayan ang halaga ko.",
+        "2": "Pinapayagan akong kumuha ng espasyo.",
+        "3": "Mahalaga ang aking pag-iral.",
+        "4": "Sapat na ako kung sino ako."
+      }
+    },
+    "overwhelmed": {
+      "label": "Kapag pakiramdam mo ay nabibigatan ka",
+      "affirmations": {
+        "0": "Hindi ko kailangang gawin ang lahat nang sabay-sabay.",
+        "1": "Sapat na ang isang maliit na hakbang.",
+        "2": "Ayos lang na huminto muna.",
+        "3": "Pinapayagan akong magpahinga.",
+        "4": "Magiging mapapamahalaan na naman ito."
+      }
+    },
+    "hopeless": {
+      "label": "Kapag pakiramdam mo ay wala kang pag-asa",
+      "affirmations": {
+        "0": "Hindi ko kailangan ng mga sagot ngayon.",
+        "1": "Posible pa rin ang pagbabago.",
+        "2": "Nakayanan ko na ang mga mahihirap na araw noon.",
+        "3": "Pwede akong mag-stay dito muna sa ngayon.",
+        "4": "May isang bagay na banayad pa rin na maaaring mabuo."
+      }
+    },
+    "conflicted": {
+      "label": "Kapag nakakaramdam ka ng salungatan",
+      "affirmations": {
+        "0": "Ayos lang na makaramdam ng higit sa isang bagay nang sabay-sabay.",
+        "1": "Hindi ko kailangan ng kalinawan agad-agad.",
+        "2": "Ang pagkalito ay hindi nangangahulugang kabiguan.",
+        "3": "Kaya kong bigyan ng oras ang sarili ko.",
+        "4": "Nagtitiwala ako sa sarili ko na malalampasan ko ito."
+      }
+    },
+    "self-critical": {
+      "label": "Kapag ikaw ay napaka-kritiko sa sarili",
+      "affirmations": {
+        "0": "Kaya kong kausapin ang sarili ko nang may kabaitan.",
+        "1": "Hindi ko kailangang parusahan ang sarili ko para lumago.",
+        "2": "Hindi tinutukoy ng mga pagkakamali kung sino ako.",
+        "3": "Natututo ako, hindi nabibigo.",
+        "4": "Ang paglago ay hindi nangangailangan ng kalupitan."
+      }
+    },
+    "out-of-place": {
+      "label": "Kapag pakiramdam mo ay wala ka sa lugar sa lipunan",
+      "affirmations": {
+        "0": "Pinapayagan akong manahimik o maging iba.",
+        "1": "Hindi ko kailangang pantayan ang enerhiya ng iba.",
+        "2": "Nabibilang ako kung sino ako.",
+        "3": "Kaya kong dahan-dahang kumuha ng espasyo.",
+        "4": "Hindi ko ito ginagawa nang mali."
+      }
+    },
+    "unsafe": {
+      "label": "Kapag nakakaramdam ka ng kawalan ng seguridad sa piling ng mga estranghero",
+      "affirmations": {
+        "0": "Kaya kong gumalaw sa sarili kong bilis.",
+        "1": "Pinapayagan akong protektahan ang aking mga hangganan.",
+        "2": "Kaya kong manatiling nakatitig sa katawan ko.",
+        "3": "Pinapayagan akong umalis sa mga sitwasyon.",
+        "4": "Kaya kong panatilihing ligtas ang sarili ko."
+      }
+    },
+    "pressured": {
+      "label": "Kapag nakakaramdam ka ng pressure sa trabaho",
+      "affirmations": {
+        "0": "Ang halaga ko ay hindi ang aking produktibidad.",
+        "1": "Hindi ko kailangang patunayan ang sarili ko palagi.",
+        "2": "Sapat na ang paggawa ng aking makakaya ngayon.",
+        "3": "Ayos lang ang isang gawain sa isang pagkakataon.",
+        "4": "Higit pa ako sa aking papel."
+      }
+    },
+    "face-the-day": {
+      "label": "Kapag ayaw mong harapin ang araw",
+      "affirmations": {
+        "0": "Kaya kong kunin ngayon nang maliliit na piraso.",
+        "1": "Sapat na ang paglampas.",
+        "2": "Hindi ko kailangan ng motibasyon para magsimula.",
+        "3": "Mahalaga pa rin ang pagpapakita nang marahan.",
+        "4": "Hindi ako ang tinutukoy ng araw na ito."
+      }
+    },
+    "future": {
+      "label": "Kapag nag-aalala ka tungkol sa iyong kinabukasan",
+      "affirmations": {
+        "0": "Makakabalik na ako sa kasalukuyan.",
+        "1": "Haharapin ko ang mga bagay-bagay kung kailan ito darating.",
+        "2": "Hindi ko kailangan ng katiyakan ngayon.",
+        "3": "Kaya ko namang mag-adapt.",
+        "4": "Mas mapagkakatiwalaan ko ang sarili ko nang kaunti."
+      }
+    },
+    "stuck": {
+      "label": "Kapag pakiramdam mo ay natigil ka sa isang problema",
+      "affirmations": {
+        "0": "Ang pagiging stuck ay hindi nangangahulugang sira na ako.",
+        "1": "Kaya kong huminto nang hindi sumusuko.",
+        "2": "Hindi ko kailangan ng agarang solusyon.",
+        "3": "Hinayaan akong makaramdam ng kawalan ng katiyakan.",
+        "4": "Gumagalaw pa rin ako, kahit mabagal."
+      }
+    },
+    "compare": {
+      "label": "Kapag ikinukumpara mo ang iyong sarili",
+      "affirmations": {
+        "0": "Ang aking paglalakbay ay akin.",
+        "1": "Hindi ko kailangang makipagkumpitensya para maging karapat-dapat.",
+        "2": "Pinapayagan akong lumago sa aking bilis.",
+        "3": "Hindi nabubura ng tagumpay ng iba ang akin.",
+        "4": "Hindi ako nasa likod."
+      }
+    },
+    "give-up": {
+      "label": "Kapag gusto mo nang sumuko",
+      "affirmations": {
+        "0": "Wala akong kailangang magdesisyon ngayon.",
+        "1": "Lilipas din ang pakiramdam na ito.",
+        "2": "Nakaligtas ako nang higit pa sa inaakala ko.",
+        "3": "Maaari akong magtagal pa nang isang sandali.",
+        "4": "Nandito pa rin ako — at mahalaga iyon."
+      }
+    }
+  },
+  "app_complete_title": "Pakiramdam na may kapangyarihan",
+  "app_complete_message": "Ang pang-araw-araw na pagpapatibay ay tumutulong na baguhin ang iyong pag-iisip. Dalhin ang mga positibong saloobin na ito sa iyo ngayon.",
+  "app_duration": "2-3 minuto",
+  "app_title": "Pag-iisip",
+  "app_description": "Baguhin ang iyong pag-iisip sa pamamagitan ng pang-araw-araw na mga pagpapatibay.",
+  "intro": {
+    "description": "Ang mga pang-araw-araw na pagpapatibay ay nakakatulong na baguhin ang iyong pag-iisip at bumuo ng emosyonal na katatagan. Maglaan ng ilang sandali upang tumuon sa mga positibong kaisipan at magsalita nang mabait sa iyong sarili.",
+    "benefits": {
+      "0": "Maghanap ng kapayapaan sa mga mahihirap na sandali",
+      "1": "Hamunin ang mga negatibong pattern ng pag-iisip",
+      "2": "Bumuo ng habag at lakas sa sarili"
+    }
+  },
+  "affirmation_for": "Pagpapatibay para sa",
+  "affirmation": "Pagpapatibay",
+  "language": "Wika",
+  "more": "Higit pa",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "more_pages": "Mas maraming pahina",
+  "pagination": "paginasyon",
+  "go_to_previous_page": "Pumunta sa nakaraang pahina",
+  "go_to_next_page": "Pumunta sa susunod na pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar",
+  "oops_page_not_found": "Naku! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Bahay",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "How are you feeling?",
+  "feelings_subheading": "Select the emotion you",
+  "lang": "lang"
+}

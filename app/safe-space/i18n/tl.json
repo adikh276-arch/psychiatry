@@ -1,0 +1,115 @@
+{
+  "app_title": "Ligtas na Espasyo",
+  "nav": {
+    "0": "Email Address *",
+    "1": "Malumanay na Paggunita",
+    "2": "Pagmamasid",
+    "3": "Manatiling Naroroon",
+    "4": "Pagsulong"
+  },
+  "s1": {
+    "title": "Maghanap tayo ng lugar na okay lang sa pakiramdam",
+    "description": {
+      "0": "Bago tayo magsimula, maglaan muna ng ilang sandali para mag-check-in...",
+      "1": "Ano ang nararamdaman mo ngayon?",
+      "2": "Hindi kami naghahanap ng perpektong \"ligtas na lugar\". Isang bagay lang na medyo kalmado o okay lang."
+    },
+    "placeholder": "Ano ang nararamdaman mo ngayon?",
+    "button": "Simulan ang Visualization"
+  },
+  "s2": {
+    "title": "Dahan-dahang dalhin ito sa isip",
+    "description": {
+      "0": "Isipin ang isang lugar kung saan nakaramdam ka ng kaunting kaginhawahan... O isang lugar na nais mong umiiral.",
+      "1": "Ngayon ilagay ang iyong sarili doon...",
+      "2": "Nakaupo ka ba, nakatayo, o nakahiga?"
+    },
+    "button": "Magpatuloy"
+  },
+  "s3": {
+    "title": "Tumingin sa paligid nang dahan-dahan",
+    "description": {
+      "0": "Tumingin ka sa paligid...",
+      "1": "Ano ang isang bagay na maaari mong makita?",
+      "2": "Pansinin ang isang tunog ... Ano ang naririnig mo?"
+    },
+    "button": "Magpatuloy"
+  },
+  "s4": {
+    "title": "Manatili dito",
+    "description": {
+      "0": "Ano ang tungkol sa lugar na ito na nagpaparamdam sa kanya kahit na medyo ligtas o okay?",
+      "1": "Tulad ng napapansin mo na ...",
+      "2": "Dalhin din ang iyong pansin sa iyong hininga."
+    },
+    "breathe": "huminga",
+    "notice": "Kung mahirap mag-isip, isipin mo na lang ang ideya ng lugar na ito.",
+    "button": "Magpatuloy"
+  },
+  "s5": {
+    "title": "Dalhin ito sa iyo",
+    "description": {
+      "0": "Pansinin kung ano ang nararamdaman mo ngayon. Kahit na isang maliit na shift ay mahalaga.",
+      "1": "Tingnan kung maaari mong dalhin kahit na 5% ng pakiramdam na ito sa iyo."
+    },
+    "placeholder": "Ano ang nararamdaman mo ngayon?",
+    "button": "Kumpletuhin ang Sesyon"
+  },
+  "complete": {
+    "title": "Kumpleto ang Session",
+    "message": "Ang ligtas na lugar na ito ay palaging magagamit para sa iyo. Maaari kang bumalik dito sa tuwing kailangan mo ng isang sandali ng katahimikan."
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Ligtas na Espasyo",
+  "more": "Higit pa",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "more_pages": "Mas maraming pahina",
+  "pagination": "paginasyon",
+  "go_to_previous_page": "Pumunta sa nakaraang pahina",
+  "go_to_next_page": "Pumunta sa susunod na pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar",
+  "oops_page_not_found": "Naku! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Bahay",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

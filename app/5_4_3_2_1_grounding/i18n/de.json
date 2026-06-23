@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Lass uns gemeinsam kurz innehalten.\n\nIn der nächsten Minute gibt es nichts, was du lösen, reparieren oder worauf du reagieren musst. Erlaube dir einfach, zur Ruhe zu kommen.\n\nSetz dich bequem hin, stell, wenn möglich, die Füße auf den Boden und atme langsam ein und aus.\n\nDieser Moment ist für dich, um abzuschalten und wieder ganz im Hier und Jetzt anzukommen.",
+      "button": "Beginnen"
+    },
+    "1": {
+      "heading": "5 Dinge, die Sie sehen können",
+      "body": "Schauen Sie sich langsam um. Lassen Sie Ihren Blick sanft durch den Raum schweifen. Nehmen Sie Farben, Formen, Licht, Schatten oder kleine Details wahr, die Ihnen zuvor vielleicht entgangen sind.",
+      "button": "Nächste"
+    },
+    "2": {
+      "heading": "4 Dinge, die du fühlen kannst",
+      "body": "Richte deine Aufmerksamkeit auf deinen Körper. Spüre deine Füße auf dem Boden, deinen Rücken an der Stuhllehne, deine Kleidung auf deiner Haut oder die Luft um dich herum. Nimm vier körperliche Empfindungen bewusst wahr.",
+      "button": "Nächste"
+    },
+    "3": {
+      "heading": "3 Dinge, die Sie hören können",
+      "body": "Hören Sie genau hin. Sie könnten entfernte Geräusche, einen Ventilator, Tippgeräusche, Atemgeräusche oder auch Stille wahrnehmen. Identifizieren Sie drei dieser Geräusche, ohne sie zu bewerten.",
+      "button": "Nächste"
+    },
+    "4": {
+      "heading": "2 Dinge, die man riechen kann",
+      "body": "Versuchen Sie, einen Duft im Raum wahrzunehmen. Falls Ihnen nichts auffällt, nehmen Sie einfach den neutralen Geruch der Luft um Sie herum wahr.",
+      "button": "Nächste"
+    },
+    "5": {
+      "heading": "1 Sache, die Sie schmecken können",
+      "body": "Achten Sie auf den Geschmack in Ihrem Mund. Er kann subtil oder neutral sein – beobachten Sie ihn einfach.",
+      "button": "Nächste"
+    },
+    "6": {
+      "heading": "Spiegelung",
+      "body": "Einmal langsam einatmen… und sanft ausatmen.",
+      "button": "Einreichen"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Von vorne beginnen",
+    "finish_exit": "Ziel & Ausgang",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Zeit zum Fertigstellen",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Aktie",
+    "share_progress": "Fortschritt teilen",
+    "inspire_others": "Inspiriere heute andere.",
+    "share_text": "Ich habe diese Aktivität {{activityName}} in TherapyMantra ausprobiert und finde sie richtig toll. Du kannst das auch machen! Folge einfach dem Link zur Android-App {{androidUrl}} oder zur iOS-App {{iosUrl}}.",
+    "this_activity": "diese Aktivität",
+    "copied": "Kopiert!",
+    "copy_message": "Nachricht kopieren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Erdung",
+  "intro_p1": "Reduziert Angstzustände schnell",
+  "intro_p2": "Bringt dich zurück in die Gegenwart",
+  "intro_p3": "Beruhigt den rastlosen Geist",
+  "app_description": "5-4-3-2-1 Erdung",
+  "more": "Mehr",
+  "breadcrumb": "Brotkrumen",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Vorherige",
+  "more_pages": "Weitere Seiten",
+  "pagination": "Pagination",
+  "go_to_previous_page": "Zur vorherigen Seite",
+  "go_to_next_page": "Weiter zur nächsten Seite",
+  "toggle_sidebar": "Seitenleiste ein-/ausblenden",
+  "oops_page_not_found": "Hoppla! Seite nicht gefunden",
+  "return_to_home": "Zurück zur Startseite",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-Erdung"
+}

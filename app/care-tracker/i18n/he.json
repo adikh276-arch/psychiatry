@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "התחל מחדש",
+    "finish_exit": "סיום ויציאה",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "זמן להשלים",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "לַחֲלוֹק",
+    "share_progress": "שתף התקדמות",
+    "inspire_others": "תנו השראה לאחרים היום",
+    "share_text": "עשיתי את זה ב-TherapyMantra ואני ממש נהנה מזה, גם אתם יכולים לעשות את זה פשוט עקבו אחר הקישור לאפליקציית האנדרואיד {{androidUrl}} או לאפליקציית iOS {{iosUrl}}",
+    "this_activity": "פעילות זו",
+    "copied": "מוּעֲתָק!",
+    "copy_message": "העתקת הודעה",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "מעקב טיפוח עצמי",
+      "description": "עקבו אחרי הרגלי הטיפול העצמי היומיים שלכם וראו כיצד הם משפיעים על הרווחה הכללית שלכם. עקביות היא המפתח למוח בריא יותר.",
+      "benefits": {
+        "0": "רשמו פעילויות טיפול עצמי יומיות",
+        "1": "עקוב אחרי הזמן שמוקדש לעצמך",
+        "2": "עקוב אחרי דפוסי מצב הרוח שלך",
+        "3": "הצג היסטוריה והתקדמות"
+      },
+      "duration": "2-3 דקות",
+      "benefit1": "רשמו פעולות יומיות של בריאות פיזית ונפשית",
+      "benefit2": "שים לב לאתגרים שמונעים ממך לנוח",
+      "benefit3": "בנה מיינדפולנס באמצעות חיזוק חיובי"
+    },
+    "checkin": {
+      "title": "בדיקת 🌿 טיפול עצמי",
+      "subtitle": "איך טיפלת בעצמך היום?",
+      "question": "האם תרגלת טיפול עצמי היום? *",
+      "description": "טיפול עצמי הוא כל פעילות שאנו עושים בכוונה כדי לשמור על בריאותנו הנפשית, הרגשית והפיזית."
+    },
+    "activities": {
+      "title": "הפעילויות 🎯 שלך",
+      "subtitle": "אילו פעילויות טיפול עצמי עשית היום?"
+    },
+    "duration": {
+      "title": "הזמן שהוקדש ⏱️",
+      "subtitle": "כמה זמן השקעת בטיפול עצמי? (אופציונלי)"
+    },
+    "noSelfCare": {
+      "title": "זה בסדר 💛",
+      "subtitle": "בואו נבין מה קרה היום.",
+      "question1": "מה מנע טיפול עצמי היום? (אופציונלי)",
+      "question2": "איזה סוג של טיפול עצמי היה עוזר? (אופציונלי)"
+    },
+    "mood": {
+      "title": "איך אתה מרגיש? 🫧",
+      "subtitle": "בחר את מצב הרוח הנוכחי שלך (אופציונלי)"
+    },
+    "review": {
+      "title": "הכניסה 📋 שלך",
+      "subtitle": "הנה סיכום של הצ'ק-אין של היום",
+      "didSelfCare": "האם טיפל בעצמך?",
+      "activities": "פעילויות",
+      "duration": "משך",
+      "mood": "מצב רוח",
+      "challenges": "נמנע על ידי",
+      "whatHelps": "זה היה עוזר",
+      "viewHistory": "היסטוריה שבועית",
+      "editToday": "ערך עריכה",
+      "summary": "תקציר"
+    },
+    "history": {
+      "title": "היסטוריה 📅 שבועית",
+      "subtitle": "לא היו רשומות בשבעת הימים האחרונים"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "אופס! העמוד לא נמצא",
+      "returnHome": "חזרה הביתה"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "פעילות גופנית",
+      "Meditation": "מדיטציה",
+      "Journaling": "יומן",
+      "Reading": "קריאה",
+      "Rest / Nap": "מנוחה / תנומה",
+      "Skincare": "טיפוח העור",
+      "Healthy Meal": "ארוחה בריאה",
+      "Nature / Walk": "טבע / טיול",
+      "Social Time": "זמן חברתי",
+      "Hobby": "תחביב",
+      "Therapy": "טיפול",
+      "Digital Detox": "דיטוקס דיגיטלי"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 דקות",
+      "10–30 minutes": "10–30 דקות",
+      "30–60 minutes": "30–60 דקות",
+      "1+ hour": "1+ שעה"
+    },
+    "reasons": {
+      "Busy schedule": "לוח זמנים עמוס",
+      "Low energy": "אנרגיה נמוכה",
+      "Stress": "לחץ",
+      "Forgot": "שכחתי",
+      "No motivation": "אין מניע",
+      "Not feeling well": "לא מרגיש טוב",
+      "Lack of time": "חוסר זמן",
+      "Emotional overwhelm": "עומס רגשי"
+    },
+    "helpfulTypes": {
+      "Rest": "מנוחה",
+      "Relaxation": "הרפיה",
+      "Physical activity": "פעילות גופנית",
+      "Talking to someone": "לדבר עם מישהו",
+      "Quiet time": "זמן שקט",
+      "Creative activity": "פעילות יצירתית"
+    },
+    "moods": {
+      "Happy": "שמח",
+      "Calm": "רגוע",
+      "Neutral": "נייטרלי",
+      "Low": "נמוך",
+      "Stressed": "מתח",
+      "Tired": "עייף"
+    },
+    "positiveStatements": {
+      "0": "הגעת בשביל עצמך היום. זה עוצמתי. 🌿",
+      "1": "טיפול עצמי אינו אנוכי — הוא חיוני. כל הכבוד. 💚",
+      "2": "כל מעשה קטן של דאגה בונה אותך חזק יותר. 🌱",
+      "3": "השקעת בעצמך היום. זה חשוב. ✨",
+      "4": "לטפל בך זה הדבר הכי טוב שעשית היום. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "הכל בסדר. מחר הוא התחלה חדשה. תהיה עדין עם עצמך. 🤍",
+      "1": "לא כל יום יהיה מושלם, וזה לגמרי בסדר. 🕊️",
+      "2": "אתה עושה את המיטב. זה תמיד מספיק. 💛",
+      "3": "מנוחה היא גם סוג של טיפול עצמי. תן לעצמך חסד. 🌸",
+      "4": "להכיר בהיום דורש אומץ. אתה כבר גדל. 🌷"
+    }
+  },
+  "app_title": "מעקב אחר טיפול עצמי",
+  "app_description": "עקבו אחר הרגלי הטיפול העצמי היומיים שלכם וראו כיצד הם משפיעים על הרווחה הכללית שלכם. עקביות היא המפתח לנפש בריאה יותר.",
+  "initializing_session": "מאתחל את ההפעלה",
+  "language": "שָׂפָה",
+  "your_progress_over_the_last_7_days": "ההתקדמות שלך ב-7 הימים האחרונים",
+  "fetching_data": "מאחזר נתונים...",
+  "more": "יוֹתֵר",
+  "breadcrumb": "פירורי לחם",
+  "previous_slide": "שקופית קודמת",
+  "next_slide": "השקופית הבאה",
+  "close": "לִסְגוֹר",
+  "previous": "קוֹדֵם",
+  "more_pages": "דפים נוספים",
+  "pagination": "דִפּוּף",
+  "go_to_previous_page": "עבור לעמוד הקודם",
+  "go_to_next_page": "עבור לעמוד הבא",
+  "toggle_sidebar": "הפעלה/כיבוי סרגל צד",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "ארוך"
+}

@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Recomeçar",
+    "finish_exit": "Finalizar e sair",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo para concluir",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Compartilhar",
+    "share_progress": "Compartilhar progresso",
+    "inspire_others": "Inspire outras pessoas hoje",
+    "share_text": "Eu fiz essa atividade {{activityName}} no TherapyMantra e gostei muito. Você também pode fazer, basta seguir o link para o aplicativo Android {{androidUrl}} ou para o aplicativo iOS {{iosUrl}}.",
+    "this_activity": "esta atividade",
+    "copied": "Copiado!",
+    "copy_message": "Copiar mensagem",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Rastreador de Autocuidado",
+      "description": "Acompanhe seus hábitos diários de autocuidado e veja como eles impactam seu bem-estar geral. Consistência é fundamental para uma mente mais saudável.",
+      "benefits": {
+        "0": "Registre as atividades diárias de autocuidado",
+        "1": "Registre o tempo gasto em você mesmo",
+        "2": "Monitore seus padrões de humor",
+        "3": "Veja história e progresso"
+      },
+      "duration": "2-3 minutos",
+      "benefit1": "Registre diariamente atos de bem-estar físico e mental",
+      "benefit2": "Perceba os desafios que te impedem de descansar",
+      "benefit3": "Construa a atenção plena por meio do reforço positivo"
+    },
+    "checkin": {
+      "title": "Check-in 🌿 de Autocuidado",
+      "subtitle": "Como você cuidou de si mesma hoje?",
+      "question": "Você praticou autocuidado hoje? *",
+      "description": "Autocuidado é qualquer atividade que realizamos deliberadamente para cuidar da nossa saúde mental, emocional e física."
+    },
+    "activities": {
+      "title": "Suas Atividades 🎯",
+      "subtitle": "Quais atividades de autocuidado você fez hoje?"
+    },
+    "duration": {
+      "title": "Tempo Gasto ⏱️",
+      "subtitle": "Quanto tempo você dedicou ao autocuidado? (opcional)"
+    },
+    "noSelfCare": {
+      "title": "Tudo bem 💛",
+      "subtitle": "Vamos entender o que aconteceu hoje.",
+      "question1": "O que impediu o autocuidado hoje? (opcional)",
+      "question2": "Que tipo de autocuidado teria ajudado? (opcional)"
+    },
+    "mood": {
+      "title": "Como você está se sentindo? 🫧",
+      "subtitle": "Selecione seu humor atual (opcional)"
+    },
+    "review": {
+      "title": "Sua Entrada 📋",
+      "subtitle": "Aqui está um resumo do check-in de hoje",
+      "didSelfCare": "Cuidava de si mesmo?",
+      "activities": "Atividades",
+      "duration": "Duração",
+      "mood": "Clima",
+      "challenges": "Impedido por",
+      "whatHelps": "Teria ajudado",
+      "viewHistory": "História Semanal",
+      "editToday": "Editar entrada",
+      "summary": "Resumo"
+    },
+    "history": {
+      "title": "História 📅 Semanal",
+      "subtitle": "Nenhuma inscrição nos últimos 7 dias"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ops! Página não encontrada",
+      "returnHome": "Retorno ao Lar"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Exercício",
+      "Meditation": "Meditação",
+      "Journaling": "Diário",
+      "Reading": "Leitura",
+      "Rest / Nap": "Descanso / Soneca",
+      "Skincare": "Cuidados com a pele",
+      "Healthy Meal": "Refeição Saudável",
+      "Nature / Walk": "Natureza / Caminhada",
+      "Social Time": "Tempo Social",
+      "Therapy": "Terapia",
+      "Digital Detox": "Desintoxicação Digital",
+      "Hobby": "Passatempo"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minutos",
+      "10–30 minutes": "10–30 minutos",
+      "30–60 minutes": "30–60 minutos",
+      "1+ hour": "1+ hora"
+    },
+    "reasons": {
+      "Busy schedule": "Agenda cheia",
+      "Low energy": "Baixa energia",
+      "Stress": "Estresse",
+      "Forgot": "Esqueci",
+      "No motivation": "Sem motivação",
+      "Not feeling well": "Não me sentindo bem",
+      "Lack of time": "Falta de tempo",
+      "Emotional overwhelm": "Sobrecarga emocional"
+    },
+    "helpfulTypes": {
+      "Rest": "Descanse",
+      "Relaxation": "Relaxamento",
+      "Physical activity": "Atividade física",
+      "Talking to someone": "Conversando com alguém",
+      "Quiet time": "Tempo de silêncio",
+      "Creative activity": "Atividade criativa"
+    },
+    "moods": {
+      "Happy": "Feliz",
+      "Calm": "Calma",
+      "Neutral": "Neutro",
+      "Low": "Baixo",
+      "Stressed": "Estressado",
+      "Tired": "Cansado"
+    },
+    "positiveStatements": {
+      "0": "Você apareceu por si mesmo hoje. Isso é poderoso. 🌿",
+      "1": "Cuidar de si mesmo não é egoísmo — é essencial. Muito bem. 💚",
+      "2": "Cada pequeno ato de cuidado constrói um você mais forte. 🌱",
+      "3": "Você investiu em si mesmo hoje. Isso importa. ✨",
+      "4": "Cuidar de você foi a melhor coisa que você fez hoje. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Tudo bem. Amanhã é um recomeço. Seja gentil consigo mesmo. 🤍",
+      "1": "Nem todo dia será perfeito, e isso é perfeitamente normal. 🕊️",
+      "2": "Você está fazendo o seu melhor. Isso sempre é suficiente. 💛",
+      "3": "Descansar também é uma forma de autocuidado. Seja indulgente consigo mesmo. 🌸",
+      "4": "Reconhecer o dia de hoje exige coragem. Você já está crescendo. 🌷"
+    }
+  },
+  "app_title": "Rastreador de autocuidado",
+  "app_description": "Monitore seus hábitos diários de autocuidado e veja como eles impactam seu bem-estar geral. A consistência é fundamental para uma mente mais saudável.",
+  "initializing_session": "Inicializando sessão",
+  "language": "Linguagem",
+  "your_progress_over_the_last_7_days": "Seu progresso nos últimos 7 dias",
+  "fetching_data": "Obtendo dados...",
+  "more": "Mais",
+  "breadcrumb": "farinha de rosca",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Próximo slide",
+  "close": "Fechar",
+  "previous": "Anterior",
+  "more_pages": "Mais páginas",
+  "pagination": "paginação",
+  "go_to_previous_page": "Ir para a página anterior",
+  "go_to_next_page": "Acesse a próxima página.",
+  "toggle_sidebar": "Alternar barra lateral",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "longo"
+}

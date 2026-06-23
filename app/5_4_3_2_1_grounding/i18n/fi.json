@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Pidetään lyhyt tauko yhdessä.\n\nSeuraavan minuutin ajan ei ole mitään, mitä sinun pitäisi ratkaista, korjata tai vastata. Anna itsesi vain hidastaa.\n\nIstu mukavasti, aseta jalkasi maahan jos voit, ja hengitä lempeästi sisään... ja hengitä hitaasti ulos.\n\nTämä on sinun hetkesi nollata ja yhdistyä nykyhetkeen uudelleen.",
+      "button": "Aloita"
+    },
+    "1": {
+      "heading": "5 asiaa, jotka voit nähdä",
+      "body": "Katso hitaasti ympärillesi. Anna katseesi liikkua lempeästi tilassa. Huomaa värejä, muotoja, valoa, varjoja tai pieniä yksityiskohtia, joihin et ehkä ole aiemmin kiinnittänyt huomiota.",
+      "button": "Seuraavaksi"
+    },
+    "2": {
+      "heading": "4 asiaa, jotka voit tuntea",
+      "body": "Kiinnitä huomiosi kehoosi. Tunne jalkasi koskettavat lattiaa, selkäsi tuolia vasten, vaatteesi ihollasi tai ympäröivän ilman. Tunnusta neljä fyysistä tunnetta.",
+      "button": "Seuraavaksi"
+    },
+    "3": {
+      "heading": "3 asiaa, joita voit kuulla",
+      "body": "Kuuntele tarkasti. Saatat kuulla kaukaisia ääniä, tuuletinta, näppäilyä, hengitystä tai jopa hiljaisuutta. Tunnista kolme ääntä tuomitsematta niitä.",
+      "button": "Seuraavaksi"
+    },
+    "4": {
+      "heading": "2 asiaa, jotka haistat",
+      "body": "Katso, voitko havaita huoneesta hajua. Jos mikään ei erotu, huomaa vain ympärilläsi olevan ilman neutraali tuoksu.",
+      "button": "Seuraavaksi"
+    },
+    "5": {
+      "heading": "Yksi asia, jonka voit maistaa",
+      "body": "Kiinnitä huomiota suussasi olevaan makuun. Se voi olla hienovaraista tai neutraalia — tarkkaile sitä vain.",
+      "button": "Seuraavaksi"
+    },
+    "6": {
+      "heading": "Heijastus",
+      "body": "Hengitä hitaasti sisään... ja hengitä lempeästi ulos.",
+      "button": "Lähetä"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Aloita alusta",
+    "finish_exit": "Lopeta ja poistu",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Aikaa valmistua",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Jakaa",
+    "share_progress": "Jaa edistyminen",
+    "inspire_others": "Inspiroi muita tänään",
+    "share_text": "Olen tehnyt tämän {{activityName}} TherapyMantrassa ja nautin siitä todella paljon. Voit tehdä sen sinäkin seuraamalla linkkiä Android-sovellukseen {{androidUrl}} tai iOS-sovellukseen {{iosUrl}}",
+    "this_activity": "tämä toiminta",
+    "copied": "Kopioitu!",
+    "copy_message": "Kopioi viesti",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Maadoitus",
+  "intro_p1": "Vähentää ahdistusta nopeasti",
+  "intro_p2": "Tuo sinut takaisin nykyhetkeen",
+  "intro_p3": "Rauhoittaa kilpailevaa mieltä",
+  "app_description": "5-4-3-2-1 Maadoitus",
+  "more": "Lisää",
+  "breadcrumb": "navigointipolku",
+  "previous_slide": "Edellinen dia",
+  "next_slide": "Seuraava dia",
+  "close": "Lähellä",
+  "previous": "Edellinen",
+  "more_pages": "Lisää sivuja",
+  "pagination": "sivunumerointi",
+  "go_to_previous_page": "Siirry edelliselle sivulle",
+  "go_to_next_page": "Siirry seuraavalle sivulle",
+  "toggle_sidebar": "Näytä/piilota sivupalkki",
+  "oops_page_not_found": "Hupsista! Sivua ei löytynyt",
+  "return_to_home": "Palaa kotiin",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-maadoitus"
+}

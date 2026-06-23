@@ -1,0 +1,150 @@
+{
+  "app_title": "Sleep Audit",
+  "app_subtitle": "Understand your rest",
+  "intro": {
+    "title": "Your Sleep Audit",
+    "description": "Understand what's affecting your sleep and where small changes can help.",
+    "start_button": "Start Audit",
+    "history_button": "Past Audits",
+    "more_insights": "Back to Start"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Phase 01",
+      "title": "How has your sleep been?",
+      "desc": "Select any that feel true for you lately"
+    },
+    "s2": {
+      "phase": "Phase 02",
+      "title": "Rate your typical rest",
+      "label": "Specific concerns?",
+      "placeholder": "Stress, noise, scrolling..."
+    },
+    "s3": {
+      "score_label": "of 7",
+      "recommendations": {
+        "solid": "Your habits are solid! Small tweaks can make it even better.",
+        "some": "Some disruptions detected. Habit changes can help quickly.",
+        "many": "Several factors are impacting your sleep. We can work through them together."
+      }
+    }
+  },
+  "options": [
+    {
+      "emoji": "🕐",
+      "text": "I go to bed at very different times each night"
+    },
+    {
+      "emoji": "💡",
+      "text": "My sleep environment isn't dark, quiet, or comfortable"
+    },
+    {
+      "emoji": "📱",
+      "text": "I scroll on my phone right before sleeping"
+    },
+    {
+      "emoji": "☕",
+      "text": "I have caffeine or alcohol close to bedtime"
+    },
+    {
+      "emoji": "😵",
+      "text": "I wake during the night and struggle to go back to sleep"
+    },
+    {
+      "emoji": "🧠",
+      "text": "My mind races with thoughts when I try to sleep"
+    },
+    {
+      "emoji": "😔",
+      "text": "I rarely feel refreshed after a night's sleep"
+    }
+  ],
+  "rating_labels": [
+    "Very poor",
+    "Poor",
+    "Okay",
+    "Good",
+    "Great"
+  ],
+  "status_labels": {
+    "track": "Mostly on track",
+    "disruptions": "Some disruptions",
+    "attention": "Needs attention"
+  },
+  "buttons": {
+    "continue": "Continue",
+    "see_results": "See Results",
+    "preserve": "Preserve Result",
+    "preserving": "Preserving...",
+    "back_to_intro": "Back to Intro"
+  },
+  "history": {
+    "title": "Past Audits",
+    "no_entries": "No audits preserved yet.",
+    "score_label": "of 7"
+  },
+  "complete": {
+    "title": "Audit Complete",
+    "message": "Your sleep score is {{score}}/7. Understanding these patterns is the first step toward deeper, more restorative rest."
+  },
+  "toasts": {
+    "save_success": "Audit saved",
+    "save_error": "Failed to save audit",
+    "auth_error": "Auth session missing or DB not configured"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Understand your rest",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "lang",
+  "loading": "Loading History..."
+}

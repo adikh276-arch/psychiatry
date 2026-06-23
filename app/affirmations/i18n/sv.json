@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Börja om från början",
+    "finish_exit": "Slutför och avsluta",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Dags att slutföra",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dela",
+    "share_progress": "Dela framsteg",
+    "inspire_others": "Inspirera andra idag",
+    "share_text": "Jag har gjort detta {{activityName}} i TherapyMantra och gillar det verkligen, du kan också göra det, följ bara länken till Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}",
+    "this_activity": "den här aktiviteten",
+    "copied": "Kopierad!",
+    "copy_message": "Kopiera meddelande",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "När du känner dig ensam och ledsen",
+      "affirmations": {
+        "0": "Jag är inte ensam, även när det känns så.",
+        "1": "Mina känslor förtjänar omsorg och mildhet.",
+        "2": "Detta ögonblick kommer inte att vara för evigt.",
+        "3": "Jag får behöva kontakt.",
+        "4": "Jag kan erbjuda mig själv värme just nu."
+      }
+    },
+    "terrified": {
+      "label": "När du känner dig livrädd",
+      "affirmations": {
+        "0": "Jag är trygg i detta ögonblick.",
+        "1": "Rädsla är en känsla, inte en förutsägelse.",
+        "2": "Jag kan ta det här ett andetag i taget.",
+        "3": "Jag behöver inte lösa allt just nu.",
+        "4": "Jag är starkare än i detta ögonblick."
+      }
+    },
+    "insignificant": {
+      "label": "När du känner dig obetydlig",
+      "affirmations": {
+        "0": "Små ögonblick räknas fortfarande.",
+        "1": "Jag behöver inte bevisa mitt värde.",
+        "2": "Jag får ta plats.",
+        "3": "Min existens är viktig.",
+        "4": "Jag är tillräcklig som jag är."
+      }
+    },
+    "overwhelmed": {
+      "label": "När du känner dig överväldigad",
+      "affirmations": {
+        "0": "Jag behöver inte göra allt på en gång.",
+        "1": "Ett litet steg räcker.",
+        "2": "Det är okej att pausa.",
+        "3": "Jag får vila.",
+        "4": "Det här kommer att bli hanterbart igen."
+      }
+    },
+    "hopeless": {
+      "label": "När du känner dig hopplös",
+      "affirmations": {
+        "0": "Jag behöver inga svar idag.",
+        "1": "Förändring är fortfarande möjlig.",
+        "2": "Jag har överlevt svåra dagar tidigare.",
+        "3": "Jag kan stanna här för tillfället.",
+        "4": "Något milt kan fortfarande utvecklas."
+      }
+    },
+    "conflicted": {
+      "label": "När du känner dig kluven",
+      "affirmations": {
+        "0": "Det är okej att känna mer än en sak samtidigt.",
+        "1": "Jag behöver inte klarhet direkt.",
+        "2": "Förvirring betyder inte misslyckande.",
+        "3": "Jag kan ge mig själv tid.",
+        "4": "Jag litar på mig själv att lista ut det här."
+      }
+    },
+    "self-critical": {
+      "label": "När du är väldigt självkritisk",
+      "affirmations": {
+        "0": "Jag kan tala till mig själv med vänlighet.",
+        "1": "Jag behöver inte straffa mig själv för att växa.",
+        "2": "Misstag definierar inte vem jag är.",
+        "3": "Jag lär mig, jag misslyckas inte.",
+        "4": "Tillväxt kräver inte grymhet."
+      }
+    },
+    "out-of-place": {
+      "label": "När du känner dig socialt malplacerad",
+      "affirmations": {
+        "0": "Jag får vara tyst eller annorlunda.",
+        "1": "Jag behöver inte matcha någon annans energi.",
+        "2": "Jag hör hemma som jag är.",
+        "3": "Jag kan ta plats försiktigt.",
+        "4": "Jag gör inte det här fel."
+      }
+    },
+    "unsafe": {
+      "label": "När du känner dig otrygg bland främlingar",
+      "affirmations": {
+        "0": "Jag kan röra mig i min egen takt.",
+        "1": "Jag får skydda mina gränser.",
+        "2": "Jag kan hålla mig jordad i min kropp.",
+        "3": "Jag får lämna situationer.",
+        "4": "Jag kan hålla mig själv säker."
+      }
+    },
+    "pressured": {
+      "label": "När du känner dig pressad på jobbet",
+      "affirmations": {
+        "0": "Mitt värde är inte min produktivitet.",
+        "1": "Jag behöver inte bevisa mig själv hela tiden.",
+        "2": "Att göra mitt bästa räcker idag.",
+        "3": "En uppgift i taget är okej.",
+        "4": "Jag är mer än min roll."
+      }
+    },
+    "face-the-day": {
+      "label": "När du inte vill möta dagen",
+      "affirmations": {
+        "0": "Jag kan ta idag i små bitar.",
+        "1": "Att ta sig igenom räcker.",
+        "2": "Jag behöver ingen motivation för att börja.",
+        "3": "Att dyka upp försiktigt räknas fortfarande.",
+        "4": "Den här dagen definierar mig inte."
+      }
+    },
+    "future": {
+      "label": "När du oroar dig för din framtid",
+      "affirmations": {
+        "0": "Jag kan återvända till nuet.",
+        "1": "Jag kommer att hantera saker som de kommer.",
+        "2": "Jag behöver ingen säkerhet idag.",
+        "3": "Jag kan anpassa mig.",
+        "4": "Jag kan lita lite mer på mig själv."
+      }
+    },
+    "stuck": {
+      "label": "När du känner dig fast i ett problem",
+      "affirmations": {
+        "0": "Att vara fast betyder inte att jag är trasig.",
+        "1": "Jag kan pausa utan att ge upp.",
+        "2": "Jag behöver inga omedelbara lösningar.",
+        "3": "Jag har rätt att känna mig osäker.",
+        "4": "Jag rör mig fortfarande, även långsamt."
+      }
+    },
+    "compare": {
+      "label": "När du jämför dig själv",
+      "affirmations": {
+        "0": "Min resa är min egen.",
+        "1": "Jag behöver inte tävla för att vara värdig.",
+        "2": "Jag får växa i min egen takt.",
+        "3": "Någon annans framgång suddar inte ut min.",
+        "4": "Jag ligger inte efter."
+      }
+    },
+    "give-up": {
+      "label": "När du vill ge upp",
+      "affirmations": {
+        "0": "Jag behöver inte bestämma något just nu.",
+        "1": "Den här känslan kommer att gå över.",
+        "2": "Jag har överlevt mer än jag inser.",
+        "3": "Jag kan stanna en stund till.",
+        "4": "Jag är fortfarande här – och det är viktigt."
+      }
+    }
+  },
+  "app_complete_title": "Känn dig stärkt",
+  "app_complete_message": "Dagliga affirmationer hjälper till att omforma ditt tankesätt. Bär med dig dessa positiva tankar idag.",
+  "app_duration": "2–3 minuter",
+  "app_title": "Tankesätt",
+  "app_description": "Förändra ditt tankesätt genom dagliga affirmationer.",
+  "intro": {
+    "description": "Dagliga affirmationer hjälper till att omforma ditt tankesätt och bygga emotionell motståndskraft. Ta några ögonblick för att fokusera på positiva tankar och tala vänligt till dig själv.",
+    "benefits": {
+      "0": "Hitta frid i svåra stunder",
+      "1": "Utmana negativa tankemönster",
+      "2": "Bygg självmedkänsla och styrka"
+    }
+  },
+  "affirmation_for": "Bekräftelse för",
+  "affirmation": "Bekräftelse",
+  "language": "Språk",
+  "more": "Mer",
+  "breadcrumb": "brödsmulor",
+  "previous_slide": "Föregående bild",
+  "next_slide": "Nästa bild",
+  "close": "Nära",
+  "previous": "Tidigare",
+  "more_pages": "Fler sidor",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå till föregående sida",
+  "go_to_next_page": "Gå till nästa sida",
+  "toggle_sidebar": "Växla sidofält",
+  "oops_page_not_found": "Hoppsan! Sidan hittades inte",
+  "return_to_home": "Återvänd till hemmet",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Hur mår du?",
+  "feelings_subheading": "Välj den känsla du har",
+  "lang": "Lång"
+}

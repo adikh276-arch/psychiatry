@@ -1,0 +1,136 @@
+{
+  "app_title": "Pojmenuj svou mysl",
+  "intro": {
+    "title": "Setkejte se se svou myslí",
+    "description": "Naučte se distancovat od přehlušujících myšlenek tím, že svému vnitřnímu hlasu dáte jméno.",
+    "benefits": {
+      "0": "Vytvořte mentální odstup",
+      "1": "Omezte sílu tvrdých myšlenek",
+      "2": "Všímej si myšlenek, aniž bys jimi byl"
+    },
+    "duration": "2-3 minuty",
+    "view_past": "Zobrazit minulé příspěvky"
+  },
+  "history": {
+    "title": "Minulé příspěvky",
+    "no_entries": "Zatím žádné příspěvky.",
+    "reflection_label": "Reflexe: {{text}}"
+  },
+  "complete": {
+    "title": "Aktivita dokončena",
+    "great_job": "Skvělá práce!",
+    "message": "Úspěšně jsi pojmenoval svou mysl a vytvořil odstup mezi sebou a svými myšlenkami.",
+    "footer": "Pamatujte: Nemusíte věřit každé myšlence, kterou vám mysl dá."
+  },
+  "subtitles": {
+    "concept": "Perspektiva",
+    "input_thought": "Oznámení",
+    "input_name": "Jméno",
+    "practice": "Praxe",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Malý posun",
+      "example": "\"Nejsem dost dobrý\"",
+      "desc": "Když se objeví nějaká myšlenka, často to působí, jako by to bylo <0>ty</0>. Ale co kdybyste se mohli odtáhnout a <1>všimnout si</1> místo toho?"
+    },
+    "input_thought": {
+      "title": "Začněme skutečnou myšlenkou",
+      "desc": "Jaká je jedna myšlenka, která vás v poslední době trápí?",
+      "placeholder": "Piš to přesně tak, jak ti to přijde..."
+    },
+    "input_name": {
+      "title": "Vytvořte si odstup",
+      "desc": "Dejte své mysli jméno, abyste se od těchto myšlenek oddělili.",
+      "placeholder": "Nebo napište vlastní...",
+      "examples": {
+        "0": "Kritik",
+        "1": "Přemýšlivý",
+        "2": "Worry FM",
+        "3": "Stroj na přemýšlení",
+        "4": "Vnitřní kritik",
+        "5": "Generátor co kdyby",
+        "6": "Režisér dramatu"
+      }
+    },
+    "practice": {
+      "title": "Zkus tuhle směnu",
+      "instead_of": "Místo",
+      "try_saying": "Zkus říct",
+      "is_telling_me": "{{name}} mi říká:",
+      "guide": "Jemně si tuto větu opakujte 4–5krát vlastním tempem.",
+      "button": "Jsem připravený"
+    },
+    "reflection": {
+      "title": "Čeho jste si všimli?",
+      "desc": "Jaký byl pocit té myšlenky poté, co jí dal jméno?",
+      "options": {
+        "0": "Ta myšlenka byla o něco méně intenzivní než předtím",
+        "1": "Měl jsem pocit, že mám od té myšlenky určitý odstup",
+        "2": "Stále to bylo stejně silné jako dřív",
+        "3": "Nejsem si jistý, co se změnilo, pokud vůbec něco"
+      },
+      "button": "Kompletní reflexe"
+    }
+  },
+  "buttons": {
+    "continue": "Pokračovat",
+    "restart": "Restart"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Začít znovu",
+    "finish_exit": "Dokončit a ukončit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Čas na dokončení",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Podíl",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní ještě dnes",
+    "share_text": "Tuto aktivitu {{activityName}} jsem dělal/a v TherapyMantra a opravdu si ji užívám. Můžete to dělat i vy, stačí kliknout na odkaz na aplikaci pro Android {{androidUrl}} nebo aplikaci pro iOS {{iosUrl}}.",
+    "this_activity": "tato aktivita",
+    "copied": "Zkopírováno!",
+    "copy_message": "Kopírovat zprávu",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Pojmenujte svou mysl",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Když se objeví myšlenka, často se zdá, že je",
+  "more": "Více",
+  "breadcrumb": "strouhanka",
+  "previous_slide": "Předchozí snímek",
+  "next_slide": "Další snímek",
+  "close": "Blízko",
+  "previous": "Předchozí",
+  "more_pages": "Více stránek",
+  "pagination": "stránkování",
+  "go_to_previous_page": "Přejít na předchozí stránku",
+  "go_to_next_page": "Přejít na další stránku",
+  "toggle_sidebar": "Přepnout postranní panel",
+  "oops_page_not_found": "Jejda! Stránka nenalezena.",
+  "return_to_home": "Návrat domů",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "dlouhý"
+}

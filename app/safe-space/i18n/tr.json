@@ -1,0 +1,115 @@
+{
+  "app_title": "Güvenli Alan",
+  "nav": {
+    "0": "Check-in",
+    "1": "Nazikçe Hatırlama",
+    "2": "Gözlem",
+    "3": "Günümüzde Kalmak",
+    "4": "İleriye Gitmek"
+  },
+  "s1": {
+    "title": "Hadi iyi hissettiren bir yer bulalım",
+    "description": {
+      "0": "Başlamadan önce, bir an durup durumu kontrol edin...",
+      "1": "Şu anda nasıl hissediyorsun?",
+      "2": "Mükemmel bir \"güvenli yer\" aramıyoruz. Sadece biraz sakin ya da iyi hissettiren bir şey."
+    },
+    "placeholder": "Şu anda nasıl hissediyorsun?",
+    "button": "Görselleştirmeye Başlayın"
+  },
+  "s2": {
+    "title": "Nazikçe aklına getir",
+    "description": {
+      "0": "Biraz bile rahat hissettiğin bir yer düşün... ya da var olmasını dilediğiniz bir yer.",
+      "1": "Şimdi kendini oraya yerleştir...",
+      "2": "Oturuyor musun, ayakta mı yoksa yatıyor musun?"
+    },
+    "button": "Devam et"
+  },
+  "s3": {
+    "title": "Etrafına yavaşça bak",
+    "description": {
+      "0": "Etrafına nazikçe bakın...",
+      "1": "Görebildiğiniz bir şey nedir?",
+      "2": "Şimdi bir ses fark edin... Ne duyuyorsun?"
+    },
+    "button": "Devam et"
+  },
+  "s4": {
+    "title": "Buna devam et",
+    "description": {
+      "0": "Bu yerin biraz da olsa güvenli ya da iyi hissettiren ne var?",
+      "1": "Fark ettiğiniz gibi...",
+      "2": "Ayrıca dikkatinizi nefesinize de çekin."
+    },
+    "breathe": "Nefes al",
+    "notice": "Hayal etmek zor geliyorsa, bu yerin fikrini düşün.",
+    "button": "Devam et"
+  },
+  "s5": {
+    "title": "Bunu yanında al",
+    "description": {
+      "0": "Şu anda nasıl hissettiğine dikkat et. Küçük bir vardiya bile önemlidir.",
+      "1": "Bu hissin %5'ini bile taşıyabilir miyin bak."
+    },
+    "placeholder": "Şimdi nasıl hissediyorsun?",
+    "button": "Tam Oturum"
+  },
+  "complete": {
+    "title": "Oturum Tamamlandı",
+    "message": "Bu güvenli yer her zaman sizin için açıktır. Ne zaman sakinleşmeye ihtiyacın olursa buraya dönebilirsin."
+  },
+  "common": {
+    "get_started": "Başlayın",
+    "start_over": "Yeniden Başla",
+    "finish_exit": "Bitiş ve Çıkış",
+    "well_done": "Aferin!",
+    "completion_message": "Bu etkinliği başarıyla tamamladın. İlerlemenin takdir edilmesini bir an ayır.",
+    "time_to_complete": "Tamamlanma zamanı",
+    "back": "Geri",
+    "next": "Sıradaki",
+    "save": "Kayd et",
+    "loading": "Yükleniyor...",
+    "share": "Paylaş",
+    "share_progress": "İlerleme Paylaş",
+    "inspire_others": "Bugün başkalarına ilham verin",
+    "share_text": "Bunu {{activityName}} ile TherapyMantra'da yaptım ve gerçekten keyif aldım, siz de yapabilirsiniz, android uygulaması {{androidUrl}} veya iOS uygulaması {{iosUrl}} bağlantısını takip edin.",
+    "this_activity": "Bu faaliyet",
+    "copied": "Kopyalandı!",
+    "copy_message": "Mesajı Kopyala",
+    "yes": "Evet",
+    "no": "Hayır",
+    "date": "Tarih",
+    "continue": "Devam et",
+    "step_of": "{{total}} aşaması {{current}}",
+    "round_of": "{{total}} turu {{current}}",
+    "phase_label": "Faz",
+    "rounds_selector": "{{count}} Turlar",
+    "instruction_ready": "Turlarınızı ayarlayın ve başlamak için oynatmaya dokunun",
+    "instruction_running": "Nefesinizi düzenlemek için daireyi takip edin"
+  },
+  "app_description": "Güvenli Alan",
+  "more": "Daha fazlası",
+  "breadcrumb": "Ekmek kırıntısı",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapat",
+  "previous": "Önceki",
+  "more_pages": "Daha fazla sayfa",
+  "pagination": "Sayfa Oluşturma",
+  "go_to_previous_page": "Önceki sayfaya geç",
+  "go_to_next_page": "Bir sonraki sayfaya geç",
+  "toggle_sidebar": "Yan Çubuğu Aç",
+  "oops_page_not_found": "Hop! Sayfa bulunmadı",
+  "return_to_home": "Eve Dönüş",
+  "phase_label": "Faz",
+  "instruction_ready": "Turlarınızı ayarlayın ve başlamak için oynatmaya dokunun",
+  "instruction_running": "Nefesinizi düzenlemek için daireyi takip edin",
+  "round_x_of_y": "{{total}} turu {{current}}",
+  "rounds_selector": "{{count}} Turlar",
+  "yes": "Evet",
+  "no": "Hayır",
+  "date": "Tarih",
+  "continue": "Devam et",
+  "lang": "uzun"
+}

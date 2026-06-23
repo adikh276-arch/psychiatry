@@ -1,0 +1,99 @@
+{
+  "app_title": "Sumber",
+  "not_found": {
+    "title": "Tidak Dijumpai",
+    "message": "Sumber tidak dijumpai",
+    "description": "Kandungan yang anda cari mungkin telah beralih.",
+    "button": "Pulanglah"
+  },
+  "list": {
+    "empty_title": "Tiada {{type}} tersedia",
+    "empty_desc": "Kami sedang menyusun lebih banyak sumber untuk topik ini.",
+    "footer": "Penjagaan Mantra • Sumber Berasaskan Bukti"
+  },
+  "detail": {
+    "loading": "Memuatkan...",
+    "tip": {
+      "insight_label": "Wawasan",
+      "plan_title": "Pelan Tindakan Harian",
+      "steps": "{{count}} Langkah",
+      "example_label": "Contoh Amalan",
+      "instead_of": "Sebaliknya",
+      "try_this": "Cuba ini"
+    },
+    "article": {
+      "final_thought": "Pemikiran Akhir"
+    },
+    "story": {
+      "reflection_label": "Sesuatu untuk duduk",
+      "note_label": "Nota daripada Pengarang"
+    },
+    "myth": {
+      "truth_label": "Kebenaran Saintifik",
+      "explanation_label": "Penjelasan Terperinci",
+      "insight_label": "Wawasan Utama"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mula Semula",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Masa untuk disiapkan",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Kongsi",
+    "share_progress": "Kongsi Kemajuan",
+    "inspire_others": "Beri inspirasi kepada orang lain hari ini",
+    "share_text": "Saya telah melakukan {{activityName}} ini dalam TherapyMantra dan sangat menikmatinya, anda juga boleh melakukannya, ikuti sahaja pautan ke aplikasi android {{androidUrl}} atau aplikasi ios {{iosUrl}}",
+    "this_activity": "aktiviti ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Mesej",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Sumber",
+  "concerns": {
+    "acceptance": "Penerimaan",
+    "adolescent": "Remaja",
+    "anger": "Kemarahan",
+    "anxiety": "Kebimbangan",
+    "depression": "Kemurungan",
+    "eating-disorder": "Gangguan Makan",
+    "grief": "Kesedihan",
+    "parenting": "Keibubapaan",
+    "postpartum": "Selepas bersalin",
+    "ptsd": "PTSD",
+    "relationship": "Hubungan",
+    "sexuality": "Seksualiti",
+    "sleep": "Tidur",
+    "stress": "Tekanan",
+    "workplace": "Tempat kerja"
+  },
+  "types": {
+    "stories": "Cerita",
+    "articles": "Artikel",
+    "myths": "Mitos",
+    "tips": "Petua"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "เริ่มต้นใหม่",
+    "finish_exit": "เสร็จสิ้นและออก",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "เวลาที่ใช้ในการดำเนินการให้เสร็จสิ้น",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "แบ่งปัน",
+    "share_progress": "แชร์ความคืบหน้า",
+    "inspire_others": "สร้างแรงบันดาลใจให้ผู้อื่นในวันนี้",
+    "share_text": "ฉันได้ทำกิจกรรมนี้ {{activityName}} ใน TherapyMantra แล้วและรู้สึกสนุกมาก คุณก็ลองทำได้เช่นกัน เพียงแค่คลิกลิงก์ไปยังแอป Android {{androidUrl}} หรือแอป iOS {{iosUrl}}",
+    "this_activity": "กิจกรรมนี้",
+    "copied": "คัดลอกแล้ว!",
+    "copy_message": "คัดลอกข้อความ",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "ตัวติดตามการดูแลตนเอง",
+      "description": "ติดตามนิสัยการดูแลตนเองในแต่ละวันของคุณและดูว่านิสัยเหล่านี้ส่งผลต่อความเป็นอยู่โดยรวมของคุณอย่างไร ความสม่ําเสมอเป็นกุญแจสําคัญในการมีสุขภาพจิตที่ดีขึ้น",
+      "benefits": {
+        "0": "บันทึกกิจกรรมการดูแลตนเองประจําวัน",
+        "1": "ติดตามเวลาที่ใช้กับตัวเอง",
+        "2": "ตรวจสอบรูปแบบอารมณ์ของคุณ",
+        "3": "ดูประวัติและความคืบหน้า"
+      },
+      "duration": "2-3 นาที",
+      "benefit1": "บันทึกการกระทําด้านสุขภาพร่างกายและจิตใจประจําวัน",
+      "benefit2": "สังเกตความท้าทายที่ทําให้คุณไม่หยุดพัก",
+      "benefit3": "สร้างสติผ่านการเสริมแรงในเชิงบวก"
+    },
+    "checkin": {
+      "title": "การเช็คอิน🌿ดูแลตนเอง",
+      "subtitle": "วันนี้คุณดูแลตัวเองอย่างไร?",
+      "question": "วันนี้คุณฝึกดูแลตนเองหรือไม่? *",
+      "description": "การดูแลตนเองเป็นกิจกรรมใดๆ ที่เราทําโดยเจตนาเพื่อดูแลสุขภาพจิต อารมณ์ และร่างกายของเรา"
+    },
+    "activities": {
+      "title": "กิจกรรม🎯ของคุณ",
+      "subtitle": "วันนี้คุณทํากิจกรรมดูแลตนเองอะไรบ้าง?"
+    },
+    "duration": {
+      "title": "เวลาที่ใช้ ⏱️",
+      "subtitle": "คุณใช้เวลาในการดูแลตนเองนานแค่ไหน? (ไม่บังคับ)"
+    },
+    "noSelfCare": {
+      "title": "ไม่เป็นไร 💛",
+      "subtitle": "มาทําความเข้าใจกันว่าเกิดอะไรขึ้นในวันนี้",
+      "question1": "อะไรขัดขวางการดูแลตนเองในปัจจุบัน? (ไม่บังคับ)",
+      "question2": "การดูแลตนเองแบบไหนจะช่วยได้? (ไม่บังคับ)"
+    },
+    "mood": {
+      "title": "คุณรู้สึกอย่างไร? 🫧",
+      "subtitle": "เลือกอารมณ์ปัจจุบันของคุณ (ไม่บังคับ)"
+    },
+    "review": {
+      "title": "ผลงาน📋ของคุณ",
+      "subtitle": "นี่คือบทสรุปของการเช็คอินในวันนี้",
+      "didSelfCare": "ดูแลตัวเองหรือไม่?",
+      "activities": "กิจกรรม",
+      "duration": "ระยะเวลา",
+      "mood": "อารมณ์",
+      "challenges": "ป้องกันโดย",
+      "whatHelps": "จะช่วยได้",
+      "viewHistory": "ประวัติประจําสัปดาห์",
+      "editToday": "แก้ไขรายการ",
+      "summary": "สรุป"
+    },
+    "history": {
+      "title": "ประวัติ📅ประจําสัปดาห์",
+      "subtitle": "ไม่มีผลงานในช่วง 7 วันที่ผ่านมา"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "อ๊ะ! ไม่พบหน้า",
+      "returnHome": "กลับไปที่บ้าน"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "การออกกําลังกาย",
+      "Meditation": "การทําสมาธิ",
+      "Journaling": "การจดบันทึก",
+      "Reading": "การอ่าน",
+      "Rest / Nap": "พักผ่อน / งีบหลับ",
+      "Skincare": "บํารุงผิว",
+      "Healthy Meal": "อาหารเพื่อสุขภาพ",
+      "Nature / Walk": "ธรรมชาติ / เดิน",
+      "Social Time": "เวลาทางสังคม",
+      "Hobby": "งานอดิเรก",
+      "Therapy": "การบําบัด",
+      "Digital Detox": "ดีท็อกซ์ดิจิทัล"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 นาที",
+      "10–30 minutes": "10–30 นาที",
+      "30–60 minutes": "30–60 นาที",
+      "1+ hour": "1+ ชั่วโมง"
+    },
+    "reasons": {
+      "Busy schedule": "ตารางงานไม่ว่าง",
+      "Low energy": "พลังงานต่ํา",
+      "Stress": "ความเครียด",
+      "Forgot": "ลืม",
+      "No motivation": "ไม่มีแรงจูงใจ",
+      "Not feeling well": "รู้สึกไม่สบาย",
+      "Lack of time": "ไม่มีเวลา",
+      "Emotional overwhelm": "อารมณ์ท่วมท้น"
+    },
+    "helpfulTypes": {
+      "Rest": "ส่วนที่เหลือ",
+      "Relaxation": "การผ่อนคลาย",
+      "Physical activity": "การออกกําลังกาย",
+      "Talking to someone": "การพูดคุยกับใครบางคน",
+      "Quiet time": "เวลาเงียบสงบ",
+      "Creative activity": "กิจกรรมสร้างสรรค์"
+    },
+    "moods": {
+      "Happy": "มีความสุข",
+      "Calm": "สงบ",
+      "Neutral": "เป็นกลาง",
+      "Low": "ต่ํา",
+      "Stressed": "เครียด",
+      "Tired": "เหนื่อย"
+    },
+    "positiveStatements": {
+      "0": "คุณปรากฏตัวเพื่อตัวคุณเองในวันนี้ มันทรงพลังมาก 🌿",
+      "1": "การดูแลตนเองไม่ใช่เรื่องเห็นแก่ตัว แต่เป็นสิ่งสําคัญ ทําได้ดี. 💚",
+      "2": "การดูแลเล็กๆ น้อยๆ ทุกครั้งจะสร้างคุณให้แข็งแกร่งขึ้น 🌱",
+      "3": "คุณลงทุนในตัวเองในวันนี้ นั่นสําคัญ. ✨",
+      "4": "การดูแลคุณเป็นสิ่งที่ดีที่สุดที่คุณทําในวันนี้ 🍃"
+    },
+    "supportiveStatements": {
+      "0": "ไม่เป็นไร. พรุ่งนี้เป็นการเริ่มต้นใหม่ อ่อนโยนกับตัวเอง 🤍",
+      "1": "ไม่ใช่ทุกวันที่จะสมบูรณ์แบบ และนั่นก็ไม่เป็นไร 🕊️",
+      "2": "คุณกําลังทําดีที่สุด แค่นั้นก็เพียงพอแล้ว 💛",
+      "3": "การพักผ่อนยังเป็นรูปแบบหนึ่งของการดูแลตนเอง ให้ความสง่างามแก่ตัวเอง 🌸",
+      "4": "การยอมรับในวันนี้ต้องใช้ความกล้าหาญ คุณกําลังเติบโตอยู่แล้ว 🌷"
+    }
+  },
+  "app_title": "ตัวติดตามการดูแลตนเอง",
+  "app_description": "ติดตามพฤติกรรมการดูแลตัวเองในแต่ละวันของคุณ และดูว่ามันส่งผลต่อสุขภาพโดยรวมของคุณอย่างไร ความสม่ำเสมอเป็นกุญแจสำคัญสู่สุขภาพจิตที่ดีขึ้น",
+  "initializing_session": "กำลังเริ่มต้นเซสชัน",
+  "language": "ภาษา",
+  "your_progress_over_the_last_7_days": "ความคืบหน้าของคุณในช่วง 7 วันที่ผ่านมา",
+  "fetching_data": "กำลังดึงข้อมูล...",
+  "more": "มากกว่า",
+  "breadcrumb": "เศษขนมปัง",
+  "previous_slide": "สไลด์ก่อนหน้า",
+  "next_slide": "สไลด์ถัดไป",
+  "close": "ปิด",
+  "previous": "ก่อนหน้า",
+  "more_pages": "หน้าเพิ่มเติม",
+  "pagination": "การแบ่งหน้า",
+  "go_to_previous_page": "ไปยังหน้าก่อนหน้า",
+  "go_to_next_page": "ไปยังหน้าถัดไป",
+  "toggle_sidebar": "สลับแถบด้านข้าง",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "ยาว"
+}

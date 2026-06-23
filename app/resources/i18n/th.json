@@ -1,0 +1,99 @@
+{
+  "app_title": "แหล่งข้อมูล",
+  "not_found": {
+    "title": "ไม่พบ",
+    "message": "ไม่พบทรัพยากร",
+    "description": "เนื้อหาที่คุณกําลังมองหาอาจย้ายไปแล้ว",
+    "button": "ย้อนกลับ"
+  },
+  "list": {
+    "empty_title": "ไม่มี {{type}}",
+    "empty_desc": "ขณะนี้เรากําลังรวบรวมแหล่งข้อมูลเพิ่มเติมสําหรับหัวข้อนี้",
+    "footer": "Mantra Care • แหล่งข้อมูลตามหลักฐาน"
+  },
+  "detail": {
+    "loading": "กําลังโหลด...",
+    "tip": {
+      "insight_label": "ข้อมูลเชิงลึก",
+      "plan_title": "แผนปฏิบัติการประจําวัน",
+      "steps": "{{count}} ขั้นตอน",
+      "example_label": "ตัวอย่างการปฏิบัติ",
+      "instead_of": "แทนที่จะเป็น",
+      "try_this": "ลองสิ่งนี้"
+    },
+    "article": {
+      "final_thought": "ความคิดสุดท้าย"
+    },
+    "story": {
+      "reflection_label": "มีอะไรให้นั่งด้วย",
+      "note_label": "หมายเหตุจากผู้เขียน"
+    },
+    "myth": {
+      "truth_label": "ความจริงทางวิทยาศาสตร์",
+      "explanation_label": "คําอธิบายโดยละเอียด",
+      "insight_label": "ข้อมูลเชิงลึกที่สําคัญ"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "เริ่มต้นใหม่",
+    "finish_exit": "เสร็จสิ้นและออก",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "เวลาที่ใช้ในการดำเนินการให้เสร็จสิ้น",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "แบ่งปัน",
+    "share_progress": "แชร์ความคืบหน้า",
+    "inspire_others": "สร้างแรงบันดาลใจให้ผู้อื่นในวันนี้",
+    "share_text": "ฉันได้ทำกิจกรรมนี้ {{activityName}} ใน TherapyMantra แล้วและรู้สึกสนุกมาก คุณก็ลองทำได้เช่นกัน เพียงแค่คลิกลิงก์ไปยังแอป Android {{androidUrl}} หรือแอป iOS {{iosUrl}}",
+    "this_activity": "กิจกรรมนี้",
+    "copied": "คัดลอกแล้ว!",
+    "copy_message": "คัดลอกข้อความ",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "ทรัพยากร",
+  "concerns": {
+    "acceptance": "การยอมรับ",
+    "adolescent": "วัยรุ่น",
+    "anger": "ความโกรธ",
+    "anxiety": "ความวิตกกังวล",
+    "depression": "ภาวะซึมเศร้า",
+    "eating-disorder": "โรคการกินผิดปกติ",
+    "grief": "ความโศกเศร้า",
+    "parenting": "การเลี้ยงดูบุตร",
+    "postpartum": "หลังคลอด",
+    "ptsd": "โรค PTSD",
+    "relationship": "ความสัมพันธ์",
+    "sexuality": "เพศวิถี",
+    "sleep": "นอน",
+    "stress": "ความเครียด",
+    "workplace": "สถานที่ทำงาน"
+  },
+  "types": {
+    "stories": "เรื่องราว",
+    "articles": "บทความ",
+    "myths": "ความเชื่อผิดๆ",
+    "tips": "เคล็ดลับ"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

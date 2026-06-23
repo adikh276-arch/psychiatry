@@ -1,0 +1,150 @@
+{
+  "app_title": "בדיקת שינה",
+  "app_subtitle": "תבין את המנוחה שלך",
+  "intro": {
+    "title": "בדיקת השינה שלך",
+    "description": "הבן מה משפיע על השינה שלך ואיפה שינויים קטנים יכולים לעזור.",
+    "start_button": "התחל ביקורת",
+    "history_button": "ביקורות קודמות",
+    "more_insights": "חזרה להתחלה"
+  },
+  "screens": {
+    "s1": {
+      "phase": "שלב 01",
+      "title": "איך הייתה השינה שלך?",
+      "desc": "בחר את אלה שמרגישים נכונים עבורך לאחרונה"
+    },
+    "s2": {
+      "phase": "שלב 02",
+      "title": "דרג את המנוחה הטיפוסית שלך",
+      "label": "חששות ספציפיים?",
+      "placeholder": "לחץ, רעש, גלילה..."
+    },
+    "s3": {
+      "score_label": "מתוך 7",
+      "recommendations": {
+        "solid": "ההרגלים שלך מוצקים! שינויים קטנים יכולים להפוך את זה לטוב יותר.",
+        "some": "זוהו כמה הפרעות. שינויים בהרגלים יכולים לעזור במהירות.",
+        "many": "מספר גורמים משפיעים על השינה שלך. אנחנו יכולים להתמודד איתם יחד."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "אני הולך לישון בזמנים שונים מאוד בכל ערב"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "סביבת השינה שלי לא חשוכה, שקטה או נוחה"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "אני גולל בטלפון שלי ממש לפני השינה"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "אני שותה קפאין או אלכוהול קרוב לשעת השינה"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "אני מתעורר בלילה ומתקשה לחזור לישון"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "המחשבות שלי רצות כשאני מנסה לישון"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "אני כמעט אף פעם לא מרגיש רענן אחרי לילה של שינה"
+    }
+  },
+  "rating_labels": {
+    "0": "מאוד עני",
+    "1": "גרוע",
+    "2": "אוקיי",
+    "3": "טוב",
+    "4": "מעולה"
+  },
+  "status_labels": {
+    "track": "בעיקר במסלול",
+    "disruptions": "כמה הפרעות",
+    "attention": "צריך טיפול"
+  },
+  "buttons": {
+    "continue": "המשך",
+    "see_results": "ראו תוצאות",
+    "preserve": "תוצאת שימור",
+    "preserving": "שימור...",
+    "back_to_intro": "חזרה למבוא"
+  },
+  "history": {
+    "title": "ביקורות קודמות",
+    "no_entries": "עדיין לא נשמרו ביקורות.",
+    "score_label": "מתוך 7"
+  },
+  "complete": {
+    "title": "הביקורת הושלמה",
+    "message": "ציון השינה שלך הוא {{score}}/7. הבנת הדפוסים הללו היא הצעד הראשון למנוחה עמוקה ומשקמת יותר."
+  },
+  "toasts": {
+    "save_success": "הביקורת נשמרה",
+    "save_error": "נכשל בשמירת ביקורת",
+    "auth_error": "סשן אימות חסר או מסד נתונים לא מוגדר"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "התחל מחדש",
+    "finish_exit": "סיום ויציאה",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "זמן להשלים",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "לַחֲלוֹק",
+    "share_progress": "שתף התקדמות",
+    "inspire_others": "תנו השראה לאחרים היום",
+    "share_text": "עשיתי את זה ב-TherapyMantra ואני ממש נהנה מזה, גם אתם יכולים לעשות את זה פשוט עקבו אחר הקישור לאפליקציית האנדרואיד {{androidUrl}} או לאפליקציית iOS {{iosUrl}}",
+    "this_activity": "פעילות זו",
+    "copied": "מוּעֲתָק!",
+    "copy_message": "העתקת הודעה",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "להבין את המנוחה שלך",
+  "more": "יוֹתֵר",
+  "breadcrumb": "פירורי לחם",
+  "previous_slide": "שקופית קודמת",
+  "next_slide": "השקופית הבאה",
+  "close": "לִסְגוֹר",
+  "previous": "קוֹדֵם",
+  "more_pages": "דפים נוספים",
+  "pagination": "דִפּוּף",
+  "go_to_previous_page": "עבור לעמוד הקודם",
+  "go_to_next_page": "עבור לעמוד הבא",
+  "toggle_sidebar": "הפעלה/כיבוי סרגל צד",
+  "oops_page_not_found": "אופס! הדף לא נמצא",
+  "return_to_home": "חזרה לבית",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "ארוך",
+  "loading": "היסטוריית טעינה..."
+}

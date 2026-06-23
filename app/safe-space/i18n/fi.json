@@ -1,0 +1,115 @@
+{
+  "app_title": "Turvallinen tila",
+  "nav": {
+    "0": "Sisäänkirjautuminen",
+    "1": "Lempeästi muistaminen",
+    "2": "Havainnointi",
+    "3": "Nykyhetkessä pysyminen",
+    "4": "Eteenpäin vieminen"
+  },
+  "s1": {
+    "title": "Etsitään paikka, joka tuntuu hyvältä",
+    "description": {
+      "0": "Ennen kuin aloitamme, ota hetki ja tarkista tilanne...",
+      "1": "Miltä sinusta tuntuu juuri nyt?",
+      "2": "Emme etsi täydellistä \"turvallista paikkaa\". Jotain, mikä tuntuu edes vähän rauhalliselta tai ok."
+    },
+    "placeholder": "Miltä sinusta tuntuu juuri nyt?",
+    "button": "Aloita visualisointi"
+  },
+  "s2": {
+    "title": "Tuo se varovasti mieleen",
+    "description": {
+      "0": "Ajattele paikkaa, jossa tunsit olosi edes vähän rauhalliseksi... Tai paikkaan, jonka toivoisit olevan olemassa.",
+      "1": "Nyt asetu sinne...",
+      "2": "Istutko, seisotko vai makaudutko?"
+    },
+    "button": "Jatka"
+  },
+  "s3": {
+    "title": "Katso ympärillesi hitaasti",
+    "description": {
+      "0": "Katso varovasti ympärillesi...",
+      "1": "Mikä on yksi asia, jonka näet?",
+      "2": "Nyt huomaa ääni... Mitä kuulet?"
+    },
+    "button": "Jatka"
+  },
+  "s4": {
+    "title": "Pysy tässä mukana",
+    "description": {
+      "0": "Mikä tässä paikassa saa sen tuntumaan edes vähän turvalliselta tai ok?",
+      "1": "Kuten huomaat, että...",
+      "2": "Kiinnitä myös huomio hengitykseesi."
+    },
+    "breathe": "Hengitä",
+    "notice": "Jos kuvitteleminen tuntuu vaikealta, mieti vain tämän paikan ideaa.",
+    "button": "Jatka"
+  },
+  "s5": {
+    "title": "Ota tämä mukaasi",
+    "description": {
+      "0": "Huomaa, miltä sinusta tuntuu juuri nyt. Jopa pieni työvuoro merkitsee.",
+      "1": "Katso, pystytkö kantamaan edes 5 % tästä tunteesta mukanasi."
+    },
+    "placeholder": "Miltä sinusta nyt tuntuu?",
+    "button": "Koko istunto"
+  },
+  "complete": {
+    "title": "Istunto päättynyt",
+    "message": "Tämä turvallinen paikka on aina käytettävissäsi. Voit palata tänne milloin tahansa, kun tarvitset hetken rauhaa."
+  },
+  "common": {
+    "get_started": "Aloita",
+    "start_over": "Aloita alusta",
+    "finish_exit": "Maali ja uloskäynti",
+    "well_done": "Hyvin tehty!",
+    "completion_message": "Olet suorittanut tämän tehtävän onnistuneesti. Ota hetki arvostaaksesi edistymistäsi.",
+    "time_to_complete": "Aika valmistua",
+    "back": "Takaisin",
+    "next": "Seuraavaksi",
+    "save": "Tallenna",
+    "loading": "Ladataan...",
+    "share": "Jaa",
+    "share_progress": "Jaa edistystä",
+    "inspire_others": "Inspiroi muita tänään",
+    "share_text": "Olen tehnyt tämän {{activityName}} TherapyMantrassa ja nautin siitä todella paljon, sinäkin voit tehdä sen, seuraa vain linkkiä Android-sovellukseen {{androidUrl}} tai iOS-sovellukseen {{iosUrl}}",
+    "this_activity": "Tämä toiminta",
+    "copied": "Kopioitu!",
+    "copy_message": "Kopioi viesti",
+    "yes": "Kyllä",
+    "no": "Ei",
+    "date": "Päivämäärä",
+    "continue": "Jatka",
+    "step_of": "Vaihe {{current}} {{total}}",
+    "round_of": "Kierros {{current}} {{total}}",
+    "phase_label": "Vaihe",
+    "rounds_selector": "{{count}} Kierrokset",
+    "instruction_ready": "Aseta kierrokset ja napauta play aloittaaksesi",
+    "instruction_running": "Seuraa ympyrää säädelläksesi hengitystäsi"
+  },
+  "app_description": "Turvallinen tila",
+  "more": "Lisää",
+  "breadcrumb": "Leivänmuru",
+  "previous_slide": "Edellinen dia",
+  "next_slide": "Seuraava dia",
+  "close": "Sulje",
+  "previous": "Edellinen",
+  "more_pages": "Lisää sivuja",
+  "pagination": "Sivutus",
+  "go_to_previous_page": "Mene edelliselle sivulle",
+  "go_to_next_page": "Mene seuraavalle sivulle",
+  "toggle_sidebar": "Sivupalkin vaihto",
+  "oops_page_not_found": "Hups! Sivua ei löydy",
+  "return_to_home": "Paluu kotiin",
+  "phase_label": "Vaihe",
+  "instruction_ready": "Aseta kierrokset ja napauta play aloittaaksesi",
+  "instruction_running": "Seuraa ympyrää säädelläksesi hengitystäsi",
+  "round_x_of_y": "Kierros {{current}} {{total}}",
+  "rounds_selector": "{{count}} Kierrokset",
+  "yes": "Kyllä",
+  "no": "Ei",
+  "date": "Päivämäärä",
+  "continue": "Jatka",
+  "lang": "pitkä"
+}

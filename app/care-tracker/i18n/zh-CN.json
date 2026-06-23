@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成时间",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share progress",
+    "inspire_others": "Inspire others",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied",
+    "copy_message": "Copy message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "自我护理追踪器",
+      "description": "记录你的日常自我护理习惯，看看它们如何影响你的整体健康。持之以恒是保持心理健康的关键。",
+      "benefits": {
+        "0": "记录每日自我护理活动",
+        "1": "记录你花在自己身上的时间",
+        "2": "监测你的情绪模式",
+        "3": "查看历史和进展"
+      },
+      "duration": "2-3分钟",
+      "benefit1": "记录每日身心健康活动",
+      "benefit2": "注意那些让你无法休息的挑战",
+      "benefit3": "通过积极强化来建立正念"
+    },
+    "checkin": {
+      "title": "自我关爱签到🌿",
+      "subtitle": "你今天是如何照顾自己的？",
+      "question": "你今天有好好照顾自己吗？*",
+      "description": "自我关爱是指我们为了照顾自己的心理、情感和身体健康而有意识地进行的任何活动。"
+    },
+    "activities": {
+      "title": "您的活动🎯",
+      "subtitle": "你今天做了哪些自我护理活动？"
+    },
+    "duration": {
+      "title": "花费时间⏱️",
+      "subtitle": "你花了多长时间进行自我护理？（可选）"
+    },
+    "noSelfCare": {
+      "title": "没关系💛",
+      "subtitle": "让我们来了解一下今天发生了什么。",
+      "question1": "今天是什么阻碍了自我关爱？（可选）",
+      "question2": "哪些类型的自我护理会有所帮助？（可选）"
+    },
+    "mood": {
+      "title": "你感觉怎么样？🫧",
+      "subtitle": "选择您当前的心情（可选）"
+    },
+    "review": {
+      "title": "您的参赛作品📋",
+      "subtitle": "以下是今天签到情况的概要",
+      "didSelfCare": "你做过自我关爱吗？",
+      "activities": "活动",
+      "duration": "期间",
+      "mood": "情绪",
+      "challenges": "阻止",
+      "whatHelps": "本来会有帮助的。",
+      "viewHistory": "每周历史",
+      "editToday": "编辑条目",
+      "summary": "概括"
+    },
+    "history": {
+      "title": "每周历史回顾📅",
+      "subtitle": "过去7天内无任何条目"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "糟糕！页面未找到",
+      "returnHome": "返回首页"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "锻炼",
+      "Meditation": "冥想",
+      "Journaling": "写日记",
+      "Reading": "阅读",
+      "Rest / Nap": "休息/小睡",
+      "Skincare": "护肤",
+      "Healthy Meal": "健康餐",
+      "Nature / Walk": "自然/漫步",
+      "Social Time": "社交时间",
+      "Hobby": "爱好",
+      "Therapy": "治疗",
+      "Digital Detox": "数字戒断"
+    },
+    "durations": {
+      "< 10 minutes": "不到 10 分钟",
+      "10–30 minutes": "10-30分钟",
+      "30–60 minutes": "30-60分钟",
+      "1+ hour": "1小时以上"
+    },
+    "reasons": {
+      "Busy schedule": "繁忙的日程",
+      "Low energy": "低能耗",
+      "Stress": "压力",
+      "Forgot": "忘记了",
+      "No motivation": "没有动力",
+      "Not feeling well": "感觉不舒服",
+      "Lack of time": "时间不足",
+      "Emotional overwhelm": "情绪崩溃"
+    },
+    "helpfulTypes": {
+      "Rest": "休息",
+      "Relaxation": "松弛",
+      "Physical activity": "体育活动",
+      "Talking to someone": "和某人交谈",
+      "Quiet time": "安静时光",
+      "Creative activity": "创意活动"
+    },
+    "moods": {
+      "Happy": "快乐的",
+      "Calm": "冷静的",
+      "Neutral": "中性的",
+      "Low": "低的",
+      "Stressed": "压力",
+      "Tired": "疲劳的"
+    },
+    "positiveStatements": {
+      "0": "你今天为自己挺身而出。这很了不起。🌿",
+      "1": "自我关爱并非自私——它至关重要。做得好！💚",
+      "2": "每一个小小的关爱之举，都会让你变得更强大。🌱",
+      "3": "你今天投资了自己。这很重要。✨",
+      "4": "照顾好自己是你今天做的最棒的事。🍃"
+    },
+    "supportiveStatements": {
+      "0": "没关系。明天又是新的开始。善待自己。🤍",
+      "1": "并非每天都会完美，但这完全没关系。🕊️",
+      "2": "你已经尽力了，这就足够了。💛",
+      "3": "休息也是一种自我关爱。善待自己。🌸",
+      "4": "承认今天需要勇气。你已经在成长了。🌷"
+    }
+  },
+  "app_title": "Self-Care Tracker",
+  "app_description": "Track your daily self-care habits and see how they impact your overall wellbeing. Consistency is key to a healthier mind.",
+  "initializing_session": "Initializing session",
+  "language": "Language",
+  "your_progress_over_the_last_7_days": "Your progress over the last 7 days",
+  "fetching_data": "Fetching data...",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "很长"
+}

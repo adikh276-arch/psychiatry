@@ -1,0 +1,99 @@
+{
+  "app_title": "Resources",
+  "not_found": {
+    "title": "Not Found",
+    "message": "Resource not found",
+    "description": "The content you're looking for might have moved.",
+    "button": "Go Back"
+  },
+  "list": {
+    "empty_title": "No {{type}} available",
+    "empty_desc": "We're currently curating more resources for this topic.",
+    "footer": "Mantra Care • Evidence Based Resources"
+  },
+  "detail": {
+    "loading": "Loading...",
+    "tip": {
+      "insight_label": "The Insight",
+      "plan_title": "Daily Action Plan",
+      "steps": "{{count}} Steps",
+      "example_label": "Practice Example",
+      "instead_of": "Instead of",
+      "try_this": "Try this"
+    },
+    "article": {
+      "final_thought": "Final Thought"
+    },
+    "story": {
+      "reflection_label": "Something to sit with",
+      "note_label": "A Note from the Author"
+    },
+    "myth": {
+      "truth_label": "The Scientific Truth",
+      "explanation_label": "Detailed Explanation",
+      "insight_label": "Key Insight"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Resources",
+  "concerns": {
+    "acceptance": "Acceptance",
+    "adolescent": "Adolescent",
+    "anger": "Anger",
+    "anxiety": "Anxiety",
+    "depression": "Depression",
+    "eating-disorder": "Eating Disorder",
+    "grief": "Grief",
+    "parenting": "Parenting",
+    "postpartum": "Postpartum",
+    "ptsd": "PTSD",
+    "relationship": "Relationship",
+    "sexuality": "Sexuality",
+    "sleep": "Sleep",
+    "stress": "Stress",
+    "workplace": "Workplace"
+  },
+  "types": {
+    "stories": "Stories",
+    "articles": "Articles",
+    "myths": "Myths",
+    "tips": "Tips"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

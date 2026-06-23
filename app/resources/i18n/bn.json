@@ -1,0 +1,99 @@
+{
+  "app_title": "রিসোর্স",
+  "not_found": {
+    "title": "খুঁজে পাওয়া যায়নি",
+    "message": "রিসোর্স খুঁজে পাওয়া যায়নি",
+    "description": "আপনি যে সামগ্রীটি খুঁজছেন তা সরানো হতে পারে।",
+    "button": "ফিরে যাও"
+  },
+  "list": {
+    "empty_title": "কোন {{type}} সুলভ নেই",
+    "empty_desc": "আমরা বর্তমানে এই বিষয়ের জন্য আরও সংস্থান সংগ্রহ করছি।",
+    "footer": "মন্ত্র যত্ন • প্রমাণ ভিত্তিক সংস্থান"
+  },
+  "detail": {
+    "loading": "লোড হচ্ছে...",
+    "tip": {
+      "insight_label": "অন্তর্দৃষ্টি",
+      "plan_title": "ডেইলি অ্যাকশন প্ল্যান",
+      "steps": "{{count}} পদক্ষেপ",
+      "example_label": "অনুশীলনের উদাহরণ",
+      "instead_of": "পরিবর্তে",
+      "try_this": "এটা চেষ্টা করে দেখুন"
+    },
+    "article": {
+      "final_thought": "চূড়ান্ত চিন্তাভাবনা"
+    },
+    "story": {
+      "reflection_label": "সাথে বসার মতো কিছু",
+      "note_label": "লেখকের একটি নোট"
+    },
+    "myth": {
+      "truth_label": "বৈজ্ঞানিক সত্য",
+      "explanation_label": "বিস্তারিত ব্যাখ্যা",
+      "insight_label": "কী অন্তর্দৃষ্টি"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "নতুন করে শুরু করুন",
+    "finish_exit": "শেষ করুন এবং প্রস্থান করুন",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "সম্পূর্ণ করার সময়",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "শেয়ার",
+    "share_progress": "শেয়ার অগ্রগতি",
+    "inspire_others": "আজ অন্যদের অনুপ্রাণিত করুন",
+    "share_text": "আমি থেরাপিমন্ত্রা-তে এই {{activityName}} কাজটি করেছি এবং এটি আমার খুব ভালো লেগেছে। আপনিও এটি করতে পারেন, শুধু অ্যান্ড্রয়েড অ্যাপের {{androidUrl}} অথবা আইওএস অ্যাপের {{iosUrl}} লিঙ্কটি অনুসরণ করুন।",
+    "this_activity": "এই কার্যকলাপ",
+    "copied": "অনুলিপি করা হয়েছে!",
+    "copy_message": "বার্তা কপি করুন",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "সম্পদ",
+  "concerns": {
+    "acceptance": "গ্রহণযোগ্যতা",
+    "adolescent": "কিশোর",
+    "anger": "রাগ",
+    "anxiety": "উদ্বেগ",
+    "depression": "বিষণ্ণতা",
+    "eating-disorder": "খাওয়ার ব্যাধি",
+    "grief": "শোক",
+    "parenting": "অভিভাবকত্ব",
+    "postpartum": "প্রসবোত্তর",
+    "ptsd": "PTSD",
+    "relationship": "সম্পর্ক",
+    "sexuality": "যৌনতা",
+    "sleep": "ঘুম",
+    "stress": "চাপ",
+    "workplace": "কর্মক্ষেত্র"
+  },
+  "types": {
+    "stories": "গল্প",
+    "articles": "প্রবন্ধ",
+    "myths": "পৌরাণিক কাহিনী",
+    "tips": "টিপস"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

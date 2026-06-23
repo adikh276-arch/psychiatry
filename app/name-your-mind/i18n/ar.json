@@ -1,0 +1,136 @@
+{
+  "app_title": "اذكر عقلك",
+  "intro": {
+    "title": "تعرف على عقلك",
+    "description": "تعلم أن تبتعد عن الأفكار الساحقة بإعطاء صوتك الداخلي اسما.",
+    "benefits": {
+      "0": "خلق مسافة ذهنية",
+      "1": "قلل من قوة الأفكار القاسية",
+      "2": "لاحظ الأفكار دون أن تكون هي"
+    },
+    "duration": "2-3 دقائق",
+    "view_past": "عرض المشاركات السابقة"
+  },
+  "history": {
+    "title": "المشاركات السابقة",
+    "no_entries": "لا توجد مشاركات حتى الآن.",
+    "reflection_label": "التأمل: {{text}}"
+  },
+  "complete": {
+    "title": "اكتمال النشاط",
+    "great_job": "عمل رائع!",
+    "message": "لقد نجحت في تسمية عقلك وخلقت بعض المسافة بينك وبين أفكارك.",
+    "footer": "تذكر: ليس عليك أن تصدق كل فكرة تمنحك إياها عقلك."
+  },
+  "subtitles": {
+    "concept": "وجهة نظر",
+    "input_thought": "ملاحظة",
+    "input_name": "الاسم",
+    "practice": "الممارسة",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "تحول صغير",
+      "example": "\"أنا لست جيدا بما فيه الكفاية\"",
+      "desc": "عندما تظهر فكرة، غالبا ما تشعر وكأنها <0>أنت</0>. لكن ماذا لو كان بإمكانك التراجع و<1>ملاحظة</1> بدلا من ذلك؟"
+    },
+    "input_thought": {
+      "title": "لنبدأ بفكرة حقيقية",
+      "desc": "ما هي فكرة واحدة تزعجك مؤخرا؟",
+      "placeholder": "اكتبها تماما كما تأتيك..."
+    },
+    "input_name": {
+      "title": "خلق بعض المسافة",
+      "desc": "امنح عقلك اسما يساعدك على التمييز عن هذه الأفكار.",
+      "placeholder": "أو اكتب بنفسك...",
+      "examples": {
+        "0": "الناقد",
+        "1": "مفرط التفكير",
+        "2": "وير إف إم",
+        "3": "آلة التفكير المفرط",
+        "4": "الناقد الداخلي",
+        "5": "مولد الاحتمالات",
+        "6": "مخرج الدراما"
+      }
+    },
+    "practice": {
+      "title": "جرب هذا الوردية",
+      "instead_of": "بدلا من",
+      "try_saying": "حاول أن تقول",
+      "is_telling_me": "{{name}} يخبرني:",
+      "guide": "كرر هذه الجملة بلطف لنفسك 4-5 مرات وعلى وتيرتك الخاصة.",
+      "button": "أنا جاهز"
+    },
+    "reflection": {
+      "title": "ماذا لاحظت؟",
+      "desc": "كيف كان شعور الفكرة بعد أن أعطاها اسما؟",
+      "options": {
+        "0": "كانت الفكرة أقل حدة من قبل",
+        "1": "شعرت أن لدي بعض المسافة من الفكرة",
+        "2": "لا يزال يشعر بالقوة كما كان من قبل",
+        "3": "لست متأكدا مما تغير، إن حدث شيء"
+      },
+      "button": "انعكاس كامل"
+    }
+  },
+  "buttons": {
+    "continue": "تابع",
+    "restart": "إعادة التشغيل"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "ابدأ من جديد",
+    "finish_exit": "إنهاء العملية والخروج",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "الوقت اللازم للإنجاز",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "يشارك",
+    "share_progress": "مشاركة التقدم",
+    "inspire_others": "ألهم الآخرين اليوم",
+    "share_text": "لقد قمتُ بهذا النشاط {{activityName}} في تطبيق TherapyMantra واستمتعتُ به حقًا، يمكنك القيام به أيضًا، فقط اتبع الرابط إلى تطبيق أندرويد {{androidUrl}} أو تطبيق iOS {{iosUrl}}",
+    "this_activity": "هذا النشاط",
+    "copied": "تم النسخ!",
+    "copy_message": "انسخ الرسالة",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "سمِّ ما تفكر فيه",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "عندما تخطر ببالك فكرة، غالباً ما تشعر وكأنها",
+  "more": "أكثر",
+  "breadcrumb": "فتات الخبز",
+  "previous_slide": "الشريحة السابقة",
+  "next_slide": "الشريحة التالية",
+  "close": "يغلق",
+  "previous": "سابق",
+  "more_pages": "صفحات أخرى",
+  "pagination": "ترقيم الصفحات",
+  "go_to_previous_page": "انتقل إلى الصفحة السابقة",
+  "go_to_next_page": "انتقل إلى الصفحة التالية",
+  "toggle_sidebar": "تبديل الشريط الجانبي",
+  "oops_page_not_found": "عذراً! الصفحة غير موجودة",
+  "return_to_home": "العودة إلى الصفحة الرئيسية",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "طويل"
+}

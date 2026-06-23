@@ -1,0 +1,115 @@
+{
+  "app_title": "Bezpečný prostor",
+  "nav": {
+    "0": "Check-in",
+    "1": "Jemné připomenutí",
+    "2": "Pozorování",
+    "3": "Zůstat přítomný",
+    "4": "Pokračujeme dál"
+  },
+  "s1": {
+    "title": "Najděme místo, kde je to v pohodě",
+    "description": {
+      "0": "Než začneme, věnujte chvíli kontrole toho...",
+      "1": "Jak se teď cítíš?",
+      "2": "Nehledáme dokonalé \"bezpečné místo\". Jen něco, co působí alespoň trochu klidně nebo v pořádku."
+    },
+    "placeholder": "Jak se teď cítíš?",
+    "button": "Začněte vizualizaci"
+  },
+  "s2": {
+    "title": "Jemně si to připomeň",
+    "description": {
+      "0": "Představ si místo, kde ses cítil alespoň trochu v klidu... nebo místo, které byste si přáli existovat.",
+      "1": "Teď se tam postav...",
+      "2": "Sedíte, stojíte nebo ležíte?"
+    },
+    "button": "Pokračovat"
+  },
+  "s3": {
+    "title": "Rozhlédni se pomalu",
+    "description": {
+      "0": "Rozhlédni se kolem sebe...",
+      "1": "Co je jedna věc, kterou vidíš?",
+      "2": "Teď si všimněte zvuku... Co slyšíš?"
+    },
+    "button": "Pokračovat"
+  },
+  "s4": {
+    "title": "Vydrž to",
+    "description": {
+      "0": "Co je na tomto místě takové, že se cítí byť jen trochu bezpečně nebo v pohodě?",
+      "1": "Když si všimneš, že...",
+      "2": "Také zaměřte pozornost na svůj dech."
+    },
+    "breathe": "Dýchej",
+    "notice": "Pokud je představa těžká, jen si představte toto místo.",
+    "button": "Pokračovat"
+  },
+  "s5": {
+    "title": "Vezmi si to s sebou",
+    "description": {
+      "0": "Všímej si, jak se teď cítíš. I malá změna je důležitá.",
+      "1": "Zkus si vzít alespoň 5 % tohoto pocitu s sebou."
+    },
+    "placeholder": "Jak se teď cítíš?",
+    "button": "Kompletní sezení"
+  },
+  "complete": {
+    "title": "Session dokončena",
+    "message": "Toto bezpečné místo je pro vás vždy k dispozici. Můžeš se sem vrátit, kdykoli budeš potřebovat chvíli klidu."
+  },
+  "common": {
+    "get_started": "Začněte",
+    "start_over": "Začít znovu",
+    "finish_exit": "Konec a výjezd",
+    "well_done": "Dobrá práce!",
+    "completion_message": "Úspěšně jste tuto aktivitu dokončili. Věnujte chvíli ocenění svého pokroku.",
+    "time_to_complete": "Čas dokončit",
+    "back": "Zpět",
+    "next": "Další",
+    "save": "Uložit",
+    "loading": "Načítám...",
+    "share": "Sdílet",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní dnes",
+    "share_text": "Dělal jsem to {{activityName}} v TherapyMantra a opravdu mě to baví, můžete to dělat taky, stačí kliknout na odkaz na android aplikaci {{androidUrl}} nebo iOS aplikaci {{iosUrl}}",
+    "this_activity": "Tato činnost",
+    "copied": "Zkopírováno!",
+    "copy_message": "Zkopírovat zprávu",
+    "yes": "Ano",
+    "no": "Ne",
+    "date": "Datum",
+    "continue": "Pokračovat",
+    "step_of": "Krok {{current}} of {{total}}",
+    "round_of": "Kolo {{current}} z {{total}}",
+    "phase_label": "Fáze",
+    "rounds_selector": "{{count}} Kola",
+    "instruction_ready": "Nastavte si kola a klepněte na play pro zahájení",
+    "instruction_running": "Následujte kruh, abyste regulovali dech"
+  },
+  "app_description": "Bezpečný prostor",
+  "more": "Více",
+  "breadcrumb": "drobeček",
+  "previous_slide": "Předchozí snímek",
+  "next_slide": "Další snímek",
+  "close": "Zavřít",
+  "previous": "Předchozí",
+  "more_pages": "Další stránky",
+  "pagination": "Paginace",
+  "go_to_previous_page": "Přejděte na předchozí stránku",
+  "go_to_next_page": "Přejděte na další stránku",
+  "toggle_sidebar": "Přepínač postranního panelu",
+  "oops_page_not_found": "Jejda! Stránka nenalezena",
+  "return_to_home": "Návrat domů",
+  "phase_label": "Fáze",
+  "instruction_ready": "Nastavte si kola a klepněte na play pro zahájení",
+  "instruction_running": "Následujte kruh, abyste regulovali dech",
+  "round_x_of_y": "Kolo {{current}} z {{total}}",
+  "rounds_selector": "{{count}} Kola",
+  "yes": "Ano",
+  "no": "Ne",
+  "date": "Datum",
+  "continue": "Pokračovat",
+  "lang": "dlouhý"
+}

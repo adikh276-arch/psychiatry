@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Opnieuw beginnen",
+    "finish_exit": "Voltooien en afsluiten",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tijd om te voltooien",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Deel",
+    "share_progress": "Voortgang delen",
+    "inspire_others": "Inspireer anderen vandaag nog",
+    "share_text": "Ik heb deze activiteit {{activityName}} in TherapyMantra gedaan en ik vind het erg leuk. Jij kunt het ook doen, volg gewoon de link naar de Android-app {{androidUrl}} of de iOS-app {{iosUrl}}.",
+    "this_activity": "deze activiteit",
+    "copied": "Gekopieerd!",
+    "copy_message": "Bericht kopiëren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Zelfzorgtracker",
+      "description": "Houd je dagelijkse zelfzorggedrag bij en kijk hoe ze je algehele welzijn beïnvloeden. Consistentie is de sleutel tot een gezondere geest.",
+      "benefits": {
+        "0": "Registreer dagelijkse zelfzorgactiviteiten",
+        "1": "Houd de tijd bij die je aan jezelf besteedt",
+        "2": "Houd je stemmingspatronen in de gaten",
+        "3": "Bekijk geschiedenis en voortgang"
+      },
+      "duration": "2-3 minuten",
+      "benefit1": "Registreer dagelijks fysieke en mentale gezondheidshandelingen",
+      "benefit2": "Let op uitdagingen die je van rust weerhouden",
+      "benefit3": "Bouw mindfulness op door positieve bekrachtiging"
+    },
+    "checkin": {
+      "title": "Zelfzorg check-in 🌿",
+      "subtitle": "Hoe heb je vandaag voor jezelf gezorgd?",
+      "question": "Heb je vandaag aan zelfzorg gedaan? *",
+      "description": "Zelfzorg is elke activiteit die we bewust doen om voor onze mentale, emotionele en fysieke gezondheid te zorgen."
+    },
+    "activities": {
+      "title": "Uw activiteiten 🎯",
+      "subtitle": "Welke zelfzorgactiviteiten heb je vandaag gedaan?"
+    },
+    "duration": {
+      "title": "Tijd besteed ⏱️",
+      "subtitle": "Hoe lang heb je aan zelfzorg besteed? (optioneel)"
+    },
+    "noSelfCare": {
+      "title": "Dat is oké 💛",
+      "subtitle": "Laten we begrijpen wat er vandaag is gebeurd.",
+      "question1": "Wat heeft zelfzorg vandaag de dag voorkomen? (optioneel)",
+      "question2": "Wat voor soort zelfzorg zou geholpen hebben? (optioneel)"
+    },
+    "mood": {
+      "title": "Hoe voel je je? 🫧",
+      "subtitle": "Selecteer je huidige stemming (optioneel)"
+    },
+    "review": {
+      "title": "Uw Inzending 📋",
+      "subtitle": "Hier is een samenvatting van de check-in van vandaag",
+      "didSelfCare": "Zelfzorg?",
+      "activities": "Activiteiten",
+      "duration": "Duur",
+      "mood": "Stemming",
+      "challenges": "Voorkomen door",
+      "whatHelps": "Dat had geholpen",
+      "viewHistory": "Wekelijkse Geschiedenis",
+      "editToday": "Bewerkingsvermelding",
+      "summary": "Samenvatting"
+    },
+    "history": {
+      "title": "Wekelijkse Geschiedenis 📅",
+      "subtitle": "Geen inzendingen in de afgelopen 7 dagen"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Oeps! Pagina niet gevonden",
+      "returnHome": "Terugkeer naar huis"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Oefening",
+      "Meditation": "Meditatie",
+      "Journaling": "Dagboekschrijven",
+      "Reading": "Lezen",
+      "Rest / Nap": "Rust / Dutje",
+      "Skincare": "Huidverzorging",
+      "Healthy Meal": "Gezonde maaltijd",
+      "Nature / Walk": "Natuur / Wandeling",
+      "Social Time": "Sociale Tijd",
+      "Therapy": "Therapie",
+      "Digital Detox": "Digitale detox",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minuten",
+      "10–30 minutes": "10–30 minuten",
+      "30–60 minutes": "30–60 minuten",
+      "1+ hour": "1+ uur"
+    },
+    "reasons": {
+      "Busy schedule": "Druk schema",
+      "Low energy": "Lage energie",
+      "Forgot": "Vergeten",
+      "No motivation": "Geen motivatie",
+      "Not feeling well": "Voel me niet lekker",
+      "Lack of time": "Gebrek aan tijd",
+      "Emotional overwhelm": "Emotionele overweldiging",
+      "Stress": "Spanning"
+    },
+    "helpfulTypes": {
+      "Rest": "Rust",
+      "Relaxation": "Ontspanning",
+      "Physical activity": "Lichamelijke activiteit",
+      "Talking to someone": "Met iemand praten",
+      "Quiet time": "Rustige tijd",
+      "Creative activity": "Creatieve activiteit"
+    },
+    "moods": {
+      "Happy": "Blij",
+      "Calm": "Rustig",
+      "Neutral": "Neutraal",
+      "Low": "Laag",
+      "Stressed": "Gestrest",
+      "Tired": "Moe"
+    },
+    "positiveStatements": {
+      "0": "Je bent vandaag voor jezelf gekomen. Dat is krachtig. 🌿",
+      "1": "Zelfzorg is niet egoïstisch — het is essentieel. Goed gedaan. 💚",
+      "2": "Elke kleine daad van zorg bouwt een sterkere jij op. 🌱",
+      "3": "Je hebt vandaag in jezelf geïnvesteerd. Dat is belangrijk. ✨",
+      "4": "Voor jezelf zorgen is het beste wat je vandaag hebt gedaan. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Het is oké. Morgen is een frisse start. Wees zacht voor jezelf. 🤍",
+      "1": "Niet elke dag zal perfect zijn, en dat is helemaal prima. 🕊️",
+      "2": "Je doet je best. Dat is altijd genoeg. 💛",
+      "3": "Rust is ook een vorm van zelfzorg. Wees mild voor jezelf. 🌸",
+      "4": "Vandaag erkennen vergt moed. Je groeit al. 🌷"
+    }
+  },
+  "app_title": "Tracker voor zelfzorg",
+  "app_description": "Houd je dagelijkse zelfzorggewoonten bij en zie hoe ze je algehele welzijn beïnvloeden. Consistentie is de sleutel tot een gezondere geest.",
+  "initializing_session": "Sessie initialiseren",
+  "language": "Taal",
+  "your_progress_over_the_last_7_days": "Je voortgang in de afgelopen 7 dagen",
+  "fetching_data": "Gegevens ophalen...",
+  "more": "Meer",
+  "breadcrumb": "paneermeel",
+  "previous_slide": "Vorige dia",
+  "next_slide": "Volgende dia",
+  "close": "Dichtbij",
+  "previous": "Vorig",
+  "more_pages": "Meer pagina's",
+  "pagination": "paginering",
+  "go_to_previous_page": "Ga naar de vorige pagina",
+  "go_to_next_page": "Ga naar de volgende pagina",
+  "toggle_sidebar": "Zijbalk in-/uitschakelen",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

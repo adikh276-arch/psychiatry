@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Commencer",
+    "start_over": "Recommencer",
+    "finish_exit": "Fin et sortie",
+    "well_done": "Bien joué !",
+    "completion_message": "Vous avez terminé cette activité avec succès. Prenez un moment pour apprécier vos progrès.",
+    "time_to_complete": "Temps écoulé",
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Enregistrer",
+    "loading": "Chargement...",
+    "share": "Partager",
+    "share_progress": "Partager les progrès",
+    "inspire_others": "Inspirez les autres aujourd'hui",
+    "share_text": "J'ai réalisé cette activité {{activityName}} sur TherapyMantra et j'ai beaucoup apprécié. Vous pouvez la faire aussi ; il suffit de suivre le lien vers l'application Android {{androidUrl}} ou l'application iOS {{iosUrl}}.",
+    "this_activity": "cette activité",
+    "copied": "Copié !",
+    "copy_message": "Copier le message",
+    "yes": "Oui",
+    "no": "Non",
+    "date": "Date",
+    "continue": "Continuer",
+    "chooseAnother": "Choisir un autre sentiment",
+    "step_of": "Étape {{current}} sur {{total}}",
+    "round_of": "Round {{current}} sur {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+    "instruction_running": "Suivez le cercle pour réguler votre respiration"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Quand on se sent seul et triste",
+      "affirmations": {
+        "0": "Je ne suis pas seul, même quand j'ai cette impression.",
+        "1": "Mes sentiments méritent attention et douceur.",
+        "2": "Ce moment ne durera pas éternellement.",
+        "3": "J'ai le droit d'avoir besoin de connexion.",
+        "4": "Je peux me réchauffer moi-même dès maintenant."
+      }
+    },
+    "terrified": {
+      "label": "Quand vous vous sentez terrifié",
+      "affirmations": {
+        "0": "Je suis en sécurité en ce moment.",
+        "1": "La peur est un sentiment, pas une prédiction.",
+        "2": "Je peux y aller une respiration à la fois.",
+        "3": "Je n'ai pas besoin de tout résoudre tout de suite.",
+        "4": "Je suis plus forte que ce moment."
+      }
+    },
+    "insignificant": {
+      "label": "Quand on se sent insignifiant",
+      "affirmations": {
+        "0": "Les petits moments comptent toujours.",
+        "1": "Je n'ai pas besoin de prouver ma valeur.",
+        "2": "J'ai le droit d'occuper de l'espace.",
+        "3": "Mon existence compte.",
+        "4": "Je suis assez comme je suis."
+      }
+    },
+    "overwhelmed": {
+      "label": "Lorsque vous vous sentez submergé",
+      "affirmations": {
+        "0": "Je n'ai pas besoin de tout faire en même temps.",
+        "1": "Un petit pas suffit.",
+        "2": "Il est normal de faire une pause.",
+        "3": "J'ai le droit de me reposer.",
+        "4": "Cela redeviendra gérable."
+      }
+    },
+    "hopeless": {
+      "label": "Quand on se sent désespéré",
+      "affirmations": {
+        "0": "Je n'ai pas besoin de réponses aujourd'hui.",
+        "1": "Le changement est encore possible.",
+        "2": "J'ai déjà surmonté des périodes difficiles.",
+        "3": "Je peux rester ici pour le moment.",
+        "4": "Quelque chose de doux peut encore se produire."
+      }
+    },
+    "conflicted": {
+      "label": "Lorsque vous vous sentez en conflit",
+      "affirmations": {
+        "0": "Il est normal de ressentir plusieurs choses à la fois.",
+        "1": "Je n'ai pas besoin de réponses immédiates.",
+        "2": "La confusion n'est pas synonyme d'échec.",
+        "3": "Je peux me donner du temps.",
+        "4": "Je suis sûre de pouvoir trouver la solution."
+      }
+    },
+    "self-critical": {
+      "label": "Quand on est très autocritique",
+      "affirmations": {
+        "0": "Je peux me parler avec bienveillance.",
+        "1": "Je n'ai pas besoin de me punir pour progresser.",
+        "2": "Les erreurs ne définissent pas qui je suis.",
+        "3": "J'apprends, je n'échoue pas.",
+        "4": "La croissance ne nécessite pas de cruauté."
+      }
+    },
+    "out-of-place": {
+      "label": "Quand on se sent socialement à l'écart",
+      "affirmations": {
+        "0": "J'ai le droit d'être silencieux ou différent.",
+        "1": "Je n'ai pas à égaler l'énergie de qui que ce soit.",
+        "2": "Je suis à ma place telle que je suis.",
+        "3": "Je peux prendre de la place en douceur.",
+        "4": "Je ne fais pas cela mal."
+      }
+    },
+    "unsafe": {
+      "label": "Quand vous vous sentez en danger en présence d'inconnus",
+      "affirmations": {
+        "0": "Je peux avancer à mon propre rythme.",
+        "1": "J'ai le droit de protéger mes limites.",
+        "2": "Je peux rester ancrée dans mon corps.",
+        "3": "J'ai le droit de quitter certaines situations.",
+        "4": "Je peux assurer ma propre sécurité."
+      }
+    },
+    "pressured": {
+      "label": "Lorsque vous vous sentez sous pression au travail",
+      "affirmations": {
+        "0": "Ma valeur ne se mesure pas à ma productivité.",
+        "1": "Je n'ai pas besoin de faire mes preuves constamment.",
+        "2": "Faire de mon mieux me suffit aujourd'hui.",
+        "3": "Une tâche à la fois, c'est bien.",
+        "4": "Je suis bien plus que mon rôle."
+      }
+    },
+    "face-the-day": {
+      "label": "Quand tu ne veux pas affronter la journée",
+      "affirmations": {
+        "0": "Je peux aborder cette journée par petits morceaux.",
+        "1": "Le simple fait de réussir est déjà suffisant.",
+        "2": "Je n'ai pas besoin de motivation pour commencer.",
+        "3": "Se présenter en douceur compte aussi.",
+        "4": "Cette journée ne me définit pas."
+      }
+    },
+    "future": {
+      "label": "Quand tu t'inquiètes pour ton avenir",
+      "affirmations": {
+        "0": "Je peux revenir au présent.",
+        "1": "Je réglerai les choses au fur et à mesure.",
+        "2": "Je n'ai pas besoin de certitudes aujourd'hui.",
+        "3": "Je suis capable de m'adapter.",
+        "4": "Je peux me faire un peu plus confiance."
+      }
+    },
+    "stuck": {
+      "label": "Quand vous vous sentez bloqué dans un problème",
+      "affirmations": {
+        "0": "Être bloqué ne signifie pas que je suis brisé.",
+        "1": "Je peux faire une pause sans abandonner.",
+        "2": "Je n'ai pas besoin de solutions immédiates.",
+        "3": "J'ai le droit d'avoir des doutes.",
+        "4": "Je continue d'avancer, même lentement."
+      }
+    },
+    "compare": {
+      "label": "Quand tu te compares à toi-même",
+      "affirmations": {
+        "0": "Mon parcours m'appartient.",
+        "1": "Je n'ai pas besoin de rivaliser pour être digne.",
+        "2": "J'ai le droit d'évoluer à mon rythme.",
+        "3": "Le succès d'autrui n'efface pas le mien.",
+        "4": "Je ne suis pas en retard."
+      }
+    },
+    "give-up": {
+      "label": "Quand tu as envie d'abandonner",
+      "affirmations": {
+        "0": "Je n'ai rien à décider pour le moment.",
+        "1": "Ce sentiment va passer.",
+        "2": "J'ai survécu à plus de choses que je ne le pense.",
+        "3": "Je peux rester encore un instant.",
+        "4": "Je suis toujours là — et ça compte."
+      }
+    }
+  },
+  "app_complete_title": "Sentez-vous puissant",
+  "app_complete_message": "Les affirmations quotidiennes aident à remodeler votre état d’esprit. Emportez ces pensées positives avec vous aujourd’hui.",
+  "app_duration": "2-3 minutes",
+  "app_title": "État d'esprit",
+  "app_description": "Remodelez votre état d'esprit grâce à des affirmations quotidiennes.",
+  "intro": {
+    "description": "Les affirmations quotidiennes contribuent à transformer votre état d'esprit et à renforcer votre résilience émotionnelle. Prenez quelques instants pour vous concentrer sur des pensées positives et parlez-vous avec bienveillance.",
+    "benefits": {
+      "0": "Trouver la paix dans les moments difficiles",
+      "1": "Remettez en question les schémas de pensée négatifs.",
+      "2": "Cultivez la compassion envers vous-même et votre force."
+    }
+  },
+  "affirmation_for": "Affirmation pour",
+  "affirmation": "Affirmation",
+  "language": "Langue",
+  "more": "Plus",
+  "breadcrumb": "chapelure",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "more_pages": "Plus de pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Aller à la page précédente",
+  "go_to_next_page": "Passer à la page suivante",
+  "toggle_sidebar": "Afficher/masquer la barre latérale",
+  "oops_page_not_found": "Oups ! Page introuvable",
+  "return_to_home": "Retour à l'accueil",
+  "phase_label": "Phase",
+  "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+  "instruction_running": "Suivez le cercle pour réguler votre respiration",
+  "round_x_of_y": "Round {{current}} sur {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Oui",
+  "no": "Non",
+  "date": "Date",
+  "continue": "Continuer",
+  "feelings_heading": "Comment tu te sens ?",
+  "feelings_subheading": "Sélectionnez l’émotion que vous souhaitez",
+  "lang": "long"
+}

@@ -1,0 +1,136 @@
+{
+  "app_title": "మీ మనస్సుకు పేరు పెట్టండి",
+  "intro": {
+    "title": "మీ మనస్సును కలవండి",
+    "description": "మీ అంతర్గత స్వరానికి పేరు పెట్టడం ద్వారా అధిక ఆలోచనల నుండి మిమ్మల్ని మీరు దూరం చేసుకోవడం నేర్చుకోండి.",
+    "benefits": {
+      "0": "మానసిక దూరాన్ని సృష్టించండి",
+      "1": "కఠినమైన ఆలోచనల శక్తిని తగ్గించండి",
+      "2": "ఆలోచనలు లేకుండానే గమనించండి"
+    },
+    "duration": "2-3 నిమిషాలు",
+    "view_past": "గత ఎంట్రీలను వీక్షించండి"
+  },
+  "history": {
+    "title": "గత ఎంట్రీలు",
+    "no_entries": "ఇంకా ఎంట్రీలు లేవు.",
+    "reflection_label": "ప్రతిబింబం: {{text}}"
+  },
+  "complete": {
+    "title": "యాక్టివిటీ పూర్తయింది",
+    "great_job": "గొప్ప పని!",
+    "message": "మీరు విజయవంతంగా మీ మనస్సుకు పేరు పెట్టారు మరియు మీకు మరియు మీ ఆలోచనలకు మధ్య కొంత ఖాళీని సృష్టించారు.",
+    "footer": "గుర్తుంచుకోండి: మీ మనస్సు మీకు ఇచ్చే ప్రతి ఆలోచనను మీరు నమ్మాల్సిన అవసరం లేదు."
+  },
+  "subtitles": {
+    "concept": "దృక్పథం",
+    "input_thought": "నోటీసు",
+    "input_name": "పేరు",
+    "practice": "ప్రాక్టీస్",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "ఒక చిన్న మార్పు",
+      "example": "\"నేను తగినంతగా మంచివాడిని కాదు\"",
+      "desc": "ఒక ఆలోచన కనిపించినప్పుడు, అది తరచుగా <0>మీరు</0> అని అనిపిస్తుంది. కానీ మీరు వెనక్కి తగ్గి, బదులుగా దానిని <1>నోటీస్< / 1> చేయగలిగితే?"
+    },
+    "input_thought": {
+      "title": "నిజమైన ఆలోచనతో ప్రారంభిద్దాం",
+      "desc": "ఇటీవల మిమ్మల్ని బాధిస్తున్న ఒక ఆలోచన ఏమిటి?",
+      "placeholder": "మీకు వచ్చినట్లుగా రాయండి..."
+    },
+    "input_name": {
+      "title": "కొంత దూరాన్ని సృష్టించండి",
+      "desc": "ఈ ఆలోచనల నుండి మిమ్మల్ని మీరు వేరు చేసుకోవడంలో సహాయపడటానికి మీ మనస్సుకు ఒక పేరు ఇవ్వండి.",
+      "placeholder": "లేదా మీ స్వంతంగా టైప్ చేయండి...",
+      "examples": {
+        "0": "విమర్శకుడు",
+        "1": "ఓవర్ థింకర్",
+        "2": "చింతించండి FM",
+        "3": "అతిగా ఆలోచించే యంత్రం",
+        "4": "అంతర్గత విమర్శకుడు",
+        "5": "వాట్-ఇఫ్ జనరేటర్",
+        "6": "నాటక దర్శకుడు[మార్చు]"
+      }
+    },
+    "practice": {
+      "title": "ఈ షిఫ్ట్ ప్రయత్నించండి",
+      "instead_of": "బదులుగా",
+      "try_saying": "ఇలా చెప్పడానికి ప్రయత్నించండి",
+      "is_telling_me": "{{name}} నాకు చెబుతున్నాడు:",
+      "guide": "ఈ వాక్యాన్ని మీ స్వంత వేగంతో 4-5 సార్లు మృదువుగా పునరావృతం చేయండి.",
+      "button": "నేను సిద్ధంగా ఉన్నాను."
+    },
+    "reflection": {
+      "title": "మీరు ఏమి గమనించారు?",
+      "desc": "పేరు పెట్టిన తర్వాత ఆలోచన ఎలా అనిపించింది?",
+      "options": {
+        "0": "ఆలోచన మునుపటి కంటే కొంచెం తక్కువ తీవ్రంగా అనిపించింది",
+        "1": "నేను ఆలోచనకు కొంత దూరం ఉన్నట్లు అనిపించింది",
+        "2": "ఇది ఇంకా మునుపటిలాగే బలంగా అనిపించింది",
+        "3": "ఏది మారిందో నాకు తెలియదు, ఏదైనా ఉంటే"
+      },
+      "button": "పూర్తి ప్రతిబింబం"
+    }
+  },
+  "buttons": {
+    "continue": "కొనసాగించండి",
+    "restart": "పునః ప్రారంభించండి"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "మళ్ళీ ప్రారంభించండి",
+    "finish_exit": "ముగించి నిష్క్రమించండి",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "పూర్తి చేయడానికి సమయం",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "పంచుకోండి",
+    "share_progress": "పురోగతిని పంచుకోండి",
+    "inspire_others": "ఈరోజు ఇతరులకు స్ఫూర్తినివ్వండి",
+    "share_text": "నేను థెరపీమంత్రలో ఈ {{activityName}} చేశాను మరియు నాకు ఇది చాలా నచ్చింది. మీరు కూడా దీన్ని చేయవచ్చు, కేవలం ఈ లింక్‌ను అనుసరించండి: ఆండ్రాయిడ్ యాప్ {{androidUrl}} లేదా ఐఓఎస్ యాప్ {{iosUrl}}",
+    "this_activity": "ఈ కార్యాచరణ",
+    "copied": "కాపీ చేయబడింది!",
+    "copy_message": "సందేశాన్ని కాపీ చేయండి",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "మీ మనస్సుకు పేరు పెట్టండి",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "ఒక ఆలోచన వచ్చినప్పుడు, అది తరచుగా ఇలా అనిపిస్తుంది",
+  "more": "మరిన్ని",
+  "breadcrumb": "బ్రెడ్‌క్రంబ్",
+  "previous_slide": "మునుపటి స్లైడ్",
+  "next_slide": "తదుపరి స్లైడ్",
+  "close": "మూసివేయండి",
+  "previous": "మునుపటి",
+  "more_pages": "మరిన్ని పేజీలు",
+  "pagination": "పేజీల సంఖ్య",
+  "go_to_previous_page": "మునుపటి పేజీకి వెళ్లండి",
+  "go_to_next_page": "తదుపరి పేజీకి వెళ్లండి",
+  "toggle_sidebar": "సైడ్‌బార్‌ను టోగుల్ చేయండి",
+  "oops_page_not_found": "అయ్యో! పేజీ కనుగొనబడలేదు",
+  "return_to_home": "హోమ్‌కు తిరిగి వెళ్లండి",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "పొడవు"
+}

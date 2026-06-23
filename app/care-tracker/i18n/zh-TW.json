@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新開始",
+    "finish_exit": "結束並退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share progress",
+    "inspire_others": "Inspire others",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied",
+    "copy_message": "Copy message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "自我護理追蹤器",
+      "description": "記錄你的日常自我照護習慣，看看它們如何影響你的整體健康。持之以恆是維持心理健康的關鍵。",
+      "benefits": {
+        "0": "記錄每日自我照顧活動",
+        "1": "記錄你花在自己身上的時間",
+        "2": "監測你的情緒模式",
+        "3": "查看歷史和進展"
+      },
+      "duration": "2-3分鐘",
+      "benefit1": "記錄每日身心健康活動",
+      "benefit2": "注意阻礙你休息的挑戰",
+      "benefit3": "透過正向強化建立正念"
+    },
+    "checkin": {
+      "title": "自我關愛簽到🌿",
+      "subtitle": "你今天是如何照顧自己的？",
+      "question": "今天有好好照顧自己嗎？ *",
+      "description": "自我關愛是指我們為了照顧自己的心理、情緒和身體健康而有意識地進行的任何活動。"
+    },
+    "activities": {
+      "title": "您的活動🎯",
+      "subtitle": "你今天做了哪些自我照顧活動？"
+    },
+    "duration": {
+      "title": "花費時間⏱️",
+      "subtitle": "你花了多長時間進行自我照顧？ （可選）"
+    },
+    "noSelfCare": {
+      "title": "沒關係💛",
+      "subtitle": "讓我們來了解一下今天發生了什麼事。",
+      "question1": "今天是什麼阻礙了自我關愛？ （可選）",
+      "question2": "哪些類型的自我照顧會有所幫助？ （可選）"
+    },
+    "mood": {
+      "title": "你感覺怎麼樣？ 🫧",
+      "subtitle": "選擇您當前的心情（可選）"
+    },
+    "review": {
+      "title": "您的參賽作品📋",
+      "subtitle": "以下是今天簽到狀況的概要",
+      "didSelfCare": "你做過自我關愛嗎？",
+      "activities": "活動",
+      "duration": "期間",
+      "mood": "情緒",
+      "challenges": "阻止",
+      "whatHelps": "本來會有幫助的。",
+      "viewHistory": "每週歷史",
+      "editToday": "編輯條目",
+      "summary": "概括"
+    },
+    "history": {
+      "title": "每週歷史回顧📅",
+      "subtitle": "過去7天內無任何條目"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "糟糕！頁面未找到",
+      "returnHome": "回首頁"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "鍛鍊",
+      "Meditation": "冥想",
+      "Journaling": "寫日記",
+      "Reading": "閱讀",
+      "Rest / Nap": "休息/小睡",
+      "Skincare": "保養",
+      "Healthy Meal": "健康餐",
+      "Nature / Walk": "自然/漫步",
+      "Social Time": "社交時間",
+      "Hobby": "嗜好",
+      "Therapy": "治療",
+      "Digital Detox": "數位戒斷"
+    },
+    "durations": {
+      "< 10 minutes": "不到 10 分鐘",
+      "10–30 minutes": "10-30分鐘",
+      "30–60 minutes": "30-60分鐘",
+      "1+ hour": "1小時以上"
+    },
+    "reasons": {
+      "Busy schedule": "繁忙的日程",
+      "Low energy": "低能耗",
+      "Stress": "壓力",
+      "Forgot": "忘記了",
+      "No motivation": "沒有動力",
+      "Not feeling well": "感覺不舒服",
+      "Lack of time": "時間不足",
+      "Emotional overwhelm": "情緒崩潰"
+    },
+    "helpfulTypes": {
+      "Rest": "休息",
+      "Relaxation": "鬆弛",
+      "Physical activity": "體育活動",
+      "Talking to someone": "和某人交談",
+      "Quiet time": "安靜時光",
+      "Creative activity": "創意活動"
+    },
+    "moods": {
+      "Happy": "快樂的",
+      "Calm": "冷靜的",
+      "Neutral": "中性的",
+      "Low": "低的",
+      "Stressed": "壓力",
+      "Tired": "疲勞的"
+    },
+    "positiveStatements": {
+      "0": "你今天為自己挺身而出。這很了不起。 🌿",
+      "1": "自我關懷並非自私──它至關重要。做得好！ 💚",
+      "2": "每一個小小的關愛之舉，都會讓你變得更強大。 🌱",
+      "3": "你今天投資了自己。這很重要。 ✨",
+      "4": "照顧好自己是你今天做的最棒的事。 🍃"
+    },
+    "supportiveStatements": {
+      "0": "沒關係。明天又是新的開始。善待自己。 🤍",
+      "1": "並非每天都會完美，但這完全沒關係。 🕊️",
+      "2": "你已經盡力了，這就夠了。 💛",
+      "3": "休息也是一種自我關懷。善待自己。 🌸",
+      "4": "承認今天需要勇氣。你已經在成長了。 🌷"
+    }
+  },
+  "app_title": "Self-Care Tracker",
+  "app_description": "Track your daily self-care habits and see how they impact your overall wellbeing. Consistency is key to a healthier mind.",
+  "initializing_session": "Initializing session",
+  "language": "Language",
+  "your_progress_over_the_last_7_days": "Your progress over the last 7 days",
+  "fetching_data": "Fetching data...",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "長篇"
+}

@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "讓我們一起稍作停頓。\n\n接下來的一分鐘，你無需解決任何問題，也無需做出任何回應。只需讓自己慢下來。\n\n舒適地坐下，如果可以，雙腳平放在地上，輕輕地吸氣……然後慢慢地呼氣。\n\n這是你重置身心，重新與當下連結的時刻。",
+      "button": "開始"
+    },
+    "1": {
+      "heading": "你可以看到的5件事",
+      "body": "慢慢環顧四周。讓你的目光輕輕地掃過空間。留意一下你之前可能沒有註意到的顏色、形狀、光線、陰影或細微之處。",
+      "button": "下一個"
+    },
+    "2": {
+      "heading": "你能感受到的4件事",
+      "body": "將注意力集中在你的身體上。感受你的雙腳與地面的接觸，你的背部與椅子的摩擦，衣服與皮膚的接觸，以及你周圍的空氣。覺察這四種身體感覺。",
+      "button": "下一個"
+    },
+    "3": {
+      "heading": "你能聽到的三件事",
+      "body": "仔細聆聽。你可能會聽到遠處的聲音、風扇聲、打字聲、呼吸聲，甚至一片寂靜。請辨別三種不同的聲音，不要妄下評斷。",
+      "button": "下一個"
+    },
+    "4": {
+      "heading": "兩種你能聞到的東西",
+      "body": "看看你能不能聞到房間裡有什麼味道。如果沒有特別明顯的氣味，那就留意一下周圍空氣的自然氣味。",
+      "button": "下一個"
+    },
+    "5": {
+      "heading": "你能嚐到的1種東西",
+      "body": "注意感受一下口中的味道。它可能很淡，也可能沒什麼味道——只需仔細觀察即可。",
+      "button": "下一個"
+    },
+    "6": {
+      "heading": "反射",
+      "body": "慢慢吸一口氣……然後輕輕吐氣。",
+      "button": "提交"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新開始",
+    "finish_exit": "結束並退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "分享",
+    "share_progress": "分享進度",
+    "inspire_others": "今天激勵他人",
+    "share_text": "我在 TherapyMantra 上完成了這個 {{activityName}} 活動，非常喜歡，你也試試看吧，只需點擊連結即可下載安卓應用程式 {{androidUrl}} 或 iOS 應用程式 {{iosUrl}}",
+    "this_activity": "這項活動",
+    "copied": "已複製！",
+    "copy_message": "複製訊息",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 接地",
+  "intro_p1": "快速緩解焦慮",
+  "intro_p2": "讓你回到當下",
+  "intro_p3": "平復躁動不安的思緒",
+  "app_description": "5-4-3-2-1 接地",
+  "more": "更多的",
+  "breadcrumb": "麵包屑",
+  "previous_slide": "上一張投影片",
+  "next_slide": "下一張投影片",
+  "close": "關閉",
+  "previous": "以前的",
+  "more_pages": "更多頁面",
+  "pagination": "分頁",
+  "go_to_previous_page": "回上一頁",
+  "go_to_next_page": "前往下一頁",
+  "toggle_sidebar": "切換側邊欄",
+  "oops_page_not_found": "糟糕！頁面未找到",
+  "return_to_home": "回首頁",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-接地"
+}

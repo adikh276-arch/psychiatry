@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Zacznij od nowa",
+    "finish_exit": "Zakończ i wyjdź",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Czas na ukończenie",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Udział",
+    "share_progress": "Udostępnij postęp",
+    "inspire_others": "Zainspiruj innych już dziś",
+    "share_text": "Wykonałem tę {{activityName}} w TherapyMantra i bardzo mi się to spodobało. Ty też możesz to zrobić, po prostu kliknij link do aplikacji na Androida {{androidUrl}} lub aplikacji na iOS {{iosUrl}}",
+    "this_activity": "ta aktywność",
+    "copied": "Skopiowano!",
+    "copy_message": "Kopiuj wiadomość",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Tracker samoopieki",
+      "description": "Śledź swoje codzienne nawyki dbania o siebie i zobacz, jak wpływają one na Twoje ogólne samopoczucie. Konsekwencja jest kluczem do zdrowszego umysłu.",
+      "benefits": {
+        "0": "Rejestruj codzienne działania dbające o siebie",
+        "1": "Obserwuj czas poświęcony sobie",
+        "2": "Monitoruj swoje nastroje",
+        "3": "Zobacz historię i postępy"
+      },
+      "duration": "2-3 minuty",
+      "benefit1": "Codziennie zapisuj działania dotyczące zdrowia fizycznego i psychicznego",
+      "benefit2": "Zauważ wyzwania uniemożliwiające ci odpoczynek",
+      "benefit3": "Buduj uważność poprzez pozytywne wzmocnienie"
+    },
+    "checkin": {
+      "title": "Kontrola 🌿 samopielęgnacji",
+      "subtitle": "Jak dziś o siebie zadbałaś?",
+      "question": "Czy dziś ćwiczyłeś dbanie o siebie? *",
+      "description": "Dbanie o siebie to każda aktywność, którą wykonujemy celowo, aby zadbać o nasze zdrowie psychiczne, emocjonalne i fizyczne."
+    },
+    "activities": {
+      "title": "Twoja działalność 🎯",
+      "subtitle": "Jakie aktywności dbania o siebie wykonywałaś dzisiaj?"
+    },
+    "duration": {
+      "title": "Czas spędzony ⏱️",
+      "subtitle": "Jak długo poświęciłeś na dbanie o siebie? (opcjonalnie)"
+    },
+    "noSelfCare": {
+      "title": "To nic nie szkodzi 💛",
+      "subtitle": "Zrozummy, co się dziś wydarzyło.",
+      "question1": "Co dziś powstrzymało dbanie o siebie? (opcjonalnie)",
+      "question2": "Jaki rodzaj dbania o siebie mógłby pomóc? (opcjonalnie)"
+    },
+    "mood": {
+      "title": "Jak się czujesz? 🫧",
+      "subtitle": "Wybierz swój aktualny nastrój (opcjonalnie)"
+    },
+    "review": {
+      "title": "Twój wpis 📋",
+      "subtitle": "Oto podsumowanie dzisiejszego meldunku",
+      "didSelfCare": "Czy dbałam o siebie?",
+      "activities": "Działalność",
+      "duration": "Czas trwania",
+      "mood": "Nastrój",
+      "challenges": "Zapobiegnięty przez",
+      "whatHelps": "Pomogłoby",
+      "viewHistory": "Historia tygodniowa",
+      "editToday": "Wpis edytuj",
+      "summary": "Podsumowanie"
+    },
+    "history": {
+      "title": "Historia 📅 tygodniowa",
+      "subtitle": "Brak wpisów w ciągu ostatnich 7 dni"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ups! Strona nie znaleziona",
+      "returnHome": "Powrót do domu"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Ćwiczenia",
+      "Meditation": "Medytacja",
+      "Journaling": "Prowadzenie dziennika",
+      "Reading": "Lektura",
+      "Rest / Nap": "Odpoczynek / Drzemka",
+      "Skincare": "Pielęgnacja skóry",
+      "Healthy Meal": "Zdrowy posiłek",
+      "Nature / Walk": "Przyroda / Spacer",
+      "Social Time": "Czas towarzyski",
+      "Therapy": "Terapia",
+      "Digital Detox": "Cyfrowy detoks",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minut",
+      "10–30 minutes": "10–30 minut",
+      "30–60 minutes": "30–60 minut",
+      "1+ hour": "1+ godzina"
+    },
+    "reasons": {
+      "Busy schedule": "Napięty grafik",
+      "Low energy": "Niska energia",
+      "Stress": "Stres",
+      "Forgot": "Zapomniałem",
+      "No motivation": "Brak motywacji",
+      "Not feeling well": "Źle się czuję",
+      "Lack of time": "Brak czasu",
+      "Emotional overwhelm": "Emocjonalne przytłoczenie"
+    },
+    "helpfulTypes": {
+      "Rest": "Odpoczynek",
+      "Relaxation": "Relaksacja",
+      "Physical activity": "Aktywność fizyczna",
+      "Talking to someone": "Rozmowa z kimś",
+      "Quiet time": "Czas ciszy",
+      "Creative activity": "Działalność twórcza"
+    },
+    "moods": {
+      "Happy": "Szczęśliwego",
+      "Calm": "Spokój",
+      "Neutral": "Neutralny",
+      "Stressed": "Stresowany",
+      "Tired": "Zmęczony",
+      "Low": "Niski"
+    },
+    "positiveStatements": {
+      "0": "Dziś pojawiłeś się dla siebie. To potężne. 🌿",
+      "1": "Dbanie o siebie nie jest samolubne — jest niezbędne. Dobra robota. 💚",
+      "2": "Każdy drobny akt troski buduje silniejszą ciebie. 🌱",
+      "3": "Zainwestowałeś dziś w siebie. To ma znaczenie. ✨",
+      "4": "Opieka nad tobą to najlepsze, co dziś zrobiłeś. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "W porządku. Jutro to nowy początek. Bądź dla siebie delikatny. 🤍",
+      "1": "Nie każdy dzień będzie idealny i to jest całkowicie w porządku. 🕊️",
+      "2": "Robisz, co możesz. To zawsze wystarczy. 💛",
+      "3": "Odpoczynek to także forma dbania o siebie. Daj sobie wyrozumiałość. 🌸",
+      "4": "Uznanie dzisiejszego dnia wymaga odwagi. Już rośniesz. 🌷"
+    }
+  },
+  "app_title": "Monitor samoopieki",
+  "app_description": "Śledź swoje codzienne nawyki związane z dbaniem o siebie i zobacz, jak wpływają one na Twoje ogólne samopoczucie. Konsekwencja jest kluczem do zdrowszego umysłu.",
+  "initializing_session": "Inicjowanie sesji",
+  "language": "Język",
+  "your_progress_over_the_last_7_days": "Twoje postępy w ciągu ostatnich 7 dni",
+  "fetching_data": "Pobieranie danych...",
+  "more": "Więcej",
+  "breadcrumb": "bułka tarta",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknąć",
+  "previous": "Poprzedni",
+  "more_pages": "Więcej stron",
+  "pagination": "paginacja",
+  "go_to_previous_page": "Przejdź do poprzedniej strony",
+  "go_to_next_page": "Przejdź do następnej strony",
+  "toggle_sidebar": "Przełącz pasek boczny",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "długie"
+}

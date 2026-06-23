@@ -1,0 +1,115 @@
+{
+  "app_title": "Ruang Aman",
+  "nav": {
+    "0": "Check-in",
+    "1": "Ingat dengan Lembut",
+    "2": "Mengamati",
+    "3": "Tetap Hadir",
+    "4": "Maju"
+  },
+  "s1": {
+    "title": "Mari kita temukan tempat yang terasa baik-baik saja",
+    "description": {
+      "0": "Sebelum kita mulai, luangkan waktu sejenak untuk check-in...",
+      "1": "Bagaimana perasaan Anda saat ini?",
+      "2": "Kami tidak mencari \"tempat aman\" yang sempurna. Hanya sesuatu yang terasa sedikit tenang atau baik-baik saja."
+    },
+    "placeholder": "Bagaimana perasaan Anda saat ini?",
+    "button": "Mulai Visualisasi"
+  },
+  "s2": {
+    "title": "Ingatkan dengan lembut",
+    "description": {
+      "0": "Pikirkan tempat di mana Anda merasa sedikit nyaman... atau tempat yang Anda inginkan ada.",
+      "1": "Sekarang tempatkan diri Anda di sana...",
+      "2": "Apakah Anda duduk, berdiri, atau berbaring?"
+    },
+    "button": "Lanjutkan"
+  },
+  "s3": {
+    "title": "Lihat sekeliling perlahan",
+    "description": {
+      "0": "Lihatlah sekeliling dengan lembut ...",
+      "1": "Apa satu hal yang bisa Anda lihat?",
+      "2": "Sekarang perhatikan suara... Apa yang Anda dengar?"
+    },
+    "button": "Lanjutkan"
+  },
+  "s4": {
+    "title": "Tetap dengan ini",
+    "description": {
+      "0": "Apa yang membuat tempat ini terasa sedikit aman atau baik-baik saja?",
+      "1": "Seperti yang Anda perhatikan bahwa...",
+      "2": "juga bawa perhatian Anda ke napas Anda."
+    },
+    "breathe": "Bernapas",
+    "notice": "Jika berimajinasi terasa sulit, pikirkan saja ide tempat ini.",
+    "button": "Lanjutkan"
+  },
+  "s5": {
+    "title": "Bawa ini bersama Anda",
+    "description": {
+      "0": "Perhatikan bagaimana perasaan Anda saat ini. Bahkan pergeseran kecil pun penting.",
+      "1": "Lihat apakah Anda dapat membawa bahkan 5% dari perasaan ini bersama Anda."
+    },
+    "placeholder": "Bagaimana perasaan Anda sekarang?",
+    "button": "Sesi Lengkap"
+  },
+  "complete": {
+    "title": "Sesi Selesai",
+    "message": "Tempat aman ini selalu tersedia untuk Anda. Anda dapat kembali ke sini kapan pun Anda membutuhkan momen tenang."
+  },
+  "common": {
+    "get_started": "Memulai",
+    "start_over": "Mulai Dari Awal",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Bagus!",
+    "completion_message": "Anda telah berhasil menyelesaikan aktivitas ini. Luangkan waktu sejenak untuk menghargai kemajuan Anda.",
+    "time_to_complete": "Waktu untuk menyelesaikan",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "save": "Simpan",
+    "loading": "Memuat...",
+    "share": "Bagikan",
+    "share_progress": "Bagikan Kemajuan",
+    "inspire_others": "Menginspirasi orang lain hari ini",
+    "share_text": "Saya telah melakukan ini {{activityName}} di TherapyMantra dan sangat menikmatinya, Anda juga dapat melakukannya cukup ikuti tautan ke aplikasi android {{androidUrl}} atau aplikasi ios {{iosUrl}}",
+    "this_activity": "Kegiatan ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Pesan",
+    "yes": "Iya",
+    "no": "Tidak",
+    "date": "Tanggal",
+    "continue": "Lanjutkan",
+    "step_of": "Langkah {{current}} dari {{total}}",
+    "round_of": "Bulatkan {{current}} dari {{total}}",
+    "phase_label": "Fase",
+    "rounds_selector": "{{hitung}} Putaran",
+    "instruction_ready": "Atur putaran Anda dan ketuk putar untuk memulai",
+    "instruction_running": "Ikuti lingkaran untuk mengatur napas Anda"
+  },
+  "app_description": "Ruang Aman",
+  "more": "Selengkapnya",
+  "breadcrumb": "remah roti",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Tutup",
+  "previous": "sebelumnya",
+  "more_pages": "Halaman lainnya",
+  "pagination": "penomoran halaman",
+  "go_to_previous_page": "Ke halaman sebelumnya",
+  "go_to_next_page": "Buka halaman berikutnya",
+  "toggle_sidebar": "Beralih Bilah Sisi",
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Rumah",
+  "phase_label": "Fase",
+  "instruction_ready": "Atur putaran Anda dan ketuk putar untuk memulai",
+  "instruction_running": "Ikuti lingkaran untuk mengatur napas Anda",
+  "round_x_of_y": "Bulatkan {{current}} dari {{total}}",
+  "rounds_selector": "{{hitung}} Putaran",
+  "yes": "Iya",
+  "no": "Tidak",
+  "date": "Tanggal",
+  "continue": "Lanjutkan",
+  "lang": "panjang"
+}

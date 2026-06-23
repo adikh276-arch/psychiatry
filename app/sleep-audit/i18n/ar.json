@@ -1,0 +1,150 @@
+{
+  "app_title": "تدقيق النوم",
+  "app_subtitle": "افهم راحتك",
+  "intro": {
+    "title": "تدقيق نومك",
+    "description": "افهم ما الذي يؤثر على نومك وأين يمكن أن تساعد التغييرات الصغيرة.",
+    "start_button": "بدء التدقيق",
+    "history_button": "التدقيقات السابقة",
+    "more_insights": "العودة إلى البداية"
+  },
+  "screens": {
+    "s1": {
+      "phase": "المرحلة 01",
+      "title": "كيف كان نومك؟",
+      "desc": "اختر أي شيء يناسبك مؤخرا"
+    },
+    "s2": {
+      "phase": "المرحلة 02",
+      "title": "قيم راحتك المعتادة",
+      "label": "هل لديك مخاوف محددة؟",
+      "placeholder": "التوتر، الضوضاء، التمرير..."
+    },
+    "s3": {
+      "score_label": "من 7",
+      "recommendations": {
+        "solid": "عاداتك متينة! تعديلات بسيطة يمكن أن تجعل الأمر أفضل.",
+        "some": "تم اكتشاف بعض الاضطرابات. تغيير العادات يمكن أن يساعد بسرعة.",
+        "many": "هناك عدة عوامل تؤثر على نومك. يمكننا أن نتعامل معها معا."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "أذهب للنوم في أوقات مختلفة جدا كل ليلة"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "بيئة نومي ليست مظلمة أو هادئة أو مريحة"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "أتصفح هاتفي قبل النوم مباشرة"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "أتناول الكافيين أو الكحول قرب وقت النوم"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "أستيقظ أثناء الليل وأجد صعوبة في العودة للنوم"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "عقلي يركض بالأفكار عندما أحاول النوم"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "نادرا ما أشعر بالانتعاش بعد ليلة نوم"
+    }
+  },
+  "rating_labels": {
+    "0": "فقير جدا",
+    "1": "فقير",
+    "2": "حسنا",
+    "3": "جيد",
+    "4": "رائع"
+  },
+  "status_labels": {
+    "track": "معظمها على المسار الصحيح",
+    "disruptions": "بعض الاضطرابات",
+    "attention": "يحتاج إلى اهتمام"
+  },
+  "buttons": {
+    "continue": "تابع",
+    "see_results": "انظر النتائج",
+    "preserve": "النتيجة للحفاظ",
+    "preserving": "الحفظ...",
+    "back_to_intro": "العودة إلى المقدمة"
+  },
+  "history": {
+    "title": "التدقيقات السابقة",
+    "no_entries": "لم يتم حفظ أي تدقيقات حتى الآن.",
+    "score_label": "من 7"
+  },
+  "complete": {
+    "title": "اكتمال التدقيق",
+    "message": "درجة نومك هي {{score}}/7. فهم هذه الأنماط هو الخطوة الأولى نحو راحة أعمق وأكثر استعادة."
+  },
+  "toasts": {
+    "save_success": "تم حفظ التدقيق",
+    "save_error": "فشل في حفظ التدقيق",
+    "auth_error": "جلسة المصادقة مفقودة أو قاعدة بيانات غير مهيأة"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "ابدأ من جديد",
+    "finish_exit": "إنهاء العملية والخروج",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "الوقت اللازم للإنجاز",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "يشارك",
+    "share_progress": "مشاركة التقدم",
+    "inspire_others": "ألهم الآخرين اليوم",
+    "share_text": "لقد قمتُ بهذا النشاط {{activityName}} في تطبيق TherapyMantra واستمتعتُ به حقًا، يمكنك القيام به أيضًا، فقط اتبع الرابط إلى تطبيق أندرويد {{androidUrl}} أو تطبيق iOS {{iosUrl}}",
+    "this_activity": "هذا النشاط",
+    "copied": "تم النسخ!",
+    "copy_message": "انسخ الرسالة",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "افهم راحتك",
+  "more": "أكثر",
+  "breadcrumb": "فتات الخبز",
+  "previous_slide": "الشريحة السابقة",
+  "next_slide": "الشريحة التالية",
+  "close": "يغلق",
+  "previous": "سابق",
+  "more_pages": "صفحات أخرى",
+  "pagination": "ترقيم الصفحات",
+  "go_to_previous_page": "انتقل إلى الصفحة السابقة",
+  "go_to_next_page": "انتقل إلى الصفحة التالية",
+  "toggle_sidebar": "تبديل الشريط الجانبي",
+  "oops_page_not_found": "عذراً! الصفحة غير موجودة",
+  "return_to_home": "العودة إلى الصفحة الرئيسية",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "طويل",
+  "loading": "جاري تحميل التاريخ..."
+}

@@ -1,0 +1,99 @@
+{
+  "app_title": "Ресурси",
+  "not_found": {
+    "title": "Не знайдено",
+    "message": "Ресурс не знайдено",
+    "description": "Контент, який ви шукаєте, можливо, змінився.",
+    "button": "Повернись назад"
+  },
+  "list": {
+    "empty_title": "Немає {{type}}",
+    "empty_desc": "Наразі ми готуємо більше ресурсів для цієї теми.",
+    "footer": "Mantra Care • Ресурси, засновані на доказах"
+  },
+  "detail": {
+    "loading": "Завантаження...",
+    "tip": {
+      "insight_label": "Інсайт",
+      "plan_title": "Щоденний план дій",
+      "steps": "{{count}} Кроки",
+      "example_label": "Приклад практики",
+      "instead_of": "Замість",
+      "try_this": "Спробуй це"
+    },
+    "article": {
+      "final_thought": "Остаточна думка"
+    },
+    "story": {
+      "reflection_label": "Щось, з чим можна посидіти",
+      "note_label": "Примітка від автора"
+    },
+    "myth": {
+      "truth_label": "Наукова істина",
+      "explanation_label": "Детальне пояснення",
+      "insight_label": "Ключове розуміння"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Почати спочатку",
+    "finish_exit": "Фініш і вихід",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Час завершити",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Поділитися",
+    "share_progress": "Поділитися прогресом",
+    "inspire_others": "Надихайте інших сьогодні",
+    "share_text": "Я виконав(-ла) цю активність ({{activityName}}) у TherapyMantra і мені дуже подобається, ви теж можете це зробити, просто перейдіть за посиланням на додаток для Android ({androidUrl}}) або iOS ({iosUrl}}).",
+    "this_activity": "ця діяльність",
+    "copied": "Скопійовано!",
+    "copy_message": "Копіювати повідомлення",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Ресурси",
+  "concerns": {
+    "acceptance": "Прийняття",
+    "adolescent": "Підліток",
+    "anger": "Гнів",
+    "anxiety": "Тривога",
+    "depression": "Депресія",
+    "eating-disorder": "Розлад харчової поведінки",
+    "grief": "Горе",
+    "parenting": "Виховання дітей",
+    "postpartum": "Післяпологовий період",
+    "ptsd": "ПТСР",
+    "relationship": "Стосунки",
+    "sexuality": "Сексуальність",
+    "sleep": "Сон",
+    "stress": "Стрес",
+    "workplace": "Робоче місце"
+  },
+  "types": {
+    "stories": "Історії",
+    "articles": "Статті",
+    "myths": "Міфи",
+    "tips": "Поради"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

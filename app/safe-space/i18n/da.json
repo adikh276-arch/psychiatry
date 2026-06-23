@@ -1,0 +1,115 @@
+{
+  "app_title": "Sikkert Rum",
+  "nav": {
+    "0": "Check-in",
+    "1": "Forsigtig genkald",
+    "2": "Observation",
+    "3": "At være til stede",
+    "4": "Fremadrettet"
+  },
+  "s1": {
+    "title": "Lad os finde et sted, der føles okay",
+    "description": {
+      "0": "Før vi begynder, tag et øjeblik til at tjekke ind...",
+      "1": "Hvordan har du det lige nu?",
+      "2": "Vi leder ikke efter et perfekt \"sikkert sted\". Bare noget, der føles bare en smule roligt eller okay."
+    },
+    "placeholder": "Hvordan har du det lige nu?",
+    "button": "Begynd visualisering"
+  },
+  "s2": {
+    "title": "Bring det forsigtigt i tankerne",
+    "description": {
+      "0": "Tænk på et sted, hvor du følte dig bare en smule tilpas... eller et sted, du ville ønske eksisterede.",
+      "1": "Sæt dig nu der...",
+      "2": "Sidder du, står du eller ligger du ned?"
+    },
+    "button": "Fortsæt"
+  },
+  "s3": {
+    "title": "Se dig langsomt omkring",
+    "description": {
+      "0": "Tag et forsigtigt kig rundt...",
+      "1": "Hvad er én ting, du kan se?",
+      "2": "Læg nu mærke til en lyd... Hvad hører du?"
+    },
+    "button": "Fortsæt"
+  },
+  "s4": {
+    "title": "Bliv ved med det her",
+    "description": {
+      "0": "Hvad er det ved dette sted, der får det til at føles bare en smule trygt eller okay?",
+      "1": "Som du bemærker det...",
+      "2": "Bring også din opmærksomhed mod din vejrtrækning."
+    },
+    "breathe": "Træk vejret",
+    "notice": "Hvis det føles svært at forestille sig, så tænk bare på idéen om dette sted.",
+    "button": "Fortsæt"
+  },
+  "s5": {
+    "title": "Tag det her med dig",
+    "description": {
+      "0": "Læg mærke til, hvordan du har det lige nu. Selv en lille ændring betyder noget.",
+      "1": "Se om du kan bære bare 5% af denne følelse med dig."
+    },
+    "placeholder": "Hvordan har du det nu?",
+    "button": "Fuld session"
+  },
+  "complete": {
+    "title": "Session afsluttet",
+    "message": "Dette sikre sted er altid tilgængeligt for dig. Du kan vende tilbage hertil, når du har brug for et øjebliks ro."
+  },
+  "common": {
+    "get_started": "Kom i gang",
+    "start_over": "Start forfra",
+    "finish_exit": "Afslutning og exit",
+    "well_done": "Godt gået!",
+    "completion_message": "Du har gennemført denne aktivitet med succes. Tag et øjeblik til at værdsætte dine fremskridt.",
+    "time_to_complete": "Tid til at gennemføre",
+    "back": "Tilbage",
+    "next": "Næste",
+    "save": "Gem",
+    "loading": "Indlæser...",
+    "share": "Del",
+    "share_progress": "Del fremskridt",
+    "inspire_others": "Inspirer andre i dag",
+    "share_text": "Jeg har gjort dette {{activityName}} i TherapyMantra og nyder det virkelig, du kan også gøre det, bare følg linket til Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}",
+    "this_activity": "Denne aktivitet",
+    "copied": "Kopieret!",
+    "copy_message": "Kopier besked",
+    "yes": "Ja",
+    "no": "Nej",
+    "date": "Dato",
+    "continue": "Fortsæt",
+    "step_of": "Trin {{current}} af {{total}}",
+    "round_of": "Runde {{current}} af {{total}}",
+    "phase_label": "Fase",
+    "rounds_selector": "{{count}} Afdelinger",
+    "instruction_ready": "Sæt dine runder og tryk play for at begynde",
+    "instruction_running": "Følg cirklen for at regulere din vejrtrækning"
+  },
+  "app_description": "Sikkert Rum",
+  "more": "Mere",
+  "breadcrumb": "brødkrumme",
+  "previous_slide": "Forrige slide",
+  "next_slide": "Næste slide",
+  "close": "Luk",
+  "previous": "Tidligere",
+  "more_pages": "Flere sider",
+  "pagination": "Paginering",
+  "go_to_previous_page": "Gå til forrige side",
+  "go_to_next_page": "Gå til næste side",
+  "toggle_sidebar": "Toggle-sidebjælke",
+  "oops_page_not_found": "Ups! Side ikke fundet",
+  "return_to_home": "Tilbage til Hjem",
+  "phase_label": "Fase",
+  "instruction_ready": "Sæt dine runder og tryk play for at begynde",
+  "instruction_running": "Følg cirklen for at regulere din vejrtrækning",
+  "round_x_of_y": "Runde {{current}} af {{total}}",
+  "rounds_selector": "{{count}} Afdelinger",
+  "yes": "Ja",
+  "no": "Nej",
+  "date": "Dato",
+  "continue": "Fortsæt",
+  "lang": "Lang"
+}

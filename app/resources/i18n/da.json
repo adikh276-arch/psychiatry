@@ -1,0 +1,99 @@
+{
+  "app_title": "Ressourcer",
+  "not_found": {
+    "title": "Ikke fundet",
+    "message": "Ressource ikke fundet",
+    "description": "Det indhold, du leder efter, kan være flyttet.",
+    "button": "Gå tilbage"
+  },
+  "list": {
+    "empty_title": "Ingen {{type}} tilgængelig",
+    "empty_desc": "Vi kuraterer i øjeblikket flere ressourcer til dette emne.",
+    "footer": "Mantra-pleje • evidensbaserede ressourcer"
+  },
+  "detail": {
+    "loading": "Indlæser...",
+    "tip": {
+      "insight_label": "Indsigten",
+      "plan_title": "Daglig handlingsplan",
+      "steps": "{{count}} Trin",
+      "example_label": "Øvelseseksempel",
+      "instead_of": "I stedet for",
+      "try_this": "Prøv det her"
+    },
+    "article": {
+      "final_thought": "Afsluttende tanke"
+    },
+    "story": {
+      "reflection_label": "Noget at sidde med",
+      "note_label": "En note fra forfatteren"
+    },
+    "myth": {
+      "truth_label": "Den videnskabelige sandhed",
+      "explanation_label": "Detaljeret forklaring",
+      "insight_label": "Nøgleindsigt"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start forfra",
+    "finish_exit": "Afslut og afslut",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tid til at færdiggøre",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dele",
+    "share_progress": "Del fremskridt",
+    "inspire_others": "Inspirer andre i dag",
+    "share_text": "Jeg har gjort dette {{activityName}} i TherapyMantra og nyder det virkelig. Du kan også gøre det, bare følg linket til Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}.",
+    "this_activity": "denne aktivitet",
+    "copied": "Kopieret!",
+    "copy_message": "Kopiér besked",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Ressourcer",
+  "concerns": {
+    "acceptance": "Accept",
+    "adolescent": "Ungdom",
+    "anger": "Vrede",
+    "anxiety": "Angst",
+    "depression": "Depression",
+    "eating-disorder": "Spiseforstyrrelse",
+    "grief": "Sorg",
+    "parenting": "Forældreskab",
+    "postpartum": "Efter fødslen",
+    "ptsd": "PTSD",
+    "relationship": "Forhold",
+    "sexuality": "Seksualitet",
+    "sleep": "Sove",
+    "stress": "Stress",
+    "workplace": "Arbejdsplads"
+  },
+  "types": {
+    "stories": "Historier",
+    "articles": "Artikler",
+    "myths": "Myter",
+    "tips": "Tips"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

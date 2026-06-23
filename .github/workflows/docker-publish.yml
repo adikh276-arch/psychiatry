@@ -1,0 +1,59 @@
+name: Build & Push psychiatry:1.0
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  verify-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Next.js App
+        run: npm run build
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          AZURE_TRANSLATOR_KEY: ${{ secrets.AZURE_TRANSLATOR_KEY }}
+          AZURE_TRANSLATOR_REGION: ${{ secrets.AZURE_TRANSLATOR_REGION }}
+          GOOGLE_TRANSLATOR_KEY: ${{ secrets.GOOGLE_TRANSLATOR_KEY }}
+          VITE_AUTH_PORTAL_URL: ${{ secrets.AUTH_PORTAL_URL }}
+          NEXT_TELEMETRY_DISABLED: 1
+
+      - name: Log in to Container Registry
+        run: echo "${{ secrets.PASSWORD }}" | docker login https://bunker.mantracare.com/ -u "${{ secrets.USERNAME }}" --password-stdin
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          provenance: false
+          tags: |
+            bunker.mantracare.com/lovable/psychiatry:1.0
+          # These build-args flow into ARG declarations in Dockerfile
+          # and are baked into ENV vars in BOTH builder and runner stages
+          build-args: |
+            DATABASE_URL=${{ secrets.DATABASE_URL }}
+            AZURE_TRANSLATOR_KEY=${{ secrets.AZURE_TRANSLATOR_KEY }}
+            AZURE_TRANSLATOR_REGION=${{ secrets.AZURE_TRANSLATOR_REGION }}
+            GOOGLE_TRANSLATOR_KEY=${{ secrets.GOOGLE_TRANSLATOR_KEY }}
+            AUTH_PORTAL_URL=${{ secrets.AUTH_PORTAL_URL }}
+            BUILD_ID=${{ github.run_id }}
+

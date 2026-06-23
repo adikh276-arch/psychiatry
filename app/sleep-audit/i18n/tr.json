@@ -1,0 +1,150 @@
+{
+  "app_title": "Uyku Denetimi",
+  "app_subtitle": "Dinlendiğini anla",
+  "intro": {
+    "title": "Uyku Denetiminiz",
+    "description": "Uykunuzu neyin etkilediğini ve küçük değişikliklerin nerede yardımcı olabileceğini anlayın.",
+    "start_button": "Denetime Başla",
+    "history_button": "Geçmiş Denetimler",
+    "more_insights": "Başlangıçta Geri Dön"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Faz 01",
+      "title": "Uykun nasıl?",
+      "desc": "Son zamanlarda sizin için doğru gelen olanları seçin"
+    },
+    "s2": {
+      "phase": "Faz 02",
+      "title": "Tipik dinlenmenizi değerlendirin",
+      "label": "Özel endişeleriniz var mı?",
+      "placeholder": "Stres, gürültü, kaydırma..."
+    },
+    "s3": {
+      "score_label": "7",
+      "recommendations": {
+        "solid": "Alışkanlıkların sağlam! Küçük ayarlamalar daha da iyi hale getirebilir.",
+        "some": "Bazı aksaklıklar tespit edildi. Alışkanlık değişiklikleri hızlı yardımcı olabilir.",
+        "many": "Uykunuzu etkileyen birkaç faktör vardır. Bunları birlikte aşabiliriz."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Her gece çok farklı saatlerde yatıyorum"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Uyku ortamım ne karanlık, ne sessiz ne de rahat"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Uyumadan hemen önce telefonumda kaydırıyorum"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Yatma vaktine yakın kafein veya alkol kullanıyorum"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Gece uyanıyorum ve tekrar uyumaya çalışmakta zorlanıyorum"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Uyumaya çalıştığımda zihnim düşüncelerle dolup taşır"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Bir gece uykusundan sonra nadiren kendimi ferahlanmış hissederim"
+    }
+  },
+  "rating_labels": {
+    "0": "Çok fakir",
+    "1": "Zavallı",
+    "2": "Tamam",
+    "3": "İyi.",
+    "4": "Harika"
+  },
+  "status_labels": {
+    "track": "Çoğunlukla pistte",
+    "disruptions": "Bazı aksaklıklar",
+    "attention": "Dikkat gerektiriyor"
+  },
+  "buttons": {
+    "continue": "Devam et",
+    "see_results": "Sonuçları Gör",
+    "preserve": "Koruma Sonucu",
+    "preserving": "Koruma...",
+    "back_to_intro": "Girişe Geri Dön"
+  },
+  "history": {
+    "title": "Geçmiş Denetimler",
+    "no_entries": "Henüz bir denetim korunmamıştır.",
+    "score_label": "7"
+  },
+  "complete": {
+    "title": "Denetim Tamamlandı",
+    "message": "Uyku puanınız {{score}}/7'dir. Bu kalıpları anlamak, daha derin, daha iyileştirici dinlenmeye doğru ilk adımdır."
+  },
+  "toasts": {
+    "save_success": "Denetim kaydedildi",
+    "save_error": "Denetimi kaydedemedi",
+    "auth_error": "Doğrulama oturumu eksik veya veritabanı yapılandırılmadı"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Baştan Başla",
+    "finish_exit": "Bitir ve Çık",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tamamlama süresi",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Paylaşmak",
+    "share_progress": "İlerlemenizi Paylaşın",
+    "inspire_others": "Bugün başkalarına ilham verin.",
+    "share_text": "Bu aktiviteyi ({{activityName}}) TherapyMantra'da yaptım ve gerçekten çok beğendim, siz de yapabilirsiniz, sadece Android uygulamasına ({{androidUrl}}) veya iOS uygulamasına ({{iosUrl}}) giden bağlantıyı takip edin.",
+    "this_activity": "bu aktivite",
+    "copied": "Kopyalandı!",
+    "copy_message": "Mesajı Kopyala",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Dinlenmenizi anlayın",
+  "more": "Daha",
+  "breadcrumb": "ekmek kırıntısı",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapalı",
+  "previous": "Öncesi",
+  "more_pages": "Daha fazla sayfa",
+  "pagination": "sayfalama",
+  "go_to_previous_page": "Önceki sayfaya git",
+  "go_to_next_page": "Sonraki sayfaya git",
+  "toggle_sidebar": "Kenar Çubuğunu Aç/Kapat",
+  "oops_page_not_found": "Ups! Sayfa bulunamadı.",
+  "return_to_home": "Ana sayfaya dön",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "uzun",
+  "loading": "Geçmiş Yükleniyor..."
+}

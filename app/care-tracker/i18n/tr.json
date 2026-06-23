@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Baştan Başla",
+    "finish_exit": "Bitir ve Çık",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tamamlama süresi",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Paylaşmak",
+    "share_progress": "İlerlemenizi Paylaşın",
+    "inspire_others": "Bugün başkalarına ilham verin.",
+    "share_text": "Bu aktiviteyi ({{activityName}}) TherapyMantra'da yaptım ve gerçekten çok beğendim, siz de yapabilirsiniz, sadece Android uygulamasına ({{androidUrl}}) veya iOS uygulamasına ({{iosUrl}}) giden bağlantıyı takip edin.",
+    "this_activity": "bu aktivite",
+    "copied": "Kopyalandı!",
+    "copy_message": "Mesajı Kopyala",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Öz Bakım İzleyicisi",
+      "description": "Günlük öz-bakım alışkanlıklarınızı takip edin ve bunların genel iyilik sağlığınızı nasıl etkilediğine bakın. Tutarlılık, daha sağlıklı bir zihnin anahtarıdır.",
+      "benefits": {
+        "0": "Günlük özbakım aktivitelerini kaydet",
+        "1": "Kendinize harcanan zamanı takip edin",
+        "2": "Ruh hali kalıplarınızı takip edin",
+        "3": "Tarih ve ilerlemeyi görüntüleyin"
+      },
+      "duration": "2-3 dakika",
+      "benefit1": "Günlük fiziksel ve zihinsel sağlık eylemlerini kaydet",
+      "benefit2": "Dinlenmenizi engelleyen zorlukları fark edin",
+      "benefit3": "Olumlu pekiştirme yoluyla farkındalık geliştirin"
+    },
+    "checkin": {
+      "title": "Kendi Bakım Kontrolü 🌿",
+      "subtitle": "Bugün kendine nasıl baktın?",
+      "question": "Bugün kendine bakım yaptın mı? *",
+      "description": "Kendine bakım, zihinsel, duygusal ve fiziksel sağlığımızı korumak için kasıtlı olarak yaptığımız her türlü aktivitedir."
+    },
+    "activities": {
+      "title": "Faaliyetleriniz 🎯",
+      "subtitle": "Bugün hangi öz-bakım aktivitelerini yaptınız?"
+    },
+    "duration": {
+      "title": "Geçirilen ⏱️ Zaman",
+      "subtitle": "Kendine bakım için ne kadar süre harcadınız? (isteğe bağlı)"
+    },
+    "noSelfCare": {
+      "title": "Sorun 💛 değil",
+      "subtitle": "Bugün ne olduğunu anlayalım.",
+      "question1": "Bugün öz-bakımı ne engelledi? (isteğe bağlı)",
+      "question2": "Ne tür bir özbakım yardımcı olurdu? (isteğe bağlı)"
+    },
+    "mood": {
+      "title": "Nasıl hissediyorsun? 🫧",
+      "subtitle": "Mevcut ruh halinizi seçin (isteğe bağlı)"
+    },
+    "review": {
+      "title": "Girişin 📋",
+      "subtitle": "İşte bugünkü check-in'in özeti",
+      "didSelfCare": "Kendine bakmak mı?",
+      "activities": "Faaliyetler",
+      "duration": "Süre",
+      "mood": "Ruh hali",
+      "challenges": "Engellenenler",
+      "whatHelps": "Yardımcı olurdu",
+      "viewHistory": "Haftalık Tarihçe",
+      "editToday": "Edit Entry",
+      "summary": "Özet"
+    },
+    "history": {
+      "title": "Haftalık Tarihçe 📅",
+      "subtitle": "Son 7 günde hiç başvuru yok"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Hop! Sayfa bulunmadı",
+      "returnHome": "Eve Dönüş"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Tatbikat",
+      "Meditation": "Meditasyon",
+      "Journaling": "Günlük tutma",
+      "Reading": "Okuma",
+      "Rest / Nap": "Dinlenme / Uyku",
+      "Skincare": "Cilt bakımı",
+      "Healthy Meal": "Sağlıklı Yemek",
+      "Nature / Walk": "Doğa / Yürüyüş",
+      "Social Time": "Sosyal Zaman",
+      "Hobby": "Hobi",
+      "Therapy": "Terapi",
+      "Digital Detox": "Dijital Detoks"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 dakika",
+      "10–30 minutes": "10–30 dakika",
+      "30–60 minutes": "30–60 dakika",
+      "1+ hour": "1+ saat"
+    },
+    "reasons": {
+      "Busy schedule": "Yoğun program",
+      "Low energy": "Düşük enerji",
+      "Stress": "Stres",
+      "Forgot": "Unuttum",
+      "No motivation": "Motivasyon yok",
+      "Not feeling well": "Kendimi iyi hissetmiyorum",
+      "Lack of time": "Zaman eksikliği",
+      "Emotional overwhelm": "Duygusal bunalma"
+    },
+    "helpfulTypes": {
+      "Rest": "Dinlenme",
+      "Relaxation": "Gevşeme",
+      "Physical activity": "Fiziksel aktivite",
+      "Talking to someone": "Biriyle konuşmak",
+      "Quiet time": "Sessiz zaman",
+      "Creative activity": "Yaratıcı faaliyetler"
+    },
+    "moods": {
+      "Happy": "Mutlu",
+      "Calm": "Sakin",
+      "Neutral": "Nötr",
+      "Low": "Düşük",
+      "Stressed": "Stresli",
+      "Tired": "Yorgun"
+    },
+    "positiveStatements": {
+      "0": "Bugün kendin için geldin. Bu çok güçlü. 🌿",
+      "1": "Kendine bakım bencilce değildir — bu şarttır. Aferin. 💚",
+      "2": "Her küçük özen eylemi sizi daha güçlü bir şekilde inşa eder. 🌱",
+      "3": "Bugün kendine yatırım yaptın. Bu önemli. ✨",
+      "4": "Bugün yaptığın en iyi şey sana bakmak. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Sorun değil. Yarın yeni bir başlangıç. Kendine karşı nazik ol. 🤍",
+      "1": "Her gün mükemmel olmayacak ve bu tamamen normal. 🕊️",
+      "2": "Elinden gelenin en iyisini yapıyorsun. Bu her zaman yeterlidir. 💛",
+      "3": "Dinlenme aynı zamanda bir tür özbakım biçimidir. Kendine lütuf et. 🌸",
+      "4": "Bugün bunu kabul etmek cesaret gerektirir. Zaten büyüyorsun. 🌷"
+    }
+  },
+  "app_title": "Öz Bakım Takipçisi",
+  "app_description": "Günlük öz bakım alışkanlıklarınızı takip edin ve bunların genel sağlığınız üzerindeki etkisini görün. Daha sağlıklı bir zihin için tutarlılık çok önemlidir.",
+  "initializing_session": "Oturum başlatılıyor",
+  "language": "Dil",
+  "your_progress_over_the_last_7_days": "Son 7 gündeki ilerlemeniz",
+  "fetching_data": "Veriler alınıyor...",
+  "more": "Daha",
+  "breadcrumb": "ekmek kırıntısı",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapalı",
+  "previous": "Öncesi",
+  "more_pages": "Daha fazla sayfa",
+  "pagination": "sayfalama",
+  "go_to_previous_page": "Önceki sayfaya git",
+  "go_to_next_page": "Sonraki sayfaya git",
+  "toggle_sidebar": "Kenar Çubuğunu Aç/Kapat",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "uzun"
+}

@@ -1,0 +1,150 @@
+{
+  "app_title": "Søvnrevision",
+  "app_subtitle": "Forstå din hvile",
+  "intro": {
+    "title": "Din søvngennemgang",
+    "description": "Forstå, hvad der påvirker din søvn, og hvor små ændringer kan hjælpe.",
+    "start_button": "Start revision",
+    "history_button": "Tidligere revisioner",
+    "more_insights": "Tilbage til starten"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Fase 01",
+      "title": "Hvordan har din søvn været?",
+      "desc": "Vælg dem, der føles ægte for dig for tiden"
+    },
+    "s2": {
+      "phase": "Fase 02",
+      "title": "Bedøm din typiske hvile",
+      "label": "Specifikke bekymringer?",
+      "placeholder": "Stress, støj, scrolling..."
+    },
+    "s3": {
+      "score_label": "af 7",
+      "recommendations": {
+        "solid": "Dine vaner er solide! Små justeringer kan gøre det endnu bedre.",
+        "some": "Nogle forstyrrelser registreret. Vaneændringer kan hjælpe hurtigt.",
+        "many": "Flere faktorer påvirker din søvn. Vi kan arbejde os igennem dem sammen."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Jeg går i seng på meget forskellige tidspunkter hver aften"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Mit sovemiljø er hverken mørkt, stille eller behageligt"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Jeg scroller på min telefon lige inden jeg skal sove"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Jeg drikker koffein eller alkohol tæt på sengetid"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Jeg vågner om natten og har svært ved at falde i søvn igen"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Mit sind kører på højtryk, når jeg prøver at sove"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Jeg føler mig sjældent frisk efter en nats søvn"
+    }
+  },
+  "rating_labels": {
+    "0": "Meget fattigt",
+    "1": "Fattigt",
+    "2": "Okay",
+    "3": "Godt",
+    "4": "Fedt"
+  },
+  "status_labels": {
+    "track": "For det meste på sporet",
+    "disruptions": "Nogle forstyrrelser",
+    "attention": "Kræver opmærksomhed"
+  },
+  "buttons": {
+    "continue": "Fortsæt",
+    "see_results": "Se resultater",
+    "preserve": "Bevar resultatet",
+    "preserving": "Bevare...",
+    "back_to_intro": "Tilbage til introduktionen"
+  },
+  "history": {
+    "title": "Tidligere revisioner",
+    "no_entries": "Ingen revisioner er bevaret endnu.",
+    "score_label": "af 7"
+  },
+  "complete": {
+    "title": "Revision afsluttet",
+    "message": "Din søvnscore er {{score}}/7. At forstå disse mønstre er det første skridt mod dybere og mere genoprettende hvile."
+  },
+  "toasts": {
+    "save_success": "Revision gemt",
+    "save_error": "Manglende gemning af revision",
+    "auth_error": "Auth-session mangler eller database ikke konfigureret"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start forfra",
+    "finish_exit": "Afslut og afslut",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tid til at færdiggøre",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dele",
+    "share_progress": "Del fremskridt",
+    "inspire_others": "Inspirer andre i dag",
+    "share_text": "Jeg har gjort dette {{activityName}} i TherapyMantra og nyder det virkelig. Du kan også gøre det, bare følg linket til Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}.",
+    "this_activity": "denne aktivitet",
+    "copied": "Kopieret!",
+    "copy_message": "Kopiér besked",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Forstå din hvile",
+  "more": "Mere",
+  "breadcrumb": "brødkrumme",
+  "previous_slide": "Forrige slide",
+  "next_slide": "Næste slide",
+  "close": "Tæt",
+  "previous": "Tidligere",
+  "more_pages": "Flere sider",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå til forrige side",
+  "go_to_next_page": "Gå til næste side",
+  "toggle_sidebar": "Slå sidebjælken til/fra",
+  "oops_page_not_found": "Ups! Siden blev ikke fundet",
+  "return_to_home": "Tilbage til hjemmet",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "Lang",
+  "loading": "Indlæsningshistorik..."
+}

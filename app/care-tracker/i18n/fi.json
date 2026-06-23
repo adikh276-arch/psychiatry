@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Aloita alusta",
+    "finish_exit": "Lopeta ja poistu",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Aikaa valmistua",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Jakaa",
+    "share_progress": "Jaa edistyminen",
+    "inspire_others": "Inspiroi muita tänään",
+    "share_text": "Olen tehnyt tämän {{activityName}} TherapyMantrassa ja nautin siitä todella paljon. Voit tehdä sen sinäkin seuraamalla linkkiä Android-sovellukseen {{androidUrl}} tai iOS-sovellukseen {{iosUrl}}",
+    "this_activity": "tämä toiminta",
+    "copied": "Kopioitu!",
+    "copy_message": "Kopioi viesti",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Itsehoitoseuranta",
+      "description": "Seuraa päivittäisiä itsehoitotapojasi ja katso, miten ne vaikuttavat kokonaisvaltaiseen hyvinvointiisi. Johdonmukaisuus on avain terveempään mieleen.",
+      "benefits": {
+        "0": "Kirjaa päivittäiset itsehoitoaktiviteetit",
+        "1": "Seuraa aikaa itsellesi",
+        "2": "Seuraa mielialaasi",
+        "3": "Katso historia ja edistys"
+      },
+      "duration": "2–3 minuuttia",
+      "benefit1": "Kirjaa päivittäiset fyysisen ja henkisen hyvinvoinnin toimet",
+      "benefit2": "Huomaa haasteet, jotka estävät sinua lepäämästä",
+      "benefit3": "Rakenna tietoisuutta positiivisen vahvistamisen avulla"
+    },
+    "checkin": {
+      "title": "Itsehoidon tarkistus 🌿",
+      "subtitle": "Miten pidit huolta itsestäsi tänään?",
+      "question": "Harjoititko itsestä huolehtimista tänään? *",
+      "description": "Itsestä huolehtiminen on mikä tahansa toiminto, jonka teemme tarkoituksellisesti huolehtiaksemme henkisestä, emotionaalisesta ja fyysisestä terveydestämme."
+    },
+    "activities": {
+      "title": "Toimintasi 🎯",
+      "subtitle": "Mitä itsehoitoaktiviteetteja teit tänään?"
+    },
+    "duration": {
+      "title": "Käytetty ⏱️ aika",
+      "subtitle": "Kuinka kauan käytit itsehoitoon? (valinnainen)"
+    },
+    "noSelfCare": {
+      "title": "Se on ihan 💛 ok",
+      "subtitle": "Ymmärretään, mitä tänään tapahtui.",
+      "question1": "Mikä esti itsestä huolehtimisen tänään? (valinnainen)",
+      "question2": "Millainen itsestä huolehtiminen olisi auttanut? (valinnainen)"
+    },
+    "mood": {
+      "title": "Miltä sinusta tuntuu? 🫧",
+      "subtitle": "Valitse nykyinen mielialasi (valinnainen)"
+    },
+    "review": {
+      "title": "Sinun merkintäsi 📋",
+      "subtitle": "Tässä on yhteenveto tämän päivän check-inistä",
+      "didSelfCare": "Huolehtiko itsestäsi?",
+      "activities": "Toiminta",
+      "duration": "Kesto",
+      "mood": "Tunnelma",
+      "challenges": "Estettynä",
+      "whatHelps": "Olisi auttanut",
+      "viewHistory": "Viikkohistoria",
+      "editToday": "Muokkaa merkintää",
+      "summary": "Yhteenveto"
+    },
+    "history": {
+      "title": "Viikkohistoria 📅",
+      "subtitle": "Ei osallistumista viimeisen seitsemän päivän aikana"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Hups! Sivua ei löydy",
+      "returnHome": "Paluu kotiin"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Harjoitus",
+      "Meditation": "Meditaatio",
+      "Journaling": "Päiväkirjan pitäminen",
+      "Reading": "Lukeminen",
+      "Rest / Nap": "Lepo / Päiväunet",
+      "Skincare": "Ihonhoito",
+      "Healthy Meal": "Terveellinen ateria",
+      "Nature / Walk": "Luonto / Kävely",
+      "Social Time": "Sosiaalinen aika",
+      "Hobby": "Harrastus",
+      "Therapy": "Terapia",
+      "Digital Detox": "Digitaalinen vieroitus"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minuuttia",
+      "10–30 minutes": "10–30 minuuttia",
+      "30–60 minutes": "30–60 minuuttia",
+      "1+ hour": "1+ tunti"
+    },
+    "reasons": {
+      "Busy schedule": "Kiireinen aikataulu",
+      "Low energy": "Matala energia",
+      "Stress": "Stressi",
+      "Forgot": "Unohdin",
+      "No motivation": "Ei motivaatiota",
+      "Not feeling well": "En voi hyvin",
+      "Lack of time": "Ajan puute",
+      "Emotional overwhelm": "Emotionaalinen ylikuormitus"
+    },
+    "helpfulTypes": {
+      "Rest": "Lepoa",
+      "Relaxation": "Relaksaatio",
+      "Physical activity": "Fyysinen aktiivisuus",
+      "Talking to someone": "Puhuminen jonkun kanssa",
+      "Quiet time": "Hiljainen aika",
+      "Creative activity": "Luova toiminta"
+    },
+    "moods": {
+      "Happy": "Iloinen",
+      "Calm": "Rauhoitu",
+      "Neutral": "Neutraali",
+      "Low": "Matala",
+      "Stressed": "Stressaantunut",
+      "Tired": "Väsynyt"
+    },
+    "positiveStatements": {
+      "0": "Tulit tänään itsesi luo. Se on voimakasta. 🌿",
+      "1": "Itsestä huolehtiminen ei ole itsekästä — se on välttämätöntä. Hyvin tehty. 💚",
+      "2": "Jokainen pieni huolenpidon teko vahvistaa sinua. 🌱",
+      "3": "Panostit itseesi tänään. Sillä on väliä. ✨",
+      "4": "Sinusta huolehtiminen on paras asia, jonka teit tänään. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Se on okei. Huominen on uusi alku. Ole lempeä itsellesi. 🤍",
+      "1": "Ei jokainen päivä ole täydellinen, ja se on täysin ok. 🕊️",
+      "2": "Teet parhaasi. Se riittää aina. 💛",
+      "3": "Lepo on myös eräänlainen itsestä huolehtimisen muoto. Anna itsellesi armoa. 🌸",
+      "4": "Tämän päivän tunnustaminen vaatii rohkeutta. Olet jo kasvamassa. 🌷"
+    }
+  },
+  "app_title": "Itsehoidon seuranta",
+  "app_description": "Seuraa päivittäisiä itsestäsi huolehtimiseen liittyviä tapojasi ja katso, miten ne vaikuttavat yleiseen hyvinvointiisi. Johdonmukaisuus on avain terveempään mieleen.",
+  "initializing_session": "Istuntoa alustetaan",
+  "language": "Kieli",
+  "your_progress_over_the_last_7_days": "Edistymisesi viimeisten 7 päivän aikana",
+  "fetching_data": "Noudetaan tietoja...",
+  "more": "Lisää",
+  "breadcrumb": "navigointipolku",
+  "previous_slide": "Edellinen dia",
+  "next_slide": "Seuraava dia",
+  "close": "Lähellä",
+  "previous": "Edellinen",
+  "more_pages": "Lisää sivuja",
+  "pagination": "sivunumerointi",
+  "go_to_previous_page": "Siirry edelliselle sivulle",
+  "go_to_next_page": "Siirry seuraavalle sivulle",
+  "toggle_sidebar": "Näytä/piilota sivupalkki",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "pitkä"
+}

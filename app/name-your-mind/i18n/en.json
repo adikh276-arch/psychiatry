@@ -1,0 +1,136 @@
+{
+  "app_title": "Name Your Mind",
+  "intro": {
+    "title": "Meet Your Mind",
+    "description": "Learn to distance yourself from overwhelming thoughts by giving your inner voice a name.",
+    "benefits": [
+      "Create mental distance",
+      "Reduce the power of harsh thoughts",
+      "Notice thoughts without being them"
+    ],
+    "duration": "2-3 minutes",
+    "view_past": "View Past Entries"
+  },
+  "history": {
+    "title": "Past Entries",
+    "no_entries": "No entries yet.",
+    "reflection_label": "Reflection: {{text}}"
+  },
+  "complete": {
+    "title": "Activity Complete",
+    "great_job": "Great Job!",
+    "message": "You've successfully named your mind and created some space between yourself and your thoughts.",
+    "footer": "Remember: You don't have to believe every thought your mind gives you."
+  },
+  "subtitles": {
+    "concept": "Perspective",
+    "input_thought": "Notice",
+    "input_name": "Name",
+    "practice": "Practice",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "A small shift",
+      "example": "\"I'm not good enough\"",
+      "desc": "When a thought shows up, it often feels like it's <0>you</0>. But what if you could step back and <1>notice</1> it instead?"
+    },
+    "input_thought": {
+      "title": "Let's start with a real thought",
+      "desc": "What is one thought that has been bothering you lately?",
+      "placeholder": "Write it exactly as it comes to you…"
+    },
+    "input_name": {
+      "title": "Create some distance",
+      "desc": "Give your mind a name to help separate yourself from these thoughts.",
+      "placeholder": "Or type your own…",
+      "examples": [
+        "The Critic",
+        "Overthinker",
+        "Worry FM",
+        "The Overthinking Machine",
+        "The Inner Critic",
+        "The What-If Generator",
+        "Drama Director"
+      ]
+    },
+    "practice": {
+      "title": "Try this shift",
+      "instead_of": "Instead of",
+      "try_saying": "Try saying",
+      "is_telling_me": "{{name}} is telling me:",
+      "guide": "Gently repeat this sentence to yourself 4–5 times at your own pace.",
+      "button": "I'm Ready"
+    },
+    "reflection": {
+      "title": "What did you notice?",
+      "desc": "How did the thought feel after giving it a name?",
+      "options": [
+        "The thought felt a little less intense than before",
+        "I felt like I had some distance from the thought",
+        "It still felt just as strong as before",
+        "I'm not sure what changed, if anything"
+      ],
+      "button": "Complete Reflection"
+    }
+  },
+  "buttons": {
+    "continue": "Continue",
+    "restart": "Restart"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Name Your Mind",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "When a thought shows up, it often feels like it's",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

@@ -1,0 +1,136 @@
+{
+  "app_title": "Numește-ți mintea",
+  "intro": {
+    "title": "Cunoaște-ți mintea",
+    "description": "Învață să te distanțezi de gândurile copleșitoare dându-i vocii tale interioare un nume.",
+    "benefits": {
+      "0": "Creează distanță mentală",
+      "1": "Reduce puterea gândurilor dure",
+      "2": "Observă gândurile fără să fii ele"
+    },
+    "duration": "2-3 minute",
+    "view_past": "Vezi înscrierile anterioare"
+  },
+  "history": {
+    "title": "Înscrieri anterioare",
+    "no_entries": "Încă nu există înscrieri.",
+    "reflection_label": "Reflecție: {{text}}"
+  },
+  "complete": {
+    "title": "Activitate completă",
+    "great_job": "Bravo!",
+    "message": "Ai reușit să-ți numești mintea și să creezi un spațiu între tine și gândurile tale.",
+    "footer": "Amintește-ți: nu trebuie să crezi fiecare gând pe care mintea ta ți-l transmite."
+  },
+  "subtitles": {
+    "concept": "Perspectivă",
+    "input_thought": "Notificare",
+    "input_name": "Nume",
+    "practice": "Practică",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "O mică schimbare",
+      "example": "\"Nu sunt suficient de bun\"",
+      "desc": "Când apare un gând, de multe ori pare că este <0>tu< 0>. Dar ce-ar fi dacă ai putea face un pas înapoi și să <o 1>observați</1> în schimb?"
+    },
+    "input_thought": {
+      "title": "Să începem cu o idee reală",
+      "desc": "Care este un gând care te-a frământat în ultima vreme?",
+      "placeholder": "Scrie-l exact așa cum îți vine în minte..."
+    },
+    "input_name": {
+      "title": "Creează o oarecare distanță",
+      "desc": "Dă-i minții tale un nume care să te ajute să te separi de aceste gânduri.",
+      "placeholder": "Sau scrie-ți propriul...",
+      "examples": {
+        "0": "Criticul",
+        "1": "Gânditor excesiv",
+        "2": "Worry FM",
+        "3": "Mașina de gândire excesivă",
+        "4": "Criticul interior",
+        "5": "Generatorul de \"Ce-ar fi dacă\"",
+        "6": "Regizor de dramă"
+      }
+    },
+    "practice": {
+      "title": "Încearcă această schimbare",
+      "instead_of": "În loc de",
+      "try_saying": "Încearcă să spui",
+      "is_telling_me": "{{name}} îmi spune:",
+      "guide": "Repetă ușor această propoziție de 4–5 ori, în ritmul tău.",
+      "button": "Sunt gata"
+    },
+    "reflection": {
+      "title": "Ce ai observat?",
+      "desc": "Cum s-a simțit acest gând după ce i-a dat un nume?",
+      "options": {
+        "0": "Gândul părea puțin mai puțin intens decât înainte",
+        "1": "Simțeam că am o oarecare distanță față de acest gând",
+        "2": "Se simțea la fel de puternic ca înainte",
+        "3": "Nu sunt sigur ce s-a schimbat, dacă s-a schimbat ceva."
+      },
+      "button": "Reflecție completă"
+    }
+  },
+  "buttons": {
+    "continue": "Continuă",
+    "restart": "Repornire"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Începeți de la început",
+    "finish_exit": "Terminare și ieșire",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Timpul de finalizare",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Distribuie",
+    "share_progress": "Distribuiți progresul",
+    "inspire_others": "Inspiră-i pe alții astăzi",
+    "share_text": "Am făcut această {{activityName}} în TherapyMantra și îmi place foarte mult. O poți face și tu, trebuie doar să accesezi linkul către aplicația Android {{androidUrl}} sau aplicația iOS {{iosUrl}}.",
+    "this_activity": "această activitate",
+    "copied": "Copiat!",
+    "copy_message": "Copiați mesajul",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Numește-ți mintea",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Când apare un gând, adesea se simte ca și cum ar fi",
+  "more": "Mai mult",
+  "breadcrumb": "pesmet",
+  "previous_slide": "Diapozitivul anterior",
+  "next_slide": "Diapozitivul următor",
+  "close": "Aproape",
+  "previous": "Anterior",
+  "more_pages": "Mai multe pagini",
+  "pagination": "paginare",
+  "go_to_previous_page": "Mergi la pagina anterioară",
+  "go_to_next_page": "Mergi la pagina următoare",
+  "toggle_sidebar": "Comutare bară laterală",
+  "oops_page_not_found": "Oops! Pagina nu a fost găsită.",
+  "return_to_home": "Întoarcerea acasă",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lung"
+}

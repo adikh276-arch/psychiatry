@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Chúng ta hãy cùng nhau tạm dừng một chút.\n\nTrong phút tiếp theo, bạn không cần phải giải quyết, sửa chữa hay phản hồi bất cứ điều gì. Chỉ cần cho phép bản thân chậm lại.\n\nNgồi thoải mái, đặt chân xuống đất nếu có thể, và nhẹ nhàng hít một hơi thật sâu… rồi thở ra thật chậm.\n\nĐây là khoảnh khắc để bạn thiết lập lại và kết nối với hiện tại.",
+      "button": "Bắt đầu"
+    },
+    "1": {
+      "heading": "5 điều bạn có thể thấy",
+      "body": "Hãy chậm rãi quan sát xung quanh. Để mắt bạn nhẹ nhàng di chuyển khắp không gian. Chú ý đến màu sắc, hình dạng, ánh sáng, bóng tối, hoặc những chi tiết nhỏ mà trước đây bạn có thể chưa để ý đến.",
+      "button": "Kế tiếp"
+    },
+    "2": {
+      "heading": "4 điều bạn có thể cảm nhận được",
+      "body": "Hãy tập trung sự chú ý vào cơ thể bạn. Cảm nhận bàn chân chạm sàn, lưng tựa vào ghế, quần áo trên da, hoặc không khí xung quanh. Nhận biết bốn cảm giác vật lý.",
+      "button": "Kế tiếp"
+    },
+    "3": {
+      "heading": "3 điều bạn có thể nghe thấy",
+      "body": "Hãy lắng nghe thật kỹ. Bạn có thể nghe thấy những âm thanh từ xa, tiếng quạt, tiếng gõ bàn phím, tiếng thở, hoặc thậm chí là sự im lặng. Hãy xác định ba âm thanh mà không phán xét chúng.",
+      "button": "Kế tiếp"
+    },
+    "4": {
+      "heading": "2 điều bạn có thể ngửi thấy",
+      "body": "Hãy thử xem bạn có thể phát hiện ra mùi gì trong phòng không. Nếu không có mùi gì đặc biệt, hãy đơn giản là cảm nhận mùi trung tính của không khí xung quanh bạn.",
+      "button": "Kế tiếp"
+    },
+    "5": {
+      "heading": "1 điều bạn có thể nếm thử",
+      "body": "Hãy chú ý đến vị giác trong miệng bạn. Vị đó có thể nhẹ nhàng hoặc trung tính — chỉ cần quan sát thôi.",
+      "button": "Kế tiếp"
+    },
+    "6": {
+      "heading": "Sự phản xạ",
+      "body": "Hít một hơi thật chậm… và nhẹ nhàng thở ra.",
+      "button": "Nộp"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Bắt đầu lại",
+    "finish_exit": "Hoàn thành & Lối ra",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Đã đến lúc hoàn thành",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Chia sẻ",
+    "share_progress": "Chia sẻ tiến độ",
+    "inspire_others": "Hãy truyền cảm hứng cho người khác ngay hôm nay!",
+    "share_text": "Tôi đã thực hiện hoạt động này {{activityName}} trên TherapyMantra và thực sự rất thích, bạn cũng có thể làm được, chỉ cần theo liên kết đến ứng dụng Android {{androidUrl}} hoặc ứng dụng iOS {{iosUrl}}.",
+    "this_activity": "hoạt động này",
+    "copied": "Đã sao chép!",
+    "copy_message": "Sao chép tin nhắn",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Nối đất",
+  "intro_p1": "Giảm lo âu nhanh chóng",
+  "intro_p2": "Đưa bạn trở lại hiện tại",
+  "intro_p3": "Làm dịu tâm trí đang xáo trộn",
+  "app_description": "5-4-3-2-1 Nối đất",
+  "more": "Hơn",
+  "breadcrumb": "vụn bánh mì",
+  "previous_slide": "Trang trước",
+  "next_slide": "Trang chiếu tiếp theo",
+  "close": "Đóng",
+  "previous": "Trước",
+  "more_pages": "Thêm trang",
+  "pagination": "đánh số trang",
+  "go_to_previous_page": "Quay lại trang trước",
+  "go_to_next_page": "Chuyển sang trang tiếp theo",
+  "toggle_sidebar": "Ẩn/Hiện thanh bên",
+  "oops_page_not_found": "Ôi! Không tìm thấy trang!",
+  "return_to_home": "Trở về Trang chủ",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/ 5-4-3-2-1-nối đất"
+}

@@ -1,0 +1,99 @@
+{
+  "app_title": "Zdroje",
+  "not_found": {
+    "title": "Nenalezeno",
+    "message": "Zdroj nenalezen",
+    "description": "Obsah, který hledáš, se možná posunul.",
+    "button": "Vrať se zpět"
+  },
+  "list": {
+    "empty_title": "Žádný {{type}} k dispozici",
+    "empty_desc": "Momentálně připravujeme další zdroje na toto téma.",
+    "footer": "Mantra Care • Zdroje založené na důkazech"
+  },
+  "detail": {
+    "loading": "Načítám...",
+    "tip": {
+      "insight_label": "The Insight",
+      "plan_title": "Denní akční plán",
+      "steps": "{{count}} Kroky",
+      "example_label": "Příklad praxe",
+      "instead_of": "Místo",
+      "try_this": "Zkus to"
+    },
+    "article": {
+      "final_thought": "Závěrečná myšlenka"
+    },
+    "story": {
+      "reflection_label": "Něco, s čím si sednout",
+      "note_label": "Poznámka od autora"
+    },
+    "myth": {
+      "truth_label": "Vědecká pravda",
+      "explanation_label": "Podrobné vysvětlení",
+      "insight_label": "Klíčový poznatek"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Začít znovu",
+    "finish_exit": "Dokončit a ukončit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Čas na dokončení",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Podíl",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní ještě dnes",
+    "share_text": "Tuto aktivitu {{activityName}} jsem dělal/a v TherapyMantra a opravdu mě baví, můžete to dělat i vy, stačí kliknout na odkaz na aplikaci pro Android {{androidUrl}} nebo aplikaci pro iOS {{iosUrl}}.",
+    "this_activity": "tato aktivita",
+    "copied": "Zkopírováno!",
+    "copy_message": "Kopírovat zprávu",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Zdroje",
+  "concerns": {
+    "acceptance": "Přijetí",
+    "adolescent": "Puberťák",
+    "anger": "Hněv",
+    "anxiety": "Úzkost",
+    "depression": "Deprese",
+    "eating-disorder": "Porucha příjmu potravy",
+    "grief": "Smutek",
+    "parenting": "Rodičovství",
+    "postpartum": "Poporodní",
+    "ptsd": "PTSD",
+    "relationship": "Vztah",
+    "sexuality": "Sexualita",
+    "sleep": "Spát",
+    "stress": "Stres",
+    "workplace": "Pracoviště"
+  },
+  "types": {
+    "stories": "Příběhy",
+    "articles": "Články",
+    "myths": "Mýty",
+    "tips": "Tipy"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

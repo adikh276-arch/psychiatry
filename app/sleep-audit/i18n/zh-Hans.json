@@ -1,0 +1,150 @@
+{
+  "app_title": "睡眠审计",
+  "app_subtitle": "理解你的休息",
+  "intro": {
+    "title": "睡眠审计",
+    "description": "了解哪些因素影响你的睡眠，以及哪些小的改变可以有所帮助。",
+    "start_button": "开始审计",
+    "history_button": "以往审计",
+    "more_insights": "回到起点"
+  },
+  "screens": {
+    "s1": {
+      "phase": "第一阶段",
+      "title": "你最近睡眠怎么样？",
+      "desc": "选择一些你最近觉得最贴切的描述。"
+    },
+    "s2": {
+      "phase": "第二阶段",
+      "title": "请评价您通常的休息情况",
+      "label": "具体问题？",
+      "placeholder": "压力、噪音、滚动浏览……"
+    },
+    "s3": {
+      "score_label": "7",
+      "recommendations": {
+        "solid": "你的习惯很棒！稍作调整就能变得更好。",
+        "some": "检测到一些干扰因素。改变习惯可以迅速有所帮助。",
+        "many": "影响您睡眠的因素有很多，我们可以一起解决这些问题。"
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "我每晚的就寝时间都不一样。"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "我的睡眠环境既不黑暗，也不安静，更不舒服。"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "睡前我会刷手机。"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "我睡前会摄入咖啡因或酒精。"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "我夜里醒来，很难再次入睡。"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "我试图入睡时，脑子里总是思绪万千。"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "我很少在睡了一夜之后感到神清气爽。"
+    }
+  },
+  "rating_labels": {
+    "0": "非常差",
+    "1": "贫穷的",
+    "2": "好的",
+    "3": "好的",
+    "4": "伟大的"
+  },
+  "status_labels": {
+    "track": "基本按计划进行",
+    "disruptions": "一些干扰",
+    "attention": "需要关注"
+  },
+  "buttons": {
+    "continue": "继续",
+    "see_results": "查看结果",
+    "preserve": "保留结果",
+    "preserving": "保存……",
+    "back_to_intro": "返回简介"
+  },
+  "history": {
+    "title": "以往审计",
+    "no_entries": "目前尚未保存任何审计记录。",
+    "score_label": "7"
+  },
+  "complete": {
+    "title": "审计完成",
+    "message": "您的睡眠得分是 {{score}}/7。了解这些睡眠模式是获得更深层次、更具恢复性睡眠的第一步。"
+  },
+  "toasts": {
+    "save_success": "审计已保存",
+    "save_error": "审计保存失败",
+    "auth_error": "身份验证会话缺失或数据库未配置"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成时间",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "分享",
+    "share_progress": "分享进度",
+    "inspire_others": "今天激励他人",
+    "share_text": "我在 TherapyMantra 上完成了这个 {{activityName}} 活动，非常喜欢，你也试试吧，只需点击链接即可下载安卓应用 {{androidUrl}} 或 iOS 应用 {{iosUrl}}",
+    "this_activity": "这项活动",
+    "copied": "已复制！",
+    "copy_message": "复制消息",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "理解你的休息",
+  "more": "更多的",
+  "breadcrumb": "面包屑",
+  "previous_slide": "上一张幻灯片",
+  "next_slide": "下一张幻灯片",
+  "close": "关闭",
+  "previous": "以前的",
+  "more_pages": "更多页面",
+  "pagination": "分页",
+  "go_to_previous_page": "返回上一页",
+  "go_to_next_page": "前往下一页",
+  "toggle_sidebar": "切换侧边栏",
+  "oops_page_not_found": "糟糕！页面未找到",
+  "return_to_home": "返回首页",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "二维",
+  "lang": "很长",
+  "loading": "加载历史......"
+}

@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新開始",
+    "finish_exit": "結束並退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "分享",
+    "share_progress": "分享進度",
+    "inspire_others": "今天激勵他人",
+    "share_text": "我在 TherapyMantra 上完成了這個 {{activityName}} 活動，非常喜歡，你也試試看吧，只需點擊連結下載安卓應用程式 {{androidUrl}} 或 iOS 應用程式 {{iosUrl}}。",
+    "this_activity": "這項活動",
+    "copied": "已複製！",
+    "copy_message": "複製訊息",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "當你感到孤獨和悲傷時",
+      "affirmations": {
+        "0": "即使有時感覺如此，但我並不孤單。",
+        "1": "我的感受需要被照顧和溫柔對待。",
+        "2": "這一刻不會永遠持續下去。",
+        "3": "我有權利需要網路連線。",
+        "4": "我現在可以給自己一些溫暖。"
+      }
+    },
+    "terrified": {
+      "label": "當你感到恐懼時",
+      "affirmations": {
+        "0": "此刻我很安全。",
+        "1": "恐懼是一種感覺，而不是預測。",
+        "2": "我可以一口氣慢慢來。",
+        "3": "我不需要現在就解決所有問題。",
+        "4": "我能克服眼前的困境。"
+      }
+    },
+    "insignificant": {
+      "label": "當你覺得自己微不足道時",
+      "affirmations": {
+        "0": "細微的瞬間也很重要。",
+        "1": "我不需要證明自己的價值。",
+        "2": "我可以佔空間。",
+        "3": "我的存在意義重大。",
+        "4": "我這樣就夠好了。"
+      }
+    },
+    "overwhelmed": {
+      "label": "當你感到壓力過大時",
+      "affirmations": {
+        "0": "我不需要一次性完成所有事情。",
+        "1": "邁出一小步就夠了。",
+        "2": "暫停一下也沒關係。",
+        "3": "我可以休息了。",
+        "4": "這件事會再次變得可控。"
+      }
+    },
+    "hopeless": {
+      "label": "當你感到絕望時",
+      "affirmations": {
+        "0": "我今天不需要答案。",
+        "1": "改變依然可能。",
+        "2": "我以前也經歷過艱難的日子。",
+        "3": "我暫時可以待在這裡。",
+        "4": "溫柔的事情或許還會發生。"
+      }
+    },
+    "conflicted": {
+      "label": "當你感到矛盾時",
+      "affirmations": {
+        "0": "同時感受到不只一種情緒是可以的。",
+        "1": "我不需要馬上得到明確的答案。",
+        "2": "困惑並不意味著失敗。",
+        "3": "我可以給自己一些時間。",
+        "4": "我相信自己能解決這個問題。"
+      }
+    },
+    "self-critical": {
+      "label": "當你非常苛責自己時",
+      "affirmations": {
+        "0": "我可以對自己說出友善的話。",
+        "1": "我不需要透過懲罰自己來成長。",
+        "2": "錯誤並不能定義我是誰。",
+        "3": "我是在學習，而不是失敗。",
+        "4": "成長並不需要殘酷的手段。"
+      }
+    },
+    "out-of-place": {
+      "label": "當你感到社交格格不入時",
+      "affirmations": {
+        "0": "我可以保持沉默，也可以與眾不同。",
+        "1": "我不需要跟別人一樣精力充沛。",
+        "2": "我就是我，我屬於這裡。",
+        "3": "我可以輕柔地佔據空間。",
+        "4": "我這樣做沒錯。"
+      }
+    },
+    "unsafe": {
+      "label": "當你在陌生人身邊感到不安全時",
+      "affirmations": {
+        "0": "我可以按照自己的步調來。",
+        "1": "我有權維護我的界限。",
+        "2": "我可以保持與身體的連結。",
+        "3": "我有權利離開某些情況。",
+        "4": "我可以保護自己。"
+      }
+    },
+    "pressured": {
+      "label": "當你在工作中感到壓力時",
+      "affirmations": {
+        "0": "我的價值不在於我的生產力。",
+        "1": "我不需要不斷證明自己。",
+        "2": "今天盡力而為就夠了。",
+        "3": "一次只做一件事是可以的。",
+        "4": "我的價值遠不止於我的角色。"
+      }
+    },
+    "face-the-day": {
+      "label": "當你不想面對這一天的時候",
+      "affirmations": {
+        "0": "我可以把今天分成小段來過。",
+        "1": "能通過就足夠了。",
+        "2": "我不需要動力就能開始。",
+        "3": "溫和地出現也算數。",
+        "4": "這一天並不能定義我。"
+      }
+    },
+    "future": {
+      "label": "當你擔憂未來時",
+      "affirmations": {
+        "0": "我可以回到現在。",
+        "1": "我會隨機應變。",
+        "2": "我今天不需要確定性。",
+        "3": "我適應力很強。",
+        "4": "我可以更信任自己一些了。"
+      }
+    },
+    "stuck": {
+      "label": "當你感覺自己陷入困境時",
+      "affirmations": {
+        "0": "陷入困境並不代表我出了問題。",
+        "1": "我可以暫停而不放棄。",
+        "2": "我不需要立竿見影的解決方案。",
+        "3": "我有權利感到不確定。",
+        "4": "我仍在前進，即使速度很慢。"
+      }
+    },
+    "compare": {
+      "label": "當你與自己比較時",
+      "affirmations": {
+        "0": "我的旅程只屬於我自己。",
+        "1": "我不需要透過競爭來證明自己的價值。",
+        "2": "我可以按照自己的步調成長。",
+        "3": "別人的成功並不會抹殺我的成功。",
+        "4": "我沒有落後。"
+      }
+    },
+    "give-up": {
+      "label": "當你想要放棄的時候",
+      "affirmations": {
+        "0": "我現在不需要做任何決定。",
+        "1": "這種感覺會過去的。",
+        "2": "我經歷的比我意識到的要多得多。",
+        "3": "我還能再待一會兒。",
+        "4": "我還在這裡——這很重要。"
+      }
+    }
+  },
+  "app_complete_title": "感到更有力量",
+  "app_complete_message": "每日肯定語有助於重塑你的思考模式。今天就帶著這些正面的想法吧。",
+  "app_duration": "2-3分鐘",
+  "app_title": "心態",
+  "app_description": "透過每日肯定語重塑你的思考模式。",
+  "intro": {
+    "description": "每日肯定語有助於重塑思考模式，增強情緒韌性。花幾分鐘專注於正面的想法，並善待自己。",
+    "benefits": {
+      "0": "在困境中尋找平靜",
+      "1": "挑戰消極思考模式",
+      "2": "培養自我關懷和力量"
+    }
+  },
+  "affirmation_for": "肯定",
+  "affirmation": "肯定",
+  "language": "語言",
+  "more": "更多的",
+  "breadcrumb": "麵包屑",
+  "previous_slide": "上一張投影片",
+  "next_slide": "下一張投影片",
+  "close": "關閉",
+  "previous": "以前的",
+  "more_pages": "更多頁面",
+  "pagination": "分頁",
+  "go_to_previous_page": "回上一頁",
+  "go_to_next_page": "前往下一頁",
+  "toggle_sidebar": "切換側邊欄",
+  "oops_page_not_found": "糟糕！頁面未找到",
+  "return_to_home": "回首頁",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "你感覺怎麼樣？",
+  "feelings_subheading": "選擇你所擁有的情緒",
+  "lang": "長篇"
+}

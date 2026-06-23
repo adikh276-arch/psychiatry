@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Начать заново",
+    "finish_exit": "Финиш и выход",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Время выполнения",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Делиться",
+    "share_progress": "Поделиться прогрессом",
+    "inspire_others": "Вдохновите других сегодня!",
+    "share_text": "Я выполняла это упражнение {{activityName}} в TherapyMantra и мне это очень понравилось, вы тоже можете попробовать, просто перейдите по ссылке на приложение для Android {{androidUrl}} или iOS {{iosUrl}}.",
+    "this_activity": "эта деятельность",
+    "copied": "Скопировано!",
+    "copy_message": "Скопировать сообщение",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Трекер заботы о себе",
+      "description": "Отслеживайте свои ежедневные привычки заботы о себе и посмотрите, как они влияют на ваше общее благополучие. Последовательность — ключ к здоровому уму.",
+      "benefits": {
+        "0": "Записывайте ежедневные занятия по уходу за собой",
+        "1": "Отслеживайте время, потраченное на себя",
+        "2": "Следите за своими настроениями",
+        "3": "Просмотр истории и прогресса"
+      },
+      "duration": "2-3 минуты",
+      "benefit1": "Ежедневно фиксируйте физические и психические мероприятия",
+      "benefit2": "Замечайте трудности, мешающие вам покоиться",
+      "benefit3": "Развивайте осознанность через позитивное подкрепление"
+    },
+    "checkin": {
+      "title": "Проверка 🌿 по уходу за собой",
+      "subtitle": "Как вы сегодня заботились о себе?",
+      "question": "Вы сегодня занимались заботой о себе? *",
+      "description": "Забота о себе — это любое занятие, которое мы совершаем сознательно, чтобы заботиться о своём психическом, эмоциональном и физическом здоровье."
+    },
+    "activities": {
+      "title": "Ваша деятельность 🎯",
+      "subtitle": "Какие занятия по уходу за собой вы делали сегодня?"
+    },
+    "duration": {
+      "title": "Время, проведённое ⏱️",
+      "subtitle": "Сколько времени вы потратили на заботу о себе? (по выбору)"
+    },
+    "noSelfCare": {
+      "title": "Ничего страшного 💛",
+      "subtitle": "Давайте разберёмся, что произошло сегодня.",
+      "question1": "Что помешало заботе о себе сегодня? (по выбору)",
+      "question2": "Какой вид заботы о себе мог бы помочь? (по выбору)"
+    },
+    "mood": {
+      "title": "Как ты себя чувствуешь? 🫧",
+      "subtitle": "Выберите своё текущее настроение (по желанию)"
+    },
+    "review": {
+      "title": "Ваш запис 📋",
+      "subtitle": "Вот краткое описание сегодняшней регистрации",
+      "didSelfCare": "Забота о себе?",
+      "activities": "Деятельность",
+      "duration": "Продолжительность",
+      "mood": "Настроение",
+      "challenges": "Предотвращено",
+      "whatHelps": "Это бы помогло",
+      "viewHistory": "Еженедельная история",
+      "editToday": "Редактировать запись",
+      "summary": "Краткое содержание"
+    },
+    "history": {
+      "title": "Еженедельная история 📅",
+      "subtitle": "За последние 7 дней не было записей"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ой! Страница не найдена",
+      "returnHome": "Возвращение домой"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Физические упражнения",
+      "Meditation": "Медитация",
+      "Journaling": "Ведение дневника",
+      "Reading": "Чтение",
+      "Rest / Nap": "Отдых / Сон",
+      "Skincare": "Уход за кожей",
+      "Healthy Meal": "Здоровая еда",
+      "Nature / Walk": "Природа / Прогулка",
+      "Social Time": "Социальное время",
+      "Hobby": "Хобби",
+      "Therapy": "Терапия",
+      "Digital Detox": "Цифровой детокс"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 минут",
+      "10–30 minutes": "10–30 минут",
+      "30–60 minutes": "30–60 минут",
+      "1+ hour": "1+ час"
+    },
+    "reasons": {
+      "Busy schedule": "Плотный график",
+      "Low energy": "Низкая энергия",
+      "Stress": "Стресс",
+      "Forgot": "Забыл",
+      "No motivation": "Нет мотивации",
+      "Not feeling well": "Плохо себя чувствую",
+      "Lack of time": "Нехватка времени",
+      "Emotional overwhelm": "Эмоциональное переполнение"
+    },
+    "helpfulTypes": {
+      "Rest": "Отдых",
+      "Relaxation": "Релаксация",
+      "Physical activity": "Физическая активность",
+      "Talking to someone": "Разговаривать с кем-то",
+      "Quiet time": "Время тишины",
+      "Creative activity": "Творческая деятельность"
+    },
+    "moods": {
+      "Happy": "Хэппи",
+      "Calm": "Спокойствие",
+      "Neutral": "Нейтральный",
+      "Low": "Низкий",
+      "Stressed": "Стресс",
+      "Tired": "Усталость"
+    },
+    "positiveStatements": {
+      "0": "Сегодня ты пришёл ради себя. Это мощно. 🌿",
+      "1": "Забота о себе — это не эгоизм, она необходима. Молодец. 💚",
+      "2": "Каждый маленький акт заботы делает тебя сильнее. 🌱",
+      "3": "Сегодня ты вложился в себя. Это важно. ✨",
+      "4": "Забота о тебе — лучшее, что ты сделала сегодня. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Всё в порядке. Завтра — новый старт. Будь нежна к себе. 🤍",
+      "1": "Не каждый день будет идеальным, и это совершенно нормально. 🕊️",
+      "2": "Ты делаешь всё возможное. Этого всегда достаточно. 💛",
+      "3": "Отдых — это также форма заботы о себе. Прояви к себе милосердие. 🌸",
+      "4": "Признание сегодняшнего дня требует мужества. Ты уже растёшь. 🌷"
+    }
+  },
+  "app_title": "Трекер самообслуживания",
+  "app_description": "Отслеживайте свои ежедневные привычки по уходу за собой и смотрите, как они влияют на ваше общее самочувствие. Последовательность — залог здорового психического здоровья.",
+  "initializing_session": "Инициализация сессии",
+  "language": "Язык",
+  "your_progress_over_the_last_7_days": "Ваш прогресс за последние 7 дней",
+  "fetching_data": "Получение данных...",
+  "more": "Более",
+  "breadcrumb": "хлебные крошки",
+  "previous_slide": "Предыдущий слайд",
+  "next_slide": "Следующий слайд",
+  "close": "Закрывать",
+  "previous": "Предыдущий",
+  "more_pages": "Больше страниц",
+  "pagination": "нумерация страниц",
+  "go_to_previous_page": "Перейти на предыдущую страницу",
+  "go_to_next_page": "Перейти на следующую страницу",
+  "toggle_sidebar": "Переключить боковую панель",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "Долго"
+}

@@ -1,0 +1,136 @@
+{
+  "app_title": "说出你的心声",
+  "intro": {
+    "title": "遇见你的心灵",
+    "description": "学会通过给内心的声音命名来摆脱纷乱的思绪。",
+    "benefits": {
+      "0": "保持心理距离",
+      "1": "削弱负面情绪的影响",
+      "2": "觉察念头，而不成为念头本身。"
+    },
+    "duration": "2-3分钟",
+    "view_past": "查看往期条目"
+  },
+  "history": {
+    "title": "往期条目",
+    "no_entries": "暂无条目。",
+    "reflection_label": "反思：{{text}}"
+  },
+  "complete": {
+    "title": "活动完成",
+    "great_job": "干得好！",
+    "message": "你成功地为自己的思想命名，并在自己和自己的想法之间创造了一些空间。",
+    "footer": "记住：你不必相信你脑海中产生的每一个想法。"
+  },
+  "subtitles": {
+    "concept": "看法",
+    "input_thought": "注意",
+    "input_name": "姓名",
+    "practice": "实践",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "一个小小的转变",
+      "example": "“我不够好”",
+      "desc": "当一个念头出现时，你常常会觉得它是<0>你自己</0>。但如果你能退后一步，<1>注意到</1>它呢？"
+    },
+    "input_thought": {
+      "title": "让我们从一个真正的思考开始。",
+      "desc": "最近有什么事情一直困扰着你？",
+      "placeholder": "想到什么就写什么……"
+    },
+    "input_name": {
+      "title": "保持一定距离",
+      "desc": "给你的思绪起个名字，有助于你摆脱这些想法。",
+      "placeholder": "或者输入您自己的内容……",
+      "examples": {
+        "0": "评论家",
+        "1": "过度思考者",
+        "2": "忧虑调频",
+        "3": "过度思考机器",
+        "4": "内心批评家",
+        "5": "假设生成器",
+        "6": "戏剧导演"
+      }
+    },
+    "practice": {
+      "title": "试试这个换挡",
+      "instead_of": "而不是",
+      "try_saying": "试着说",
+      "is_telling_me": "{{name}} 告诉我：",
+      "guide": "请用自己的节奏轻轻地重复这句话 4-5 遍。",
+      "button": "我准备好了"
+    },
+    "reflection": {
+      "title": "你注意到了什么？",
+      "desc": "给它命名之后，你当时是什么感觉？",
+      "options": {
+        "0": "这种想法感觉比以前淡了一些。",
+        "1": "我觉得自己与这种想法保持了一定的距离。",
+        "2": "感觉仍然和以前一样强烈。",
+        "3": "我不确定究竟发生了什么变化，如果有的话。"
+      },
+      "button": "完整反思"
+    }
+  },
+  "buttons": {
+    "continue": "继续",
+    "restart": "重启"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成时间",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share progress",
+    "inspire_others": "Inspire others",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied",
+    "copy_message": "Copy message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Name Your Mind",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "When a thought shows up, it often feels like it's",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "很长"
+}

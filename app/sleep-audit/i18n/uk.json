@@ -1,0 +1,150 @@
+{
+  "app_title": "Аудит сну",
+  "app_subtitle": "Зрозумій свій відпочинок",
+  "intro": {
+    "title": "Ваш аудит сну",
+    "description": "Зрозумійте, що впливає на ваш сон і де невеликі зміни можуть допомогти.",
+    "start_button": "Почати аудит",
+    "history_button": "Минулі аудити",
+    "more_insights": "Повернутися до початку"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Фаза 01",
+      "title": "Як у тебе сон?",
+      "desc": "Обирайте ті, які останнім часом вам підходять"
+    },
+    "s2": {
+      "phase": "Фаза 02",
+      "title": "Оцініть свій типовий відпочинок",
+      "label": "Конкретні занепокоєння?",
+      "placeholder": "Стрес, шум, скролінг..."
+    },
+    "s3": {
+      "score_label": "з 7",
+      "recommendations": {
+        "solid": "Твої звички міцні! Невеликі коригування можуть зробити його ще кращим.",
+        "some": "Виявлено деякі порушення. Зміна звичок може допомогти швидко.",
+        "many": "На ваш сон впливає кілька факторів. Ми можемо працювати над ними разом."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Я лягаю спати в дуже різний час щоночі"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Моє середовище для сну не темне, не тихе і не комфортне"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Я гортаю телефон перед сном"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Я п'ю кофеїн або алкоголь майже перед сном"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Я прокидаюся вночі і намагаюся заснути знову"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Мій розум мчить думками, коли я намагаюся заснути"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Я рідко відчуваю себе оновленим після нічного сну"
+    }
+  },
+  "rating_labels": {
+    "0": "Дуже бідно",
+    "1": "Бідний",
+    "2": "Добре",
+    "3": "Добре",
+    "4": "Чудово"
+  },
+  "status_labels": {
+    "track": "Переважно на трасі",
+    "disruptions": "Деякі порушення",
+    "attention": "Потребує уваги"
+  },
+  "buttons": {
+    "continue": "Продовжуй",
+    "see_results": "Див. результати",
+    "preserve": "Зберегти результат",
+    "preserving": "Збереження...",
+    "back_to_intro": "Повернення до вступу"
+  },
+  "history": {
+    "title": "Минулі аудити",
+    "no_entries": "Поки що не збережено жодних аудитів.",
+    "score_label": "з 7"
+  },
+  "complete": {
+    "title": "Аудит завершено",
+    "message": "Ваш показник сну — {{score}}/7. Розуміння цих закономірностей — це перший крок до глибшого, більш відновлювального відпочинку."
+  },
+  "toasts": {
+    "save_success": "Аудит збережено",
+    "save_error": "Не вдалося врятувати аудит",
+    "auth_error": "Відсутня сесія автентифікації або база даних не налаштована"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Почати спочатку",
+    "finish_exit": "Фініш і вихід",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Час завершити",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Поділитися",
+    "share_progress": "Поділитися прогресом",
+    "inspire_others": "Надихайте інших сьогодні",
+    "share_text": "Я виконав(-ла) цю активність ({{activityName}}) у TherapyMantra і мені дуже подобається, ви теж можете це зробити, просто перейдіть за посиланням на додаток для Android ({androidUrl}}) або iOS ({iosUrl}}).",
+    "this_activity": "ця діяльність",
+    "copied": "Скопійовано!",
+    "copy_message": "Копіювати повідомлення",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Зрозумійте свій відпочинок",
+  "more": "Більше",
+  "breadcrumb": "хлібні крихти",
+  "previous_slide": "Попередній слайд",
+  "next_slide": "Наступний слайд",
+  "close": "Закрити",
+  "previous": "Попередній",
+  "more_pages": "Більше сторінок",
+  "pagination": "пагінація",
+  "go_to_previous_page": "Перейти на попередню сторінку",
+  "go_to_next_page": "Перейти на наступну сторінку",
+  "toggle_sidebar": "Перемикання бічної панелі",
+  "oops_page_not_found": "Ой! Сторінку не знайдено",
+  "return_to_home": "Повернення додому",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "довгий",
+  "loading": "Історія завантаження..."
+}

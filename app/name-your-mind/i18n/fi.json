@@ -1,0 +1,136 @@
+{
+  "app_title": "Nimeä mielesi",
+  "intro": {
+    "title": "Kohtaa mielesi",
+    "description": "Opettele etääntymään ylivoimaisista ajatuksista antamalla sisäiselle äänellesi nimi.",
+    "benefits": {
+      "0": "Luo henkinen etäisyys",
+      "1": "Vähennä kovien ajatusten voimaa",
+      "2": "Huomaa ajatuksia ilman, että ne ovat niitä"
+    },
+    "duration": "2–3 minuuttia",
+    "view_past": "Katso aiemmat merkinnät"
+  },
+  "history": {
+    "title": "Aiemmat merkinnät",
+    "no_entries": "Ei vielä merkintöjä.",
+    "reflection_label": "Pohdinta: {{text}}"
+  },
+  "complete": {
+    "title": "Toiminta suoritettu",
+    "great_job": "Hyvää työtä!",
+    "message": "Olet onnistuneesti nimennyt mielesi ja luonut tilaa itsesi ja ajatustesi välille.",
+    "footer": "Muista: Sinun ei tarvitse uskoa jokaista ajatusta, jonka mielesi sinulle antaa."
+  },
+  "subtitles": {
+    "concept": "Näkökulma",
+    "input_thought": "Ilmoitus",
+    "input_name": "Nimi",
+    "practice": "Harjoitukset",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Pieni muutos",
+      "example": "\"En ole tarpeeksi hyvä\"",
+      "desc": "Kun ajatus nousee esiin, se tuntuu usein siltä kuin se olisi <0>sinä</0>. Mutta entä jos voisit astua taaksepäin ja <1>huomaa</1> sen sijaan?"
+    },
+    "input_thought": {
+      "title": "Aloitetaan oikealla ajatuksella",
+      "desc": "Mikä on yksi ajatus, joka on vaivannut sinua viime aikoina?",
+      "placeholder": "Kirjoita se täsmälleen niin kuin se tulee mieleen..."
+    },
+    "input_name": {
+      "title": "Luo etäisyyttä",
+      "desc": "Anna mielellesi nimi, joka auttaa erottautumaan näistä ajatuksista.",
+      "placeholder": "Tai kirjoittaa itse...",
+      "examples": {
+        "0": "Kriitikko",
+        "1": "Yliajattelija",
+        "2": "Worry FM",
+        "3": "Yliajattelukone",
+        "4": "Sisäinen kriitikko",
+        "5": "Mitä jos -generaattori",
+        "6": "Draamaohjaaja"
+      }
+    },
+    "practice": {
+      "title": "Kokeile tätä vuoroa",
+      "instead_of": "Sijasta",
+      "try_saying": "Yritä sanoa",
+      "is_telling_me": "{{name}} kertoo minulle:",
+      "guide": "Toista tämä lause itsellesi varovasti 4–5 kertaa omaan tahtiin.",
+      "button": "Olen valmis"
+    },
+    "reflection": {
+      "title": "Mitä huomasit?",
+      "desc": "Miltä ajatus tuntui, kun sille annettiin nimen?",
+      "options": {
+        "0": "Ajatus tuntui hieman vähemmän intensiiviseltä kuin aiemmin",
+        "1": "Tuntui, että minulla oli etäisyyttä ajatukseen.",
+        "2": "Se tuntui yhä yhtä vahvalta kuin ennen",
+        "3": "En ole varma, mikä muuttui, jos mitään"
+      },
+      "button": "Täydellinen pohdinta"
+    }
+  },
+  "buttons": {
+    "continue": "Jatka",
+    "restart": "Uudelleenkäynnistys"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Aloita alusta",
+    "finish_exit": "Lopeta ja poistu",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Aikaa valmistua",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Jakaa",
+    "share_progress": "Jaa edistyminen",
+    "inspire_others": "Inspiroi muita tänään",
+    "share_text": "Olen tehnyt tämän {{activityName}} TherapyMantrassa ja nautin siitä todella paljon. Voit tehdä sen sinäkin seuraamalla linkkiä Android-sovellukseen {{androidUrl}} tai iOS-sovellukseen {{iosUrl}}",
+    "this_activity": "tämä toiminta",
+    "copied": "Kopioitu!",
+    "copy_message": "Kopioi viesti",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Nimeä mielesi",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Kun ajatus ilmaantuu mieleen, se usein tuntuu siltä kuin se olisi",
+  "more": "Lisää",
+  "breadcrumb": "navigointipolku",
+  "previous_slide": "Edellinen dia",
+  "next_slide": "Seuraava dia",
+  "close": "Lähellä",
+  "previous": "Edellinen",
+  "more_pages": "Lisää sivuja",
+  "pagination": "sivunumerointi",
+  "go_to_previous_page": "Siirry edelliselle sivulle",
+  "go_to_next_page": "Siirry seuraavalle sivulle",
+  "toggle_sidebar": "Näytä/piilota sivupalkki",
+  "oops_page_not_found": "Hupsista! Sivua ei löytynyt",
+  "return_to_home": "Palaa kotiin",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "pitkä"
+}

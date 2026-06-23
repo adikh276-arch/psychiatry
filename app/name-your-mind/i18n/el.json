@@ -1,0 +1,136 @@
+{
+  "app_title": "Ονομάστε το μυαλό σας",
+  "intro": {
+    "title": "Γνωρίστε το μυαλό σας",
+    "description": "Μάθετε να αποστασιοποιείστε από τις συντριπτικές σκέψεις δίνοντας ένα όνομα στην εσωτερική σας φωνή.",
+    "benefits": {
+      "0": "Δημιουργήστε νοητική απόσταση",
+      "1": "Μειώστε τη δύναμη των σκληρών σκέψεων",
+      "2": "Παρατηρήστε τις σκέψεις χωρίς να είστε αυτές"
+    },
+    "duration": "2-3 λεπτά",
+    "view_past": "Προβολή προηγούμενων καταχωρήσεων"
+  },
+  "history": {
+    "title": "Προηγούμενες καταχωρήσεις",
+    "no_entries": "Δεν υπάρχουν ακόμη συμμετοχές.",
+    "reflection_label": "Αντανάκλαση: {{text}}"
+  },
+  "complete": {
+    "title": "Η δραστηριότητα ολοκληρώθηκε",
+    "great_job": "Καλή δουλειά!",
+    "message": "Έχετε ονομάσει με επιτυχία το μυαλό σας και έχετε δημιουργήσει κάποιο χώρο ανάμεσα σε εσάς και τις σκέψεις σας.",
+    "footer": "Θυμηθείτε: Δεν χρειάζεται να πιστεύετε κάθε σκέψη που σας κάνει το μυαλό σας."
+  },
+  "subtitles": {
+    "concept": "Προοπτική",
+    "input_thought": "Ειδοποίηση",
+    "input_name": "Όνομα",
+    "practice": "Πρακτική",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Μια μικρή αλλαγή",
+      "example": "«Δεν είμαι αρκετά καλός»",
+      "desc": "Όταν εμφανίζεται μια σκέψη, συχνά νιώθεις σαν να είναι <0>εσύ</0>. Τι θα γινόταν όμως αν μπορούσατε να κάνετε ένα βήμα πίσω και να το <1>notice</1> αντ' αυτού;"
+    },
+    "input_thought": {
+      "title": "Ας ξεκινήσουμε με μια πραγματική σκέψη",
+      "desc": "Ποια είναι μια σκέψη που σας απασχολεί τον τελευταίο καιρό;",
+      "placeholder": "Γράψτε το όπως ακριβώς σας έρχεται..."
+    },
+    "input_name": {
+      "title": "Δημιουργήστε κάποια απόσταση",
+      "desc": "Δώστε στο μυαλό σας ένα όνομα για να διαχωρίσετε τον εαυτό σας από αυτές τις σκέψεις.",
+      "placeholder": "Ή πληκτρολογήστε το δικό σας...",
+      "examples": {
+        "0": "Ο κριτικός",
+        "1": "Υπερστοχαστής",
+        "2": "Ανησυχία FM",
+        "3": "Η Μηχανή Υπερβολικής Σκέψης",
+        "4": "Ο Εσωτερικός Κριτής",
+        "5": "Η γεννήτρια What-If",
+        "6": "Σκηνοθέτης Δράματος"
+      }
+    },
+    "practice": {
+      "title": "Δοκιμάστε αυτήν την αλλαγή",
+      "instead_of": "Αντί για",
+      "try_saying": "Δοκιμάστε να πείτε",
+      "is_telling_me": "{{name}} μου λέει:",
+      "guide": "Επαναλάβετε απαλά αυτήν την πρόταση στον εαυτό σας 4-5 φορές με τον δικό σας ρυθμό.",
+      "button": "Είμαι έτοιμος"
+    },
+    "reflection": {
+      "title": "Τι παρατηρήσατε;",
+      "desc": "Πώς ένιωσες τη σκέψη αφού της έδωσες ένα όνομα;",
+      "options": {
+        "0": "Η σκέψη ήταν λίγο λιγότερο έντονη από πριν",
+        "1": "Ένιωσα σαν να είχα κάποια απόσταση από τη σκέψη",
+        "2": "Ένιωθε ακόμα το ίδιο δυνατό όπως πριν",
+        "3": "Δεν είμαι σίγουρος τι άλλαξε, αν μη τι άλλο"
+      },
+      "button": "Πλήρης προβληματισμός"
+    }
+  },
+  "buttons": {
+    "continue": "Συνέχεια",
+    "restart": "Επανεκκίνηση"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ξεκινήστε από την αρχή",
+    "finish_exit": "Τέλος & Έξοδος",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Ώρα για ολοκλήρωση",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Μερίδιο",
+    "share_progress": "Κοινοποίηση προόδου",
+    "inspire_others": "Εμπνεύστε τους άλλους σήμερα",
+    "share_text": "Έχω κάνει αυτό το {{activityName}} στο TherapyMantra και το απολαμβάνω πολύ. Μπορείτε να το κάνετε κι εσείς, απλώς ακολουθήστε τον σύνδεσμο για την εφαρμογή Android {{androidUrl}} ή την εφαρμογή iOS {{iosUrl}}",
+    "this_activity": "αυτή η δραστηριότητα",
+    "copied": "Αντιγράφηκε!",
+    "copy_message": "Αντιγραφή μηνύματος",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Ονομάστε το μυαλό σας",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Όταν εμφανίζεται μια σκέψη, συχνά νιώθεις σαν να είναι",
+  "more": "Περισσότερο",
+  "breadcrumb": "ψίχουλα ψωμιού",
+  "previous_slide": "Προηγούμενη διαφάνεια",
+  "next_slide": "Επόμενη διαφάνεια",
+  "close": "Κοντά",
+  "previous": "Προηγούμενος",
+  "more_pages": "Περισσότερες σελίδες",
+  "pagination": "σελιδοποίηση",
+  "go_to_previous_page": "Μετάβαση στην προηγούμενη σελίδα",
+  "go_to_next_page": "Μετάβαση στην επόμενη σελίδα",
+  "toggle_sidebar": "Εναλλαγή πλευρικής γραμμής",
+  "oops_page_not_found": "Ωχ! Η σελίδα δεν βρέθηκε.",
+  "return_to_home": "Επιστροφή στην Αρχική",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "μακρύς"
+}

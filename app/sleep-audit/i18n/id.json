@@ -1,0 +1,150 @@
+{
+  "app_title": "Audit Tidur",
+  "app_subtitle": "Pahami istirahat Anda",
+  "intro": {
+    "title": "Audit Tidur Anda",
+    "description": "Pahami apa yang memengaruhi tidur Anda dan di mana perubahan kecil dapat membantu.",
+    "start_button": "Mulai Audit",
+    "history_button": "Audit Sebelumnya",
+    "more_insights": "Kembali ke Mulai"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Fase 01",
+      "title": "Bagaimana tidur Anda?",
+      "desc": "Pilih salah satu yang terasa benar untuk Anda akhir-akhir ini"
+    },
+    "s2": {
+      "phase": "Fase 02",
+      "title": "Menilai istirahat biasa Anda",
+      "label": "Kekhawatiran khusus?",
+      "placeholder": "Stres, kebisingan, menggulir..."
+    },
+    "s3": {
+      "score_label": "dari 7",
+      "recommendations": {
+        "solid": "Kebiasaan Anda solid! Penyesuaian kecil dapat membuatnya lebih baik.",
+        "some": "Beberapa gangguan terdeteksi. Perubahan kebiasaan dapat membantu dengan cepat.",
+        "many": "Beberapa faktor memengaruhi tidur Anda. Kita dapat mengerjakannya bersama-sama."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Saya tidur pada waktu yang sangat berbeda setiap malam"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Lingkungan tidur saya tidak gelap, tenang, atau nyaman"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Saya menggulir ponsel saya tepat sebelum tidur"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Saya minum kafein atau alkohol menjelang waktu tidur"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Saya bangun di malam hari dan berjuang untuk kembali tidur"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Pikiran saya berpacu dengan pikiran ketika saya mencoba tidur"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Saya jarang merasa segar setelah tidur malam"
+    }
+  },
+  "rating_labels": {
+    "0": "Sangat miskin",
+    "1": "Miskin",
+    "2": "Oke",
+    "3": "Baik",
+    "4": "Bagus"
+  },
+  "status_labels": {
+    "track": "Sebagian besar di jalur",
+    "disruptions": "Beberapa gangguan",
+    "attention": "Perlu perhatian"
+  },
+  "buttons": {
+    "continue": "Lanjutkan",
+    "see_results": "Lihat Hasil",
+    "preserve": "Pertahankan Hasil",
+    "preserving": "Melestarikan...",
+    "back_to_intro": "Kembali ke Pengantar"
+  },
+  "history": {
+    "title": "Audit Sebelumnya",
+    "no_entries": "Belum ada audit yang dipertahankan.",
+    "score_label": "dari 7"
+  },
+  "complete": {
+    "title": "Audit Selesai",
+    "message": "Skor tidur Anda adalah {{score}}/7. Memahami pola-pola ini adalah langkah pertama menuju istirahat yang lebih dalam dan lebih memulihkan."
+  },
+  "toasts": {
+    "save_success": "Audit disimpan",
+    "save_error": "Gagal menyimpan audit",
+    "auth_error": "Sesi autentikasi hilang atau DB tidak dikonfigurasi"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mulai dari Awal",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Waktu penyelesaian",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Membagikan",
+    "share_progress": "Bagikan Kemajuan",
+    "inspire_others": "Berikan inspirasi kepada orang lain hari ini.",
+    "share_text": "Saya telah melakukan {{activityName}} ini di TherapyMantra dan sangat menikmatinya, Anda juga bisa melakukannya, cukup ikuti tautan ke aplikasi Android {{androidUrl}} atau aplikasi iOS {{iosUrl}}",
+    "this_activity": "aktivitas ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Pesan",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Pahami istirahat Anda",
+  "more": "Lagi",
+  "breadcrumb": "remah roti",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Menutup",
+  "previous": "Sebelumnya",
+  "more_pages": "Halaman lainnya",
+  "pagination": "penomoran halaman",
+  "go_to_previous_page": "Kembali ke halaman sebelumnya",
+  "go_to_next_page": "Lanjut ke halaman berikutnya",
+  "toggle_sidebar": "Alihkan Sidebar",
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Halaman Utama",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "panjang",
+  "loading": "Memuat Riwayat..."
+}

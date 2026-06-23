@@ -1,0 +1,136 @@
+{
+  "app_title": "Navngi sinnet ditt",
+  "intro": {
+    "title": "Møt sinnet ditt",
+    "description": "Lær deg å distansere deg fra overveldende tanker ved å gi din indre stemme et navn.",
+    "benefits": {
+      "0": "Skap mental avstand",
+      "1": "Reduser kraften i harde tanker",
+      "2": "Legg merke til tanker uten å være dem"
+    },
+    "duration": "2-3 minutter",
+    "view_past": "Se tidligere oppføringer"
+  },
+  "history": {
+    "title": "Tidligere bidrag",
+    "no_entries": "Ingen oppføringer ennå.",
+    "reflection_label": "Refleksjon: {{text}}"
+  },
+  "complete": {
+    "title": "Aktivitet fullført",
+    "great_job": "Flott jobba!",
+    "message": "Du har klart å navngi sinnet ditt og skapt litt avstand mellom deg og tankene dine.",
+    "footer": "Husk: Du trenger ikke å tro på alle tanker sinnet ditt gir deg."
+  },
+  "subtitles": {
+    "concept": "Perspektiv",
+    "input_thought": "Varsel",
+    "input_name": "Navn",
+    "practice": "Praksis",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "En liten endring",
+      "example": "\"Jeg er ikke god nok\"",
+      "desc": "Når en tanke dukker opp, føles det ofte som om det er <0>du</0>. Men hva om du kunne ta et steg tilbake og <1>legge merke til</1> i stedet?"
+    },
+    "input_thought": {
+      "title": "La oss starte med en ekte tanke",
+      "desc": "Hva er en tanke som har plaget deg i det siste?",
+      "placeholder": "Skriv det akkurat slik det kommer til deg..."
+    },
+    "input_name": {
+      "title": "Lag litt avstand",
+      "desc": "Gi sinnet ditt et navn for å hjelpe deg å skille deg fra disse tankene.",
+      "placeholder": "Eller skriv din egen...",
+      "examples": {
+        "0": "Kritikeren",
+        "1": "Overtenker",
+        "2": "Bekymring FM",
+        "3": "Overtenkingsmaskinen",
+        "4": "Den indre kritikeren",
+        "5": "Hva-om-generatoren",
+        "6": "Dramaregissør"
+      }
+    },
+    "practice": {
+      "title": "Prøv dette skiftet",
+      "instead_of": "I stedet for",
+      "try_saying": "Prøv å si det",
+      "is_telling_me": "{{name}} forteller meg:",
+      "guide": "Gjenta denne setningen forsiktig for deg selv 4–5 ganger i ditt eget tempo.",
+      "button": "Jeg er klar"
+    },
+    "reflection": {
+      "title": "Hva la du merke til?",
+      "desc": "Hvordan føltes tanken etter å ha gitt den et navn?",
+      "options": {
+        "0": "Tanken føltes litt mindre intens enn før",
+        "1": "Jeg følte at jeg hadde litt avstand til tanken",
+        "2": "Det føltes fortsatt like sterkt som før",
+        "3": "Jeg er ikke sikker på hva som endret seg, om noe"
+      },
+      "button": "Fullstendig refleksjon"
+    }
+  },
+  "buttons": {
+    "continue": "Fortsett",
+    "restart": "Start på nytt"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start på nytt",
+    "finish_exit": "Fullfør og avslutt",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tid for å fullføre",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dele",
+    "share_progress": "Del fremdrift",
+    "inspire_others": "Inspirer andre i dag",
+    "share_text": "Jeg har gjort dette med {{activityName}} i TherapyMantra og liker det veldig godt. Du kan også gjøre det. Bare følg lenken til Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}.",
+    "this_activity": "denne aktiviteten",
+    "copied": "Kopiert!",
+    "copy_message": "Kopier melding",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Navngi tankene dine",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Når en tanke dukker opp, føles det ofte som om den er",
+  "more": "Flere",
+  "breadcrumb": "brødsmuler",
+  "previous_slide": "Forrige lysbilde",
+  "next_slide": "Neste lysbilde",
+  "close": "Lukke",
+  "previous": "Tidligere",
+  "more_pages": "Flere sider",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå til forrige side",
+  "go_to_next_page": "Gå til neste side",
+  "toggle_sidebar": "Slå sidefeltet av/på",
+  "oops_page_not_found": "Ups! Siden ble ikke funnet",
+  "return_to_home": "Gå tilbake til hjemmet",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

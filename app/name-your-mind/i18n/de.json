@@ -1,0 +1,136 @@
+{
+  "app_title": "Nenne deinen Geist",
+  "intro": {
+    "title": "Treffen Sie Ihren Geist",
+    "description": "Lerne, dich von überwältigenden Gedanken zu distanzieren, indem du deiner inneren Stimme einen Namen gibst.",
+    "benefits": {
+      "0": "Schaffen Sie mentale Distanz",
+      "1": "Reduziere die Kraft harter Gedanken",
+      "2": "Beachte Gedanken, ohne sie selbst zu sein"
+    },
+    "duration": "2-3 Minuten",
+    "view_past": "Vergangene Einträge anzeigen"
+  },
+  "history": {
+    "title": "Frühere Einträge",
+    "no_entries": "Noch keine Einträge.",
+    "reflection_label": "Reflexion: {{text}}"
+  },
+  "complete": {
+    "title": "Aktivität abgeschlossen",
+    "great_job": "Großartige Arbeit!",
+    "message": "Du hast deinen Geist erfolgreich benannt und etwas Abstand zwischen dir und deinen Gedanken geschaffen.",
+    "footer": "Denk daran: Du musst nicht jedem Gedanken glauben, den dein Geist dir gibt."
+  },
+  "subtitles": {
+    "concept": "Perspektive",
+    "input_thought": "Hinweis",
+    "input_name": "Name",
+    "practice": "Praxis",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Eine kleine Veränderung",
+      "example": "\"Ich bin nicht gut genug\"",
+      "desc": "Wenn ein Gedanke auftaucht, fühlt es sich oft so an, als wäre er <0>du</0>. Aber was, wenn du einen Schritt zurücktreten und es stattdessen <1>bemerken</1> könntest?"
+    },
+    "input_thought": {
+      "title": "Fangen wir mit einem echten Gedanken an.",
+      "desc": "Was ist ein Gedanke, der Sie in letzter Zeit beschäftigt?",
+      "placeholder": "Schreib es genau so, wie es dir einfällt..."
+    },
+    "input_name": {
+      "title": "Schaffen Sie etwas Abstand",
+      "desc": "Gib deinem Geist einen Namen, um dich von diesen Gedanken zu lösen.",
+      "placeholder": "Oder tipp deine eigene...",
+      "examples": {
+        "0": "Der Kritiker",
+        "1": "Überdenker",
+        "2": "Worry FM",
+        "3": "Die Überdenkmaschine",
+        "4": "Der innere Kritiker",
+        "5": "Der Was-wäre-wenn-Generator",
+        "6": "Drama-Regisseur"
+      }
+    },
+    "practice": {
+      "title": "Probier diese Schicht aus",
+      "instead_of": "Anstelle von",
+      "try_saying": "Versuch mal zu sagen",
+      "is_telling_me": "{{name}} sagt mir:",
+      "guide": "Wiederholen Sie diesen Satz behutsam 4–5 Mal in Ihrem eigenen Tempo.",
+      "button": "Ich bin bereit"
+    },
+    "reflection": {
+      "title": "Was ist dir aufgefallen?",
+      "desc": "Wie fühlte sich der Gedanke an, nachdem ich ihm einen Namen gegeben hatte?",
+      "options": {
+        "0": "Der Gedanke fühlte sich etwas weniger intensiv an als zuvor",
+        "1": "Ich hatte das Gefühl, von dem Gedanken etwas Abstand zu haben",
+        "2": "Es fühlte sich immer noch genauso stark an wie zuvor",
+        "3": "Ich weiß nicht, was sich geändert hat, falls überhaupt etwas"
+      },
+      "button": "Vollständige Reflexion"
+    }
+  },
+  "buttons": {
+    "continue": "Weitermachen",
+    "restart": "Neustart"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Von vorne beginnen",
+    "finish_exit": "Ziel & Ausgang",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Zeit zum Fertigstellen",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Aktie",
+    "share_progress": "Fortschritt teilen",
+    "inspire_others": "Inspiriere heute andere.",
+    "share_text": "Ich habe diese Aktivität {{activityName}} in TherapyMantra ausprobiert und finde sie richtig toll. Du kannst das auch machen! Folge einfach dem Link zur Android-App {{androidUrl}} oder zur iOS-App {{iosUrl}}.",
+    "this_activity": "diese Aktivität",
+    "copied": "Kopiert!",
+    "copy_message": "Nachricht kopieren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Benenne deinen Geist",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Wenn ein Gedanke auftaucht, fühlt es sich oft so an, als ob er",
+  "more": "Mehr",
+  "breadcrumb": "Brotkrumen",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Vorherige",
+  "more_pages": "Weitere Seiten",
+  "pagination": "Pagination",
+  "go_to_previous_page": "Zur vorherigen Seite",
+  "go_to_next_page": "Weiter zur nächsten Seite",
+  "toggle_sidebar": "Seitenleiste ein-/ausblenden",
+  "oops_page_not_found": "Hoppla! Seite nicht gefunden",
+  "return_to_home": "Zurück zur Startseite",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

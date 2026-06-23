@@ -1,0 +1,115 @@
+{
+  "app_title": "Bezpieczna przestrzeń",
+  "nav": {
+    "0": "Odprawa",
+    "1": "Delikatne przypomnienie",
+    "2": "Obserwacje",
+    "3": "Pozostając obecnym",
+    "4": "Dalsze działania"
+  },
+  "s1": {
+    "title": "Znajdźmy miejsce, które będzie w porządku",
+    "description": {
+      "0": "Zanim zaczniemy, poświęć chwilę, by sprawdzić, co u ciebie...",
+      "1": "Jak się teraz czujesz?",
+      "2": "Nie szukamy idealnego \"bezpiecznego miejsca\". Po prostu coś, co choć trochę wydawało się spokojne lub w porządku."
+    },
+    "placeholder": "Jak się teraz czujesz?",
+    "button": "Rozpocznij wizualizację"
+  },
+  "s2": {
+    "title": "Delikatnie przywołaj to do myśli",
+    "description": {
+      "0": "Pomyśl o miejscu, gdzie choć trochę czułbyś się spokojny... albo miejsce, którego chciałbyś istnieć.",
+      "1": "Teraz usiądź tam...",
+      "2": "Siedzisz, stoisz czy leżysz?"
+    },
+    "button": "Kontynuuj"
+  },
+  "s3": {
+    "title": "Rozejrzyj się powoli",
+    "description": {
+      "0": "Rozejrzyj się delikatnie...",
+      "1": "Co jest jedną rzeczą, którą widzisz?",
+      "2": "Teraz zauważ dźwięk... Co słyszysz?"
+    },
+    "button": "Kontynuuj"
+  },
+  "s4": {
+    "title": "Trzymaj się tego",
+    "description": {
+      "0": "Co takiego jest w tym miejscu, że sprawia, że czuje się choć trochę bezpiecznie lub w porządku?",
+      "1": "Jak zauważasz, że...",
+      "2": "Skup też uwagę na oddechu."
+    },
+    "breathe": "Oddychaj",
+    "notice": "Jeśli wyobrażanie ci się trudne, pomyśl o tym miejscu.",
+    "button": "Kontynuuj"
+  },
+  "s5": {
+    "title": "Weź to ze sobą",
+    "description": {
+      "0": "Zauważ, jak się teraz czujesz. Nawet niewielka zmiana ma znaczenie.",
+      "1": "Sprawdź, czy możesz unieść choćby 5% tego uczucia ze sobą."
+    },
+    "placeholder": "Jak się teraz czujesz?",
+    "button": "Cała sesja"
+  },
+  "complete": {
+    "title": "Sesja zakończona",
+    "message": "To bezpieczne miejsce jest zawsze dostępne dla ciebie. Możesz tu wrócić, kiedy tylko będziesz potrzebować chwili spokoju."
+  },
+  "common": {
+    "get_started": "Zacznij",
+    "start_over": "Start From",
+    "finish_exit": "Koniec i wyjście",
+    "well_done": "Brawo!",
+    "completion_message": "Udało ci się ukończyć tę aktywność. Poświęć chwilę, by docenić swoje postępy.",
+    "time_to_complete": "Czas na ukończenie",
+    "back": "Z powrotem",
+    "next": "Następny",
+    "save": "Zapisz",
+    "loading": "Ładowanie...",
+    "share": "Udostępnij",
+    "share_progress": "Udostępnij postępy",
+    "inspire_others": "Inspiruj innych dziś",
+    "share_text": "Robiłem to {{activityName}} w TherapyMantra i naprawdę mi się to podoba, możesz to zrobić, wystarczy kliknąć link do aplikacji na Androida {{androidUrl}} lub aplikacji iOS {{iosUrl}}",
+    "this_activity": "Ta działalność",
+    "copied": "Skopiowane!",
+    "copy_message": "Kopiuj wiadomość",
+    "yes": "Tak",
+    "no": "Nie",
+    "date": "Data",
+    "continue": "Kontynuuj",
+    "step_of": "Krok {{current}} of {{total}}",
+    "round_of": "Runda {{current}} z {{total}}",
+    "phase_label": "Faza",
+    "rounds_selector": "{{count}} Rundy",
+    "instruction_ready": "Ustaw rundy i kliknij w play, aby zacząć",
+    "instruction_running": "Podążaj za kołem, aby regulować oddech"
+  },
+  "app_description": "Bezpieczna przestrzeń",
+  "more": "Więcej",
+  "breadcrumb": "okruch tarty",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknij",
+  "previous": "Poprzednie",
+  "more_pages": "Więcej stron",
+  "pagination": "Paginacja",
+  "go_to_previous_page": "Przejdź na poprzednią stronę",
+  "go_to_next_page": "Przejdź do następnej strony",
+  "toggle_sidebar": "Przełącznik boczny",
+  "oops_page_not_found": "Ups! Strona nie znaleziona",
+  "return_to_home": "Powrót do domu",
+  "phase_label": "Faza",
+  "instruction_ready": "Ustaw rundy i kliknij w play, aby zacząć",
+  "instruction_running": "Podążaj za kołem, aby regulować oddech",
+  "round_x_of_y": "Runda {{current}} z {{total}}",
+  "rounds_selector": "{{count}} Rundy",
+  "yes": "Tak",
+  "no": "Nie",
+  "date": "Data",
+  "continue": "Kontynuuj",
+  "lang": "długie"
+}

@@ -1,0 +1,99 @@
+{
+  "app_title": "उपयुक्त संसाधन चुनें",
+  "not_found": {
+    "title": "नहीं मिला",
+    "message": "संसाधन नहीं मिला",
+    "description": "हो सकता है कि आप जिस सामग्री की तलाश कर रहे हैं वह स्थानांतरित हो गई हो।",
+    "button": "पस जाओ"
+  },
+  "list": {
+    "empty_title": "कोई {{type}} उपलब्ध नहीं है",
+    "empty_desc": "हम वर्तमान में इस विषय के लिए और अधिक संसाधन तैयार कर रहे हैं।",
+    "footer": "मंत्रा केयर • साक्ष्य आधारित संसाधन"
+  },
+  "detail": {
+    "loading": "लोड हो रहा है...",
+    "tip": {
+      "insight_label": "अंतर्दृष्टि",
+      "plan_title": "दैनिक कार्य योजना",
+      "steps": "{{count}} चरण",
+      "example_label": "अभ्यास उदाहरण",
+      "instead_of": "इसके बजाय",
+      "try_this": "इसे अजमाएं"
+    },
+    "article": {
+      "final_thought": "अंतिम विचार"
+    },
+    "story": {
+      "reflection_label": "बैठने के लिए कुछ",
+      "note_label": "लेखक का एक नोट"
+    },
+    "myth": {
+      "truth_label": "वैज्ञानिक सत्य",
+      "explanation_label": "विस्तृत विवरण",
+      "insight_label": "मुख्य अंतर्दृष्टि"
+    }
+  },
+  "common": {
+    "get_started": "शुरू करें",
+    "start_over": "प्रारंभ करें",
+    "finish_exit": "समाप्त करें और बाहर निकलें",
+    "well_done": "बहुत बढ़िया!",
+    "completion_message": "आपने इस गतिविधि को सफलतापूर्वक पूरा कर लिया है। अपनी प्रगति की सराहना करने के लिए कुछ समय निकालें।",
+    "time_to_complete": "पूरा करने में लगने वाला समय",
+    "back": "पीछे",
+    "next": "अगला",
+    "save": "सहेजें",
+    "loading": "लोडींग...",
+    "share": "शेयर करना",
+    "share_progress": "प्रगति साझा करें",
+    "inspire_others": "आज दूसरों को प्रेरित करें",
+    "share_text": "मैंने TherapyMantra में यह {{activityName}} गतिविधि की है और मुझे इसमें बहुत आनंद आया। आप भी इसे कर सकते हैं, बस एंड्रॉइड ऐप {{androidUrl}} या आईओएस ऐप {{iosUrl}} के लिंक पर क्लिक करें।",
+    "this_activity": "यह गतिविधि",
+    "copied": "कॉपी हो गया!",
+    "copy_message": "संदेश की प्रतिलिपि बनाएं",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "date": "दिनांक",
+    "continue": "जारी रखें",
+    "step_of": "चरण {{current}} / {{total}}",
+    "round_of": "राउंड {{current}} / {{total}}",
+    "phase_label": "चरण",
+    "rounds_selector": "{{count}} राउंड",
+    "instruction_ready": "अपना राउंड सेट करें और शुरू करने के लिए प्ले दबाएं",
+    "instruction_running": "अपनी सांस को नियंत्रित करने के लिए सर्कल का पालन करें"
+  },
+  "app_description": "संसाधन",
+  "concerns": {
+    "acceptance": "स्वीकार",
+    "adolescent": "किशोर",
+    "anger": "गुस्सा",
+    "anxiety": "चिंता",
+    "depression": "अवसाद",
+    "eating-disorder": "खाने में विकार",
+    "grief": "दु: ख",
+    "parenting": "पेरेंटिंग",
+    "postpartum": "प्रसवोत्तर",
+    "ptsd": "पीटीएसडी",
+    "relationship": "संबंध",
+    "sexuality": "लैंगिकता",
+    "sleep": "नींद",
+    "stress": "तनाव",
+    "workplace": "कार्यस्थल"
+  },
+  "types": {
+    "stories": "कहानियाँ",
+    "articles": "सामग्री",
+    "myths": "मिथकों",
+    "tips": "सुझावों"
+  },
+  "phase_label": "चरण",
+  "instruction_ready": "अपना राउंड सेट करें और शुरू करने के लिए प्ले दबाएं",
+  "instruction_running": "अपनी सांस को नियंत्रित करने के लिए सर्कल का पालन करें",
+  "round_x_of_y": "राउंड {{current}} / {{total}}",
+  "rounds_selector": "{{count}} राउंड",
+  "yes": "हाँ",
+  "no": "नहीं",
+  "date": "दिनांक",
+  "continue": "जारी रखें"
+}

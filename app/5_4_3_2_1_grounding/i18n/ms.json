@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Mari kita berhenti sebentar bersama-sama.\n\nUntuk minit seterusnya, tiada apa yang anda perlukan untuk menyelesaikan, membetulkan atau bertindak balas. Biarkan diri anda perlahan.\n\nDuduk dengan selesa, letakkan kaki anda di atas tanah jika anda boleh, dan tarik nafas perlahan-lahan dalam... dan perlahan-lahan menghembuskan nafas.\n\nIni adalah masa anda untuk menetapkan semula dan berhubung semula dengan masa kini.",
+      "button": "Mulakan"
+    },
+    "1": {
+      "heading": "5 Perkara yang Anda Boleh Lihat",
+      "body": "Perlahan-lahan lihat sekeliling anda. Biarkan mata anda bergerak perlahan-lahan merentasi ruang. Perhatikan warna, bentuk, cahaya, bayang-bayang atau butiran kecil yang mungkin tidak anda perhatikan sebelum ini.",
+      "button": "Seterusnya"
+    },
+    "2": {
+      "heading": "4 Perkara yang Anda Boleh Rasa",
+      "body": "Bawa perhatian anda kepada badan anda. Rasakan kaki anda menyentuh lantai, punggung anda pada kerusi, pakaian anda pada kulit anda atau udara di sekeliling anda. Mengakui empat sensasi fizikal.",
+      "button": "Seterusnya"
+    },
+    "3": {
+      "heading": "3 Perkara yang Anda Boleh Dengar",
+      "body": "Dengar dengan teliti. Anda mungkin mendengar bunyi jauh, kipas, menaip, bernafas, atau bahkan senyap. Kenal pasti tiga bunyi tanpa menilainya.",
+      "button": "Seterusnya"
+    },
+    "4": {
+      "heading": "2 Perkara yang Anda Boleh Menghidu",
+      "body": "Lihat jika anda boleh mengesan sebarang bau di dalam bilik. Jika tiada apa-apa yang menonjol, perhatikan bau neutral udara di sekeliling anda.",
+      "button": "Seterusnya"
+    },
+    "5": {
+      "heading": "1 Perkara yang Anda Boleh Rasa",
+      "body": "Beri perhatian kepada rasa di dalam mulut anda. Ia boleh menjadi halus atau neutral — perhatikan sahaja.",
+      "button": "Seterusnya"
+    },
+    "6": {
+      "heading": "Refleksi",
+      "body": "Tarik nafas perlahan dalam... dan menarik nafas perlahan-lahan.",
+      "button": "Hantar"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mula Semula",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Masa untuk disiapkan",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Kongsi",
+    "share_progress": "Kongsi Kemajuan",
+    "inspire_others": "Beri inspirasi kepada orang lain hari ini",
+    "share_text": "Saya telah melakukan {{activityName}} ini dalam TherapyMantra dan sangat menikmatinya, anda juga boleh melakukannya, ikuti sahaja pautan ke aplikasi android {{androidUrl}} atau aplikasi ios {{iosUrl}}",
+    "this_activity": "aktiviti ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Mesej",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "Pembumian 5-4-3-2-1",
+  "intro_p1": "Mengurangkan kebimbangan dengan cepat",
+  "intro_p2": "Membawa anda kembali ke masa kini",
+  "intro_p3": "Menenangkan minda yang berlumba-lumba",
+  "app_description": "Pembumian 5-4-3-2-1",
+  "more": "Lebih lanjut",
+  "breadcrumb": "serbuk roti",
+  "previous_slide": "Slaid sebelumnya",
+  "next_slide": "Slaid seterusnya",
+  "close": "Tutup",
+  "previous": "Sebelumnya",
+  "more_pages": "Lebih banyak halaman",
+  "pagination": "penomboran halaman",
+  "go_to_previous_page": "Pergi ke halaman sebelumnya",
+  "go_to_next_page": "Pergi ke halaman seterusnya",
+  "toggle_sidebar": "Togol Bar Sisi",
+  "oops_page_not_found": "Alamak! Halaman tidak ditemui",
+  "return_to_home": "Kembali ke Rumah",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-pembumian"
+}

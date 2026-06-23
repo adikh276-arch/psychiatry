@@ -1,0 +1,99 @@
+{
+  "app_title": "Kaynaklar",
+  "not_found": {
+    "title": "Bulunmadı",
+    "message": "Kaynak bulunmadı",
+    "description": "Aradığınız içerik taşınmış olabilir.",
+    "button": "Geri Dön"
+  },
+  "list": {
+    "empty_title": "{{type}} mevcut değil",
+    "empty_desc": "Şu anda bu konu için daha fazla kaynak oluşturuyoruz.",
+    "footer": "Mantra Bakımı • Kanıta Dayalı Kaynaklar"
+  },
+  "detail": {
+    "loading": "Yükleniyor...",
+    "tip": {
+      "insight_label": "İçgörü",
+      "plan_title": "Günlük Eylem Planı",
+      "steps": "{{count}} Basamaklar",
+      "example_label": "Pratik Örneği",
+      "instead_of": "Yerine",
+      "try_this": "Bunu dene"
+    },
+    "article": {
+      "final_thought": "Son Düşünce"
+    },
+    "story": {
+      "reflection_label": "Oturacak bir şey",
+      "note_label": "Yazardan Bir Not"
+    },
+    "myth": {
+      "truth_label": "Bilimsel Gerçek",
+      "explanation_label": "Detaylı Açıklama",
+      "insight_label": "Temel İçgörüler"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Baştan Başla",
+    "finish_exit": "Bitir ve Çık",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tamamlama süresi",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Paylaşmak",
+    "share_progress": "İlerlemenizi Paylaşın",
+    "inspire_others": "Bugün başkalarına ilham verin.",
+    "share_text": "Bu aktiviteyi ({{activityName}}) TherapyMantra'da yaptım ve gerçekten çok beğendim, siz de yapabilirsiniz, sadece Android uygulamasına ({{androidUrl}}) veya iOS uygulamasına ({{iosUrl}}) giden bağlantıyı takip edin.",
+    "this_activity": "bu aktivite",
+    "copied": "Kopyalandı!",
+    "copy_message": "Mesajı Kopyala",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Kaynaklar",
+  "concerns": {
+    "acceptance": "Kabul",
+    "adolescent": "Ergen",
+    "anger": "Kızgınlık",
+    "anxiety": "Endişe",
+    "depression": "Depresyon",
+    "eating-disorder": "Yeme Bozukluğu",
+    "grief": "Yas",
+    "parenting": "Ebeveynlik",
+    "postpartum": "Doğum sonrası",
+    "ptsd": "TSSB",
+    "relationship": "İlişki",
+    "sexuality": "Cinsellik",
+    "sleep": "Uyumak",
+    "stress": "Stres",
+    "workplace": "İşyeri"
+  },
+  "types": {
+    "stories": "Hikayeler",
+    "articles": "Makaleler",
+    "myths": "Mitler",
+    "tips": "İpuçları"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

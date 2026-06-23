@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Von vorne beginnen",
+    "finish_exit": "Ziel & Ausgang",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Zeit zum Fertigstellen",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Aktie",
+    "share_progress": "Fortschritt teilen",
+    "inspire_others": "Inspiriere heute andere.",
+    "share_text": "Ich habe diese Aktivität {{activityName}} in TherapyMantra ausprobiert und finde sie richtig toll. Du kannst sie auch ausprobieren! Folge einfach dem Link zur Android-App {{androidUrl}} oder zur iOS-App {{iosUrl}}.",
+    "this_activity": "diese Aktivität",
+    "copied": "Kopiert!",
+    "copy_message": "Nachricht kopieren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Anderes Gefühl wählen",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Wenn du dich einsam und traurig fühlst",
+      "affirmations": {
+        "0": "Ich bin nicht allein, auch wenn es sich manchmal so anfühlt.",
+        "1": "Meine Gefühle verdienen Rücksichtnahme und Sanftmut.",
+        "2": "Dieser Moment wird nicht ewig dauern.",
+        "3": "Ich habe das Recht, eine Verbindung zu benötigen.",
+        "4": "Ich kann mir jetzt selbst Wärme spenden."
+      }
+    },
+    "terrified": {
+      "label": "Wenn du Angst hast",
+      "affirmations": {
+        "0": "Ich bin in diesem Moment sicher.",
+        "1": "Angst ist ein Gefühl, keine Vorhersage.",
+        "2": "Ich kann das einen Atemzug nach dem anderen nehmen.",
+        "3": "Ich muss nicht alles sofort lösen.",
+        "4": "Ich bin stärker als dieser Moment."
+      }
+    },
+    "insignificant": {
+      "label": "Wenn du dich unbedeutend fühlst",
+      "affirmations": {
+        "0": "Auch kleine Momente zählen.",
+        "1": "Ich muss meinen Wert nicht beweisen.",
+        "2": "Ich darf Platz einnehmen.",
+        "3": "Meine Existenz hat Bedeutung.",
+        "4": "Ich bin genug, so wie ich bin."
+      }
+    },
+    "overwhelmed": {
+      "label": "Wenn Sie sich überfordert fühlen",
+      "affirmations": {
+        "0": "Ich muss nicht alles auf einmal erledigen.",
+        "1": "Ein kleiner Schritt genügt.",
+        "2": "Es ist in Ordnung, eine Pause einzulegen.",
+        "3": "Ich darf mich ausruhen.",
+        "4": "Das wird wieder in den Griff bekommen."
+      }
+    },
+    "hopeless": {
+      "label": "Wenn du dich hoffnungslos fühlst",
+      "affirmations": {
+        "0": "Ich brauche heute keine Antworten.",
+        "1": "Veränderung ist noch möglich.",
+        "2": "Ich habe schon schwere Zeiten überstanden.",
+        "3": "Ich kann vorerst hier bleiben.",
+        "4": "Etwas Sanftes kann sich noch entfalten."
+      }
+    },
+    "conflicted": {
+      "label": "Wenn Sie sich innerlich zerrissen fühlen",
+      "affirmations": {
+        "0": "Es ist in Ordnung, mehr als ein Gefühl gleichzeitig zu empfinden.",
+        "1": "Ich brauche nicht sofort Klarheit.",
+        "2": "Verwirrung bedeutet nicht Scheitern.",
+        "3": "Ich kann mir Zeit nehmen.",
+        "4": "Ich traue mir zu, das herauszufinden."
+      }
+    },
+    "self-critical": {
+      "label": "Wenn man sehr selbstkritisch ist",
+      "affirmations": {
+        "0": "Ich kann freundlich mit mir selbst sprechen.",
+        "1": "Ich muss mich nicht selbst bestrafen, um zu wachsen.",
+        "2": "Fehler definieren nicht, wer ich bin.",
+        "3": "Ich lerne, ich scheitere nicht.",
+        "4": "Wachstum erfordert keine Grausamkeit."
+      }
+    },
+    "out-of-place": {
+      "label": "Wenn Sie sich sozial fehl am Platz fühlen",
+      "affirmations": {
+        "0": "Ich darf schweigen oder anders sein.",
+        "1": "Ich muss mich nicht an die Energie anderer anpassen.",
+        "2": "Ich gehöre dazu, so wie ich bin.",
+        "3": "Ich kann auf dezente Weise Raum einnehmen.",
+        "4": "Ich mache nichts falsch."
+      }
+    },
+    "unsafe": {
+      "label": "Wenn Sie sich in der Nähe von Fremden unsicher fühlen",
+      "affirmations": {
+        "0": "Ich kann in meinem eigenen Tempo vorgehen.",
+        "1": "Ich habe das Recht, meine Grenzen zu schützen.",
+        "2": "Ich kann in meinem Körper geerdet bleiben.",
+        "3": "Ich darf Situationen verlassen.",
+        "4": "Ich kann mich selbst schützen."
+      }
+    },
+    "pressured": {
+      "label": "Wenn Sie sich bei der Arbeit unter Druck gesetzt fühlen",
+      "affirmations": {
+        "0": "Mein Wert bemisst sich nicht an meiner Produktivität.",
+        "1": "Ich muss mich nicht ständig beweisen.",
+        "2": "Heute genügt es, mein Bestes zu geben.",
+        "3": "Es ist in Ordnung, jeweils eine Aufgabe zu erledigen.",
+        "4": "Ich bin mehr als meine Rolle."
+      }
+    },
+    "face-the-day": {
+      "label": "Wenn du dem Tag nicht ins Auge sehen willst",
+      "affirmations": {
+        "0": "Ich kann den heutigen Tag in kleinen Abschnitten angehen.",
+        "1": "Es genügt, durchzukommen.",
+        "2": "Ich brauche keine Motivation, um anzufangen.",
+        "3": "Freundliches Erscheinen zählt immer noch.",
+        "4": "Dieser Tag definiert mich nicht."
+      }
+    },
+    "future": {
+      "label": "Wenn du dir Sorgen um deine Zukunft machst",
+      "affirmations": {
+        "0": "Ich kann in die Gegenwart zurückkehren.",
+        "1": "Ich werde mich um die Dinge kümmern, sobald sie anfallen.",
+        "2": "Ich brauche heute keine Gewissheit.",
+        "3": "Ich bin anpassungsfähig.",
+        "4": "Ich kann mir selbst ein bisschen mehr vertrauen."
+      }
+    },
+    "stuck": {
+      "label": "Wenn Sie das Gefühl haben, in einem Problem festzustecken",
+      "affirmations": {
+        "0": "Festzustecken bedeutet nicht, dass ich kaputt bin.",
+        "1": "Ich kann innehalten, ohne aufzugeben.",
+        "2": "Ich brauche keine sofortigen Lösungen.",
+        "3": "Ich darf mich unsicher fühlen.",
+        "4": "Ich bewege mich noch, wenn auch langsam."
+      }
+    },
+    "compare": {
+      "label": "Wenn du dich selbst vergleichst",
+      "affirmations": {
+        "0": "Meine Reise ist meine eigene.",
+        "1": "Ich muss nicht konkurrieren, um würdig zu sein.",
+        "2": "Ich darf mich in meinem eigenen Tempo entwickeln.",
+        "3": "Der Erfolg anderer macht meinen Erfolg nicht zunichte.",
+        "4": "Ich bin nicht im Rückstand."
+      }
+    },
+    "give-up": {
+      "label": "Wenn du aufgeben willst",
+      "affirmations": {
+        "0": "Ich muss jetzt noch keine Entscheidung treffen.",
+        "1": "Dieses Gefühl wird vorübergehen.",
+        "2": "Ich habe mehr überlebt, als mir bewusst ist.",
+        "3": "Ich kann noch einen Moment bleiben.",
+        "4": "Ich bin immer noch hier – und das ist wichtig."
+      }
+    }
+  },
+  "app_complete_title": "Fühle dich ermächtigt",
+  "app_complete_message": "Tägliche Affirmationen helfen dabei, deine Denkweise neu zu gestalten. Nimm diese positiven Gedanken heute mit dir.",
+  "app_duration": "2-3 Minuten",
+  "app_title": "Denkweise",
+  "app_description": "Verändern Sie Ihre Denkweise durch tägliche Affirmationen.",
+  "intro": {
+    "description": "Tägliche Affirmationen helfen dir, deine Denkweise zu verändern und emotionale Widerstandsfähigkeit aufzubauen. Nimm dir ein paar Minuten Zeit, um dich auf positive Gedanken zu konzentrieren und sprich freundlich mit dir selbst.",
+    "benefits": {
+      "0": "Finde Frieden in schwierigen Momenten",
+      "1": "Negative Denkmuster hinterfragen",
+      "2": "Entwickle Selbstmitgefühl und Stärke"
+    }
+  },
+  "affirmation_for": "Bestätigung für",
+  "affirmation": "Bejahung",
+  "language": "Sprache",
+  "more": "Mehr",
+  "breadcrumb": "Brotkrumen",
+  "previous_slide": "Vorherige Folie",
+  "next_slide": "Nächste Folie",
+  "close": "Schließen",
+  "previous": "Vorherige",
+  "more_pages": "Weitere Seiten",
+  "pagination": "Pagination",
+  "go_to_previous_page": "Zur vorherigen Seite",
+  "go_to_next_page": "Weiter zur nächsten Seite",
+  "toggle_sidebar": "Seitenleiste ein-/ausblenden",
+  "oops_page_not_found": "Hoppla! Seite nicht gefunden",
+  "return_to_home": "Zurück zur Startseite",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Wie fühlst du dich?",
+  "feelings_subheading": "Wähle die Emotion aus, die du",
+  "lang": "lang"
+}

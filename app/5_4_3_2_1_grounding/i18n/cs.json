@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Dejme si spolu krátkou pauzu.\n\nDalší minutu není nic, co byste museli řešit, opravovat nebo na co reagovat. Dovol si zpomalit.\n\nPosaďte se pohodlně, položte nohy na zem, pokud můžete, a jemně se pomalu nadechněte... a pomalu vydechnout.\n\nTo je váš okamžik resetovat se a znovu se spojit s přítomností.",
+      "button": "Začátek"
+    },
+    "1": {
+      "heading": "5 věcí, které můžete vidět",
+      "body": "Pomalu se rozhlédni kolem sebe. Nechte oči jemně klouzat po prostoru. Všímejte si barev, tvarů, světla, stínů nebo drobných detailů, kterým jste možná dříve nevěnovali pozornost.",
+      "button": "Další"
+    },
+    "2": {
+      "heading": "4 věci, které můžete cítit",
+      "body": "Zaměřte se na své tělo. Cítíte nohy na podlaze, záda opřená o židli, oblečení na kůži nebo vzduch kolem vás. Uznajte čtyři fyzické vjemy.",
+      "button": "Další"
+    },
+    "3": {
+      "heading": "3 věci, které můžete slyšet",
+      "body": "Poslouchej pozorně. Můžete slyšet vzdálené zvuky, ventilátor, psaní na klávesnici, dýchání nebo dokonce ticho. Identifikujte tři zvuky, aniž byste je soudili.",
+      "button": "Další"
+    },
+    "4": {
+      "heading": "2 věci, které cítíte",
+      "body": "Zkus zachytit nějaký pach v místnosti. Pokud nic nevyčnívá, stačí si všimnout neutrálního zápachu vzduchu kolem sebe.",
+      "button": "Další"
+    },
+    "5": {
+      "heading": "1 věc, kterou můžete ochutnat",
+      "body": "Dávejte pozor na chuť v ústech. Může být jemná nebo neutrální — stačí ji pozorovat.",
+      "button": "Další"
+    },
+    "6": {
+      "heading": "Reflexe",
+      "body": "Zhluboka se nadechni... a jemně vydechnout.",
+      "button": "Odeslat"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Začít znovu",
+    "finish_exit": "Dokončit a ukončit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Čas na dokončení",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Podíl",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní ještě dnes",
+    "share_text": "Tuto aktivitu {{activityName}} jsem dělal/a v TherapyMantra a opravdu mě baví, můžete to dělat i vy, stačí kliknout na odkaz na aplikaci pro Android {{androidUrl}} nebo aplikaci pro iOS {{iosUrl}}.",
+    "this_activity": "tato aktivita",
+    "copied": "Zkopírováno!",
+    "copy_message": "Kopírovat zprávu",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Uzemnění",
+  "intro_p1": "Rychle snižuje úzkost",
+  "intro_p2": "Vrací tě zpět do současnosti",
+  "intro_p3": "Uklidňuje závodní mysl",
+  "app_description": "5-4-3-2-1 Uzemnění",
+  "more": "Více",
+  "breadcrumb": "strouhanka",
+  "previous_slide": "Předchozí snímek",
+  "next_slide": "Další snímek",
+  "close": "Blízko",
+  "previous": "Předchozí",
+  "more_pages": "Více stránek",
+  "pagination": "stránkování",
+  "go_to_previous_page": "Přejít na předchozí stránku",
+  "go_to_next_page": "Přejít na další stránku",
+  "toggle_sidebar": "Přepnout postranní panel",
+  "oops_page_not_found": "Jejda! Stránka nenalezena.",
+  "return_to_home": "Návrat domů",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-uzemnění"
+}

@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Self-Care Tracker",
+      "description": "Track your daily self-care habits and see how they impact your overall wellbeing. Consistency is key to a healthier mind.",
+      "benefits": [
+        "Log daily self-care activities",
+        "Track time spent on yourself",
+        "Monitor your mood patterns",
+        "View history and progress"
+      ],
+      "duration": "2-3 minutes",
+      "benefit1": "Log daily physical and mental wellness acts",
+      "benefit2": "Notice challenges keeping you from rest",
+      "benefit3": "Build mindfulness through positive reinforcement"
+    },
+    "checkin": {
+      "title": "Self-Care Check-In 🌿",
+      "subtitle": "How did you care for yourself today?",
+      "question": "Did you practice self-care today? *",
+      "description": "Self-care is any activity that we do deliberately in order to take care of our mental, emotional, and physical health."
+    },
+    "activities": {
+      "title": "Your Activities 🎯",
+      "subtitle": "Which self-care activities did you do today?"
+    },
+    "duration": {
+      "title": "Time Spent ⏱️",
+      "subtitle": "How long did you spend on self-care? (optional)"
+    },
+    "noSelfCare": {
+      "title": "That's okay 💛",
+      "subtitle": "Let's understand what happened today.",
+      "question1": "What prevented self-care today? (optional)",
+      "question2": "What type of self-care would have helped? (optional)"
+    },
+    "mood": {
+      "title": "How are you feeling? 🫧",
+      "subtitle": "Select your current mood (optional)"
+    },
+    "review": {
+      "title": "Your Entry 📋",
+      "subtitle": "Here's a summary of today's check-in",
+      "didSelfCare": "Did self-care?",
+      "activities": "Activities",
+      "duration": "Duration",
+      "mood": "Mood",
+      "challenges": "Prevented by",
+      "whatHelps": "Would've helped",
+      "viewHistory": "Weekly History",
+      "editToday": "Edit Entry",
+      "summary": "Summary"
+    },
+    "history": {
+      "title": "Weekly History 📅",
+      "subtitle": "No entries in the last 7 days"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Oops! Page not found",
+      "returnHome": "Return to Home"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Exercise",
+      "Meditation": "Meditation",
+      "Journaling": "Journaling",
+      "Reading": "Reading",
+      "Rest / Nap": "Rest / Nap",
+      "Skincare": "Skincare",
+      "Healthy Meal": "Healthy Meal",
+      "Nature / Walk": "Nature / Walk",
+      "Social Time": "Social Time",
+      "Hobby": "Hobby",
+      "Therapy": "Therapy",
+      "Digital Detox": "Digital Detox"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minutes",
+      "10–30 minutes": "10–30 minutes",
+      "30–60 minutes": "30–60 minutes",
+      "1+ hour": "1+ hour"
+    },
+    "reasons": {
+      "Busy schedule": "Busy schedule",
+      "Low energy": "Low energy",
+      "Stress": "Stress",
+      "Forgot": "Forgot",
+      "No motivation": "No motivation",
+      "Not feeling well": "Not feeling well",
+      "Lack of time": "Lack of time",
+      "Emotional overwhelm": "Emotional overwhelm"
+    },
+    "helpfulTypes": {
+      "Rest": "Rest",
+      "Relaxation": "Relaxation",
+      "Physical activity": "Physical activity",
+      "Talking to someone": "Talking to someone",
+      "Quiet time": "Quiet time",
+      "Creative activity": "Creative activity"
+    },
+    "moods": {
+      "Happy": "Happy",
+      "Calm": "Calm",
+      "Neutral": "Neutral",
+      "Low": "Low",
+      "Stressed": "Stressed",
+      "Tired": "Tired"
+    },
+    "positiveStatements": {
+      "0": "You showed up for yourself today. That's powerful. 🌿",
+      "1": "Self-care isn't selfish — it's essential. Well done. 💚",
+      "2": "Every small act of care builds a stronger you. 🌱",
+      "3": "You invested in yourself today. That matters. ✨",
+      "4": "Taking care of you is the best thing you did today. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "It's okay. Tomorrow is a fresh start. Be gentle with yourself. 🤍",
+      "1": "Not every day will be perfect, and that's perfectly fine. 🕊️",
+      "2": "You're doing your best. That's always enough. 💛",
+      "3": "Rest is also a form of self-care. Give yourself grace. 🌸",
+      "4": "Acknowledging today takes courage. You're already growing. 🌷"
+    }
+  },
+  "app_title": "Self-Care Tracker",
+  "app_description": "Track your daily self-care habits and see how they impact your overall wellbeing. Consistency is key to a healthier mind.",
+  "initializing_session": "Initializing session",
+  "language": "Language",
+  "your_progress_over_the_last_7_days": "Your progress over the last 7 days",
+  "fetching_data": "Fetching data...",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

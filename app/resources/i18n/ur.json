@@ -1,0 +1,99 @@
+{
+  "app_title": "وسائل",
+  "not_found": {
+    "title": "نہیں ملا",
+    "message": "وسیلہ نہیں ملا",
+    "description": "جو مواد آپ تلاش کر رہے ہیں وہ شاید منتقل ہو گیا ہو۔",
+    "button": "واپس جاؤ"
+  },
+  "list": {
+    "empty_title": "کوئی {{type}} دستیاب نہیں",
+    "empty_desc": "ہم اس موضوع کے لیے مزید وسائل تیار کر رہے ہیں۔",
+    "footer": "منتر کیئر • شواہد پر مبنی وسائل"
+  },
+  "detail": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "tip": {
+      "insight_label": "بصیرت",
+      "plan_title": "روزانہ ایکشن پلان",
+      "steps": "{{count}} مراحل",
+      "example_label": "مشق کی مثال",
+      "instead_of": "بجائے اس کے کہ",
+      "try_this": "یہ آزماؤ"
+    },
+    "article": {
+      "final_thought": "آخری خیال"
+    },
+    "story": {
+      "reflection_label": "بیٹھنے کے لیے کچھ",
+      "note_label": "مصنف کی طرف سے ایک نوٹ"
+    },
+    "myth": {
+      "truth_label": "سائنسی حقیقت",
+      "explanation_label": "تفصیلی وضاحت",
+      "insight_label": "اہم بصیرت"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "دوبارہ شروع کریں۔",
+    "finish_exit": "ختم کریں اور باہر نکلیں۔",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "مکمل ہونے کا وقت",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "شیئر کریں۔",
+    "share_progress": "پیش رفت کا اشتراک کریں",
+    "inspire_others": "آج دوسروں کو متاثر کریں۔",
+    "share_text": "میں نے یہ {{activityName}} TherapyMantra میں کیا ہے اور واقعی اس سے لطف اندوز ہوں آپ بھی کر سکتے ہیں بس android ایپ {{androidUrl}} یا ios ایپ {{iosUrl}} کے لنک پر عمل کریں۔",
+    "this_activity": "اس سرگرمی",
+    "copied": "نقل کیا گیا!",
+    "copy_message": "پیغام کاپی کریں۔",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "وسائل",
+  "concerns": {
+    "acceptance": "قبولیت",
+    "adolescent": "کشور",
+    "anger": "غصہ",
+    "anxiety": "بے چینی",
+    "depression": "ڈپریشن",
+    "eating-disorder": "کھانے کی خرابی",
+    "grief": "غم",
+    "parenting": "پرورش",
+    "postpartum": "نفلی",
+    "ptsd": "پی ٹی ایس ڈی",
+    "relationship": "رشتہ",
+    "sexuality": "جنسیت",
+    "sleep": "سونا",
+    "stress": "تناؤ",
+    "workplace": "کام کی جگہ"
+  },
+  "types": {
+    "stories": "کہانیاں",
+    "articles": "مضامین",
+    "myths": "خرافات",
+    "tips": "تجاویز"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

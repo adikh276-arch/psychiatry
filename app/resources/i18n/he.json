@@ -1,0 +1,99 @@
+{
+  "app_title": "משאבים",
+  "not_found": {
+    "title": "לא נמצא",
+    "message": "משאב לא נמצא",
+    "description": "התוכן שאתה מחפש אולי זז.",
+    "button": "תחזור"
+  },
+  "list": {
+    "empty_title": "אין {{type}} זמין",
+    "empty_desc": "אנחנו כרגע אוספים משאבים נוספים לנושא הזה.",
+    "footer": "Mantra Care • משאבים מבוססי ראיות"
+  },
+  "detail": {
+    "loading": "טוען...",
+    "tip": {
+      "insight_label": "התובנה",
+      "plan_title": "תוכנית פעולה יומית",
+      "steps": "{{count}} צעדים",
+      "example_label": "דוגמה לתרגול",
+      "instead_of": "במקום",
+      "try_this": "נסה את זה"
+    },
+    "article": {
+      "final_thought": "מחשבה אחרונה"
+    },
+    "story": {
+      "reflection_label": "משהו לשבת איתו",
+      "note_label": "הערה מהמחבר"
+    },
+    "myth": {
+      "truth_label": "האמת המדעית",
+      "explanation_label": "הסבר מפורט",
+      "insight_label": "תובנות מרכזיות"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "התחל מחדש",
+    "finish_exit": "סיום ויציאה",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "זמן להשלים",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "לַחֲלוֹק",
+    "share_progress": "שתף התקדמות",
+    "inspire_others": "תנו השראה לאחרים היום",
+    "share_text": "עשיתי את זה ב-TherapyMantra ואני ממש נהנה מזה, גם אתם יכולים לעשות את זה פשוט עקבו אחר הקישור לאפליקציית האנדרואיד {{androidUrl}} או לאפליקציית iOS {{iosUrl}}",
+    "this_activity": "פעילות זו",
+    "copied": "מוּעֲתָק!",
+    "copy_message": "העתקת הודעה",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "אֶמְצָעִי",
+  "concerns": {
+    "acceptance": "קַבָּלָה",
+    "adolescent": "מִתבַּגֵר",
+    "anger": "כַּעַס",
+    "anxiety": "חֲרָדָה",
+    "depression": "דִכָּאוֹן",
+    "eating-disorder": "הפרעת אכילה",
+    "grief": "צַעַר",
+    "parenting": "הורות",
+    "postpartum": "לאחר לידה",
+    "ptsd": "פוסט-טראומטולוגי",
+    "relationship": "קֶשֶׁר",
+    "sexuality": "מִינִיוּת",
+    "sleep": "לִישׁוֹן",
+    "stress": "לְהַדגִישׁ",
+    "workplace": "מקום עבודה"
+  },
+  "types": {
+    "stories": "סיפורים",
+    "articles": "מאמרים",
+    "myths": "מיתוסים",
+    "tips": "טיפים"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

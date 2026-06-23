@@ -1,0 +1,136 @@
+{
+  "app_title": "תן שם למוחך",
+  "intro": {
+    "title": "פגוש את דעתך",
+    "description": "למד להתרחק ממחשבות מציפות על ידי מתן שם לקול הפנימי שלך.",
+    "benefits": {
+      "0": "ליצור מרחק מנטלי",
+      "1": "הפחת את כוח המחשבות הקשות",
+      "2": "לשים לב למחשבות מבלי להיות הן"
+    },
+    "duration": "2-3 דקות",
+    "view_past": "הצג רשומות קודמות"
+  },
+  "history": {
+    "title": "רשומות עבר",
+    "no_entries": "עדיין אין כניסות.",
+    "reflection_label": "השתקפות: {{text}}"
+  },
+  "complete": {
+    "title": "הפעילות הושלמה",
+    "great_job": "עבודה מצוינת!",
+    "message": "הצלחת לתת שם למוח שלך וליצור מרווח בין עצמך לבין מחשבותיך.",
+    "footer": "זכור: אתה לא חייב להאמין לכל מחשבה שהמוח שלך נותן לך."
+  },
+  "subtitles": {
+    "concept": "פרספקטיבה",
+    "input_thought": "הודעה",
+    "input_name": "שם",
+    "practice": "פרקטיקה",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "שינוי קטן",
+      "example": "\"אני לא מספיק טוב\"",
+      "desc": "כשמחשבה מופיעה, זה לעיתים מרגיש כאילו היא <0>אתה</0>. אבל מה אם תוכל להתרחק <1>שמים</1> במקום?"
+    },
+    "input_thought": {
+      "title": "בואו נתחיל במחשבה אמיתית",
+      "desc": "מה מחשבה אחת שמטרידה אותך לאחרונה?",
+      "placeholder": "כתוב את זה בדיוק כפי שזה בא לך..."
+    },
+    "input_name": {
+      "title": "ליצור מרחק",
+      "desc": "תן למוח שלך שם שיעזור לך להפריד את עצמך מהמחשבות האלה.",
+      "placeholder": "או להקליד בעצמך...",
+      "examples": {
+        "0": "המבקר",
+        "1": "חושב יתר על המידה",
+        "2": "דאגה FM",
+        "3": "מכונת החשיבה המוגזמת",
+        "4": "המבקר הפנימי",
+        "5": "מחולל ה'מה אם'",
+        "6": "במאי דרמה"
+      }
+    },
+    "practice": {
+      "title": "נסה את המשמרת הזו",
+      "instead_of": "במקום",
+      "try_saying": "נסה לומר",
+      "is_telling_me": "{{name}} אומר לי:",
+      "guide": "חזור בעדינות על המשפט הזה לעצמך 4–5 פעמים בקצב שלך.",
+      "button": "אני מוכן"
+    },
+    "reflection": {
+      "title": "מה שמת לב?",
+      "desc": "איך הרגישה המחשבה אחרי שנתנה לה שם?",
+      "options": {
+        "0": "המחשבה הרגישה קצת פחות עוצמתית מאשר קודם",
+        "1": "הרגשתי שיש לי מרחק מהמחשבה",
+        "2": "זה עדיין הרגיש חזק כמו קודם",
+        "3": "אני לא בטוח מה השתנה, אם בכלל"
+      },
+      "button": "השתקפות מלאה"
+    }
+  },
+  "buttons": {
+    "continue": "המשך",
+    "restart": "הפעלה מחדש"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "התחל מחדש",
+    "finish_exit": "סיום ויציאה",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "זמן להשלים",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "לַחֲלוֹק",
+    "share_progress": "שתף התקדמות",
+    "inspire_others": "תנו השראה לאחרים היום",
+    "share_text": "עשיתי את זה ב-TherapyMantra ואני ממש נהנה מזה, גם אתם יכולים לעשות את זה פשוט עקבו אחר הקישור לאפליקציית האנדרואיד {{androidUrl}} או לאפליקציית iOS {{iosUrl}}",
+    "this_activity": "פעילות זו",
+    "copied": "מוּעֲתָק!",
+    "copy_message": "העתקת הודעה",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "תן שם לתודעה שלך",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "כשמחשבה עולה, לעתים קרובות היא מרגישה כאילו היא",
+  "more": "יוֹתֵר",
+  "breadcrumb": "פירורי לחם",
+  "previous_slide": "שקופית קודמת",
+  "next_slide": "השקופית הבאה",
+  "close": "לִסְגוֹר",
+  "previous": "קוֹדֵם",
+  "more_pages": "דפים נוספים",
+  "pagination": "דִפּוּף",
+  "go_to_previous_page": "עבור לעמוד הקודם",
+  "go_to_next_page": "עבור לעמוד הבא",
+  "toggle_sidebar": "הפעלה/כיבוי סרגל צד",
+  "oops_page_not_found": "אופס! הדף לא נמצא",
+  "return_to_home": "חזרה לבית",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "ארוך"
+}

@@ -1,0 +1,150 @@
+{
+  "app_title": "睡眠監査",
+  "app_subtitle": "自分の休息を理解しなさい",
+  "intro": {
+    "title": "あなたの睡眠監査",
+    "description": "睡眠に影響している要因や、小さな変化がどこに役立つかを理解しましょう。",
+    "start_button": "監査開始",
+    "history_button": "過去の監査",
+    "more_insights": "最初に戻る"
+  },
+  "screens": {
+    "s1": {
+      "phase": "フェーズ01",
+      "title": "睡眠はどうだった?",
+      "desc": "最近自分に合っていると思うものを選んでください"
+    },
+    "s2": {
+      "phase": "フェーズ02",
+      "title": "普段の休息を評価してください",
+      "label": "具体的な懸念はありますか?",
+      "placeholder": "ストレス、騒音、スクロール..."
+    },
+    "s3": {
+      "score_label": "7人中",
+      "recommendations": {
+        "solid": "あなたの習慣はしっかりしています!小さな調整でさらに良くなります。",
+        "some": "いくつかの妨害が検出されました。習慣を変えることですぐに効果が出ます。",
+        "many": "睡眠に影響を与える要因はいくつかあります。一緒に乗り越えられる。"
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "毎晩、寝る時間が全く違う"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "私の睡眠環境は暗くも静かでも快適でもありません"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "寝る直前にスマホをスクロールします"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "私は就寝直前にカフェインかアルコールを摂っています"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "夜中に目が覚めて、再び眠るのに苦労します"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "眠ろうとすると頭の中は考えでいっぱいになります"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "一晩眠った後にリフレッシュを感じることはめったにありません"
+    }
+  },
+  "rating_labels": {
+    "0": "とても貧しい",
+    "1": "かわいそうに",
+    "2": "わかった",
+    "3": "よし",
+    "4": "素晴らしい"
+  },
+  "status_labels": {
+    "track": "ほとんどトラック上に",
+    "disruptions": "いくつかの中断",
+    "attention": "注意が必要です"
+  },
+  "buttons": {
+    "continue": "続けてください",
+    "see_results": "結果を見る",
+    "preserve": "結果を保持する",
+    "preserving": "保存...",
+    "back_to_intro": "イントロに戻る"
+  },
+  "history": {
+    "title": "過去の監査",
+    "no_entries": "監査記録はまだ保存されていません。",
+    "score_label": "7人中"
+  },
+  "complete": {
+    "title": "監査完了",
+    "message": "睡眠スコアは{{score}}/7です。これらのパターンを理解することが、より深く、より回復的な休息への第一歩です。"
+  },
+  "toasts": {
+    "save_success": "監査保存",
+    "save_error": "監査を保存できなかった",
+    "auth_error": "認証セッションが欠如しているか、データベースが設定されていない"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "最初からやり直す",
+    "finish_exit": "終了して退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完了までの時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "共有",
+    "share_progress": "進捗状況を共有する",
+    "inspire_others": "今日、他の人にインスピレーションを与えましょう",
+    "share_text": "私はTherapyMantraで{{activityName}}を試してみましたが、とても楽しかったです。あなたも試せますよ。Androidアプリ{{androidUrl}}またはiOSアプリ{{iosUrl}}へのリンクをクリックしてください。",
+    "this_activity": "このアクティビティ",
+    "copied": "コピーしました！",
+    "copy_message": "メッセージをコピー",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "休息を理解する",
+  "more": "もっと",
+  "breadcrumb": "パン粉",
+  "previous_slide": "前のスライド",
+  "next_slide": "次のスライド",
+  "close": "近い",
+  "previous": "前の",
+  "more_pages": "その他のページ",
+  "pagination": "ページネーション",
+  "go_to_previous_page": "前のページへ",
+  "go_to_next_page": "次のページへ",
+  "toggle_sidebar": "サイドバーの表示/非表示を切り替える",
+  "oops_page_not_found": "おっと！ページが見つかりません",
+  "return_to_home": "ホームに戻る",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "長い",
+  "loading": "履歴読み込み中..."
+}

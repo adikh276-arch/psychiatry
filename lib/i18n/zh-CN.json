@@ -1,0 +1,264 @@
+{
+  "common": {
+    "get_started": "开始使用",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "做得好！",
+    "completion_message": "您已成功完成此项活动。请花点时间欣赏一下您的成果。",
+    "time_to_complete": "完成时间",
+    "back": "后退",
+    "next": "下一个",
+    "save": "节省",
+    "loading": "加载中...",
+    "today": "今天",
+    "yesterday": "昨天",
+    "filters": "过滤器",
+    "see_all": "查看全部",
+    "meditation": "冥想",
+    "guided": "引导",
+    "sleep": "睡觉",
+    "mindfulness": "正念",
+    "restore": "恢复",
+    "curated": "由 Mind 策划",
+    "restorative": "修复",
+    "peace": "和平",
+    "breath": "气息",
+    "nature": "自然",
+    "relax": "放松",
+    "time": {
+      "3min": "3分钟",
+      "5min": "5分钟",
+      "8min": "8分钟",
+      "10min": "10分钟",
+      "12min": "12分钟",
+      "15min": "15分钟",
+      "20min": "20分钟",
+      "30min": "30分钟",
+      "45min": "45分钟",
+      "60min": "60分钟"
+    },
+    "share": "Share",
+    "share_progress": "Share progress",
+    "inspire_others": "Inspire others",
+    "reset_all": "Reset all",
+    "copied": "Copied",
+    "copy_message": "Copy message",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity"
+  },
+  "hub": {
+    "back_to_topics": "返回主题",
+    "guided_series": "导论系列",
+    "start_guided_series": "开始指导系列",
+    "exercises": "练习",
+    "todos": "待办事项",
+    "resources": "资源",
+    "view_resource": "查看资源",
+    "search_placeholder": "搜索主题或活动……",
+    "how_are_you": "你今天感觉怎么样？",
+    "self_care_resources": "自我护理资源",
+    "explore_tools": "探索心理健康之旅所需的工具和指导",
+    "topics": "主题",
+    "tools": "工具",
+    "articles": "文章",
+    "tips": "尖端",
+    "stories": "故事",
+    "myths": "神话"
+  },
+  "nav": {
+    "home": "家",
+    "care_team": "护理团队",
+    "appointments": "预约",
+    "tasks": "任务",
+    "insights": "洞察",
+    "billing": "账单",
+    "profile": "轮廓",
+    "invite_friend": "邀请好友",
+    "feedback": "分享反馈",
+    "support": "支持",
+    "sign_out": "登出"
+  },
+  "journal": {
+    "title": "杂志",
+    "subtitle": "记录你的想法、感受和日常经历",
+    "new_entry": "新条目",
+    "search_placeholder": "搜索您的日记条目……",
+    "filter_by_mood": "按心情筛选：",
+    "all_moods": "所有情绪",
+    "no_entries": "未找到任何条目",
+    "adjust_search": "尝试调整搜索或筛选条件。",
+    "start_journey": "今天就开始你的日记之旅吧！",
+    "write_first": "写下你的第一篇博文",
+    "mood": {
+      "great": "伟大的",
+      "good": "好的",
+      "okay": "好的",
+      "sad": "伤心",
+      "anxious": "焦虑的"
+    },
+    "sample": {
+      "1": {
+        "title": "你的第一反应",
+        "content": "先把你脑子里想的写下来。写日记是自我反思和理清思路的有效工具。"
+      }
+    }
+  },
+  "topics": {
+    "depression": {
+      "label": "沮丧",
+      "desc": "提供基于实证的练习和资源，帮助您控制抑郁症状，增强心理韧性。"
+    },
+    "anxiety": {
+      "label": "焦虑",
+      "desc": "缓解焦虑、减轻担忧、重获掌控感的放松技巧和策略。"
+    },
+    "stress": {
+      "label": "压力",
+      "desc": "管理压力、培养应对技巧、恢复生活平衡的实用工具和练习。"
+    },
+    "adolescent": {
+      "label": "青少年",
+      "desc": "为青少年在成长、身份认同和情感挑战方面提供的指导和活动。"
+    },
+    "relationship": {
+      "label": "关系",
+      "desc": "提供工具和见解，以加强联系、改善沟通并建立更健康的人际关系。"
+    },
+    "workplace": {
+      "label": "工作场所",
+      "desc": "管理工作场所压力、提高专注力和保持工作与生活平衡的策略。"
+    },
+    "sleep": {
+      "label": "睡觉",
+      "desc": "改善睡眠质量、养成健康睡前习惯、醒来神清气爽的技巧和追踪工具。"
+    },
+    "parenting": {
+      "label": "育儿",
+      "desc": "支持用心育儿、减少倦怠、促进家庭福祉的资源。"
+    },
+    "anger": {
+      "label": "愤怒",
+      "desc": "理解、管理和以健康和建设性的方式疏导愤怒的技巧。"
+    },
+    "grief": {
+      "label": "悲伤",
+      "desc": "提供富有同情心的工具和练习，帮助您处理失去亲人的痛苦，并以自己的节奏找到治愈的方法。"
+    },
+    "ptsd": {
+      "label": "创伤后应激障碍",
+      "desc": "帮助应对创伤反应和建立安全感的接地和稳定技巧。"
+    },
+    "acceptance": {
+      "label": "验收",
+      "desc": "培养接纳、放下抵触、拥抱生活本来面目的练习。"
+    },
+    "postpartum": {
+      "label": "产后",
+      "desc": "为应对产后挑战和情绪变化的新妈妈们提供支持资源。"
+    },
+    "sexuality": {
+      "label": "性欲",
+      "desc": "提供安全且支持性的资源，帮助人们探索身份认同、建立自我接纳并找到归属感。"
+    },
+    "eating-disorder": {
+      "label": "饮食失调",
+      "desc": "提供支持性练习和资源，帮助建立更健康的饮食和身体形象关系。"
+    },
+    "ocd": {
+      "label": "强迫症",
+      "desc": "运用循证技术来管理强迫性思维和强迫行为。"
+    }
+  },
+  "tools": {
+    "box-breathing": "箱式呼吸法",
+    "gratitude-tracker": "感恩追踪器",
+    "deep-breathing": "深呼吸",
+    "affirmations": "肯定句",
+    "mindful-space": "冥想空间",
+    "letter-to-self": "写给自己的一封信",
+    "sleep-tracker": "睡眠追踪器",
+    "real_stories_anxiety": "克服焦虑的真实故事",
+    "brain_dump": "头脑风暴与分类",
+    "sleep_window": "睡眠窗口规划器",
+    "a_letter_to_self": "写给自己的一封信",
+    "care_tracker": "每日自我护理追踪器",
+    "know_values": "了解你的价值观",
+    "doodle_burst": "涂鸦爆发",
+    "environment_optimization": "环境优化",
+    "personal-mission-statement": "个人使命宣言",
+    "physical_activity_log": "体育活动记录"
+  },
+  "moods": {
+    "great": "伟大的",
+    "good": "好的",
+    "okay": "好的",
+    "down": "向下",
+    "sad": "伤心"
+  },
+  "mindfulness": {
+    "title": "正念自我关怀",
+    "subtitle": "专业的正念工具和指导课程，助您开启健康之旅",
+    "featured_mantra": "Mantra 特辑",
+    "browse_category": "按类别浏览",
+    "new_noteworthy": "最新资讯及值得关注的内容",
+    "browse_goal": "按目标浏览",
+    "browse_time": "按时间浏览",
+    "daily_program": "寻找每日节目",
+    "daily_program_desc": "谨记你制定每个计划的初衷",
+    "featured_collections": "精选系列",
+    "featured": {
+      "anxiety": "缓解焦虑",
+      "relaxation": "深度放松技巧",
+      "peace": "内心平静之旅",
+      "mountain": "山峦静谧"
+    },
+    "goal": {
+      "beginners": "入门指南",
+      "beginners_desc": "开启你的正念之旅",
+      "grief": "如何应对悲伤",
+      "grief_desc": "寻求平静与疗愈"
+    },
+    "collection": {
+      "students": "面向学生",
+      "students_desc": "更好地集中注意力学习",
+      "grief": "如何应对悲伤",
+      "grief_desc": "寻求平静与疗愈",
+      "sleep": "更好的睡眠",
+      "sleep_desc": "深度休息和充电",
+      "stress": "缓解压力",
+      "stress_desc": "平静你的身心"
+    },
+    "category": {
+      "meditation": "冥想",
+      "concentration": "专注",
+      "music": "音乐",
+      "creatures": "生物",
+      "soundscapes": "音景",
+      "students": "学生",
+      "affirmations": "肯定句"
+    }
+  },
+  "tips": {
+    "depression_tips": "缓解抑郁症的小贴士",
+    "anxiety_tips": "焦虑管理技巧",
+    "stress_tips": "压力管理技巧",
+    "sleep_guide": "睡眠指南",
+    "sleep_cycle": "了解睡眠周期",
+    "sleep_tips": "快速睡眠小贴士"
+  },
+  "trackers": {
+    "vibe_tracker": "氛围追踪器（情绪）",
+    "energy_tracker": "能量追踪器",
+    "sleep_audit": "睡眠审计",
+    "gratitude_diary": "每日感恩日记"
+  },
+  "exercises": {
+    "4_6_8_breathing": "4-6-8 呼吸法",
+    "5_4_3_2_1_grounding": "5-4-3-2-1 接地",
+    "box_breathing": "箱式呼吸法",
+    "diffusion_technique": "技术广播",
+    "guided_imagery": "引导式意象",
+    "grounding_technique": "接地技巧",
+    "pause_appreciation": "稍作停顿以示赞赏"
+  }
+}

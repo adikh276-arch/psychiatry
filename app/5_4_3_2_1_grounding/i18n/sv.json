@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Låt oss ta en kort paus tillsammans.\n\nUnder nästa minut finns det inget du behöver lösa, fixa eller svara på. Tillåt dig själv att sakta ner.\n\nSitt bekvämt, placera fötterna på marken om du kan, och ta ett långsamt andetag in... och andas långsamt ut.\n\nDet här är ditt ögonblick att återställa och återknyta till nuet.",
+      "button": "Börja"
+    },
+    "1": {
+      "heading": "5 saker du kan se",
+      "body": "Titta långsamt omkring dig. Låt dina ögon röra sig mjukt över utrymmet. Lägg märke till färger, former, ljus, skuggor eller små detaljer som du kanske inte har lagt märke till tidigare.",
+      "button": "Nästa"
+    },
+    "2": {
+      "heading": "4 saker du kan känna",
+      "body": "Rikta din uppmärksamhet mot din kropp. Känn hur dina fötter nuddar golvet, ryggen mot stolen, dina kläder mot huden eller luften runt dig. Erkänn fyra fysiska sensationer.",
+      "button": "Nästa"
+    },
+    "3": {
+      "heading": "3 saker du kan höra",
+      "body": "Lyssna noga. Du kan höra avlägsna ljud, en fläkt, knappande, andning eller till och med tystnad. Identifiera tre ljud utan att döma dem.",
+      "button": "Nästa"
+    },
+    "4": {
+      "heading": "2 saker du kan lukta",
+      "body": "Se om du kan känna någon doft i rummet. Om inget sticker ut, lägg bara märke till den neutrala doften av luften runt dig.",
+      "button": "Nästa"
+    },
+    "5": {
+      "heading": "1 sak du kan smaka",
+      "body": "Var uppmärksam på smaken i munnen. Det kan vara subtilt eller neutralt – bara observera det.",
+      "button": "Nästa"
+    },
+    "6": {
+      "heading": "Reflektion",
+      "body": "Ta ett långsamt andetag in... och andas ut försiktigt.",
+      "button": "Skicka in"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Börja om från början",
+    "finish_exit": "Slutför och avsluta",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Dags att slutföra",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dela",
+    "share_progress": "Dela framsteg",
+    "inspire_others": "Inspirera andra idag",
+    "share_text": "Jag har gjort detta {{activityName}} i TherapyMantra och gillar det verkligen, du kan också göra det, följ bara länken till Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}",
+    "this_activity": "den här aktiviteten",
+    "copied": "Kopierad!",
+    "copy_message": "Kopiera meddelande",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Jordning",
+  "intro_p1": "Minskar ångest snabbt",
+  "intro_p2": "Tar dig tillbaka till nuet",
+  "intro_p3": "Lugnar kapplöpningssinnet",
+  "app_description": "5-4-3-2-1 Jordning",
+  "more": "Mer",
+  "breadcrumb": "brödsmulor",
+  "previous_slide": "Föregående bild",
+  "next_slide": "Nästa bild",
+  "close": "Nära",
+  "previous": "Tidigare",
+  "more_pages": "Fler sidor",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå till föregående sida",
+  "go_to_next_page": "Gå till nästa sida",
+  "toggle_sidebar": "Växla sidofält",
+  "oops_page_not_found": "Hoppsan! Sidan hittades inte",
+  "return_to_home": "Återvänd till hemmet",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-jordning"
+}

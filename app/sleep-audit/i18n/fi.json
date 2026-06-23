@@ -1,0 +1,150 @@
+{
+  "app_title": "Unitarkastus",
+  "app_subtitle": "Ymmärrä leposi",
+  "intro": {
+    "title": "Unitarkastuksesi",
+    "description": "Ymmärrä, mikä vaikuttaa uneen ja missä pienet muutokset voivat auttaa.",
+    "start_button": "Aloita auditointi",
+    "history_button": "Aiemmat tarkastukset",
+    "more_insights": "Takaisin alkuun"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Vaihe 01",
+      "title": "Miten nukumisesi on sujunut?",
+      "desc": "Valitse sellaisia, jotka tuntuvat sinusta todellisilta viime aikoina"
+    },
+    "s2": {
+      "phase": "Vaihe 02",
+      "title": "Arvioi tyypillinen leposi",
+      "label": "Erityisiä huolia?",
+      "placeholder": "Stressiä, melua, selaamista..."
+    },
+    "s3": {
+      "score_label": "seitsemästä",
+      "recommendations": {
+        "solid": "Tapasi ovat vankat! Pienet muutokset voivat tehdä siitä vielä paremman.",
+        "some": "Joitakin häiriöitä havaittu. Tapojen muuttaminen voi auttaa nopeasti.",
+        "many": "Useat tekijät vaikuttavat uneesi. Voimme käsitellä niitä yhdessä."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Menen nukkumaan hyvin eri aikoihin joka ilta"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Nukkumisympäristöni ei ole pimeä, hiljainen tai mukava"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Selaan puhelintani juuri ennen nukkumaanmenoa"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Minulla on kofeiinia tai alkoholia lähellä nukkumaanmenoa"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Herään yöllä ja kamppailen saadakseni takaisin uneen"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Mieleni laukkaa ajatuksista, kun yritän nukkua"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Harvoin tunnen oloni virkistyneeksi yön unen jälkeen"
+    }
+  },
+  "rating_labels": {
+    "0": "Todella huono",
+    "1": "Voi",
+    "2": "Okei",
+    "3": "Hyvä",
+    "4": "Upea"
+  },
+  "status_labels": {
+    "track": "Enimmäkseen radalla",
+    "disruptions": "Joitakin häiriöitä",
+    "attention": "Tarvitsee huomiota"
+  },
+  "buttons": {
+    "continue": "Jatka",
+    "see_results": "Katso tulokset",
+    "preserve": "Säilytyksen tulos",
+    "preserving": "Säilyttäen...",
+    "back_to_intro": "Takaisin johdantoon"
+  },
+  "history": {
+    "title": "Aiemmat tarkastukset",
+    "no_entries": "Tilintarkastuksia ei ole vielä säilynyt.",
+    "score_label": "seitsemästä"
+  },
+  "complete": {
+    "title": "Tarkastus valmis",
+    "message": "Unipisteesi on {{score}}/7. Näiden kaavojen ymmärtäminen on ensimmäinen askel kohti syvempää, palauttavampaa lepoa."
+  },
+  "toasts": {
+    "save_success": "Tarkastus pelastettu",
+    "save_error": "Epäonnistui tilintarkastuksen tallentamisessa",
+    "auth_error": "Auth-istunto puuttuu tai tietokanta ei ole konfiguroitu"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Aloita alusta",
+    "finish_exit": "Lopeta ja poistu",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Aikaa valmistua",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Jakaa",
+    "share_progress": "Jaa edistyminen",
+    "inspire_others": "Inspiroi muita tänään",
+    "share_text": "Olen tehnyt tämän {{activityName}} TherapyMantrassa ja nautin siitä todella paljon. Voit tehdä sen sinäkin seuraamalla linkkiä Android-sovellukseen {{androidUrl}} tai iOS-sovellukseen {{iosUrl}}",
+    "this_activity": "tämä toiminta",
+    "copied": "Kopioitu!",
+    "copy_message": "Kopioi viesti",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Ymmärrä lepoasi",
+  "more": "Lisää",
+  "breadcrumb": "navigointipolku",
+  "previous_slide": "Edellinen dia",
+  "next_slide": "Seuraava dia",
+  "close": "Lähellä",
+  "previous": "Edellinen",
+  "more_pages": "Lisää sivuja",
+  "pagination": "sivunumerointi",
+  "go_to_previous_page": "Siirry edelliselle sivulle",
+  "go_to_next_page": "Siirry seuraavalle sivulle",
+  "toggle_sidebar": "Näytä/piilota sivupalkki",
+  "oops_page_not_found": "Hupsista! Sivua ei löytynyt",
+  "return_to_home": "Palaa kotiin",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "pitkä",
+  "loading": "Lataushistoria..."
+}

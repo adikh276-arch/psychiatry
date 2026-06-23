@@ -1,0 +1,150 @@
+{
+  "app_title": "Auditul somnului",
+  "app_subtitle": "Înțelege-ți odihna",
+  "intro": {
+    "title": "Auditul tău de somn",
+    "description": "Înțelege ce îți afectează somnul și unde pot ajuta schimbările mici.",
+    "start_button": "Start Audit",
+    "history_button": "Audituri anterioare",
+    "more_insights": "Înapoi la început"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Faza 01",
+      "title": "Cum a fost somnul tău?",
+      "desc": "Alege oricare ți se pare potrivit în ultima vreme"
+    },
+    "s2": {
+      "phase": "Faza 02",
+      "title": "Evaluează-ți odihna obișnuită",
+      "label": "Preocupări specifice?",
+      "placeholder": "Stres, zgomot, derulat..."
+    },
+    "s3": {
+      "score_label": "din 7",
+      "recommendations": {
+        "solid": "Obiceiurile tale sunt solide! Mici ajustări pot face totul și mai bun.",
+        "some": "Au fost detectate unele perturbări. Schimbările de obiceiuri pot ajuta rapid.",
+        "many": "Mai mulți factori îți influențează somnul. Putem trece împreună peste ele."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Mă culc la ore foarte diferite în fiecare seară"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Mediul meu de somn nu este întunecat, liniștit sau confortabil"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Derulez pe telefon chiar înainte să dorm"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Beau cofeină sau alcool aproape de ora de culcare"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Mă trezesc noaptea și mă chinui să adorm la loc"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Mintea mea aleargă cu gânduri când încerc să dorm"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Rar mă simt odihnit după o noapte de somn"
+    }
+  },
+  "rating_labels": {
+    "0": "Foarte sărac",
+    "1": "Sărac",
+    "2": "Bine",
+    "3": "Bine",
+    "4": "Grozav"
+  },
+  "status_labels": {
+    "track": "Mai mult pe pistă",
+    "disruptions": "Unele perturbări",
+    "attention": "Are nevoie de atenție"
+  },
+  "buttons": {
+    "continue": "Continuă",
+    "see_results": "Vezi rezultatele",
+    "preserve": "Păstrează rezultatul",
+    "preserving": "Păstrând...",
+    "back_to_intro": "Înapoi la introducere"
+  },
+  "history": {
+    "title": "Audituri anterioare",
+    "no_entries": "Nu s-au păstrat încă audituri.",
+    "score_label": "din 7"
+  },
+  "complete": {
+    "title": "Audit finalizat",
+    "message": "Scorul tău de somn este {{score}}/7. Înțelegerea acestor tipare este primul pas către o odihnă mai profundă și mai restauratoare."
+  },
+  "toasts": {
+    "save_success": "Audit salvat",
+    "save_error": "Nu a reușit să salveze auditul",
+    "auth_error": "Sesiune de autentificare lipsă sau bază de date neconfigurată"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Începeți de la început",
+    "finish_exit": "Terminare și ieșire",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Timpul de finalizare",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Distribuie",
+    "share_progress": "Distribuiți progresul",
+    "inspire_others": "Inspiră-i pe alții astăzi",
+    "share_text": "Am făcut această {{activityName}} în TherapyMantra și îmi place foarte mult. O poți face și tu, trebuie doar să accesezi linkul către aplicația Android {{androidUrl}} sau aplicația iOS {{iosUrl}}.",
+    "this_activity": "această activitate",
+    "copied": "Copiat!",
+    "copy_message": "Copiați mesajul",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Înțelege-ți odihna",
+  "more": "Mai mult",
+  "breadcrumb": "pesmet",
+  "previous_slide": "Diapozitivul anterior",
+  "next_slide": "Diapozitivul următor",
+  "close": "Aproape",
+  "previous": "Anterior",
+  "more_pages": "Mai multe pagini",
+  "pagination": "paginare",
+  "go_to_previous_page": "Mergi la pagina anterioară",
+  "go_to_next_page": "Mergi la pagina următoare",
+  "toggle_sidebar": "Comutare bară laterală",
+  "oops_page_not_found": "Oops! Pagina nu a fost găsită.",
+  "return_to_home": "Întoarcerea acasă",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "lung",
+  "loading": "Istoric de încărcare..."
+}

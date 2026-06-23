@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Tagasubaybay ng Pangangalaga sa Sarili",
+      "description": "Subaybayan ang iyong pang-araw-araw na gawi sa pag-aalaga sa sarili at tingnan kung paano ito nakakaapekto sa iyong pangkalahatang kagalingan. Ang pagkakapare-pareho ay susi sa isang mas malusog na pag-iisip.",
+      "benefits": {
+        "0": "Mag-log ng pang-araw-araw na mga aktibidad sa pag-aalaga sa sarili",
+        "1": "Subaybayan ang oras na ginugol sa iyong sarili",
+        "2": "Subaybayan ang iyong mga pattern ng mood",
+        "3": "Tingnan ang kasaysayan at pag-unlad"
+      },
+      "duration": "2-3 minuto",
+      "benefit1": "Log daily physical and mental wellness acts",
+      "benefit2": "Notice challenges keeping you from rest",
+      "benefit3": "Build mindfulness through positive reinforcement"
+    },
+    "checkin": {
+      "title": "Pag-check-in 🌿 sa Pangangalaga sa Sarili",
+      "subtitle": "Kumusta naman ang pag-aalaga mo sa sarili mo ngayon?",
+      "question": "Nag-aral ka ba ng pag-aalaga sa sarili ngayon? *",
+      "description": "Ang pag-aalaga sa sarili ay anumang aktibidad na sadyang ginagawa natin upang mapangalagaan ang ating kalusugang pangkaisipan, emosyonal, at pisikal."
+    },
+    "activities": {
+      "title": "Ang Iyong Mga Aktibidad 🎯",
+      "subtitle": "Anong mga aktibidad sa pag-aalaga sa sarili ang ginawa mo ngayon?"
+    },
+    "duration": {
+      "title": "Oras na ginugol ⏱️",
+      "subtitle": "Gaano katagal ang ginugol mo sa pag-aalaga sa sarili? (opsyonal)"
+    },
+    "noSelfCare": {
+      "title": "Okay 💛 lang iyan",
+      "subtitle": "Unawain natin kung ano ang nangyari ngayon.",
+      "question1": "Ano ang pumipigil sa pag-aalaga sa sarili ngayon? (opsyonal)",
+      "question2": "Anong uri ng pag-aalaga sa sarili ang makakatulong? (opsyonal)"
+    },
+    "mood": {
+      "title": "Ano ang nararamdaman mo? 🫧",
+      "subtitle": "Piliin ang Iyong Kasalukuyang Mood (Opsyonal)"
+    },
+    "review": {
+      "title": "📋 Email Address *",
+      "subtitle": "Narito ang isang buod ng check-in ngayon",
+      "didSelfCare": "Nag-aalaga ba sa sarili?",
+      "activities": "Mga Aktibidad",
+      "duration": "Tagal",
+      "mood": "Mood",
+      "challenges": "Pinigilan ng",
+      "whatHelps": "Makakatulong sana ako",
+      "viewHistory": "Lingguhang Kasaysayan",
+      "editToday": "I-edit ang Entry",
+      "summary": "Buod"
+    },
+    "history": {
+      "title": "Lingguhang Kasaysayan 📅",
+      "subtitle": "Walang entry sa nakalipas na 7 araw"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Oops! Hindi natagpuan ang pahina",
+      "returnHome": "Bumalik sa Tahanan"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Ehersisyo",
+      "Meditation": "Pagmumuni-muni",
+      "Journaling": "Paglalarawan ng Journal",
+      "Reading": "Pagbasa",
+      "Rest / Nap": "Pahinga / Pagtulog",
+      "Skincare": "Pangangalaga sa balat",
+      "Healthy Meal": "Malusog na Pagkain",
+      "Nature / Walk": "Kalikasan / Paglalakad",
+      "Social Time": "Oras ng Panlipunan",
+      "Hobby": "Libangan",
+      "Therapy": "Terapiya",
+      "Digital Detox": "Digital na Pag-detox"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minuto",
+      "10–30 minutes": "10-30 minuto",
+      "30–60 minutes": "30-60 minuto",
+      "1+ hour": "1+ oras"
+    },
+    "reasons": {
+      "Low energy": "Mababang enerhiya",
+      "Forgot": "Nakalimutan",
+      "No motivation": "Walang pagganyak",
+      "Not feeling well": "Hindi maganda ang pakiramdam",
+      "Lack of time": "Kakulangan ng oras",
+      "Emotional overwhelm": "Emosyonal na labis na pagkabigo",
+      "Busy schedule": "Abalang iskedyul",
+      "Stress": "Stress"
+    },
+    "helpfulTypes": {
+      "Rest": "Pahinga",
+      "Relaxation": "Email Address *",
+      "Physical activity": "Pisikal na aktibidad",
+      "Talking to someone": "Pakikipag-usap sa isang tao",
+      "Quiet time": "Tahimik na oras",
+      "Creative activity": "Aktibidad ng malikhaing"
+    },
+    "moods": {
+      "Happy": "Maligayang pagdating",
+      "Calm": "Kalmado",
+      "Low": "Mababa",
+      "Tired": "Pagod",
+      "Stressed": "Na-stress",
+      "Neutral": "Neutral"
+    },
+    "positiveStatements": {
+      "0": "Ipinakita mo ang iyong sarili sa araw na ito. Makapangyarihan iyan. 🌿",
+      "1": "Ang pag-aalaga sa sarili ay hindi makasarili - mahalaga ito. Mahusay na ginawa. 💚",
+      "2": "Ang bawat maliit na kilos ng pag-aalaga ay bumubuo ng isang mas malakas na katangian. 🌱",
+      "3": "Nag-invest ka sa sarili mo ngayon. Mahalaga iyan. ✨",
+      "4": "Ang pag-aalaga sa iyo ay ang pinakamagandang bagay na ginawa mo ngayon. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Okay lang. Bukas ay isang bagong simula. Maging mabait sa iyong sarili. 🤍",
+      "1": "Hindi araw-araw ay magiging perpekto, at iyon ay ganap na maayos. 🕊️",
+      "2": "Ginagawa mo ang lahat ng makakaya mo. Iyon ay palaging sapat. 💛",
+      "3": "Ang pahinga ay isa ring uri ng pag-aalaga sa sarili. Bigyan mo ang iyong sarili ng biyaya. 🌸",
+      "4": "Ang pagkilala sa araw na ito ay nangangailangan ng lakas ng loob. Lumaki ka na. 🌷"
+    }
+  },
+  "app_title": "Tagasubaybay sa Pangangalaga sa Sarili",
+  "app_description": "Subaybayan ang iyong pang-araw-araw na mga gawi sa pangangalaga sa sarili at tingnan kung paano nito naaapektuhan ang iyong pangkalahatang kagalingan. Ang pagiging pare-pareho ay susi sa isang mas malusog na pag-iisip.",
+  "initializing_session": "Sinisimulan ang sesyon",
+  "language": "Wika",
+  "your_progress_over_the_last_7_days": "Ang iyong pag-unlad sa nakalipas na 7 araw",
+  "fetching_data": "Kinukuha ang datos...",
+  "more": "Higit pa",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "more_pages": "Mas maraming pahina",
+  "pagination": "paginasyon",
+  "go_to_previous_page": "Pumunta sa nakaraang pahina",
+  "go_to_next_page": "Pumunta sa susunod na pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

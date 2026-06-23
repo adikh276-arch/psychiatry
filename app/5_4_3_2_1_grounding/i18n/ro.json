@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Să facem o scurtă pauză împreună.\n\nPentru următorul minut, nu ai nevoie să rezolvi, să rezolvi sau la care să răspunzi. Doar permite-ți să încetinești.\n\nStai confortabil, pune-ți picioarele pe pământ dacă poți și inspiră încet ușor... și expiră încet.\n\nAcesta este momentul tău să te resetezi și să te reconectezi cu prezentul.",
+      "button": "Începe"
+    },
+    "1": {
+      "heading": "5 lucruri pe care le poți vedea",
+      "body": "Uită-te încet în jur. Lasă-ți ochii să se mișce ușor prin spațiu. Observă culorile, formele, lumina, umbrele sau detalii mici la care poate nu ai acordat atenție înainte.",
+      "button": "Următorul"
+    },
+    "2": {
+      "heading": "4 lucruri pe care le poți simți",
+      "body": "Adu-ți atenția asupra corpului tău. Simte-ți picioarele atingând podeaua, spatele lipit de scaun, hainele pe piele sau aerul din jur. Recunoaște patru senzații fizice.",
+      "button": "Următorul"
+    },
+    "3": {
+      "heading": "3 lucruri pe care le poți auzi",
+      "body": "Ascultă cu atenție. S-ar putea să auzi sunete îndepărtate, un ventilator, tastare, respirație sau chiar liniște. Identifică trei sunete fără să le judeci.",
+      "button": "Următorul"
+    },
+    "4": {
+      "heading": "2 lucruri pe care le poți mirosi",
+      "body": "Vezi dacă poți detecta vreun miros în cameră. Dacă nimic nu iese în evidență, pur și simplu observă mirosul neutru al aerului din jurul tău.",
+      "button": "Următorul"
+    },
+    "5": {
+      "heading": "Un lucru pe care îl poți gusta",
+      "body": "Fii atent la gustul din gură. Poate fi subtil sau neutru — doar observă-l.",
+      "button": "Următorul"
+    },
+    "6": {
+      "heading": "Reflecție",
+      "body": "Trage o respirație lentă... Și expiră ușor.",
+      "button": "Trimite"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Începeți de la început",
+    "finish_exit": "Terminare și ieșire",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Timpul de finalizare",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Distribuie",
+    "share_progress": "Distribuiți progresul",
+    "inspire_others": "Inspiră-i pe alții astăzi",
+    "share_text": "Am făcut această {{activityName}} în TherapyMantra și îmi place foarte mult. O poți face și tu, trebuie doar să accesezi linkul către aplicația Android {{androidUrl}} sau aplicația iOS {{iosUrl}}.",
+    "this_activity": "această activitate",
+    "copied": "Copiat!",
+    "copy_message": "Copiați mesajul",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Împământare",
+  "intro_p1": "Reduce rapid anxietatea",
+  "intro_p2": "Te aduce înapoi în prezent",
+  "intro_p3": "Calmează mintea amețită",
+  "app_description": "5-4-3-2-1 Împământare",
+  "more": "Mai mult",
+  "breadcrumb": "pesmet",
+  "previous_slide": "Diapozitivul anterior",
+  "next_slide": "Diapozitivul următor",
+  "close": "Aproape",
+  "previous": "Anterior",
+  "more_pages": "Mai multe pagini",
+  "pagination": "paginare",
+  "go_to_previous_page": "Mergi la pagina anterioară",
+  "go_to_next_page": "Mergi la pagina următoare",
+  "toggle_sidebar": "Comutare bară laterală",
+  "oops_page_not_found": "Oops! Pagina nu a fost găsită.",
+  "return_to_home": "Întoarcerea acasă",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-Împământare"
+}

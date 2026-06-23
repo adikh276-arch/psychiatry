@@ -1,0 +1,99 @@
+{
+  "app_title": "الموارد",
+  "not_found": {
+    "title": "لم يعثر عليه",
+    "message": "لم يتم العثور على مورد",
+    "description": "المحتوى الذي تبحث عنه قد يكون قد تحرك.",
+    "button": "الرجوع للخلف"
+  },
+  "list": {
+    "empty_title": "لا يوجد {{type}} متوفر",
+    "empty_desc": "نحن حاليا نقوم بتنسيق المزيد من الموارد لهذا الموضوع.",
+    "footer": "رعاية المانترا • موارد قائمة على الأدلة"
+  },
+  "detail": {
+    "loading": "جار التحميل...",
+    "tip": {
+      "insight_label": "البصيرة",
+      "plan_title": "خطة العمل اليومية",
+      "steps": "{{count}} الخطوات",
+      "example_label": "مثال تدريبي",
+      "instead_of": "بدلا من",
+      "try_this": "جرب هذا"
+    },
+    "article": {
+      "final_thought": "الفكرة النهائية"
+    },
+    "story": {
+      "reflection_label": "شيء للجلوس معه",
+      "note_label": "ملاحظة من المؤلف"
+    },
+    "myth": {
+      "truth_label": "الحقيقة العلمية",
+      "explanation_label": "شرح مفصل",
+      "insight_label": "وجهة نظر رئيسية"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "ابدأ من جديد",
+    "finish_exit": "إنهاء العملية والخروج",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "الوقت اللازم للإنجاز",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "يشارك",
+    "share_progress": "مشاركة التقدم",
+    "inspire_others": "ألهم الآخرين اليوم",
+    "share_text": "لقد قمتُ بهذا النشاط {{activityName}} في تطبيق TherapyMantra واستمتعتُ به حقًا، يمكنك القيام به أيضًا، فقط اتبع الرابط إلى تطبيق أندرويد {{androidUrl}} أو تطبيق iOS {{iosUrl}}",
+    "this_activity": "هذا النشاط",
+    "copied": "تم النسخ!",
+    "copy_message": "انسخ الرسالة",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "موارد",
+  "concerns": {
+    "acceptance": "قبول",
+    "adolescent": "مراهق",
+    "anger": "الغضب",
+    "anxiety": "قلق",
+    "depression": "اكتئاب",
+    "eating-disorder": "اضطراب الأكل",
+    "grief": "حزن",
+    "parenting": "الأبوة والأمومة",
+    "postpartum": "فترة ما بعد الولادة",
+    "ptsd": "اضطراب ما بعد الصدمة",
+    "relationship": "علاقة",
+    "sexuality": "الجنسانية",
+    "sleep": "ينام",
+    "stress": "ضغط",
+    "workplace": "مكان العمل"
+  },
+  "types": {
+    "stories": "قصص",
+    "articles": "مقالات",
+    "myths": "الخرافات",
+    "tips": "نصائح"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

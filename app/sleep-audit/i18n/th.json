@@ -1,0 +1,150 @@
+{
+  "app_title": "การตรวจสอบการนอนหลับ",
+  "app_subtitle": "เข้าใจการพักผ่อนของคุณ",
+  "intro": {
+    "title": "การตรวจสอบการนอนหลับของคุณ",
+    "description": "ทําความเข้าใจว่าอะไรส่งผลต่อการนอนหลับของคุณและการเปลี่ยนแปลงเล็กๆ น้อยๆ สามารถช่วยได้ที่ไหน",
+    "start_button": "เริ่มการตรวจสอบ",
+    "history_button": "การตรวจสอบที่ผ่านมา",
+    "more_insights": "กลับไปที่หน้าจอเริ่ม"
+  },
+  "screens": {
+    "s1": {
+      "phase": "เฟส 01",
+      "title": "การนอนหลับของคุณเป็นอย่างไรบ้าง?",
+      "desc": "เลือกสิ่งที่รู้สึกเป็นจริงสําหรับคุณเมื่อเร็ว ๆ นี้"
+    },
+    "s2": {
+      "phase": "เฟส 02",
+      "title": "ให้คะแนนการพักผ่อนตามปกติของคุณ",
+      "label": "ข้อกังวลเฉพาะ?",
+      "placeholder": "ความเครียด เสียงรบกวน การเลื่อน..."
+    },
+    "s3": {
+      "score_label": "จาก 7",
+      "recommendations": {
+        "solid": "นิสัยของคุณมั่นคง! การปรับแต่งเล็กๆ น้อยๆ สามารถทําให้ดียิ่งขึ้นไปอีก",
+        "some": "ตรวจพบการหยุดชะงักบางอย่าง การเปลี่ยนแปลงนิสัยสามารถช่วยได้อย่างรวดเร็ว",
+        "many": "มีหลายปัจจัยที่ส่งผลต่อการนอนหลับของคุณ เราสามารถทํางานผ่านมันไปด้วยกันได้"
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "ฉันเข้านอนในเวลาที่แตกต่างกันมากในแต่ละคืน"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "สภาพแวดล้อมการนอนหลับของฉันไม่มืด เงียบสงบ หรือสบาย"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "ฉันเลื่อนดูโทรศัพท์ก่อนนอน"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "ฉันมีคาเฟอีนหรือแอลกอฮอล์ใกล้เวลานอน"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "ฉันตื่นขึ้นมาในตอนกลางคืนและพยายามกลับไปนอนหลับ"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "จิตใจของฉันวิ่งไปกับความคิดเมื่อฉันพยายามนอนหลับ"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "ฉันไม่ค่อยรู้สึกสดชื่นหลังจากนอนหลับไปทั้งคืน"
+    }
+  },
+  "rating_labels": {
+    "0": "แย่มาก",
+    "1": "แย่",
+    "2": "โอเค",
+    "3": "น่าพึงพอใจ",
+    "4": "ยอดเยี่ยม"
+  },
+  "status_labels": {
+    "track": "ส่วนใหญ่อยู่ในเส้นทาง",
+    "disruptions": "การหยุดชะงักบางอย่าง",
+    "attention": "ต้องการความสนใจ"
+  },
+  "buttons": {
+    "continue": "ดําเนินการต่อ",
+    "see_results": "ดูผลลัพธ์",
+    "preserve": "รักษาผลลัพธ์",
+    "preserving": "การถนอมอาหาร...",
+    "back_to_intro": "กลับไปที่บทนํา"
+  },
+  "history": {
+    "title": "การตรวจสอบที่ผ่านมา",
+    "no_entries": "ยังไม่มีการตรวจสอบที่เก็บรักษาไว้",
+    "score_label": "จาก 7"
+  },
+  "complete": {
+    "title": "การตรวจสอบเสร็จสมบูรณ์",
+    "message": "คะแนนการนอนหลับของคุณคือ {{score}}/7 การทําความเข้าใจรูปแบบเหล่านี้เป็นขั้นตอนแรกสู่การพักผ่อนที่ลึกซึ้งและฟื้นฟูมากขึ้น"
+  },
+  "toasts": {
+    "save_success": "บันทึกการตรวจสอบ",
+    "save_error": "บันทึกการตรวจสอบไม่สําเร็จ",
+    "auth_error": "เซสชันการตรวจสอบสิทธิ์หายไปหรือไม่ได้กําหนดค่า DB"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "เริ่มต้นใหม่",
+    "finish_exit": "เสร็จสิ้นและออก",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "เวลาที่ใช้ในการดำเนินการให้เสร็จสิ้น",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "แบ่งปัน",
+    "share_progress": "แชร์ความคืบหน้า",
+    "inspire_others": "สร้างแรงบันดาลใจให้ผู้อื่นในวันนี้",
+    "share_text": "ฉันได้ทำกิจกรรมนี้ {{activityName}} ใน TherapyMantra แล้วและรู้สึกสนุกมาก คุณก็ลองทำได้เช่นกัน เพียงแค่คลิกลิงก์ไปยังแอป Android {{androidUrl}} หรือแอป iOS {{iosUrl}}",
+    "this_activity": "กิจกรรมนี้",
+    "copied": "คัดลอกแล้ว!",
+    "copy_message": "คัดลอกข้อความ",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "เข้าใจการพักผ่อนของคุณ",
+  "more": "มากกว่า",
+  "breadcrumb": "เศษขนมปัง",
+  "previous_slide": "สไลด์ก่อนหน้า",
+  "next_slide": "สไลด์ถัดไป",
+  "close": "ปิด",
+  "previous": "ก่อนหน้า",
+  "more_pages": "หน้าเพิ่มเติม",
+  "pagination": "การแบ่งหน้า",
+  "go_to_previous_page": "ไปยังหน้าก่อนหน้า",
+  "go_to_next_page": "ไปยังหน้าถัดไป",
+  "toggle_sidebar": "สลับแถบด้านข้าง",
+  "oops_page_not_found": "ขออภัย! ไม่พบหน้าเว็บ",
+  "return_to_home": "กลับสู่หน้าแรก",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2 วัน",
+  "lang": "ยาว",
+  "loading": "กําลังโหลดประวัติ..."
+}

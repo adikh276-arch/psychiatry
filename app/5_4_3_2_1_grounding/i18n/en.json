@@ -1,0 +1,95 @@
+{
+  "steps": [
+    {
+      "body": "Let's take a short pause together.\n\nFor the next minute, there's nothing you need to solve, fix, or respond to. Just allow yourself to slow down.\n\nSit comfortably, place your feet on the ground if you can, and gently take a slow breath in… and slowly breathe out.\n\nThis is your moment to reset and reconnect with the present.",
+      "button": "Begin"
+    },
+    {
+      "heading": "5 Things You Can See",
+      "body": "Slowly look around you. Let your eyes move gently across the space. Notice colors, shapes, light, shadows, or small details you may not have paid attention to before.",
+      "button": "Next"
+    },
+    {
+      "heading": "4 Things You Can Feel",
+      "body": "Bring your attention to your body. Feel your feet touching the floor, your back against the chair, your clothes on your skin, or the air around you. Acknowledge four physical sensations.",
+      "button": "Next"
+    },
+    {
+      "heading": "3 Things You Can Hear",
+      "body": "Listen carefully. You might hear distant sounds, a fan, typing, breathing, or even silence. Identify three sounds without judging them.",
+      "button": "Next"
+    },
+    {
+      "heading": "2 Things You Can Smell",
+      "body": "See if you can detect any scent in the room. If nothing stands out, simply notice the neutral smell of the air around you.",
+      "button": "Next"
+    },
+    {
+      "heading": "1 Thing You Can Taste",
+      "body": "Pay attention to the taste in your mouth. It could be subtle or neutral — just observe it.",
+      "button": "Next"
+    },
+    {
+      "heading": "Reflection",
+      "body": "Take one slow breath in… and gently breathe out.",
+      "button": "Submit"
+    }
+  ],
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Grounding",
+  "intro_p1": "Reduces anxiety quickly",
+  "intro_p2": "Brings you back to the present",
+  "intro_p3": "Calms the racing mind",
+  "app_description": "5-4-3-2-1 Grounding",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-grounding"
+}

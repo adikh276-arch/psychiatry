@@ -1,0 +1,136 @@
+{
+  "app_title": "Nommez votre esprit",
+  "intro": {
+    "title": "Rencontre ton esprit",
+    "description": "Apprenez à prendre vos distances avec les pensées envahissantes en donnant un nom à votre voix intérieure.",
+    "benefits": {
+      "0": "Créez une distance mentale",
+      "1": "Réduisez la puissance des pensées dures",
+      "2": "Remarquer les pensées sans en être"
+    },
+    "duration": "2-3 minutes",
+    "view_past": "Voir les participations précédentes"
+  },
+  "history": {
+    "title": "Participations précédentes",
+    "no_entries": "Aucune entrée pour l’instant.",
+    "reflection_label": "Réflexion : {{text}}"
+  },
+  "complete": {
+    "title": "Activité terminée",
+    "great_job": "Excellent travail !",
+    "message": "Vous avez réussi à nommer votre esprit et à créer un espace entre vous et vos pensées.",
+    "footer": "Rappelez-vous : vous n’êtes pas obligé de croire chaque pensée que votre esprit vous donne."
+  },
+  "subtitles": {
+    "concept": "Perspective",
+    "input_thought": "Avis",
+    "input_name": "Nom",
+    "practice": "Pratique",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Un petit changement",
+      "example": "« Je ne suis pas assez bien »",
+      "desc": "Quand une pensée apparaît, on a souvent l’impression qu’elle est <0>toi< 0>. Mais que se passerait-il si vous pouviez prendre du recul et < un > avis</1> à la place ?"
+    },
+    "input_thought": {
+      "title": "Commençons par une vraie réflexion",
+      "desc": "Quelle est une pensée qui vous tourmente ces derniers temps ?",
+      "placeholder": "Écris-le exactement comme ça te vient..."
+    },
+    "input_name": {
+      "title": "Créez un peu de distance",
+      "desc": "Donne un nom à ton esprit pour t’aider à te détacher de ces pensées.",
+      "placeholder": "Ou taper le tien...",
+      "examples": {
+        "0": "Le Critique",
+        "1": "Penseur excessif",
+        "2": "Worry FM",
+        "3": "La Machine à Surpenser",
+        "4": "Le critique intérieur",
+        "5": "Le générateur de « Et si »",
+        "6": "Metteur en scène dramatique"
+      }
+    },
+    "practice": {
+      "title": "Essaie ce changement",
+      "instead_of": "Au lieu de",
+      "try_saying": "Essaie de dire",
+      "is_telling_me": "{{name}} me dit :",
+      "guide": "Répétez-vous doucement cette phrase 4 à 5 fois à votre rythme.",
+      "button": "Je suis prêt"
+    },
+    "reflection": {
+      "title": "Qu’as-tu remarqué ?",
+      "desc": "Comment avez-vous pensé après lui avoir donné un nom ?",
+      "options": {
+        "0": "La pensée semblait un peu moins intense qu’avant",
+        "1": "J’avais l’impression d’avoir pris un peu de distance avec cette pensée",
+        "2": "Il semblait toujours aussi fort qu’avant",
+        "3": "Je ne sais pas ce qui a changé, si tant est que ça ait changé"
+      },
+      "button": "Réflexion complète"
+    }
+  },
+  "buttons": {
+    "continue": "Continuez",
+    "restart": "Redémarrage"
+  },
+  "common": {
+    "get_started": "Commencer",
+    "start_over": "Recommencer",
+    "finish_exit": "Fin et sortie",
+    "well_done": "Bien joué !",
+    "completion_message": "Vous avez terminé cette activité avec succès. Prenez un moment pour apprécier vos progrès.",
+    "time_to_complete": "Temps écoulé",
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Enregistrer",
+    "loading": "Chargement...",
+    "share": "Partager",
+    "share_progress": "Partager les progrès",
+    "inspire_others": "Inspirez les autres aujourd'hui",
+    "share_text": "J'ai réalisé cette activité {{activityName}} sur TherapyMantra et j'ai beaucoup apprécié. Vous pouvez la faire aussi ; il suffit de suivre le lien vers l'application Android {{androidUrl}} ou l'application iOS {{iosUrl}}.",
+    "this_activity": "cette activité",
+    "copied": "Copié !",
+    "copy_message": "Copier le message",
+    "yes": "Oui",
+    "no": "Non",
+    "date": "Date",
+    "continue": "Continuer",
+    "step_of": "Étape {{current}} sur {{total}}",
+    "round_of": "Round {{current}} sur {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+    "instruction_running": "Suivez le cercle pour réguler votre respiration"
+  },
+  "app_description": "Nommez votre esprit",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Lorsqu'une pensée surgit, on a souvent l'impression qu'elle est",
+  "more": "Plus",
+  "breadcrumb": "chapelure",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "more_pages": "Plus de pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Aller à la page précédente",
+  "go_to_next_page": "Passer à la page suivante",
+  "toggle_sidebar": "Afficher/masquer la barre latérale",
+  "oops_page_not_found": "Oups ! Page introuvable",
+  "return_to_home": "Retour à l'accueil",
+  "phase_label": "Phase",
+  "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+  "instruction_running": "Suivez le cercle pour réguler votre respiration",
+  "round_x_of_y": "Round {{current}} sur {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Oui",
+  "no": "Non",
+  "date": "Date",
+  "continue": "Continuer",
+  "lang": "long"
+}

@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "בואו ניקח הפסקה קצרה יחד.\n\nבדקה הבאה, אין שום דבר שאתה צריך לפתור, לתקן או להגיב לו. פשוט תן לעצמך להאט.\n\nשב בנוחות, הנח את הרגליים על הרצפה אם אפשר, וקח נשימה איטית בעדינות... ולנשוף לאט.\n\nזה הרגע שלך לאפס ולהתחבר מחדש להווה.",
+      "button": "התחלה"
+    },
+    "1": {
+      "heading": "5 דברים שאפשר לראות",
+      "body": "תסתכל סביבך לאט לאט. תן לעיניים שלך לנוע בעדינות על פני החלל. שים לב לצבעים, צורות, אור, צללים או פרטים קטנים שאולי לא שמת לב אליהם קודם.",
+      "button": "הבא"
+    },
+    "2": {
+      "heading": "4 דברים שאתה יכול להרגיש",
+      "body": "תביא את תשומת הלב שלך לגוף שלך. מרגיש את הרגליים שלך נוגעות ברצפה, את הגב שלך לכיסא, את הבגדים שלך על העור שלך, או את האוויר סביבך. הכירו בארבע תחושות פיזיות.",
+      "button": "הבא"
+    },
+    "3": {
+      "heading": "3 דברים שאתה יכול לשמוע",
+      "body": "תקשיב טוב. ייתכן שתשמע קולות מרוחקים, מאוורר, הקלדה, נשימות או אפילו שקט. זהה שלושה צלילים בלי לשפוט אותם.",
+      "button": "הבא"
+    },
+    "4": {
+      "heading": "2 דברים שאתה מריח",
+      "body": "תראה אם אתה מזהה ריח כלשהו בחדר. אם שום דבר לא בולט, פשוט שים לב לריח הנייטרלי של האוויר סביבך.",
+      "button": "הבא"
+    },
+    "5": {
+      "heading": "דבר אחד שאתה יכול לטעום",
+      "body": "שים לב לטעם בפה שלך. זה יכול להיות עדין או ניטרלי — פשוט תתבונן בזה.",
+      "button": "הבא"
+    },
+    "6": {
+      "heading": "השתקפות",
+      "body": "קח נשימה איטית אחת... ונושף בעדינות.",
+      "button": "שלח"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "התחל מחדש",
+    "finish_exit": "סיום ויציאה",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "זמן להשלים",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "לַחֲלוֹק",
+    "share_progress": "שתף התקדמות",
+    "inspire_others": "תנו השראה לאחרים היום",
+    "share_text": "עשיתי את זה ב-TherapyMantra ואני ממש נהנה מזה, גם אתם יכולים לעשות את זה פשוט עקבו אחר הקישור לאפליקציית האנדרואיד {{androidUrl}} או לאפליקציית iOS {{iosUrl}}",
+    "this_activity": "פעילות זו",
+    "copied": "מוּעֲתָק!",
+    "copy_message": "העתקת הודעה",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "הארקה 5-4-3-2-1",
+  "intro_p1": "מפחית חרדה במהירות",
+  "intro_p2": "מחזיר אותך להווה",
+  "intro_p3": "מרגיע את המוח המרוץ",
+  "app_description": "הארקה 5-4-3-2-1",
+  "more": "יוֹתֵר",
+  "breadcrumb": "פירורי לחם",
+  "previous_slide": "שקופית קודמת",
+  "next_slide": "השקופית הבאה",
+  "close": "לִסְגוֹר",
+  "previous": "קוֹדֵם",
+  "more_pages": "דפים נוספים",
+  "pagination": "דִפּוּף",
+  "go_to_previous_page": "עבור לעמוד הקודם",
+  "go_to_next_page": "עבור לעמוד הבא",
+  "toggle_sidebar": "הפעלה/כיבוי סרגל צד",
+  "oops_page_not_found": "אופס! הדף לא נמצא",
+  "return_to_home": "חזרה לבית",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-הארקה"
+}

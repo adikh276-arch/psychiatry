@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Facciamo una breve pausa insieme.\n\nPer il prossimo minuto, non c'è nulla che tu debba risolvere, aggiustare o a cui debba rispondere. Lasciati semplicemente andare.\n\nSiediti comodamente, appoggia i piedi a terra se puoi, e fai un respiro lento e delicato... ed espira lentamente.\n\nQuesto è il tuo momento per resettare e riconnetterti con il presente.",
+      "button": "Inizio"
+    },
+    "1": {
+      "heading": "5 cose che puoi vedere",
+      "body": "Guardati lentamente intorno. Lascia che i tuoi occhi si muovano delicatamente nello spazio. Nota colori, forme, luci, ombre o piccoli dettagli a cui potresti non aver prestato attenzione prima.",
+      "button": "Prossimo"
+    },
+    "2": {
+      "heading": "4 cose che puoi sentire",
+      "body": "Porta l'attenzione sul tuo corpo. Senti i tuoi piedi che toccano il pavimento, la tua schiena contro la sedia, i tuoi vestiti sulla pelle o l'aria intorno a te. Riconosci quattro sensazioni fisiche.",
+      "button": "Prossimo"
+    },
+    "3": {
+      "heading": "3 cose che puoi sentire",
+      "body": "Ascolta attentamente. Potresti sentire suoni lontani, un ventilatore, qualcuno che scrive, un respiro o persino il silenzio. Identifica tre suoni senza giudicarli.",
+      "button": "Prossimo"
+    },
+    "4": {
+      "heading": "2 cose che puoi sentire",
+      "body": "Prova a percepire qualche odore nella stanza. Se non c'è niente di particolare, concentrati semplicemente sull'odore neutro dell'aria intorno a te.",
+      "button": "Prossimo"
+    },
+    "5": {
+      "heading": "1 Cosa che puoi assaggiare",
+      "body": "Presta attenzione al sapore che hai in bocca. Può essere delicato o neutro: osservalo e basta.",
+      "button": "Prossimo"
+    },
+    "6": {
+      "heading": "Riflessione",
+      "body": "Fai un respiro lento... ed espira delicatamente.",
+      "button": "Invia"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ricominciare",
+    "finish_exit": "Termina ed esci",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo di completamento",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Condividere",
+    "share_progress": "Condividi i progressi",
+    "inspire_others": "Ispira gli altri oggi",
+    "share_text": "Ho svolto questa attività {{activityName}} su TherapyMantra e mi è piaciuta molto. Puoi farlo anche tu, basta seguire il link all'app Android {{androidUrl}} o all'app iOS {{iosUrl}}.",
+    "this_activity": "questa attività",
+    "copied": "Copiato!",
+    "copy_message": "Copia messaggio",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Messa a terra",
+  "intro_p1": "Riduce rapidamente l'ansia",
+  "intro_p2": "Ti riporta al presente",
+  "intro_p3": "Calma la mente agitata",
+  "app_description": "5-4-3-2-1 Messa a terra",
+  "more": "Di più",
+  "breadcrumb": "pangrattato",
+  "previous_slide": "diapositiva precedente",
+  "next_slide": "diapositiva successiva",
+  "close": "Vicino",
+  "previous": "Precedente",
+  "more_pages": "Altre pagine",
+  "pagination": "paginazione",
+  "go_to_previous_page": "Vai alla pagina precedente",
+  "go_to_next_page": "Vai alla pagina successiva",
+  "toggle_sidebar": "Attiva/disattiva la barra laterale",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Torna alla home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-Messa a terra"
+}

@@ -1,0 +1,150 @@
+{
+  "app_title": "Audyt snu",
+  "app_subtitle": "Zrozum swój odpoczynek",
+  "intro": {
+    "title": "Twój audyt snu",
+    "description": "Zrozum, co wpływa na Twój sen i gdzie drobne zmiany mogą pomóc.",
+    "start_button": "Rozpocznij audyt",
+    "history_button": "Poprzednie audyty",
+    "more_insights": "Powrót do początku"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Faza 01",
+      "title": "Jak spałeś?",
+      "desc": "Wybierz takie, które ostatnio wydają się dla Ciebie prawdziwe"
+    },
+    "s2": {
+      "phase": "Faza 02",
+      "title": "Oceniaj swój typowy odpoczynek",
+      "label": "Konkretne obawy?",
+      "placeholder": "Stres, hałas, przewijanie..."
+    },
+    "s3": {
+      "score_label": "z 7",
+      "recommendations": {
+        "solid": "Twoje nawyki są solidne! Drobne poprawki mogą uczynić go jeszcze lepszym.",
+        "some": "Wykryto pewne zakłócenia. Zmiany nawyków mogą szybko pomóc.",
+        "many": "Na Twój sen wpływa kilka czynników. Możemy przez to przejść razem."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Kładę się spać o bardzo różnych porach każdej nocy"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Moje środowisko do snu nie jest ciemne, ciche ani komfortowe"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Przeglądam telefon tuż przed snem"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Piję kofeinę lub alkohol tuż przed snem"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Budzę się w nocy i mam trudności z powrotem zasnąć"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Kiedy próbuję zasnąć, myśli mi pędzą"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Rzadko czuję się wypoczęty po nocnym śnie"
+    }
+  },
+  "rating_labels": {
+    "0": "Bardzo słabo",
+    "1": "Biedny",
+    "2": "Dobrze",
+    "3": "Dobrze",
+    "4": "Świetnie"
+  },
+  "status_labels": {
+    "track": "Głównie na torze",
+    "disruptions": "Pewne zakłócenia",
+    "attention": "Wymaga uwagi"
+  },
+  "buttons": {
+    "continue": "Kontynuuj",
+    "see_results": "Zobacz wyniki",
+    "preserve": "Zachowaj wynik",
+    "preserving": "Konserwowanie...",
+    "back_to_intro": "Powrót do wstępu"
+  },
+  "history": {
+    "title": "Poprzednie audyty",
+    "no_entries": "Nie zachowały się jeszcze żadne audyty.",
+    "score_label": "z 7"
+  },
+  "complete": {
+    "title": "Audyt zakończony",
+    "message": "Twój wynik snu to {{score}}/7. Zrozumienie tych wzorców to pierwszy krok do głębszego, bardziej regenerującego odpoczynku."
+  },
+  "toasts": {
+    "save_success": "Audyt zapisany",
+    "save_error": "Audyt zapisu nie udało się",
+    "auth_error": "Brakuje sesji uwierzytelniania lub baza danych nie skonfigurowana"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Zacznij od nowa",
+    "finish_exit": "Zakończ i wyjdź",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Czas na ukończenie",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Udział",
+    "share_progress": "Udostępnij postęp",
+    "inspire_others": "Zainspiruj innych już dziś",
+    "share_text": "Wykonałem tę {{activityName}} w TherapyMantra i bardzo mi się to spodobało. Ty też możesz to zrobić, po prostu kliknij link do aplikacji na Androida {{androidUrl}} lub aplikacji na iOS {{iosUrl}}",
+    "this_activity": "ta aktywność",
+    "copied": "Skopiowano!",
+    "copy_message": "Kopiuj wiadomość",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Zrozum swój odpoczynek",
+  "more": "Więcej",
+  "breadcrumb": "bułka tarta",
+  "previous_slide": "Poprzedni slajd",
+  "next_slide": "Następny slajd",
+  "close": "Zamknąć",
+  "previous": "Poprzedni",
+  "more_pages": "Więcej stron",
+  "pagination": "paginacja",
+  "go_to_previous_page": "Przejdź do poprzedniej strony",
+  "go_to_next_page": "Przejdź do następnej strony",
+  "toggle_sidebar": "Przełącz pasek boczny",
+  "oops_page_not_found": "Ups! Strona nie została znaleziona",
+  "return_to_home": "Powrót do strony głównej",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "długie",
+  "loading": "Historia ładowania..."
+}

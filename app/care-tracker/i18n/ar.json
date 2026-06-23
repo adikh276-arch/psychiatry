@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "ابدأ من جديد",
+    "finish_exit": "إنهاء العملية والخروج",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "الوقت اللازم للإنجاز",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "يشارك",
+    "share_progress": "مشاركة التقدم",
+    "inspire_others": "ألهم الآخرين اليوم",
+    "share_text": "لقد قمتُ بهذا النشاط {{activityName}} في تطبيق TherapyMantra واستمتعتُ به حقًا، يمكنك القيام به أيضًا، فقط اتبع الرابط إلى تطبيق أندرويد {{androidUrl}} أو تطبيق iOS {{iosUrl}}",
+    "this_activity": "هذا النشاط",
+    "copied": "تم النسخ!",
+    "copy_message": "انسخ الرسالة",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "متتبع العناية الذاتية",
+      "description": "تابع عاداتك اليومية في العناية الذاتية وانظر كيف تؤثر على صحتك العامة. الاستمرارية هي مفتاح عقل أكثر صحة.",
+      "benefits": {
+        "0": "سجل أنشطة العناية الذاتية اليومية",
+        "1": "تتبع الوقت الذي تقضيه على نفسك",
+        "2": "راقب أنماط مزاجك",
+        "3": "عرض التاريخ والتقدم"
+      },
+      "duration": "2-3 دقائق",
+      "benefit1": "سجل يوميا أعمال الصحة الجسدية والنفسية",
+      "benefit2": "لاحظ التحديات التي تمنعك من الراحة",
+      "benefit3": "ابن اليقظة الذهنية من خلال التعزيز الإيجابي"
+    },
+    "checkin": {
+      "title": "تسجيل دخول 🌿 العناية الذاتية",
+      "subtitle": "كيف اعتنيت بنفسك اليوم؟",
+      "question": "هل اعتنت بنفسك اليوم؟ *",
+      "description": "العناية الذاتية هي أي نشاط نقوم به عمدا من أجل العناية بصحتنا النفسية والعاطفية والجسدية."
+    },
+    "activities": {
+      "title": "أنشطتك 🎯",
+      "subtitle": "ما هي أنشطة العناية الذاتية التي قمت بها اليوم؟"
+    },
+    "duration": {
+      "title": "الوقت الذي يقضيه ⏱️",
+      "subtitle": "كم قضيت في العناية الذاتية؟ (اختياري)"
+    },
+    "noSelfCare": {
+      "title": "لا بأس 💛",
+      "subtitle": "دعونا نفهم ما حدث اليوم.",
+      "question1": "ما الذي منع العناية الذاتية اليوم؟ (اختياري)",
+      "question2": "ما نوع العناية الذاتية التي كانت ستساعد؟ (اختياري)"
+    },
+    "mood": {
+      "title": "كيف تشعر؟ 🫧",
+      "subtitle": "اختر مزاجك الحالي (اختياري)"
+    },
+    "review": {
+      "title": "مشاركتك 📋",
+      "subtitle": "إليكم ملخص لمراجعة اليوم",
+      "didSelfCare": "هل اعتنت بنفسك؟",
+      "activities": "الأنشطة",
+      "duration": "المدة",
+      "mood": "المزاج",
+      "challenges": "منعه",
+      "whatHelps": "كان سيساعد",
+      "viewHistory": "التاريخ الأسبوعي",
+      "editToday": "تعديل المدخل",
+      "summary": "الملخص"
+    },
+    "history": {
+      "title": "التاريخ 📅 الأسبوعي",
+      "subtitle": "لم يتم تسجيل أي مشاركات خلال الأيام السبعة الماضية"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "أوه! الصفحة غير موجودة",
+      "returnHome": "العودة إلى الوطن"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "التمارين",
+      "Meditation": "التأمل",
+      "Journaling": "التدوين",
+      "Reading": "القراءة",
+      "Rest / Nap": "الراحة / القيلولة",
+      "Skincare": "العناية بالبشرة",
+      "Healthy Meal": "وجبة صحية",
+      "Nature / Walk": "الطبيعة / المشي",
+      "Social Time": "الوقت الاجتماعي",
+      "Hobby": "الهواية",
+      "Therapy": "العلاج النفسي",
+      "Digital Detox": "التخلص الرقمي من السموم"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 دقائق",
+      "10–30 minutes": "10–30 دقيقة",
+      "30–60 minutes": "30–60 دقيقة",
+      "1+ hour": "1+ ساعة"
+    },
+    "reasons": {
+      "Busy schedule": "جدول مزدحم",
+      "Low energy": "الطاقة المنخفضة",
+      "Stress": "الضغط",
+      "Forgot": "نسيت",
+      "No motivation": "لا يوجد دافع",
+      "Not feeling well": "لا أشعر أنني بخير",
+      "Lack of time": "نقص الوقت",
+      "Emotional overwhelm": "الإرهاق العاطفي"
+    },
+    "helpfulTypes": {
+      "Rest": "الراحة",
+      "Relaxation": "الاسترخاء",
+      "Physical activity": "النشاط البدني",
+      "Talking to someone": "التحدث مع شخص ما",
+      "Quiet time": "وقت الهدوء",
+      "Creative activity": "النشاط الإبداعي"
+    },
+    "moods": {
+      "Happy": "سعيد",
+      "Calm": "اهدأ",
+      "Neutral": "محايد",
+      "Low": "منخفض",
+      "Stressed": "متوتر",
+      "Tired": "متعب"
+    },
+    "positiveStatements": {
+      "0": "لقد حضرت اليوم لنفسك من أجل نفسك. هذا قوي. 🌿",
+      "1": "العناية بالنفس ليست أنانية — إنها ضرورية. عمل رائع. 💚",
+      "2": "كل عمل صغير من الرعاية يبني أنت أقوى. 🌱",
+      "3": "لقد استثمرت في نفسك اليوم. هذا مهم. ✨",
+      "4": "العناية بك هي أفضل شيء فعلته اليوم. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "لا بأس. غدا بداية جديدة. كن لطيفا مع نفسك. 🤍",
+      "1": "ليس كل يوم سيكون مثاليا، وهذا أمر طبيعي تماما. 🕊️",
+      "2": "أنت تبذل قصارى جهدك. هذا دائما يكفي. 💛",
+      "3": "الراحة أيضا شكل من أشكال العناية الذاتية. امنح نفسك الرحمة. 🌸",
+      "4": "الاعتراف باليوم يتطلب شجاعة. أنت بالفعل تكبر. 🌷"
+    }
+  },
+  "app_title": "متتبع العناية الذاتية",
+  "app_description": "راقب عاداتك اليومية للعناية بنفسك ولاحظ كيف تؤثر على صحتك العامة. فالمواظبة هي مفتاح الصحة النفسية الجيدة.",
+  "initializing_session": "تهيئة الجلسة",
+  "language": "لغة",
+  "your_progress_over_the_last_7_days": "تقدمك خلال الأيام السبعة الماضية",
+  "fetching_data": "جارٍ جلب البيانات...",
+  "more": "أكثر",
+  "breadcrumb": "فتات الخبز",
+  "previous_slide": "الشريحة السابقة",
+  "next_slide": "الشريحة التالية",
+  "close": "يغلق",
+  "previous": "سابق",
+  "more_pages": "صفحات أخرى",
+  "pagination": "ترقيم الصفحات",
+  "go_to_previous_page": "انتقل إلى الصفحة السابقة",
+  "go_to_next_page": "انتقل إلى الصفحة التالية",
+  "toggle_sidebar": "تبديل الشريط الجانبي",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "طويل"
+}

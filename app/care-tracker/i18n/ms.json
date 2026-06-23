@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mula Semula",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Masa untuk disiapkan",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Kongsi",
+    "share_progress": "Kongsi Kemajuan",
+    "inspire_others": "Beri inspirasi kepada orang lain hari ini",
+    "share_text": "Saya telah melakukan {{activityName}} ini dalam TherapyMantra dan sangat menikmatinya, anda juga boleh melakukannya, ikuti sahaja pautan ke aplikasi android {{androidUrl}} atau aplikasi ios {{iosUrl}}",
+    "this_activity": "aktiviti ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Mesej",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Penjejak Penjagaan Diri",
+      "description": "Jejaki tabiat penjagaan diri harian anda dan lihat bagaimana ia memberi kesan kepada kesejahteraan anda secara keseluruhan. Konsistensi adalah kunci kepada minda yang lebih sihat.",
+      "benefits": {
+        "0": "Log aktiviti penjagaan diri harian",
+        "1": "Jejaki masa yang dihabiskan untuk diri sendiri",
+        "2": "Pantau corak mood anda",
+        "3": "Lihat sejarah dan kemajuan"
+      },
+      "duration": "2-3 minit",
+      "benefit1": "Log tindakan kesejahteraan fizikal dan mental harian",
+      "benefit2": "Perhatikan cabaran yang menghalang anda daripada berehat",
+      "benefit3": "Bina kesedaran melalui peneguhan positif"
+    },
+    "checkin": {
+      "title": "Daftar Masuk 🌿 Penjagaan Diri",
+      "subtitle": "Bagaimana anda menjaga diri anda hari ini?",
+      "question": "Adakah anda mengamalkan penjagaan diri hari ini? *",
+      "description": "Penjagaan diri ialah sebarang aktiviti yang kita lakukan dengan sengaja untuk menjaga kesihatan mental, emosi dan fizikal kita."
+    },
+    "activities": {
+      "title": "Aktiviti 🎯 anda",
+      "subtitle": "Aktiviti penjagaan diri manakah yang anda lakukan hari ini?"
+    },
+    "duration": {
+      "title": "Masa yang Dihabiskan ⏱️",
+      "subtitle": "Berapa lama anda menghabiskan masa untuk penjagaan diri? (pilihan)"
+    },
+    "noSelfCare": {
+      "title": "Tidak mengapa 💛",
+      "subtitle": "Mari kita fahami apa yang berlaku hari ini.",
+      "question1": "Apa yang menghalang penjagaan diri hari ini? (pilihan)",
+      "question2": "Apakah jenis penjagaan diri yang akan membantu? (pilihan)"
+    },
+    "mood": {
+      "title": "Bagaimana keadaan awak? 🫧",
+      "subtitle": "Pilih mood semasa anda (pilihan)"
+    },
+    "review": {
+      "title": "Penyertaan 📋 anda",
+      "subtitle": "Berikut ialah ringkasan daftar masuk hari ini",
+      "didSelfCare": "Adakah penjagaan diri?",
+      "activities": "Aktiviti",
+      "duration": "Tempoh",
+      "mood": "Mood",
+      "challenges": "Dihalang oleh",
+      "whatHelps": "Akan membantu",
+      "viewHistory": "Sejarah Mingguan",
+      "editToday": "Edit Entri",
+      "summary": "Ringkasan"
+    },
+    "history": {
+      "title": "Sejarah 📅 Mingguan",
+      "subtitle": "Tiada penyertaan dalam tempoh 7 hari yang lalu"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ups! Halaman tidak dijumpai",
+      "returnHome": "Kembali ke Rumah"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Senaman",
+      "Meditation": "Meditasi",
+      "Journaling": "Jurnal",
+      "Reading": "Membaca",
+      "Rest / Nap": "Rehat / Tidur siang",
+      "Skincare": "Penjagaan kulit",
+      "Healthy Meal": "Makanan Sihat",
+      "Nature / Walk": "Alam semula jadi / berjalan kaki",
+      "Social Time": "Masa Sosial",
+      "Hobby": "Hobi",
+      "Therapy": "Terapi",
+      "Digital Detox": "Detoks Digital"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minit",
+      "10–30 minutes": "10–30 minit",
+      "30–60 minutes": "30–60 minit",
+      "1+ hour": "1+ jam"
+    },
+    "reasons": {
+      "Busy schedule": "Jadual sibuk",
+      "Low energy": "Tenaga rendah",
+      "Stress": "Tekanan",
+      "Forgot": "Terlupa",
+      "No motivation": "Tiada motivasi",
+      "Not feeling well": "Tidak berasa sihat",
+      "Lack of time": "Kekurangan masa",
+      "Emotional overwhelm": "Keterlaluan emosi"
+    },
+    "helpfulTypes": {
+      "Rest": "Rehat",
+      "Relaxation": "Relaksasi",
+      "Physical activity": "Aktiviti fizikal",
+      "Talking to someone": "Bercakap dengan seseorang",
+      "Quiet time": "Masa yang tenang",
+      "Creative activity": "Aktiviti kreatif"
+    },
+    "moods": {
+      "Happy": "Gembira",
+      "Calm": "Tenang",
+      "Low": "Rendah",
+      "Stressed": "Tertekan",
+      "Tired": "Letih",
+      "Neutral": "Neutral"
+    },
+    "positiveStatements": {
+      "0": "Anda muncul untuk diri sendiri hari ini. Itu berkuasa. 🌿",
+      "1": "Penjagaan diri tidak mementingkan diri sendiri - ia penting. Syabas. 💚",
+      "2": "Setiap tindakan penjagaan kecil membina anda yang lebih kuat. 🌱",
+      "3": "Anda melabur dalam diri anda hari ini. Itu penting. ✨",
+      "4": "Menjaga anda adalah perkara terbaik yang anda lakukan hari ini. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Tak mengapa. Esok adalah permulaan yang baru. Bersikap lembut dengan diri sendiri. 🤍",
+      "1": "Tidak setiap hari akan sempurna, dan itu tidak mengapa. 🕊️",
+      "2": "Anda melakukan yang terbaik. Itu sentiasa mencukupi. 💛",
+      "3": "Rehat juga merupakan satu bentuk penjagaan diri. Berikan diri anda rahmat. 🌸",
+      "4": "Mengakui hari ini memerlukan keberanian. Anda sudah berkembang. 🌷"
+    }
+  },
+  "app_title": "Penjejak Penjagaan Diri",
+  "app_description": "Jejaki tabiat penjagaan diri harian anda dan lihat bagaimana ia memberi kesan kepada kesejahteraan anda secara keseluruhan. Ketekalan adalah kunci kepada minda yang lebih sihat.",
+  "initializing_session": "Memulakan sesi",
+  "language": "Bahasa",
+  "your_progress_over_the_last_7_days": "Kemajuan anda sepanjang 7 hari yang lalu",
+  "fetching_data": "Mengambil data...",
+  "more": "Lebih lanjut",
+  "breadcrumb": "serbuk roti",
+  "previous_slide": "Slaid sebelumnya",
+  "next_slide": "Slaid seterusnya",
+  "close": "Tutup",
+  "previous": "Sebelumnya",
+  "more_pages": "Lebih banyak halaman",
+  "pagination": "penomboran halaman",
+  "go_to_previous_page": "Pergi ke halaman sebelumnya",
+  "go_to_next_page": "Pergi ke halaman seterusnya",
+  "toggle_sidebar": "Togol Bar Sisi",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "panjang"
+}

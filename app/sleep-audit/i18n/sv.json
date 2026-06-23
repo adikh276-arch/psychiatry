@@ -1,0 +1,150 @@
+{
+  "app_title": "Sömngranskning",
+  "app_subtitle": "Förstå din vila",
+  "intro": {
+    "title": "Din sömngranskning",
+    "description": "Förstå vad som påverkar din sömn och var små förändringar kan hjälpa.",
+    "start_button": "Starta revision",
+    "history_button": "Tidigare revisioner",
+    "more_insights": "Tillbaka till början"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Fas 01",
+      "title": "Hur har din sömn varit?",
+      "desc": "Välj de som känns sanna för dig på sistone"
+    },
+    "s2": {
+      "phase": "Fas 02",
+      "title": "Betygsätt din vanliga vila",
+      "label": "Specifika bekymmer?",
+      "placeholder": "Stress, brus, scrollande..."
+    },
+    "s3": {
+      "score_label": "av 7",
+      "recommendations": {
+        "solid": "Dina vanor är stabila! Små justeringar kan göra det ännu bättre.",
+        "some": "Vissa störningar upptäckta. Vaneförändringar kan hjälpa snabbt.",
+        "many": "Flera faktorer påverkar din sömn. Vi kan arbeta oss igenom dem tillsammans."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Jag går och lägger mig vid väldigt olika tider varje kväll"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Min sovmiljö är varken mörk, tyst eller bekväm"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Jag scrollar på mobilen precis innan jag går och lägger mig"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Jag dricker koffein eller alkohol nära läggdags"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Jag vaknar på natten och har svårt att somna om"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Mitt sinne rusar med tankar när jag försöker sova"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Jag känner mig sällan utvilad efter en natts sömn"
+    }
+  },
+  "rating_labels": {
+    "0": "Mycket dåligt",
+    "1": "Fattigt",
+    "2": "Okej",
+    "3": "Bra",
+    "4": "Toppen"
+  },
+  "status_labels": {
+    "track": "Mest på banan",
+    "disruptions": "Vissa störningar",
+    "attention": "Behöver uppmärksamhet"
+  },
+  "buttons": {
+    "continue": "Fortsätt",
+    "see_results": "Se resultat",
+    "preserve": "Bevara resultat",
+    "preserving": "Bevara...",
+    "back_to_intro": "Tillbaka till introduktionen"
+  },
+  "history": {
+    "title": "Tidigare revisioner",
+    "no_entries": "Inga revisioner har bevarats än.",
+    "score_label": "av 7"
+  },
+  "complete": {
+    "title": "Revision slutförd",
+    "message": "Ditt sömnvärde är {{score}}/7. Att förstå dessa mönster är det första steget mot djupare och mer återställande vila."
+  },
+  "toasts": {
+    "save_success": "Revision sparad",
+    "save_error": "Misslyckades med att spara revisionen",
+    "auth_error": "Auth-session saknas eller databas inte konfigurerad"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Börja om från början",
+    "finish_exit": "Slutför och avsluta",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Dags att slutföra",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dela",
+    "share_progress": "Dela framsteg",
+    "inspire_others": "Inspirera andra idag",
+    "share_text": "Jag har gjort detta {{activityName}} i TherapyMantra och gillar det verkligen, du kan också göra det, följ bara länken till Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}",
+    "this_activity": "den här aktiviteten",
+    "copied": "Kopierad!",
+    "copy_message": "Kopiera meddelande",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Förstå din vila",
+  "more": "Mer",
+  "breadcrumb": "brödsmulor",
+  "previous_slide": "Föregående bild",
+  "next_slide": "Nästa bild",
+  "close": "Nära",
+  "previous": "Tidigare",
+  "more_pages": "Fler sidor",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå till föregående sida",
+  "go_to_next_page": "Gå till nästa sida",
+  "toggle_sidebar": "Växla sidofält",
+  "oops_page_not_found": "Hoppsan! Sidan hittades inte",
+  "return_to_home": "Återvänd till hemmet",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2D",
+  "lang": "Lång",
+  "loading": "Laddningshistorik..."
+}

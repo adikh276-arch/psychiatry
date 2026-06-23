@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mulai dari Awal",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Waktu penyelesaian",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Membagikan",
+    "share_progress": "Bagikan Kemajuan",
+    "inspire_others": "Berikan inspirasi kepada orang lain hari ini.",
+    "share_text": "Saya telah melakukan {{activityName}} ini di TherapyMantra dan sangat menikmatinya, Anda juga bisa melakukannya, cukup ikuti tautan ke aplikasi Android {{androidUrl}} atau aplikasi iOS {{iosUrl}}",
+    "this_activity": "aktivitas ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Pesan",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Pelacak Perawatan Diri",
+      "description": "Lacak kebiasaan perawatan diri harian Anda dan lihat bagaimana pengaruhnya terhadap kesejahteraan Anda secara keseluruhan. Konsistensi adalah kunci untuk pikiran yang lebih sehat.",
+      "benefits": {
+        "0": "Catat aktivitas perawatan diri harian",
+        "1": "Lacak waktu yang dihabiskan untuk diri sendiri",
+        "2": "Pantau pola suasana hati Anda",
+        "3": "Melihat riwayat dan kemajuan"
+      },
+      "duration": "2-3 menit",
+      "benefit1": "Mencatat tindakan kesehatan fisik dan mental harian",
+      "benefit2": "Perhatikan tantangan yang menghalangi Anda dari istirahat",
+      "benefit3": "Bangun kesadaran melalui penguatan positif"
+    },
+    "checkin": {
+      "title": "Check-In 🌿 Perawatan Diri",
+      "subtitle": "Bagaimana Anda merawat diri sendiri hari ini?",
+      "question": "Apakah Anda berlatih perawatan diri hari ini? *",
+      "description": "Perawatan diri adalah aktivitas apa pun yang kita lakukan dengan sengaja untuk menjaga kesehatan mental, emosional, dan fisik kita."
+    },
+    "activities": {
+      "title": "Aktivitas Anda 🎯",
+      "subtitle": "Kegiatan perawatan diri apa yang Anda lakukan hari ini?"
+    },
+    "duration": {
+      "title": "Waktu yang Dihabiskan ⏱️",
+      "subtitle": "Berapa lama Anda menghabiskan waktu untuk perawatan diri? (opsional)"
+    },
+    "noSelfCare": {
+      "title": "Tidak apa-apa 💛",
+      "subtitle": "Mari kita pahami apa yang terjadi hari ini.",
+      "question1": "Apa yang mencegah perawatan diri hari ini? (opsional)",
+      "question2": "Jenis perawatan diri apa yang akan membantu? (opsional)"
+    },
+    "mood": {
+      "title": "Bagaimana perasaanmu? 🫧",
+      "subtitle": "Pilih suasana hati Anda saat ini (opsional)"
+    },
+    "review": {
+      "title": "Entri Anda 📋",
+      "subtitle": "Berikut rangkuman check-in hari ini",
+      "didSelfCare": "Apakah merawat diri?",
+      "activities": "Kegiatan",
+      "duration": "Durasi",
+      "mood": "Suasana hati",
+      "challenges": "Dicegah oleh",
+      "whatHelps": "Akan membantu",
+      "viewHistory": "Sejarah Mingguan",
+      "editToday": "Edit Entri",
+      "summary": "Ringkasan"
+    },
+    "history": {
+      "title": "Sejarah 📅 Mingguan",
+      "subtitle": "Tidak ada entri dalam 7 hari terakhir"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ups! Halaman tidak ditemukan",
+      "returnHome": "Kembali ke Rumah"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Latihan",
+      "Meditation": "Meditasi",
+      "Journaling": "Jurnal",
+      "Reading": "Membaca",
+      "Rest / Nap": "Istirahat / Tidur siang",
+      "Skincare": "Perawatan kulit",
+      "Healthy Meal": "Makanan Sehat",
+      "Nature / Walk": "Alam / Jalan Kaki",
+      "Social Time": "Waktu Sosial",
+      "Hobby": "Hobi",
+      "Therapy": "Terapi",
+      "Digital Detox": "Detoksifikasi Digital"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 menit",
+      "10–30 minutes": "10–30 menit",
+      "30–60 minutes": "30–60 menit",
+      "1+ hour": "1+ jam"
+    },
+    "reasons": {
+      "Busy schedule": "Jadwal sibuk",
+      "Low energy": "Energi rendah",
+      "Stress": "Stres",
+      "Forgot": "Lupa",
+      "No motivation": "Tidak ada motivasi",
+      "Not feeling well": "Merasa tidak enak badan",
+      "Lack of time": "Kurangnya waktu",
+      "Emotional overwhelm": "Kewalahan emosional"
+    },
+    "helpfulTypes": {
+      "Rest": "Istirahat",
+      "Relaxation": "Relaksasi",
+      "Physical activity": "Aktivitas fisik",
+      "Talking to someone": "Berbicara dengan seseorang",
+      "Quiet time": "Waktu tenang",
+      "Creative activity": "Aktivitas kreatif"
+    },
+    "moods": {
+      "Happy": "Bahagia",
+      "Calm": "Tenang",
+      "Neutral": "Netral",
+      "Low": "Rendah",
+      "Stressed": "Stres",
+      "Tired": "Lelah"
+    },
+    "positiveStatements": {
+      "0": "Anda muncul untuk diri sendiri hari ini. Itu kuat. 🌿",
+      "1": "Perawatan diri tidak egois - itu penting. Bagus. 💚",
+      "2": "Setiap tindakan kecil kepedulian membangun Anda yang lebih kuat. 🌱",
+      "3": "Anda berinvestasi pada diri sendiri hari ini. Itu penting. ✨",
+      "4": "Merawat Anda adalah hal terbaik yang Anda lakukan hari ini. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Tidak apa-apa. Besok adalah awal yang baru. Bersikaplah lembut pada diri sendiri. 🤍",
+      "1": "Tidak setiap hari akan sempurna, dan itu baik-baik saja. 🕊️",
+      "2": "Anda melakukan yang terbaik. Itu selalu cukup. 💛",
+      "3": "Istirahat juga merupakan bentuk perawatan diri. Berikan diri Anda rahmat. 🌸",
+      "4": "Mengakui hari ini membutuhkan keberanian. Anda sudah tumbuh. 🌷"
+    }
+  },
+  "app_title": "Pelacak Perawatan Diri",
+  "app_description": "Catat kebiasaan perawatan diri harian Anda dan lihat bagaimana kebiasaan tersebut memengaruhi kesejahteraan Anda secara keseluruhan. Konsistensi adalah kunci untuk pikiran yang lebih sehat.",
+  "initializing_session": "Memulai sesi",
+  "language": "Bahasa",
+  "your_progress_over_the_last_7_days": "Kemajuan Anda selama 7 hari terakhir",
+  "fetching_data": "Mengambil data...",
+  "more": "Lagi",
+  "breadcrumb": "remah roti",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Menutup",
+  "previous": "Sebelumnya",
+  "more_pages": "Halaman lainnya",
+  "pagination": "penomoran halaman",
+  "go_to_previous_page": "Kembali ke halaman sebelumnya",
+  "go_to_next_page": "Lanjut ke halaman berikutnya",
+  "toggle_sidebar": "Alihkan Sidebar",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "panjang"
+}

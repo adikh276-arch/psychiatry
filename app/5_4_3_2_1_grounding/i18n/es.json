@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Hagamos una breve pausa juntos.\n\nDurante el próximo minuto, no hay nada que tengas que resolver, arreglar ni responder. Simplemente, permítete bajar el ritmo.\n\nSiéntate cómodamente, apoya los pies en el suelo si puedes, e inhala y exhala lentamente.\n\nEste es tu momento para reiniciar y reconectar con el presente.",
+      "button": "Comenzar"
+    },
+    "1": {
+      "heading": "5 cosas que puedes ver",
+      "body": "Mira lentamente a tu alrededor. Deja que tus ojos recorran el espacio con suavidad. Observa colores, formas, luces, sombras o pequeños detalles a los que quizá no hayas prestado atención antes.",
+      "button": "Próximo"
+    },
+    "2": {
+      "heading": "4 cosas que puedes sentir",
+      "body": "Dirige tu atención a tu cuerpo. Siente tus pies tocando el suelo, tu espalda contra la silla, tu ropa sobre tu piel o el aire que te rodea. Reconoce cuatro sensaciones físicas.",
+      "button": "Próximo"
+    },
+    "3": {
+      "heading": "3 cosas que puedes oír",
+      "body": "Escucha con atención. Podrías oír sonidos lejanos, un ventilador, el tecleo, una respiración o incluso el silencio. Identifica tres sonidos sin juzgarlos.",
+      "button": "Próximo"
+    },
+    "4": {
+      "heading": "2 cosas que puedes oler",
+      "body": "Comprueba si detectas algún olor en la habitación. Si no hay nada destacable, simplemente percibe el olor neutro del aire que te rodea.",
+      "button": "Próximo"
+    },
+    "5": {
+      "heading": "1 cosa que puedes saborear",
+      "body": "Presta atención a tu sabor en la boca. Puede ser sutil o neutro; simplemente obsérvalo.",
+      "button": "Próximo"
+    },
+    "6": {
+      "heading": "Reflexión",
+      "body": "Inhala lentamente…y exhala suavemente.",
+      "button": "Entregar"
+    }
+  },
+  "common": {
+    "get_started": "Comenzar",
+    "start_over": "Volver a empezar",
+    "finish_exit": "Finalizar y salir",
+    "well_done": "¡Bien hecho!",
+    "completion_message": "Has completado esta actividad con éxito. Tómate un momento para apreciar tu progreso.",
+    "time_to_complete": "Tiempo para completar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "save": "Guardar",
+    "loading": "Cargando...",
+    "share": "Compartir",
+    "share_progress": "Compartir el progreso",
+    "inspire_others": "Inspira a otros hoy",
+    "share_text": "He realizado esta actividad {{activityName}} en TherapyMantra y me ha gustado mucho. Tú también puedes hacerlo; solo tienes que seguir el enlace a la aplicación para Android {{androidUrl}} o a la aplicación para iOS {{iosUrl}}.",
+    "this_activity": "esta actividad",
+    "copied": "¡Copiado!",
+    "copy_message": "Copiar mensaje",
+    "yes": "Sí",
+    "no": "No",
+    "date": "Fecha",
+    "continue": "Continuar",
+    "step_of": "Paso {{current}} de {{total}}",
+    "round_of": "Ronda {{current}} de {{total}}",
+    "phase_label": "Fase",
+    "rounds_selector": "{{count}} Rondas",
+    "instruction_ready": "Configura tus rondas y toca play para comenzar",
+    "instruction_running": "Sigue el círculo para regular tu respiración"
+  },
+  "app_title": "5-4-3-2-1 Conexión a tierra",
+  "intro_p1": "Reduce la ansiedad rápidamente",
+  "intro_p2": "Te trae de vuelta al presente.",
+  "intro_p3": "Calma la mente acelerada",
+  "app_description": "5-4-3-2-1 Conexión a tierra",
+  "more": "Más",
+  "breadcrumb": "migaja de pan",
+  "previous_slide": "Diapositiva anterior",
+  "next_slide": "Siguiente diapositiva",
+  "close": "Cerca",
+  "previous": "Anterior",
+  "more_pages": "Más páginas",
+  "pagination": "paginación",
+  "go_to_previous_page": "Ir a la página anterior",
+  "go_to_next_page": "Ir a la página siguiente",
+  "toggle_sidebar": "Alternar barra lateral",
+  "oops_page_not_found": "¡Ups! Página no encontrada",
+  "return_to_home": "Regresar a la página principal",
+  "phase_label": "Fase",
+  "instruction_ready": "Configura tus rondas y toca play para comenzar",
+  "instruction_running": "Sigue el círculo para regular tu respiración",
+  "round_x_of_y": "Ronda {{current}} de {{total}}",
+  "rounds_selector": "{{count}} Rondas",
+  "yes": "Sí",
+  "no": "No",
+  "date": "Fecha",
+  "continue": "Continuar",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-Conexión a tierra"
+}

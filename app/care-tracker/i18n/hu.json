@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Újrakezdés",
+    "finish_exit": "Befejezés és kilépés",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Elkészítési idő",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Részesedés",
+    "share_progress": "Haladás megosztása",
+    "inspire_others": "Inspirálj másokat még ma",
+    "share_text": "Ezt a(z) {{activityName}} tevékenységet csináltam a TherapyMantra-ban, és nagyon élvezem, te is meg tudod csinálni, csak kövesd az {{androidUrl}} androidos vagy {{iosUrl}} iOS-es alkalmazás linkjét.",
+    "this_activity": "ez a tevékenység",
+    "copied": "Másolva!",
+    "copy_message": "Üzenet másolása",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Önellátási követő",
+      "description": "Kövesd a napi öngondoskodási szokásaidat, és figyeld meg, hogyan befolyásolják azok az általános jóllétedet. A következetesség kulcsfontosságú az egészségesebb elméhez.",
+      "benefits": {
+        "0": "Naplózz a napi öngondoskodási tevékenységeket",
+        "1": "Kövesd nyomon magadra fordított időt",
+        "2": "Figyeld a hangulatodat",
+        "3": "Tekintse meg a történelmet és a fejlődést"
+      },
+      "duration": "2-3 perc",
+      "benefit1": "Naplózza a napi fizikai és mentális egészségügyi cselekedeteket",
+      "benefit2": "Észreveszed, hogy a nehézségek megakadályozzák a pihenést",
+      "benefit3": "Építs tudatosságot pozitív megerősítéssel"
+    },
+    "checkin": {
+      "title": "Öngondoskodás ellenőrzése 🌿",
+      "subtitle": "Hogyan gondoskodtál ma magadról?",
+      "question": "Gyakoroltál ma öngondoskodást? *",
+      "description": "Az öngondoskodás bármilyen tevékenység, amelyet szándékosan teszünk, hogy gondoskodjunk mentális, érzelmi és fizikai egészségünkről."
+    },
+    "activities": {
+      "title": "Tevékenységei 🎯",
+      "subtitle": "Milyen öngondoskodási tevékenységeket végeztél ma?"
+    },
+    "duration": {
+      "title": "Töltött ⏱️ idő",
+      "subtitle": "Mennyi időt töltöttél önmagad gondozásával? (opcionális)"
+    },
+    "noSelfCare": {
+      "title": "Semmi 💛 baj",
+      "subtitle": "Értsük meg, mi történt ma.",
+      "question1": "Mi akadályozta meg ma az önellátást? (opcionális)",
+      "question2": "Milyen önmagunk gondoskodás segített volna? (opcionális)"
+    },
+    "mood": {
+      "title": "Hogy érzed magad? 🫧",
+      "subtitle": "Válaszd ki a jelenlegi hangulatodat (opcionális)"
+    },
+    "review": {
+      "title": "A belépésed 📋",
+      "subtitle": "Íme a mai bejelentkezés összefoglalója",
+      "didSelfCare": "Gondoskodott az önmagáról?",
+      "activities": "Tevékenységek",
+      "duration": "Időtartam",
+      "mood": "Hangulat",
+      "challenges": "Megakadályozva",
+      "whatHelps": "Segített volna",
+      "viewHistory": "Heti történet",
+      "editToday": "Szerkesztés bejegyzés",
+      "summary": "Összefoglaló"
+    },
+    "history": {
+      "title": "Heti történet 📅",
+      "subtitle": "Az elmúlt 7 napban nem volt bejegyzés"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Hoppá! Oldal nem talált meg",
+      "returnHome": "Hazatérés"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Gyakorlat",
+      "Meditation": "Meditáció",
+      "Journaling": "Naplóírás",
+      "Reading": "Olvasás",
+      "Rest / Nap": "Pihenés / Alvás",
+      "Skincare": "Bőrápolás",
+      "Healthy Meal": "Egészséges étkezés",
+      "Nature / Walk": "Természet / Séta",
+      "Social Time": "Társasági idő",
+      "Hobby": "Hobbi",
+      "Therapy": "Terápia",
+      "Digital Detox": "Digitális méregtelenítés"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 perc",
+      "10–30 minutes": "10–30 perc",
+      "30–60 minutes": "30–60 perc",
+      "1+ hour": "1+ óra"
+    },
+    "reasons": {
+      "Busy schedule": "Sűrű menetrend",
+      "Low energy": "Alacsony energia",
+      "Stress": "Stressz",
+      "Forgot": "Elfelejtettem",
+      "No motivation": "Nincs motiváció",
+      "Not feeling well": "Nem érzem jól magam",
+      "Lack of time": "Időhiány",
+      "Emotional overwhelm": "Érzelmi túlterheltség"
+    },
+    "helpfulTypes": {
+      "Rest": "Pihenés",
+      "Relaxation": "Relaxáció",
+      "Physical activity": "Fizikai aktivitás",
+      "Talking to someone": "Beszélgetni valakivel",
+      "Quiet time": "Csendes idő",
+      "Creative activity": "Kreatív tevékenység"
+    },
+    "moods": {
+      "Happy": "Boldog",
+      "Calm": "Nyugodt",
+      "Neutral": "Semleges",
+      "Low": "Alacsony",
+      "Stressed": "Stresszes",
+      "Tired": "Fáradt"
+    },
+    "positiveStatements": {
+      "0": "Ma magadért jelentél meg. Ez erőteljes. 🌿",
+      "1": "Az öngondoskodás nem önző — elengedhetetlen. Szép munka. 💚",
+      "2": "Minden apró gondoskodás erősebb téged épít. 🌱",
+      "3": "Ma magadba fektettél. Ez számít. ✨",
+      "4": "A legjobb dolog, amit ma tettél, hogy gondoskodtam rólad. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Semmi baj. Holnap új kezdet lesz. Légy gyengéd magaddal. 🤍",
+      "1": "Nem minden nap lesz tökéletes, és ez teljesen rendben van. 🕊️",
+      "2": "Mindent megteszel. Ez mindig elég. 💛",
+      "3": "A pihenés egyfajta öngondoskodás is egyfajta formája. Adj magadnak kegyelmet. 🌸",
+      "4": "Ma elismerni bátorságot igényel. Már most is fejlődsz. 🌷"
+    }
+  },
+  "app_title": "Öngondoskodás-követő",
+  "app_description": "Kövesd nyomon a napi öngondoskodási szokásaidat, és nézd meg, hogyan hatnak ezek az általános közérzetedre. A következetesség a kulcs az egészségesebb elméhez.",
+  "initializing_session": "Munkamenet inicializálása",
+  "language": "Nyelv",
+  "your_progress_over_the_last_7_days": "Az elmúlt 7 napban elért haladásod",
+  "fetching_data": "Adatok lekérése...",
+  "more": "Több",
+  "breadcrumb": "navigációs morzsa",
+  "previous_slide": "Előző dia",
+  "next_slide": "Következő dia",
+  "close": "Közeli",
+  "previous": "Előző",
+  "more_pages": "További oldalak",
+  "pagination": "lapszámozás",
+  "go_to_previous_page": "Ugrás az előző oldalra",
+  "go_to_next_page": "Ugrás a következő oldalra",
+  "toggle_sidebar": "Oldalsáv be- és kikapcsolása",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "hosszú"
+}

@@ -1,0 +1,115 @@
+{
+  "app_title": "안전 공간",
+  "nav": {
+    "0": "체크인",
+    "1": "부드럽게 회상해",
+    "2": "관찰",
+    "3": "현재에 머물다",
+    "4": "앞으로 나아가다"
+  },
+  "s1": {
+    "title": "괜찮은 곳을 찾아보자",
+    "description": {
+      "0": "시작하기 전에, 잠시 시간을 내어 안부를 확인해 주세요...",
+      "1": "지금 기분이 어떠세요?",
+      "2": "완벽한 '안전한 장소'를 찾는 게 아니에요. 조금이라도 차분하거나 괜찮게 느껴지는 무언가를 원해요."
+    },
+    "placeholder": "지금 기분이 어떠세요?",
+    "button": "시각화 시작"
+  },
+  "s2": {
+    "title": "조심스럽게 떠올려 보세요",
+    "description": {
+      "0": "조금이라도 안심했던 곳을 생각해 보세요... 혹은 존재했으면 하는 장소.",
+      "1": "이제 거기 앉아...",
+      "2": "앉아 있어, 서 있어, 누워 있어?"
+    },
+    "button": "계속"
+  },
+  "s3": {
+    "title": "천천히 주변을 둘러봐",
+    "description": {
+      "0": "주변을 조심스럽게 둘러보세요...",
+      "1": "한 가지는 보이나요?",
+      "2": "이제 소리를 들어보세요... 뭐가 들리나요?"
+    },
+    "button": "계속"
+  },
+  "s4": {
+    "title": "계속 지켜봐",
+    "description": {
+      "0": "이곳이 조금이라도 안전하거나 괜찮게 느껴지는 이유는 무엇일까?",
+      "1": "그걸 눈치채셨죠...",
+      "2": "또한 호흡에 주의를 기울이세요."
+    },
+    "breathe": "숨 쉬어",
+    "notice": "상상하기 힘들다면, 이곳의 개념을 생각해 보세요.",
+    "button": "계속"
+  },
+  "s5": {
+    "title": "이거 가져가세요",
+    "description": {
+      "0": "지금 당신이 느끼는 감정을 잘 살펴보세요. 작은 변화라도 중요합니다.",
+      "1": "이 감정의 5%라도 간직할 수 있는지 시도해 보세요."
+    },
+    "placeholder": "지금 기분이 어떠신가요?",
+    "button": "전체 세션"
+  },
+  "complete": {
+    "title": "세션 완료",
+    "message": "이 안전한 공간은 언제나 여러분을 위해 준비되어 있습니다. 잠시 평온할 때 언제든지 여기로 돌아와도 돼."
+  },
+  "common": {
+    "get_started": "시작하기",
+    "start_over": "처음부터 다시",
+    "finish_exit": "결승 및 퇴장",
+    "well_done": "잘했어요!",
+    "completion_message": "이 활동을 성공적으로 완료하셨습니다. 잠시 시간을 내어 자신의 진전을 감상해 보세요.",
+    "time_to_complete": "완성 시간입니다",
+    "back": "뒤로",
+    "next": "다음",
+    "save": "저장",
+    "loading": "로딩 중...",
+    "share": "공유하기",
+    "share_progress": "진행 상황 공유",
+    "inspire_others": "오늘 다른 이들에게 영감을 주세요",
+    "share_text": "저는 TherapyMantra에서 {{activityName}}을 사용해봤고 정말 재미있게 사용해봤어요. 안드로이드 앱 {{androidUrl}} 또는 iOS 앱 {{iosUrl}} 링크를 따라가면 됩니다.",
+    "this_activity": "이 활동",
+    "copied": "복사했어요!",
+    "copy_message": "메시지 복사",
+    "yes": "네",
+    "no": "아니",
+    "date": "날짜",
+    "continue": "계속",
+    "step_of": "{{current}} 단계: {{total}}",
+    "round_of": "{{current}} 라운드 {{total}}",
+    "phase_label": "단계",
+    "rounds_selector": "{{카운트}} 라운드",
+    "instruction_ready": "라운드를 설정하고 재생을 탭해 시작하세요",
+    "instruction_running": "호흡을 조절하기 위해 원을 따라 하세요"
+  },
+  "app_description": "안전 공간",
+  "more": "더 보기",
+  "breadcrumb": "빵 부스러기",
+  "previous_slide": "이전 슬라이드",
+  "next_slide": "다음 슬라이드",
+  "close": "닫습니다",
+  "previous": "이전",
+  "more_pages": "더 많은 페이지",
+  "pagination": "페이지 배치",
+  "go_to_previous_page": "이전 페이지로 이동",
+  "go_to_next_page": "다음 페이지로 이동",
+  "toggle_sidebar": "토글 사이드바",
+  "oops_page_not_found": "앗! 페이지를 찾을 수 없습니다",
+  "return_to_home": "고향으로의 귀환",
+  "phase_label": "단계",
+  "instruction_ready": "라운드를 설정하고 재생을 탭해 시작하세요",
+  "instruction_running": "호흡을 조절하기 위해 원을 따라 하세요",
+  "round_x_of_y": "{{current}} 라운드 {{total}}",
+  "rounds_selector": "{{카운트}} 라운드",
+  "yes": "네",
+  "no": "아니",
+  "date": "날짜",
+  "continue": "계속",
+  "lang": "길게"
+}

@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ricominciare",
+    "finish_exit": "Termina ed esci",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo di completamento",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Condividere",
+    "share_progress": "Condividi i progressi",
+    "inspire_others": "Ispira gli altri oggi",
+    "share_text": "Ho svolto questa attività {{activityName}} su TherapyMantra e mi è piaciuta molto. Puoi farlo anche tu, basta seguire il link all'app Android {{androidUrl}} o all'app iOS {{iosUrl}}.",
+    "this_activity": "questa attività",
+    "copied": "Copiato!",
+    "copy_message": "Copia messaggio",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Tracker per la cura personale",
+      "description": "Tieni traccia delle tue abitudini quotidiane di cura di te stesso e osserva come influenzano il tuo benessere generale. La costanza è fondamentale per una mente più sana.",
+      "benefits": {
+        "0": "Registra le attività quotidiane di autocura",
+        "1": "Tieni traccia del tempo dedicato a te stesso",
+        "2": "Monitora i tuoi modelli d'umore",
+        "3": "Visualizza storia e progressi"
+      },
+      "duration": "2-3 minuti",
+      "benefit1": "Registra quotidianamente atti di benessere fisico e mentale",
+      "benefit2": "Nota le difficoltà che ti impediscono di riposare",
+      "benefit3": "Costruisci la consapevolezza attraverso il rinforzo positivo"
+    },
+    "checkin": {
+      "title": "Controllo 🌿 dell'autocura",
+      "subtitle": "Come ti sei preso cura di te oggi?",
+      "question": "Hai praticato la cura di te oggi? *",
+      "description": "La cura di sé è qualsiasi attività che svolgiamo deliberatamente per prenderci cura della nostra salute mentale, emotiva e fisica."
+    },
+    "activities": {
+      "title": "Le tue attività 🎯",
+      "subtitle": "Quali attività di cura di sé hai fatto oggi?"
+    },
+    "duration": {
+      "title": "Tempo trascorso ⏱️",
+      "subtitle": "Quanto tempo hai dedicato alla cura di te stesso? (opzionale)"
+    },
+    "noSelfCare": {
+      "title": "Va bene 💛 così",
+      "subtitle": "Comprendiamo cosa è successo oggi.",
+      "question1": "Cosa ha impedito la cura di sé oggi? (opzionale)",
+      "question2": "Che tipo di cura di sé avrebbe aiutato? (opzionale)"
+    },
+    "mood": {
+      "title": "Come ti senti? 🫧",
+      "subtitle": "Seleziona il tuo umore attuale (opzionale)"
+    },
+    "review": {
+      "title": "La tua voce 📋",
+      "subtitle": "Ecco un riassunto del check-in di oggi",
+      "didSelfCare": "Ti sei preso cura di te stesso?",
+      "activities": "Attività",
+      "duration": "Durata",
+      "mood": "Atmosfera",
+      "challenges": "Impedito da",
+      "whatHelps": "Sarebbe stato utile",
+      "viewHistory": "Storia settimanale",
+      "editToday": "Modifica voce",
+      "summary": "Sommario"
+    },
+    "history": {
+      "title": "Storia 📅 settimanale",
+      "subtitle": "Nessuna partecipazione negli ultimi 7 giorni"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ops! Pagina non trovata",
+      "returnHome": "Ritorno a casa"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Esercizio",
+      "Meditation": "Meditazione",
+      "Reading": "Lettura",
+      "Rest / Nap": "Riposo / Pisolino",
+      "Skincare": "Cura della pelle",
+      "Healthy Meal": "Pasto sano",
+      "Nature / Walk": "Natura / Passeggiate",
+      "Social Time": "Tempo Sociale",
+      "Therapy": "Terapia",
+      "Digital Detox": "Disintossicazione Digitale",
+      "Journaling": "Tenere un diario",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minuti",
+      "10–30 minutes": "10–30 minuti",
+      "30–60 minutes": "30–60 minuti",
+      "1+ hour": "1+ ora"
+    },
+    "reasons": {
+      "Busy schedule": "Agenda intensa",
+      "Low energy": "Bassa energia",
+      "Forgot": "Dimenticato",
+      "No motivation": "Nessuna motivazione",
+      "Not feeling well": "Non mi sento bene",
+      "Lack of time": "Mancanza di tempo",
+      "Emotional overwhelm": "Sovraccarico emotivo",
+      "Stress": "Stress"
+    },
+    "helpfulTypes": {
+      "Rest": "Riposo",
+      "Relaxation": "Rilassamento",
+      "Physical activity": "Attività fisica",
+      "Talking to someone": "Parlare con qualcuno",
+      "Quiet time": "Tempo di silenzio",
+      "Creative activity": "Attività creativa"
+    },
+    "moods": {
+      "Happy": "Felice",
+      "Calm": "Calma",
+      "Neutral": "Neutrale",
+      "Low": "Basso",
+      "Stressed": "Stressato",
+      "Tired": "Stanco"
+    },
+    "positiveStatements": {
+      "0": "Oggi sei venuto per te stesso. È potente. 🌿",
+      "1": "La cura di sé non è egoistica — è essenziale. Ben fatto. 💚",
+      "2": "Ogni piccolo atto di cura costruisce un te più forte. 🌱",
+      "3": "Hai investito in te stesso oggi. Questo conta. ✨",
+      "4": "Prendersi cura di te è la cosa migliore che hai fatto oggi. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Va tutto bene. Domani è un nuovo inizio. Sii gentile con te stesso. 🤍",
+      "1": "Non tutti i giorni saranno perfetti, e va benissimo così. 🕊️",
+      "2": "Stai facendo del tuo meglio. È sempre abbastanza. 💛",
+      "3": "Il riposo è anche una forma di cura di sé. Sii indulgente. 🌸",
+      "4": "Riconoscere oggi richiede coraggio. Stai già crescendo. 🌷"
+    }
+  },
+  "app_title": "Strumento di monitoraggio della cura di sé",
+  "app_description": "Monitora le tue abitudini quotidiane di cura personale e osserva come influiscono sul tuo benessere generale. La costanza è fondamentale per una mente più sana.",
+  "initializing_session": "Inizializzazione della sessione",
+  "language": "Lingua",
+  "your_progress_over_the_last_7_days": "I tuoi progressi negli ultimi 7 giorni",
+  "fetching_data": "Recupero dei dati in corso...",
+  "more": "Di più",
+  "breadcrumb": "pangrattato",
+  "previous_slide": "diapositiva precedente",
+  "next_slide": "diapositiva successiva",
+  "close": "Vicino",
+  "previous": "Precedente",
+  "more_pages": "Altre pagine",
+  "pagination": "paginazione",
+  "go_to_previous_page": "Vai alla pagina precedente",
+  "go_to_next_page": "Vai alla pagina successiva",
+  "toggle_sidebar": "Attiva/disattiva la barra laterale",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lunga"
+}

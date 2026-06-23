@@ -1,0 +1,150 @@
+{
+  "app_title": "Έλεγχος ύπνου",
+  "app_subtitle": "Κατανοήστε την ξεκούρασή σας",
+  "intro": {
+    "title": "Ο έλεγχος ύπνου σας",
+    "description": "Κατανοήστε τι επηρεάζει τον ύπνο σας και πού μπορούν να βοηθήσουν μικρές αλλαγές.",
+    "start_button": "Έναρξη ελέγχου",
+    "history_button": "Προηγούμενοι έλεγχοι",
+    "more_insights": "Επιστροφή στην Αρχή"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Φάση 01",
+      "title": "Πώς ήταν ο ύπνος σας;",
+      "desc": "Επιλέξτε ό,τι σας φαίνεται αληθινό τον τελευταίο καιρό"
+    },
+    "s2": {
+      "phase": "Φάση 02",
+      "title": "Βαθμολογήστε την τυπική σας ανάπαυση",
+      "label": "Συγκεκριμένες ανησυχίες;",
+      "placeholder": "Άγχος, θόρυβος, κύλιση..."
+    },
+    "s3": {
+      "score_label": "από 7",
+      "recommendations": {
+        "solid": "Οι συνήθειές σας είναι σταθερές! Μικρές τροποποιήσεις μπορούν να το κάνουν ακόμα καλύτερο.",
+        "some": "Εντοπίστηκαν κάποιες διακοπές. Οι αλλαγές συνήθειας μπορούν να βοηθήσουν γρήγορα.",
+        "many": "Διάφοροι παράγοντες επηρεάζουν τον ύπνο σας. Μπορούμε να τα αντιμετωπίσουμε μαζί."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Πηγαίνω για ύπνο σε πολύ διαφορετικές ώρες κάθε βράδυ"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Το περιβάλλον ύπνου μου δεν είναι σκοτεινό, ήσυχο ή άνετο"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Κάνω κύλιση στο τηλέφωνό μου ακριβώς πριν κοιμηθώ"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Έχω καφεΐνη ή αλκοόλ κοντά στην ώρα του ύπνου"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Ξυπνάω τη νύχτα και παλεύω να ξανακοιμηθώ"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Το μυαλό μου τρέχει με σκέψεις όταν προσπαθώ να κοιμηθώ"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Σπάνια αισθάνομαι ανανεωμένος μετά από έναν βραδινό ύπνο"
+    }
+  },
+  "rating_labels": {
+    "0": "Πολύ κακή",
+    "1": "Κακή",
+    "2": "Εντάξει",
+    "3": "Καλός",
+    "4": "Εξαιρετική"
+  },
+  "status_labels": {
+    "track": "Κυρίως σε καλό δρόμο",
+    "disruptions": "Ορισμένες διαταραχές",
+    "attention": "Χρειάζεται προσοχή"
+  },
+  "buttons": {
+    "continue": "Συνέχεια",
+    "see_results": "Δείτε τα αποτελέσματα",
+    "preserve": "Διατήρηση αποτελέσματος",
+    "preserving": "Διατήρηση...",
+    "back_to_intro": "Επιστροφή στην εισαγωγή"
+  },
+  "history": {
+    "title": "Προηγούμενοι έλεγχοι",
+    "no_entries": "Δεν έχουν διατηρηθεί ακόμη έλεγχοι.",
+    "score_label": "από 7"
+  },
+  "complete": {
+    "title": "Ο έλεγχος ολοκληρώθηκε",
+    "message": "Η βαθμολογία ύπνου σας είναι {{score}}/7. Η κατανόηση αυτών των μοτίβων είναι το πρώτο βήμα προς βαθύτερη, πιο αποκαταστατική ανάπαυση."
+  },
+  "toasts": {
+    "save_success": "Ο έλεγχος αποθηκεύτηκε",
+    "save_error": "Αποτυχία αποθήκευσης ελέγχου",
+    "auth_error": "Λείπει η περίοδος λειτουργίας ελέγχου ταυτότητας ή δεν έχει ρυθμιστεί η βάση δεδομένων"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ξεκινήστε από την αρχή",
+    "finish_exit": "Τέλος & Έξοδος",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Ώρα για ολοκλήρωση",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Μερίδιο",
+    "share_progress": "Κοινοποίηση προόδου",
+    "inspire_others": "Εμπνεύστε τους άλλους σήμερα",
+    "share_text": "Έχω κάνει αυτό το {{activityName}} στο TherapyMantra και το απολαμβάνω πολύ. Μπορείτε να το κάνετε κι εσείς, απλώς ακολουθήστε τον σύνδεσμο για την εφαρμογή Android {{androidUrl}} ή την εφαρμογή iOS {{iosUrl}}",
+    "this_activity": "αυτή η δραστηριότητα",
+    "copied": "Αντιγράφηκε!",
+    "copy_message": "Αντιγραφή μηνύματος",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Κατανοήστε την ξεκούρασή σας",
+  "more": "Περισσότερο",
+  "breadcrumb": "ψίχουλα ψωμιού",
+  "previous_slide": "Προηγούμενη διαφάνεια",
+  "next_slide": "Επόμενη διαφάνεια",
+  "close": "Κοντά",
+  "previous": "Προηγούμενος",
+  "more_pages": "Περισσότερες σελίδες",
+  "pagination": "σελιδοποίηση",
+  "go_to_previous_page": "Μετάβαση στην προηγούμενη σελίδα",
+  "go_to_next_page": "Μετάβαση στην επόμενη σελίδα",
+  "toggle_sidebar": "Εναλλαγή πλευρικής γραμμής",
+  "oops_page_not_found": "Ωχ! Η σελίδα δεν βρέθηκε.",
+  "return_to_home": "Επιστροφή στην Αρχική",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2δ",
+  "lang": "μακρύς",
+  "loading": "Ιστορικό φόρτωσης..."
+}

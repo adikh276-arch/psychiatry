@@ -1,0 +1,136 @@
+{
+  "app_title": "Назови свой разум",
+  "intro": {
+    "title": "Встреть свой разум",
+    "description": "Научитесь дистанцироваться от подавляющих мыслей, давая своему внутреннему голосу имя.",
+    "benefits": {
+      "0": "Создайте ментальную дистанцию",
+      "1": "Уменьшите силу жёстких мыслей",
+      "2": "Замечайте мысли, не являясь ими"
+    },
+    "duration": "2-3 минуты",
+    "view_past": "Просмотреть прошлые записи"
+  },
+  "history": {
+    "title": "Прошлые записи",
+    "no_entries": "Пока записей нет.",
+    "reflection_label": "Отражение: {{text}}"
+  },
+  "complete": {
+    "title": "Деятельность завершена",
+    "great_job": "Отличная работа!",
+    "message": "Ты успешно назвал свой разум и создал пространство между собой и мыслями.",
+    "footer": "Помните: не обязательно верить каждой мысли, которую даёт ваш разум."
+  },
+  "subtitles": {
+    "concept": "Перспектива",
+    "input_thought": "Уведомление",
+    "input_name": "Название",
+    "practice": "Практика",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Небольшой сдвиг",
+      "example": "«Я недостаточно хорош»",
+      "desc": "Когда появляется мысль, часто кажется, что это <0>вы</0>. Но что если вы сможете сделать шаг назад и <1>заметить</1> вместо этого?"
+    },
+    "input_thought": {
+      "title": "Давайте начнём с настоящей мысли",
+      "desc": "Какая одна мысль вас в последнее время беспокоит?",
+      "placeholder": "Пиши ровно так, как приходит в голову..."
+    },
+    "input_name": {
+      "title": "Создайте дистанцию",
+      "desc": "Дайте своему разуму имя, чтобы отделиться от этих мыслей.",
+      "placeholder": "Или набрать свой собственный...",
+      "examples": {
+        "0": "Критик",
+        "1": "Слишком много думаю",
+        "2": "Worry FM",
+        "3": "Машина с излишним размышлениями",
+        "4": "Внутренний критик",
+        "5": "Генератор «что если»",
+        "6": "Режиссёр драмы"
+      }
+    },
+    "practice": {
+      "title": "Попробуй этот сдвиг",
+      "instead_of": "Вместо",
+      "try_saying": "Попробуй сказать",
+      "is_telling_me": "{{name}} говорит мне:",
+      "guide": "Мягко повторяйте это предложение себе 4–5 раз в своём темпе.",
+      "button": "Я готов"
+    },
+    "reflection": {
+      "title": "Что ты заметил?",
+      "desc": "Каково это было после того, как она дала ему имя?",
+      "options": {
+        "0": "Эта мысль казалась чуть менее интенсивной, чем раньше",
+        "1": "Я чувствовал, что отстранился от этой мысли",
+        "2": "Он всё ещё ощущался таким же сильным, как и раньше",
+        "3": "Я не уверен, что изменилось, если вообще что-то изменилось"
+      },
+      "button": "Полное размышление"
+    }
+  },
+  "buttons": {
+    "continue": "Продолжайте",
+    "restart": "Перезапуск"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Начать заново",
+    "finish_exit": "Финиш и выход",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Время выполнения",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Делиться",
+    "share_progress": "Поделиться прогрессом",
+    "inspire_others": "Вдохновите других сегодня!",
+    "share_text": "Я выполняла это упражнение {{activityName}} в TherapyMantra и мне это очень понравилось, вы тоже можете попробовать, просто перейдите по ссылке на приложение для Android {{androidUrl}} или iOS {{iosUrl}}.",
+    "this_activity": "эта деятельность",
+    "copied": "Скопировано!",
+    "copy_message": "Скопировать сообщение",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Назовите свой разум",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Когда возникает какая-либо мысль, часто кажется, что это...",
+  "more": "Более",
+  "breadcrumb": "хлебные крошки",
+  "previous_slide": "Предыдущий слайд",
+  "next_slide": "Следующий слайд",
+  "close": "Закрывать",
+  "previous": "Предыдущий",
+  "more_pages": "Больше страниц",
+  "pagination": "нумерация страниц",
+  "go_to_previous_page": "Перейти на предыдущую страницу",
+  "go_to_next_page": "Перейти на следующую страницу",
+  "toggle_sidebar": "Переключить боковую панель",
+  "oops_page_not_found": "Ой! Страница не найдена.",
+  "return_to_home": "Вернуться на главную",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "Долго"
+}

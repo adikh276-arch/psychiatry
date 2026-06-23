@@ -1,0 +1,136 @@
+{
+  "app_title": "마음을 이름 붙여",
+  "intro": {
+    "title": "마음을 만나세요",
+    "description": "내면의 목소리에 이름을 붙여 압도적인 생각에서 거리를 두는 법을 배우세요.",
+    "benefits": {
+      "0": "정신적 거리를 두세요",
+      "1": "거친 생각의 힘을 줄이세요",
+      "2": "생각이 아닌 생각을 알아차리세요"
+    },
+    "duration": "2-3분",
+    "view_past": "과거 항목 보기"
+  },
+  "history": {
+    "title": "과거 출품작",
+    "no_entries": "아직 등록된 적은 없습니다.",
+    "reflection_label": "반성: {{text}}"
+  },
+  "complete": {
+    "title": "활동 완료",
+    "great_job": "정말 잘했어요!",
+    "message": "당신은 마음에 이름을 붙이고 자신과 생각 사이에 공간을 만들었습니다.",
+    "footer": "기억하세요: 마음이 떠오르는 모든 생각을 다 믿을 필요는 없습니다."
+  },
+  "subtitles": {
+    "concept": "관점",
+    "input_thought": "공지",
+    "input_name": "이름",
+    "practice": "실무",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "작은 변화",
+      "example": "\"나는 충분하지 않아\"",
+      "desc": "어떤 생각이 떠오를 때, 종종 <0>너</0> 같은 느낌이 든다. 하지만 한 발 물러서서 <> notice</1> 할 수 있다면 어떨까요?"
+    },
+    "input_thought": {
+      "title": "진짜 생각부터 시작해 봅시다",
+      "desc": "최근에 당신을 괴롭히는 생각이 하나 있나요?",
+      "placeholder": "떠오르는 대로 정확히 써..."
+    },
+    "input_name": {
+      "title": "거리를 두세요",
+      "desc": "이런 생각에서 벗어날 수 있도록 마음에 이름을 붙여 주세요.",
+      "placeholder": "아니면 직접 타이핑할 수도 있고...",
+      "examples": {
+        "0": "비평가",
+        "1": "생각이 과잉하는 사람",
+        "2": "걱정 FM",
+        "3": "과잉 사고 기계",
+        "4": "내면의 비평가",
+        "5": "What-If 생성기",
+        "6": "연극 감독"
+      }
+    },
+    "practice": {
+      "title": "이 교대 근무를 시도해 보세요",
+      "instead_of": "대신",
+      "try_saying": "이렇게 말해 보세요",
+      "is_telling_me": "{{name}}가 내게 말하고 있다:",
+      "guide": "이 문장을 자신의 속도에 맞춰 4-5번 부드럽게 반복해 보세요.",
+      "button": "준비됐어"
+    },
+    "reflection": {
+      "title": "무엇이 눈에 띄었나요?",
+      "desc": "이름을 붙인 후 그 생각은 어땠나요?",
+      "options": {
+        "0": "그 생각은 전보다 조금 덜 강렬하게 느껴졌다",
+        "1": "그 생각에서 어느 정도 거리를 둔 것 같았어요",
+        "2": "여전히 전과 똑같이 강하게 느껴졌다",
+        "3": "무엇이 바뀌었는지, 혹은 아무것도 없었는지 잘 모르겠습니다"
+      },
+      "button": "완전한 성찰"
+    }
+  },
+  "buttons": {
+    "continue": "계속",
+    "restart": "재시작"
+  },
+  "common": {
+    "get_started": "시작하기",
+    "start_over": "처음부터 다시 시작",
+    "finish_exit": "완료 및 종료",
+    "well_done": "잘하셨어요!",
+    "completion_message": "이 활동을 성공적으로 완료하셨습니다. 잠시 시간을 내어 지금까지의 성과를 되돌아보세요.",
+    "time_to_complete": "완료 시간",
+    "back": "뒤로",
+    "next": "다음",
+    "save": "저장",
+    "loading": "로딩 중...",
+    "share": "공유하다",
+    "share_progress": "진행 상황 공유",
+    "inspire_others": "오늘 다른 사람들에게 영감을 주세요",
+    "share_text": "저는 TherapyMantra에서 {{activityName}} 활동을 해봤는데 정말 좋았어요. 여러분도 해보세요. 안드로이드 앱 {{androidUrl}} 또는 iOS 앱 {{iosUrl}} 링크를 따라가시면 됩니다.",
+    "this_activity": "이 활동",
+    "copied": "복사했어요!",
+    "copy_message": "메시지 복사",
+    "yes": "네",
+    "no": "아니요",
+    "date": "날짜",
+    "continue": "계속하기",
+    "step_of": "{{total}}단계 중 {{current}}단계",
+    "round_of": "{{total}}라운드 중 {{current}}라운드",
+    "phase_label": "단계",
+    "rounds_selector": "{{count}} 라운드",
+    "instruction_ready": "라운드를 설정하고 재생을 눌러 시작하세요",
+    "instruction_running": "원을 따라 호흡을 조절하세요"
+  },
+  "app_description": "당신의 마음을 이름 붙여보세요",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "생각이 떠오르면, 마치…",
+  "more": "더",
+  "breadcrumb": "빵가루",
+  "previous_slide": "이전 슬라이드",
+  "next_slide": "다음 슬라이드",
+  "close": "닫다",
+  "previous": "이전의",
+  "more_pages": "더 많은 페이지",
+  "pagination": "쪽수 매기기",
+  "go_to_previous_page": "이전 페이지로 이동",
+  "go_to_next_page": "다음 페이지로 이동",
+  "toggle_sidebar": "사이드바 토글",
+  "oops_page_not_found": "앗! 페이지를 찾을 수 없습니다.",
+  "return_to_home": "홈으로 돌아가기",
+  "phase_label": "단계",
+  "instruction_ready": "라운드를 설정하고 재생을 눌러 시작하세요",
+  "instruction_running": "원을 따라 호흡을 조절하세요",
+  "round_x_of_y": "{{total}}라운드 중 {{current}}라운드",
+  "rounds_selector": "{{count}} 라운드",
+  "yes": "네",
+  "no": "아니요",
+  "date": "날짜",
+  "continue": "계속하기",
+  "lang": "길게"
+}

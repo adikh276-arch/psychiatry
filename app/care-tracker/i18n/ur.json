@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "دوبارہ شروع کریں۔",
+    "finish_exit": "ختم کریں اور باہر نکلیں۔",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "مکمل ہونے کا وقت",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "شیئر کریں۔",
+    "share_progress": "پیش رفت کا اشتراک کریں",
+    "inspire_others": "آج دوسروں کو متاثر کریں۔",
+    "share_text": "میں نے یہ {{activityName}} TherapyMantra میں کیا ہے اور واقعی اس سے لطف اندوز ہوں آپ بھی کر سکتے ہیں بس android ایپ {{androidUrl}} یا ios ایپ {{iosUrl}} کے لنک پر عمل کریں۔",
+    "this_activity": "اس سرگرمی",
+    "copied": "نقل کیا گیا!",
+    "copy_message": "پیغام کاپی کریں۔",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "ایک اور سرگرمی شامل کریں...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "سیلف کیئر ٹریکر",
+      "description": "اپنی روزمرہ کی خود نگہداشت کی عادات کو ٹریک کریں اور دیکھیں کہ یہ آپ کی مجموعی فلاح و بہبود پر کیسے اثر انداز ہوتی ہیں۔ مستقل مزاجی صحت مند ذہن کی کنجی ہے۔",
+      "benefits": {
+        "0": "روزانہ کی خود نگہداشت کی سرگرمیاں لاگ کریں",
+        "1": "اپنے آپ پر صرف کیے گئے وقت کو ٹریک کریں",
+        "2": "اپنے موڈ پیٹرن کی نگرانی کریں",
+        "3": "تاریخ اور پیش رفت دیکھیں"
+      },
+      "duration": "2-3 منٹ",
+      "benefit1": "روزانہ جسمانی اور ذہنی صحت کے اعمال کو لاگ کریں",
+      "benefit2": "دیکھیں کہ چیلنجز آپ کو آرام سے روک رہے ہیں",
+      "benefit3": "مثبت حوصلہ افزائی کے ذریعے ذہنی سکون پیدا کریں"
+    },
+    "checkin": {
+      "title": "سیلف کیئر چیک ان 🌿",
+      "subtitle": "آج آپ نے اپنی دیکھ بھال کیسے کی؟",
+      "question": "کیا آپ نے آج خود کی دیکھ بھال کی مشق کی؟ *",
+      "description": "خود کی دیکھ بھال وہ سرگرمی ہے جو ہم جان بوجھ کر اپنی ذہنی، جذباتی اور جسمانی صحت کا خیال رکھنے کے لیے کرتے ہیں۔"
+    },
+    "activities": {
+      "title": "آپ کی سرگرمیاں 🎯",
+      "subtitle": "آج آپ نے کون سی سیلف کیئر سرگرمیاں کیں؟"
+    },
+    "duration": {
+      "title": "گزارا ⏱️ ہوا وقت",
+      "subtitle": "آپ نے خود کی دیکھ بھال پر کتنا وقت صرف کیا؟ (اختیاری)"
+    },
+    "noSelfCare": {
+      "title": "کوئی بات نہیں 💛",
+      "subtitle": "آئیے سمجھتے ہیں آج کیا ہوا۔",
+      "question1": "آج خود کی دیکھ بھال میں کیا رکاوٹ تھی؟ (اختیاری)",
+      "question2": "کس قسم کی خود نگہداشت مددگار ہوتی؟ (اختیاری)"
+    },
+    "mood": {
+      "title": "کیسا محسوس کر رہے ہو؟ 🫧",
+      "subtitle": "اپنا موجودہ موڈ منتخب کریں (اختیاری)"
+    },
+    "review": {
+      "title": "آپ کی انٹری 📋",
+      "subtitle": "یہاں آج کے چیک ان کا خلاصہ پیش ہے",
+      "didSelfCare": "کیا وہ خود کی دیکھ بھال کرتا تھا؟",
+      "activities": "سرگرمیاں",
+      "duration": "دورانیہ",
+      "mood": "موڈ",
+      "challenges": "روکا گیا",
+      "whatHelps": "مدد ملتی",
+      "viewHistory": "ہفتہ وار تاریخ",
+      "editToday": "ترمیم: اندراج",
+      "summary": "خلاصہ"
+    },
+    "history": {
+      "title": "ہفتہ وار تاریخ 📅",
+      "subtitle": "گزشتہ 7 دنوں میں کوئی اندراج نہیں ہوا"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "اوہ! صفحہ نہیں ملا",
+      "returnHome": "گھر کی طرف واپسی"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "ورزش",
+      "Meditation": "مراقبہ",
+      "Journaling": "جرنلنگ",
+      "Reading": "مطالعہ",
+      "Rest / Nap": "آرام / نیند",
+      "Skincare": "سکن کیئر",
+      "Healthy Meal": "صحت مند کھانا",
+      "Nature / Walk": "نیچر / واک",
+      "Social Time": "سماجی وقت",
+      "Hobby": "مشغلہ",
+      "Therapy": "تھراپی",
+      "Digital Detox": "ڈیجیٹل ڈیٹاکس"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 منٹ",
+      "10–30 minutes": "10–30 منٹ",
+      "30–60 minutes": "30–60 منٹ",
+      "1+ hour": "1+ گھنٹہ"
+    },
+    "reasons": {
+      "Busy schedule": "مصروف شیڈول",
+      "Low energy": "کم توانائی",
+      "Stress": "دباؤ",
+      "Forgot": "بھول گیا",
+      "No motivation": "کوئی محرک نہیں",
+      "Not feeling well": "ٹھیک محسوس نہیں کر رہا",
+      "Lack of time": "وقت کی کمی",
+      "Emotional overwhelm": "جذباتی دباؤ"
+    },
+    "helpfulTypes": {
+      "Rest": "آرام",
+      "Relaxation": "آرام",
+      "Physical activity": "جسمانی سرگرمی",
+      "Talking to someone": "کسی سے بات کرنا",
+      "Quiet time": "خاموشی کا وقت",
+      "Creative activity": "تخلیقی سرگرمیاں"
+    },
+    "moods": {
+      "Happy": "خوش",
+      "Calm": "پرسکون",
+      "Neutral": "غیر جانبدار",
+      "Low": "لو",
+      "Stressed": "دباؤ میں",
+      "Tired": "تھکا ہوا ہوں"
+    },
+    "positiveStatements": {
+      "0": "آج تم اپنے لیے آئے ہو۔ یہ بہت طاقتور ہے۔ 🌿",
+      "1": "خود کی دیکھ بھال خود غرضی نہیں — یہ لازمی ہے۔ شاباش۔ 💚",
+      "2": "ہر چھوٹی سی دیکھ بھال آپ کو مضبوط بناتی ہے۔ 🌱",
+      "3": "آج تم نے خود میں سرمایہ کاری کی۔ یہ اہم ہے۔ ✨",
+      "4": "تمہاری دیکھ بھال کرنا آج تمہاری سب سے بہترین چیز ہے۔ 🍃"
+    },
+    "supportiveStatements": {
+      "0": "کوئی بات نہیں۔ کل ایک نیا آغاز ہے۔ اپنے آپ کے ساتھ نرمی برتیں۔ 🤍",
+      "1": "ہر دن کامل نہیں ہوتا، اور یہ بالکل ٹھیک ہے۔ 🕊️",
+      "2": "تم اپنی پوری کوشش کر رہے ہو۔ یہ ہمیشہ کافی ہوتا ہے۔ 💛",
+      "3": "آرام بھی خود کی دیکھ بھال کی ایک شکل ہے۔ اپنے آپ کو مہربانی دیں۔ 🌸",
+      "4": "آج کو تسلیم کرنے کے لیے حوصلہ چاہیے۔ تم پہلے ہی بڑھ رہے ہو۔ 🌷"
+    }
+  },
+  "app_title": "سیلف کیئر ٹریکر",
+  "app_description": "اپنی روزانہ کی خود کی دیکھ بھال کی عادات کا سراغ لگائیں اور دیکھیں کہ وہ آپ کی مجموعی صحت کو کیسے متاثر کرتی ہیں۔ مستقل مزاجی صحت مند ذہن کی کلید ہے۔",
+  "initializing_session": "سیشن شروع کر رہا ہے۔",
+  "language": "زبان",
+  "your_progress_over_the_last_7_days": "پچھلے 7 دنوں میں آپ کی پیشرفت",
+  "fetching_data": "ڈیٹا حاصل کر رہا ہے...",
+  "more": "مزید",
+  "breadcrumb": "بریڈ کرمب",
+  "previous_slide": "پچھلی سلائیڈ",
+  "next_slide": "اگلی سلائیڈ",
+  "close": "بند",
+  "previous": "پچھلا",
+  "more_pages": "مزید صفحات",
+  "pagination": "صفحہ بندی",
+  "go_to_previous_page": "پچھلے صفحے پر جائیں۔",
+  "go_to_next_page": "اگلے صفحے پر جائیں۔",
+  "toggle_sidebar": "سائڈبار کو ٹوگل کریں۔",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "لمبا"
+}

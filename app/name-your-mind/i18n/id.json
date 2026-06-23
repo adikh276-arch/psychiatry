@@ -1,0 +1,136 @@
+{
+  "app_title": "Beri Nama Pikiran Anda",
+  "intro": {
+    "title": "Temui Pikiran Anda",
+    "description": "Belajarlah untuk menjauhkan diri dari pikiran yang luar biasa dengan memberi nama suara batin Anda.",
+    "benefits": {
+      "0": "Menciptakan jarak mental",
+      "1": "Kurangi kekuatan pikiran kasar",
+      "2": "Perhatikan pikiran tanpa menjadi mereka"
+    },
+    "duration": "2-3 menit",
+    "view_past": "Lihat Entri Sebelumnya"
+  },
+  "history": {
+    "title": "Entri Sebelumnya",
+    "no_entries": "Belum ada entri.",
+    "reflection_label": "Refleksi: {{text}}"
+  },
+  "complete": {
+    "title": "Kegiatan Selesai",
+    "great_job": "Kerja bagus!",
+    "message": "Anda telah berhasil menamai pikiran Anda dan menciptakan ruang antara diri Anda dan pikiran Anda.",
+    "footer": "Ingat: Anda tidak harus mempercayai setiap pikiran yang diberikan pikiran Anda."
+  },
+  "subtitles": {
+    "concept": "Perspektif",
+    "input_thought": "Pemberitahuan",
+    "input_name": "Nama",
+    "practice": "Latihan",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Pergeseran kecil",
+      "example": "\"Saya tidak cukup baik\"",
+      "desc": "Ketika sebuah pikiran muncul, sering kali terasa seperti <0>you</0>. Tetapi bagaimana jika Anda bisa mundur dan <1>perhatikan</1> sebagai gantinya?"
+    },
+    "input_thought": {
+      "title": "Mari kita mulai dengan pemikiran nyata",
+      "desc": "Apa satu pemikiran yang mengganggu Anda akhir-akhir ini?",
+      "placeholder": "Tuliskan persis seperti yang datang kepada Anda..."
+    },
+    "input_name": {
+      "title": "Buat jarak",
+      "desc": "Beri pikiran Anda nama untuk membantu memisahkan diri Anda dari pikiran-pikiran ini.",
+      "placeholder": "Atau ketik Anda sendiri...",
+      "examples": {
+        "0": "Kritikus",
+        "1": "Pemikir berlebihan",
+        "2": "Khawatirkan FM",
+        "3": "Mesin Overthinking",
+        "4": "Kritikus Batin",
+        "5": "Generator Bagaimana-Jika",
+        "6": "Sutradara Drama"
+      }
+    },
+    "practice": {
+      "title": "Coba shift ini",
+      "instead_of": "Alih-alih",
+      "try_saying": "Coba katakan",
+      "is_telling_me": "{{name}} memberi tahu saya:",
+      "guide": "Ulangi kalimat ini dengan lembut pada diri sendiri 4-5 kali dengan kecepatan Anda sendiri.",
+      "button": "Saya Siap"
+    },
+    "reflection": {
+      "title": "Apa yang Anda perhatikan?",
+      "desc": "Bagaimana perasaan pikiran itu setelah memberinya nama?",
+      "options": {
+        "0": "Pikiran itu terasa sedikit kurang intens dari sebelumnya",
+        "1": "Saya merasa seperti saya memiliki jarak dari pikiran itu",
+        "2": "Masih terasa sekuat sebelumnya",
+        "3": "Saya tidak yakin apa yang berubah, jika ada"
+      },
+      "button": "Refleksi Lengkap"
+    }
+  },
+  "buttons": {
+    "continue": "Lanjutkan",
+    "restart": "Mulai ulang"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mulai dari Awal",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Waktu penyelesaian",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Membagikan",
+    "share_progress": "Bagikan Kemajuan",
+    "inspire_others": "Berikan inspirasi kepada orang lain hari ini.",
+    "share_text": "Saya telah melakukan {{activityName}} ini di TherapyMantra dan sangat menikmatinya, Anda juga bisa melakukannya, cukup ikuti tautan ke aplikasi Android {{androidUrl}} atau aplikasi iOS {{iosUrl}}",
+    "this_activity": "aktivitas ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Pesan",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Sebutkan Pikiranmu",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Ketika sebuah pikiran muncul, seringkali terasa seperti...",
+  "more": "Lagi",
+  "breadcrumb": "remah roti",
+  "previous_slide": "Slide sebelumnya",
+  "next_slide": "Slide berikutnya",
+  "close": "Menutup",
+  "previous": "Sebelumnya",
+  "more_pages": "Halaman lainnya",
+  "pagination": "penomoran halaman",
+  "go_to_previous_page": "Kembali ke halaman sebelumnya",
+  "go_to_next_page": "Lanjut ke halaman berikutnya",
+  "toggle_sidebar": "Alihkan Sidebar",
+  "oops_page_not_found": "Ups! Halaman tidak ditemukan",
+  "return_to_home": "Kembali ke Halaman Utama",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "panjang"
+}

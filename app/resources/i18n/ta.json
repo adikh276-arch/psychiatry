@@ -1,0 +1,99 @@
+{
+  "app_title": "வளங்கள்",
+  "not_found": {
+    "title": "காணப்படவில்லை",
+    "message": "ஆதாரம் காணப்படவில்லை",
+    "description": "நீங்கள் தேடும் உள்ளடக்கம் நகர்ந்திருக்கலாம்.",
+    "button": "திரும்பிச் செல்லுங்கள்"
+  },
+  "list": {
+    "empty_title": "{{type}} ஏதும் கிடைக்கப்பெறவில்லை",
+    "empty_desc": "இந்த தலைப்பிற்கான கூடுதல் ஆதாரங்களை நாங்கள் தற்போது தொகுத்து வருகிறோம்.",
+    "footer": "மந்திர பராமரிப்பு • ஆதார அடிப்படையிலான ஆதாரங்கள்"
+  },
+  "detail": {
+    "loading": "ஏற்றுகிறது...",
+    "tip": {
+      "insight_label": "நுண்ணறிவு",
+      "plan_title": "தினசரி செயல் திட்டம்",
+      "steps": "{{count}} படிகள்",
+      "example_label": "பயிற்சி உதாரணம்",
+      "instead_of": "அதற்கு பதிலாக",
+      "try_this": "இதை முயற்சிக்கவும்"
+    },
+    "article": {
+      "final_thought": "இறுதி சிந்தனை"
+    },
+    "story": {
+      "reflection_label": "உட்கார ஏதாவது",
+      "note_label": "ஆசிரியரின் குறிப்பு"
+    },
+    "myth": {
+      "truth_label": "அறிவியல் உண்மை",
+      "explanation_label": "விரிவான விளக்கம்",
+      "insight_label": "முக்கிய நுண்ணறிவு"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "மீண்டும் தொடங்கு",
+    "finish_exit": "முடித்துவிட்டு வெளியேறவும்",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "முடிக்க வேண்டிய நேரம்",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "பகிர்",
+    "share_progress": "முன்னேற்றத்தைப் பகிரவும்",
+    "inspire_others": "இன்று மற்றவர்களுக்கு ஊக்கமளியுங்கள்",
+    "share_text": "நான் தெரபிமந்த்ராவில் இந்த {{activityName}} செயல்பாட்டைச் செய்துள்ளேன், அது எனக்கு மிகவும் பிடித்திருக்கிறது. நீங்களும் இதைச் செய்யலாம், ஆண்ட்ராய்டு செயலி {{androidUrl}} அல்லது ஐஓஎஸ் செயலி {{iosUrl}} இணைப்பைப் பின்தொடரவும்.",
+    "this_activity": "இந்த செயல்பாடு",
+    "copied": "நகலெடுக்கப்பட்டது!",
+    "copy_message": "செய்தியை நகலெடுக்கவும்",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "வளங்கள்",
+  "concerns": {
+    "acceptance": "ஏற்றுக்கொள்ளுதல்",
+    "adolescent": "இளம் பருவத்தினர்",
+    "anger": "கோபம்",
+    "anxiety": "கவலை",
+    "depression": "மனச்சோர்வு",
+    "eating-disorder": "உணவுக் கோளாறு",
+    "grief": "துக்கம்",
+    "parenting": "பெற்றோர் வளர்ப்பு",
+    "postpartum": "பிரசவத்திற்குப் பின்",
+    "ptsd": "PTSD",
+    "relationship": "உறவு",
+    "sexuality": "பாலியல்",
+    "sleep": "தூக்கம்",
+    "stress": "மன அழுத்தம்",
+    "workplace": "பணியிடம்"
+  },
+  "types": {
+    "stories": "கதைகள்",
+    "articles": "கட்டுரைகள்",
+    "myths": "கட்டுக்கதைகள்",
+    "tips": "குறிப்புகள்"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

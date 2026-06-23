@@ -1,0 +1,136 @@
+{
+  "app_title": "Pangalanan ang Iyong Isip",
+  "intro": {
+    "title": "Kilalanin ang Iyong Isip",
+    "description": "Matutong lumayo sa iyong sarili mula sa labis na mga saloobin sa pamamagitan ng pagbibigay ng pangalan sa iyong panloob na boses.",
+    "benefits": {
+      "0": "Lumikha ng distansya sa pag-iisip",
+      "1": "Bawasan ang Kapangyarihan ng Malupit na Pag-iisip",
+      "2": "Pansinin ang mga saloobin nang hindi sila"
+    },
+    "duration": "2-3 minuto",
+    "view_past": "Tingnan ang Mga Nakaraang Entry"
+  },
+  "history": {
+    "title": "Mga Nakaraang Entry",
+    "no_entries": "Wala pang entry.",
+    "reflection_label": "Pagmumuni-muni: {{text}}"
+  },
+  "complete": {
+    "title": "Kumpleto ang Aktibidad",
+    "great_job": "Mahusay na trabaho!",
+    "message": "Matagumpay mong pinangalanan ang iyong isip at lumikha ng ilang puwang sa pagitan ng iyong sarili at ng iyong mga saloobin.",
+    "footer": "Tandaan: Hindi mo kailangang paniwalaan ang bawat pag-iisip na ibinibigay sa iyo ng iyong isipan."
+  },
+  "subtitles": {
+    "concept": "Pananaw",
+    "input_thought": "Paunawa",
+    "input_name": "Pangalan",
+    "practice": "Pagsasanay",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Isang maliit na paglipat",
+      "example": "\"Hindi ako sapat na mabuti\"",
+      "desc": "Kapag ang isang pag-iisip ay nagpapakita, madalas itong pakiramdam na ito ay <0>ikaw< / 0>. Ngunit paano kung maaari kang umatras at <1>pansin< / 1> sa halip?"
+    },
+    "input_thought": {
+      "title": "Magsimula tayo sa isang tunay na pag-iisip",
+      "desc": "Ano ang isang pag-iisip na bumabagabag sa iyo kamakailan?",
+      "placeholder": "Isulat ito nang eksakto tulad ng pagdating sa iyo ..."
+    },
+    "input_name": {
+      "title": "Lumikha ng ilang distansya",
+      "desc": "Bigyan ang iyong isip ng isang pangalan upang makatulong na ihiwalay ang iyong sarili mula sa mga kaisipang ito.",
+      "placeholder": "O i-type ang iyong sariling ...",
+      "examples": {
+        "0": "Ang Kritiko",
+        "1": "Labis na nag-iisip",
+        "2": "Mag-alala FM",
+        "3": "Ang Overthinking Machine",
+        "4": "Ang Panloob na Kritiko",
+        "5": "Ang What-If Generator",
+        "6": "Direktor ng Drama"
+      }
+    },
+    "practice": {
+      "title": "Subukan ang shift na ito",
+      "instead_of": "Sa halip na",
+      "try_saying": "Subukang sabihin",
+      "is_telling_me": "Sabi nga ni {{name}} sa akin:",
+      "guide": "Dahan-dahang ulitin ang pangungusap na ito sa iyong sarili 4-5 beses sa iyong sariling bilis.",
+      "button": "Handa na ako"
+    },
+    "reflection": {
+      "title": "Ano ang napansin mo?",
+      "desc": "Ano ang naramdaman niya matapos itong bigyan ng pangalan?",
+      "options": {
+        "0": "Ang pag-iisip ay medyo hindi gaanong matindi kaysa dati",
+        "1": "Pakiramdam ko ay medyo malayo ako sa pag-iisip",
+        "2": "Parang malakas pa rin ito tulad ng dati",
+        "3": "Hindi ako sigurado kung ano ang nagbago, kung mayroon man"
+      },
+      "button": "Kumpletong Pagmumuni-muni"
+    }
+  },
+  "buttons": {
+    "continue": "Magpatuloy",
+    "restart": "I-restart"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Pangalanan ang Iyong Isip",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Kapag may lumitaw na kaisipan, kadalasan ay parang",
+  "more": "Higit pa",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "more_pages": "Mas maraming pahina",
+  "pagination": "paginasyon",
+  "go_to_previous_page": "Pumunta sa nakaraang pahina",
+  "go_to_next_page": "Pumunta sa susunod na pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar",
+  "oops_page_not_found": "Naku! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Bahay",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

@@ -1,0 +1,115 @@
+{
+  "app_title": "安全空间",
+  "nav": {
+    "0": "办理入住",
+    "1": "温柔地回忆",
+    "2": "观测",
+    "3": "保持当下",
+    "4": "向前迈进"
+  },
+  "s1": {
+    "title": "找个感觉还不错的地方",
+    "description": {
+      "0": "在开始之前，请花点时间了解一下......",
+      "1": "你现在感觉怎么样？",
+      "2": "我们并不是在寻找一个完美的“安全之地”。只要能让我感到哪怕一点平静或还行。"
+    },
+    "placeholder": "你现在感觉怎么样？",
+    "button": "开始可视化"
+  },
+  "s2": {
+    "title": "温柔地提醒你",
+    "description": {
+      "0": "想想一个让你哪怕稍微感到安心的地方......或者你希望存在的地方。",
+      "1": "现在把你放在那里......",
+      "2": "你是坐着、站着还是躺着？"
+    },
+    "button": "继续"
+  },
+  "s3": {
+    "title": "慢慢环顾四周",
+    "description": {
+      "0": "轻轻环顾四周......",
+      "1": "你能看到什么？",
+      "2": "现在听一个声音......你听到了什么？"
+    },
+    "button": "继续"
+  },
+  "s4": {
+    "title": "坚持下去",
+    "description": {
+      "0": "这个地方到底有什么让它感觉哪怕一点安全或还行？",
+      "1": "你注意到了......",
+      "2": "同时关注呼吸。"
+    },
+    "breathe": "呼吸",
+    "notice": "如果想象起来很难，那就想想这个地方的概念。",
+    "button": "继续"
+  },
+  "s5": {
+    "title": "把这个带上",
+    "description": {
+      "0": "注意你现在的感受。即使是小幅度的转变也很重要。",
+      "1": "看看你能不能带着哪怕5%的这种感觉走。"
+    },
+    "placeholder": "你现在感觉怎么样？",
+    "button": "完整会议"
+  },
+  "complete": {
+    "title": "会话结束",
+    "message": "这个安全的地方永远为你开放。你需要片刻安静随时可以回来。"
+  },
+  "common": {
+    "get_started": "开始",
+    "start_over": "重新开始",
+    "finish_exit": "终点与退场",
+    "well_done": "干得好！",
+    "completion_message": "你已经成功完成了这项活动。花点时间欣赏你的进步。",
+    "time_to_complete": "时间到了完成",
+    "back": "返回",
+    "next": "下一个",
+    "save": "保存",
+    "loading": "加载中......",
+    "share": "分享",
+    "share_progress": "分享进展",
+    "inspire_others": "今天激励他人",
+    "share_text": "我在TherapyMantra里{{activityName}}做过这个，非常喜欢，你也可以这样做，只要点击链接到安卓应用{{androidUrl}}或iOS应用{{iosUrl}}}",
+    "this_activity": "这项活动",
+    "copied": "复制了！",
+    "copy_message": "复制消息",
+    "yes": "是的",
+    "no": "不",
+    "date": "日期",
+    "continue": "继续",
+    "step_of": "{{current}} 的步骤 {{total}}",
+    "round_of": "{{current}} 轮 {{total}}",
+    "phase_label": "阶段",
+    "rounds_selector": "{{count}}回合",
+    "instruction_ready": "设置你的回合并点击播放开始",
+    "instruction_running": "跟着圆圈来调节呼吸"
+  },
+  "app_description": "安全空间",
+  "more": "更多",
+  "breadcrumb": "面包屑",
+  "previous_slide": "上一张幻灯片",
+  "next_slide": "下一张幻灯片",
+  "close": "结束",
+  "previous": "之前",
+  "more_pages": "更多页面",
+  "pagination": "分页",
+  "go_to_previous_page": "返回上一页",
+  "go_to_next_page": "前往下一页",
+  "toggle_sidebar": "切换侧边栏",
+  "oops_page_not_found": "哎呀！页面未找到",
+  "return_to_home": "归乡",
+  "phase_label": "阶段",
+  "instruction_ready": "设置你的回合并点击播放开始",
+  "instruction_running": "跟着圆圈来调节呼吸",
+  "round_x_of_y": "{{current}} 轮 {{total}}",
+  "rounds_selector": "{{count}}回合",
+  "yes": "是的",
+  "no": "不",
+  "date": "日期",
+  "continue": "继续",
+  "lang": "很长"
+}

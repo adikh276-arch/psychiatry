@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Börja om från början",
+    "finish_exit": "Slutför och avsluta",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Dags att slutföra",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dela",
+    "share_progress": "Dela framsteg",
+    "inspire_others": "Inspirera andra idag",
+    "share_text": "Jag har gjort detta {{activityName}} i TherapyMantra och gillar det verkligen, du kan också göra det, följ bara länken till Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}",
+    "this_activity": "den här aktiviteten",
+    "copied": "Kopierad!",
+    "copy_message": "Kopiera meddelande",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Egenvårdsspårare",
+      "description": "Följ dina dagliga egenvårdsvanor och se hur de påverkar ditt allmänna välbefinnande. Konsekvens är nyckeln till ett friskare sinne.",
+      "benefits": {
+        "0": "Logga dagliga egenvårdsaktiviteter",
+        "1": "Räkna tiden du spenderar på dig själv",
+        "2": "Följ dina humörmönster",
+        "3": "Se historia och framsteg"
+      },
+      "duration": "2-3 minuter",
+      "benefit1": "Logga dagliga fysiska och mentala hälsoåtgärder",
+      "benefit2": "Lägg märke till utmaningar som hindrar dig från att vila",
+      "benefit3": "Bygg mindfulness genom positiv förstärkning"
+    },
+    "checkin": {
+      "title": "Egenvårdskontroll 🌿",
+      "subtitle": "Hur tog du hand om dig själv idag?",
+      "question": "Har du praktiserat egenvård idag? *",
+      "description": "Egenvård är alla aktiviteter som vi medvetet gör för att ta hand om vår mentala, emotionella och fysiska hälsa."
+    },
+    "activities": {
+      "title": "Dina aktiviteter 🎯",
+      "subtitle": "Vilka egenvårdsaktiviteter gjorde du idag?"
+    },
+    "duration": {
+      "title": "Tid tillbringad ⏱️",
+      "subtitle": "Hur lång tid ägnade du åt egenvård? (valfritt)"
+    },
+    "noSelfCare": {
+      "title": "Det är okej 💛",
+      "subtitle": "Låt oss förstå vad som hände idag.",
+      "question1": "Vad hindrade egenvård idag? (valfritt)",
+      "question2": "Vilken typ av egenvård hade hjälpt? (valfritt)"
+    },
+    "mood": {
+      "title": "Hur mår du? 🫧",
+      "subtitle": "Välj ditt nuvarande humör (valfritt)"
+    },
+    "review": {
+      "title": "Din anmälan 📋",
+      "subtitle": "Här är en sammanfattning av dagens incheckning",
+      "didSelfCare": "Tog jag hand om mig själv?",
+      "activities": "Aktiviteter",
+      "duration": "Varaktighet",
+      "mood": "Humör",
+      "challenges": "Förhindrad av",
+      "whatHelps": "Det hade hjälpt",
+      "viewHistory": "Veckovisa Historia",
+      "editToday": "Redigera inlägg",
+      "summary": "Sammanfattning"
+    },
+    "history": {
+      "title": "Veckovisa Historia 📅",
+      "subtitle": "Inga anmälningar de senaste 7 dagarna"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Oj! Sidan hittades inte",
+      "returnHome": "Återkomst hem"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Träning",
+      "Journaling": "Dagboksskrivning",
+      "Reading": "Läsning",
+      "Rest / Nap": "Vila / Vila",
+      "Skincare": "Hudvård",
+      "Healthy Meal": "Hälsosam måltid",
+      "Nature / Walk": "Natur / Vandring",
+      "Social Time": "Social tid",
+      "Therapy": "Terapi",
+      "Digital Detox": "Digital avgiftning",
+      "Meditation": "Meditation",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minuter",
+      "10–30 minutes": "10–30 minuter",
+      "30–60 minutes": "30–60 minuter",
+      "1+ hour": "1+ timme"
+    },
+    "reasons": {
+      "Busy schedule": "Fullspäckat schema",
+      "Low energy": "Låg energi",
+      "Forgot": "Glömt",
+      "No motivation": "Ingen motivation",
+      "Not feeling well": "Mår inte bra",
+      "Lack of time": "Brist på tid",
+      "Emotional overwhelm": "Emotionell överväldigande",
+      "Stress": "Stress"
+    },
+    "helpfulTypes": {
+      "Rest": "Vila",
+      "Relaxation": "Avslappning",
+      "Physical activity": "Fysisk aktivitet",
+      "Talking to someone": "Prata med någon",
+      "Quiet time": "Tyst tid",
+      "Creative activity": "Kreativ verksamhet"
+    },
+    "moods": {
+      "Happy": "Glad",
+      "Calm": "Lugn",
+      "Low": "Lågt",
+      "Stressed": "Stressad",
+      "Tired": "Trött",
+      "Neutral": "Neutral"
+    },
+    "positiveStatements": {
+      "0": "Du dök upp för din egen skull idag. Det är kraftfullt. 🌿",
+      "1": "Egenvård är inte själviskt – det är nödvändigt. Bra jobbat. 💚",
+      "2": "Varje liten omsorgshandling bygger en starkare version av dig själv. 🌱",
+      "3": "Du investerade i dig själv idag. Det spelar roll. ✨",
+      "4": "Att ta hand om dig själv är det bästa du gjort idag. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Det är okej. Imorgon är en nystart. Var snäll mot dig själv. 🤍",
+      "1": "Inte varje dag kommer att vara perfekt, och det är helt okej. 🕊️",
+      "2": "Du gör ditt bästa. Det räcker alltid. 💛",
+      "3": "Vila är också en form av egenvård. Visa dig själv tålamod. 🌸",
+      "4": "Att erkänna idag kräver mod. Du växer redan. 🌷"
+    }
+  },
+  "app_title": "Självvårdsspårare",
+  "app_description": "Följ dina dagliga egenvårdsvanor och se hur de påverkar ditt allmänna välbefinnande. Konsekvens är nyckeln till ett hälsosammare sinne.",
+  "initializing_session": "Initierar session",
+  "language": "Språk",
+  "your_progress_over_the_last_7_days": "Dina framsteg under de senaste 7 dagarna",
+  "fetching_data": "Hämtar data...",
+  "more": "Mer",
+  "breadcrumb": "brödsmulor",
+  "previous_slide": "Föregående bild",
+  "next_slide": "Nästa bild",
+  "close": "Nära",
+  "previous": "Tidigare",
+  "more_pages": "Fler sidor",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå till föregående sida",
+  "go_to_next_page": "Gå till nästa sida",
+  "toggle_sidebar": "Växla sidofält",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "Lång"
+}

@@ -1,0 +1,115 @@
+{
+  "app_title": "Spațiu sigur",
+  "nav": {
+    "0": "Check-in",
+    "1": "Recall blând",
+    "2": "Observare",
+    "3": "Rămânând prezent",
+    "4": "Mergând înainte"
+  },
+  "s1": {
+    "title": "Hai să găsim un loc care să se simtă bine",
+    "description": {
+      "0": "Înainte să începem, luați un moment să verificați...",
+      "1": "Cum te simți acum?",
+      "2": "Nu căutăm un \"loc sigur\" perfect. Doar ceva care să se simtă măcar puțin liniștit sau în regulă."
+    },
+    "placeholder": "Cum te simți acum?",
+    "button": "Începeți vizualizarea"
+  },
+  "s2": {
+    "title": "Adu-mi ușor aminte de asta",
+    "description": {
+      "0": "Gândește-te la un loc unde te-ai simțit măcar puțin în largul tău... Sau un loc pe care ți-ai dori să existe.",
+      "1": "Acum așază-te acolo...",
+      "2": "Stai jos, stai în picioare sau stai întins?"
+    },
+    "button": "Continuă"
+  },
+  "s3": {
+    "title": "Uită-te încet în jur",
+    "description": {
+      "0": "Aruncă o privire blândă în jur...",
+      "1": "Care este un lucru pe care îl poți vedea?",
+      "2": "Acum observă un sunet... Ce auzi?"
+    },
+    "button": "Continuă"
+  },
+  "s4": {
+    "title": "Rămâi cu asta",
+    "description": {
+      "0": "Ce anume la acest loc îl face să pară măcar puțin sigur sau ok?",
+      "1": "După cum observi asta...",
+      "2": "De asemenea, adu-ți atenția asupra respirației."
+    },
+    "breathe": "Respiră",
+    "notice": "Dacă imaginarea pare grea, gândește-te la ideea acestui loc.",
+    "button": "Continuă"
+  },
+  "s5": {
+    "title": "Ia asta cu tine",
+    "description": {
+      "0": "Observă cum te simți acum. Chiar și o mică schimbare contează.",
+      "1": "Vezi dacă poți duce cu tine măcar 5% din acest sentiment."
+    },
+    "placeholder": "Cum te simți acum?",
+    "button": "Sesiunea completă"
+  },
+  "complete": {
+    "title": "Sesiunea încheiată",
+    "message": "Acest loc sigur este mereu disponibil pentru tine. Poți reveni aici oricând ai nevoie de un moment de liniște."
+  },
+  "common": {
+    "get_started": "Începe",
+    "start_over": "Începeți de la zero",
+    "finish_exit": "Final și ieșire",
+    "well_done": "Bravo!",
+    "completion_message": "Ai finalizat cu succes această activitate. Ia-ți un moment să apreciezi progresul tău.",
+    "time_to_complete": "Timpul de finalizat",
+    "back": "Înapoi",
+    "next": "Următorul",
+    "save": "Salvează",
+    "loading": "Se încarcă...",
+    "share": "Distribuie",
+    "share_progress": "Distribuie progresul",
+    "inspire_others": "Inspiră-i pe ceilalți astăzi",
+    "share_text": "Am făcut asta {{activityName}} în TherapyMantra și chiar îți place, poți face și tu asta, doar urmează linkul către aplicația Android {{androidUrl}} sau aplicația iOS {{iosUrl}}",
+    "this_activity": "Această activitate",
+    "copied": "Copiat!",
+    "copy_message": "Copiază mesajul",
+    "yes": "Da",
+    "no": "Nu",
+    "date": "Data",
+    "continue": "Continuă",
+    "step_of": "Pasul {{current}} al {{total}}",
+    "round_of": "Runda {{current}} a {{total}}",
+    "phase_label": "Fază",
+    "rounds_selector": "{{count}} Runde",
+    "instruction_ready": "Setează-ți rundele și tap play pentru a începe",
+    "instruction_running": "Urmează cercul pentru a-ți regla respirația"
+  },
+  "app_description": "Spațiu sigur",
+  "more": "Mai mult",
+  "breadcrumb": "firimit",
+  "previous_slide": "Slide anterior",
+  "next_slide": "Următorul slide",
+  "close": "Închide",
+  "previous": "Anterior",
+  "more_pages": "Mai multe pagini",
+  "pagination": "Paginare",
+  "go_to_previous_page": "Mergi la pagina anterioară",
+  "go_to_next_page": "Mergi la pagina următoare",
+  "toggle_sidebar": "Comută bara laterală",
+  "oops_page_not_found": "Ups! Pagină negăsită",
+  "return_to_home": "Întoarcerea acasă",
+  "phase_label": "Fază",
+  "instruction_ready": "Setează-ți rundele și tap play pentru a începe",
+  "instruction_running": "Urmează cercul pentru a-ți regla respirația",
+  "round_x_of_y": "Runda {{current}} a {{total}}",
+  "rounds_selector": "{{count}} Runde",
+  "yes": "Da",
+  "no": "Nu",
+  "date": "Data",
+  "continue": "Continuă",
+  "lang": "lung"
+}

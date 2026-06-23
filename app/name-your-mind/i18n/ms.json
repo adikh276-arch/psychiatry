@@ -1,0 +1,136 @@
+{
+  "app_title": "Namakan Fikiran Anda",
+  "intro": {
+    "title": "Temui Minda Anda",
+    "description": "Belajar untuk menjauhkan diri daripada pemikiran yang menggembirakan dengan memberi nama kepada suara dalaman anda.",
+    "benefits": {
+      "0": "Cipta jarak mental",
+      "1": "Kurangkan kuasa pemikiran yang keras",
+      "2": "Perhatikan pemikiran tanpa menjadi mereka"
+    },
+    "duration": "2-3 minit",
+    "view_past": "Lihat Penyertaan Lepas"
+  },
+  "history": {
+    "title": "Penyertaan Lepas",
+    "no_entries": "Tiada penyertaan lagi.",
+    "reflection_label": "Refleksi: {{text}}"
+  },
+  "complete": {
+    "title": "Aktiviti Selesai",
+    "great_job": "Kerja yang hebat!",
+    "message": "Anda telah berjaya menamakan minda anda dan mencipta beberapa ruang antara anda dan pemikiran anda.",
+    "footer": "Ingat: Anda tidak perlu mempercayai setiap pemikiran yang diberikan oleh fikiran anda kepada anda."
+  },
+  "subtitles": {
+    "concept": "Perspektif",
+    "input_thought": "Notis",
+    "input_name": "Nama",
+    "practice": "Amalan",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Peralihan kecil",
+      "example": "\"Saya tidak cukup baik\"",
+      "desc": "Apabila pemikiran muncul, ia selalunya terasa seperti <0>anda</0>. Tetapi bagaimana jika anda boleh berundur dan <1>notis</1> sebaliknya?"
+    },
+    "input_thought": {
+      "title": "Mari kita mulakan dengan pemikiran sebenar",
+      "desc": "Apakah satu pemikiran yang mengganggu anda sejak kebelakangan ini?",
+      "placeholder": "Tulis tepat seperti yang datang kepada anda..."
+    },
+    "input_name": {
+      "title": "Buat jarak tertentu",
+      "desc": "Beri fikiran anda nama untuk membantu memisahkan diri anda daripada pemikiran ini.",
+      "placeholder": "Atau taipkan anda sendiri...",
+      "examples": {
+        "0": "Pengkritik",
+        "1": "Pemikir yang berlebihan",
+        "2": "Bimbang FM",
+        "3": "Mesin Overthinking",
+        "4": "Pengkritik Dalaman",
+        "5": "Penjana Bagaimana-Jika",
+        "6": "Pengarah Drama"
+      }
+    },
+    "practice": {
+      "title": "Cuba syif ini",
+      "instead_of": "Sebaliknya",
+      "try_saying": "Cuba katakan",
+      "is_telling_me": "{{name}} memberitahu saya:",
+      "guide": "Ulangi ayat ini dengan lembut kepada diri sendiri 4-5 kali mengikut kadar anda sendiri.",
+      "button": "Saya sudah bersedia"
+    },
+    "reflection": {
+      "title": "Apa yang anda perhatikan?",
+      "desc": "Bagaimana perasaan pemikiran itu selepas memberinya nama?",
+      "options": {
+        "0": "Pemikiran itu terasa kurang sengit daripada sebelumnya",
+        "1": "Saya berasa seperti saya mempunyai sedikit jarak dari pemikiran itu",
+        "2": "Ia masih terasa sama kuat seperti sebelumnya",
+        "3": "Saya tidak pasti apa yang berubah, jika ada"
+      },
+      "button": "Refleksi Lengkap"
+    }
+  },
+  "buttons": {
+    "continue": "Teruskan",
+    "restart": "Mulakan semula"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Mula Semula",
+    "finish_exit": "Selesai & Keluar",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Masa untuk disiapkan",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Kongsi",
+    "share_progress": "Kongsi Kemajuan",
+    "inspire_others": "Beri inspirasi kepada orang lain hari ini",
+    "share_text": "Saya telah melakukan {{activityName}} ini dalam TherapyMantra dan sangat menikmatinya, anda juga boleh melakukannya, ikuti sahaja pautan ke aplikasi android {{androidUrl}} atau aplikasi ios {{iosUrl}}",
+    "this_activity": "aktiviti ini",
+    "copied": "Disalin!",
+    "copy_message": "Salin Mesej",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Namakan Minda Anda",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Apabila sesuatu fikiran muncul, ia sering terasa seperti",
+  "more": "Lebih lanjut",
+  "breadcrumb": "serbuk roti",
+  "previous_slide": "Slaid sebelumnya",
+  "next_slide": "Slaid seterusnya",
+  "close": "Tutup",
+  "previous": "Sebelumnya",
+  "more_pages": "Lebih banyak halaman",
+  "pagination": "penomboran halaman",
+  "go_to_previous_page": "Pergi ke halaman sebelumnya",
+  "go_to_next_page": "Pergi ke halaman seterusnya",
+  "toggle_sidebar": "Togol Bar Sisi",
+  "oops_page_not_found": "Alamak! Halaman tidak ditemui",
+  "return_to_home": "Kembali ke Rumah",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "panjang"
+}

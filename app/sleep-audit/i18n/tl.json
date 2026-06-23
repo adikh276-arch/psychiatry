@@ -1,0 +1,150 @@
+{
+  "app_title": "Pag-audit ng Pagtulog",
+  "app_subtitle": "Unawain ang iyong pahinga",
+  "intro": {
+    "title": "Ang Iyong Pag-audit sa Pagtulog",
+    "description": "Alamin kung ano ang nakakaapekto sa iyong pagtulog at kung saan makakatulong ang maliliit na pagbabago.",
+    "start_button": "Simulan ang Audit",
+    "history_button": "Mga nakaraang pag-audit",
+    "more_insights": "Back to Start"
+  },
+  "screens": {
+    "s1": {
+      "phase": "Phase 01",
+      "title": "Kumusta ang iyong pagtulog?",
+      "desc": "Pumili ng alinman na nararamdaman na totoo para sa iyo kamakailan"
+    },
+    "s2": {
+      "phase": "Phase 02",
+      "title": "I-rate ang iyong karaniwang pahinga",
+      "label": "Mga partikular na alalahanin?",
+      "placeholder": "Stress, ingay, pag-scroll ..."
+    },
+    "s3": {
+      "score_label": "ng 7",
+      "recommendations": {
+        "solid": "Matibay ang iyong mga bisyo! Ang maliliit na pag-tweak ay maaaring gawing mas mahusay ito.",
+        "some": "Ilang mga pagkagambala ang natuklasan. Ang pagbabago ng ugali ay maaaring makatulong nang mabilis.",
+        "many": "Maraming mga kadahilanan ang nakakaapekto sa iyong pagtulog. Maaari naming gumana sa pamamagitan ng mga ito nang magkasama."
+      }
+    }
+  },
+  "options": {
+    "0": {
+      "emoji": "🕐",
+      "text": "Natutulog ako sa iba't ibang oras gabi-gabi"
+    },
+    "1": {
+      "emoji": "💡",
+      "text": "Ang aking kapaligiran sa pagtulog ay hindi madilim, tahimik, o komportable"
+    },
+    "2": {
+      "emoji": "📱",
+      "text": "Nag-scroll ako sa aking telepono bago matulog"
+    },
+    "3": {
+      "emoji": "☕",
+      "text": "Umiinom ako ng kape o alak malapit nang matulog"
+    },
+    "4": {
+      "emoji": "😵",
+      "text": "Nagising ako sa gabi at nagpupumilit na makatulog muli"
+    },
+    "5": {
+      "emoji": "🧠",
+      "text": "Umiikot ang utak ko sa pag-iisip kapag sinusubukan kong matulog"
+    },
+    "6": {
+      "emoji": "😔",
+      "text": "Bihira akong makaramdam ng kaginhawahan pagkatapos ng isang gabi ng pagtulog"
+    }
+  },
+  "rating_labels": {
+    "0": "Napakahirap",
+    "1": "Mahirap",
+    "2": "Okay",
+    "3": "Mabuti",
+    "4": "Mahusay"
+  },
+  "status_labels": {
+    "track": "Karamihan sa track",
+    "disruptions": "Ilang mga pagkagambala",
+    "attention": "Nangangailangan ng pansin"
+  },
+  "buttons": {
+    "continue": "Magpatuloy",
+    "see_results": "Tingnan ang Mga Resulta",
+    "preserve": "Panatilihin ang Resulta",
+    "preserving": "Pagpapanatili ...",
+    "back_to_intro": "Bumalik sa Intro"
+  },
+  "history": {
+    "title": "Mga nakaraang pag-audit",
+    "no_entries": "Wala pang mga audit na napanatili.",
+    "score_label": "ng 7"
+  },
+  "complete": {
+    "title": "Kumpleto ang Audit",
+    "message": "Ang iyong iskor ng pagtulog ay {{score}}/7. Ang pag-unawa sa mga pattern na ito ay ang unang hakbang patungo sa mas malalim, mas nakapagpapanumbalik na pahinga."
+  },
+  "toasts": {
+    "save_success": "Nai-save ang audit",
+    "save_error": "Nabigong i-save ang audit",
+    "auth_error": "Nawawala ang session ng auth o hindi naka-configure ang DB"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Unawain ang iyong pahinga",
+  "more": "Higit pa",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Nakaraang slide",
+  "next_slide": "Susunod na slide",
+  "close": "Isara",
+  "previous": "Nakaraan",
+  "more_pages": "Mas maraming pahina",
+  "pagination": "paginasyon",
+  "go_to_previous_page": "Pumunta sa nakaraang pahina",
+  "go_to_next_page": "Pumunta sa susunod na pahina",
+  "toggle_sidebar": "I-toggle ang Sidebar",
+  "oops_page_not_found": "Naku! Hindi natagpuan ang pahina",
+  "return_to_home": "Bumalik sa Bahay",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "2d": "2d",
+  "lang": "lang",
+  "loading": "Loading History..."
+}

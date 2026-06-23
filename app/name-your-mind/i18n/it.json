@@ -1,0 +1,136 @@
+{
+  "app_title": "Nomina la tua mente",
+  "intro": {
+    "title": "Incontra la tua mente",
+    "description": "Impara a prendere le distanze dai pensieri travolgenti dando un nome alla tua voce interiore.",
+    "benefits": {
+      "0": "Crea una distanza mentale",
+      "1": "Ridurre il potere dei pensieri duri",
+      "2": "Nota i pensieri senza esserne"
+    },
+    "duration": "2-3 minuti",
+    "view_past": "Visualizza le voci passate"
+  },
+  "history": {
+    "title": "Iscrizioni passate",
+    "no_entries": "Nessuna partecipazione ancora.",
+    "reflection_label": "Riflessione: {{text}}"
+  },
+  "complete": {
+    "title": "Attività completata",
+    "great_job": "Ottimo lavoro!",
+    "message": "Hai dato un nome alla tua mente e creato un po' di spazio tra te e i tuoi pensieri.",
+    "footer": "Ricorda: non devi credere a ogni pensiero che la tua mente ti dà."
+  },
+  "subtitles": {
+    "concept": "Prospettiva",
+    "input_thought": "Avviso",
+    "input_name": "Nome",
+    "practice": "Pratica",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Un piccolo cambiamento",
+      "example": "\"Non sono abbastanza\"",
+      "desc": "Quando un pensiero si manifesta, spesso sembra che sia <0>te</0>. Ma se potessi fare un passo indietro e <1>notar</1> invece?"
+    },
+    "input_thought": {
+      "title": "Iniziamo con un pensiero vero",
+      "desc": "Qual è un pensiero che ti ha tormentato ultimamente?",
+      "placeholder": "Scrivilo esattamente come ti viene in mente..."
+    },
+    "input_name": {
+      "title": "Crea un po' di distanza",
+      "desc": "Dai un nome alla tua mente per aiutarti a separarti da questi pensieri.",
+      "placeholder": "O digita il tuo...",
+      "examples": {
+        "0": "Il Critico",
+        "1": "Pensatore eccessivo",
+        "2": "Worry FM",
+        "3": "La macchina per pensare troppo",
+        "4": "Il critico interiore",
+        "5": "Il Generatore del Cosa Sarebbe Se",
+        "6": "Regista drammatico"
+      }
+    },
+    "practice": {
+      "title": "Prova questo shift",
+      "instead_of": "Invece di",
+      "try_saying": "Prova a dire",
+      "is_telling_me": "{{name}} mi sta dicendo:",
+      "guide": "Ripeti delicatamente questa frase a te stesso 4-5 volte al tuo ritmo.",
+      "button": "Sono pronto"
+    },
+    "reflection": {
+      "title": "Cosa hai notato?",
+      "desc": "Come ti sei sentito a pensarci dopo avergli dato un nome?",
+      "options": {
+        "0": "Il pensiero sembrava un po' meno intenso di prima",
+        "1": "Sentivo di avere una certa distanza dal pensiero",
+        "2": "Sembrava ancora forte come prima",
+        "3": "Non so cosa sia cambiato, se è cambiato qualcosa"
+      },
+      "button": "Riflessione completa"
+    }
+  },
+  "buttons": {
+    "continue": "Continua",
+    "restart": "Riavvio"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ricominciare",
+    "finish_exit": "Termina ed esci",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tempo di completamento",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Condividere",
+    "share_progress": "Condividi i progressi",
+    "inspire_others": "Ispira gli altri oggi",
+    "share_text": "Ho svolto questa attività {{activityName}} su TherapyMantra e mi è piaciuta molto. Puoi farlo anche tu, basta seguire il link all'app Android {{androidUrl}} o all'app iOS {{iosUrl}}.",
+    "this_activity": "questa attività",
+    "copied": "Copiato!",
+    "copy_message": "Copia messaggio",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Dai un nome alla tua mente",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Quando un pensiero si presenta, spesso sembra che sia",
+  "more": "Di più",
+  "breadcrumb": "pangrattato",
+  "previous_slide": "diapositiva precedente",
+  "next_slide": "diapositiva successiva",
+  "close": "Vicino",
+  "previous": "Precedente",
+  "more_pages": "Altre pagine",
+  "pagination": "paginazione",
+  "go_to_previous_page": "Vai alla pagina precedente",
+  "go_to_next_page": "Vai alla pagina successiva",
+  "toggle_sidebar": "Attiva/disattiva la barra laterale",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Torna alla home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lunga"
+}

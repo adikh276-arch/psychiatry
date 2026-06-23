@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Începeți de la început",
+    "finish_exit": "Terminare și ieșire",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Timpul de finalizare",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Distribuie",
+    "share_progress": "Distribuiți progresul",
+    "inspire_others": "Inspiră-i pe alții astăzi",
+    "share_text": "Am făcut această {{activityName}} în TherapyMantra și îmi place foarte mult. O poți face și tu, trebuie doar să accesezi linkul către aplicația Android {{androidUrl}} sau aplicația iOS {{iosUrl}}.",
+    "this_activity": "această activitate",
+    "copied": "Copiat!",
+    "copy_message": "Copiați mesajul",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Tracker de auto-îngrijire",
+      "description": "Urmărește-ți obiceiurile zilnice de îngrijire personală și vezi cum îți afectează starea generală de bine. Consecvența este cheia unei minți mai sănătoase.",
+      "benefits": {
+        "0": "Înregistrează activitățile zilnice de îngrijire personală",
+        "1": "Urmărește timpul petrecut cu tine",
+        "2": "Monitorizează-ți tiparele de dispoziție",
+        "3": "Vezi istoric și progres"
+      },
+      "duration": "2-3 minute",
+      "benefit1": "Înregistrează zilnic actele de sănătate fizică și mentală",
+      "benefit2": "Observă provocările care te împiedică să te odihnești",
+      "benefit3": "Construiește mindfulness prin întărire pozitivă"
+    },
+    "checkin": {
+      "title": "Verificarea 🌿 îngrijirii personale",
+      "subtitle": "Cum te-ai îngrijit azi?",
+      "question": "Ai practicat îngrijirea de sine astăzi? *",
+      "description": "Îngrijirea de sine este orice activitate pe care o facem în mod deliberat pentru a avea grijă de sănătatea noastră mentală, emoțională și fizică."
+    },
+    "activities": {
+      "title": "Activitățile 🎯 tale",
+      "subtitle": "Ce activități de îngrijire personală ai făcut astăzi?"
+    },
+    "duration": {
+      "title": "Timpul petrecut ⏱️",
+      "subtitle": "Cât timp ai petrecut îngrijirea de tine? (opțional)"
+    },
+    "noSelfCare": {
+      "title": "E în regulă 💛",
+      "subtitle": "Să înțelegem ce s-a întâmplat azi.",
+      "question1": "Ce a împiedicat îngrijirea de sine astăzi? (opțional)",
+      "question2": "Ce tip de îngrijire personală ar fi ajutat? (opțional)"
+    },
+    "mood": {
+      "title": "Cum te simți? 🫧",
+      "subtitle": "Selectează-ți starea de spirit actuală (opțional)"
+    },
+    "review": {
+      "title": "Intrarea 📋 ta",
+      "subtitle": "Iată un rezumat al verificării de azi",
+      "didSelfCare": "Avea grijă de sine?",
+      "activities": "Activități",
+      "duration": "Durata",
+      "mood": "Starea de spirit",
+      "challenges": "Prevenit de",
+      "whatHelps": "Ar fi ajutat",
+      "viewHistory": "Istoria săptămânală",
+      "editToday": "Editare intrare",
+      "summary": "Rezumat"
+    },
+    "history": {
+      "title": "Istoria 📅 săptămânală",
+      "subtitle": "Nicio înscriere în ultimele 7 zile"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ups! Pagină negăsită",
+      "returnHome": "Întoarcerea acasă"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Exercițiu",
+      "Meditation": "Meditația",
+      "Journaling": "Jurnalizarea",
+      "Reading": "Citire",
+      "Rest / Nap": "Odihnă / Somn",
+      "Skincare": "Îngrijirea pielii",
+      "Healthy Meal": "Mese sănătoasă",
+      "Nature / Walk": "Natură / Plimbare",
+      "Social Time": "Timpul social",
+      "Therapy": "Terapie",
+      "Digital Detox": "Detoxifiere digitală",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minute",
+      "10–30 minutes": "10–30 de minute",
+      "30–60 minutes": "30–60 de minute",
+      "1+ hour": "1+ oră"
+    },
+    "reasons": {
+      "Busy schedule": "Program încărcat",
+      "Low energy": "Energie scăzută",
+      "Stress": "Stres",
+      "Forgot": "Am uitat",
+      "No motivation": "Fără motivație",
+      "Not feeling well": "Nu mă simt bine",
+      "Lack of time": "Lipsa timpului",
+      "Emotional overwhelm": "Copleșire emoțională"
+    },
+    "helpfulTypes": {
+      "Rest": "Odihnește-te",
+      "Relaxation": "Relaxare",
+      "Physical activity": "Activitate fizică",
+      "Talking to someone": "Să vorbesc cu cineva",
+      "Quiet time": "Timp de liniște",
+      "Creative activity": "Activitate creativă"
+    },
+    "moods": {
+      "Happy": "Fericit",
+      "Neutral": "Neutru",
+      "Stressed": "Stresat",
+      "Tired": "Obosit",
+      "Low": "Scăzut",
+      "Calm": "Calm"
+    },
+    "positiveStatements": {
+      "0": "Astăzi te-ai prezentat pentru tine. Asta e puternic. 🌿",
+      "1": "Îngrijirea de sine nu este egoistă — este esențială. Bravo. 💚",
+      "2": "Fiecare mic gest de grijă construiește un tine mai puternic. 🌱",
+      "3": "Ai investit în tine azi. Asta contează. ✨",
+      "4": "Să ai grijă de tine este cel mai bun lucru pe care l-ai făcut azi. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "E în regulă. Mâine este un nou început. Fii blând cu tine însuți. 🤍",
+      "1": "Nu fiecare zi va fi perfectă, și asta e perfect în regulă. 🕊️",
+      "2": "Faci tot ce poți. Asta e întotdeauna suficient. 💛",
+      "3": "Odihna este, de asemenea, o formă de îngrijire personală. Fii graționant. 🌸",
+      "4": "Recunoașterea zilei de azi necesită curaj. Deja crești. 🌷"
+    }
+  },
+  "app_title": "Monitorizare a îngrijirii personale",
+  "app_description": "Urmărește-ți obiceiurile zilnice de îngrijire personală și vezi cum îți influențează acestea bunăstarea generală. Consecvența este esențială pentru o minte mai sănătoasă.",
+  "initializing_session": "Inițializarea sesiunii",
+  "language": "Limbă",
+  "your_progress_over_the_last_7_days": "Progresul tău în ultimele 7 zile",
+  "fetching_data": "Se preiau datele...",
+  "more": "Mai mult",
+  "breadcrumb": "pesmet",
+  "previous_slide": "Diapozitivul anterior",
+  "next_slide": "Diapozitivul următor",
+  "close": "Aproape",
+  "previous": "Anterior",
+  "more_pages": "Mai multe pagini",
+  "pagination": "paginare",
+  "go_to_previous_page": "Mergi la pagina anterioară",
+  "go_to_next_page": "Mergi la pagina următoare",
+  "toggle_sidebar": "Comutare bară laterală",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lung"
+}

@@ -1,0 +1,99 @@
+{
+  "app_title": "Források",
+  "not_found": {
+    "title": "Nem találták meg",
+    "message": "Forrás nem talált",
+    "description": "A keresett tartalom talán elköltözött.",
+    "button": "Menj vissza"
+  },
+  "list": {
+    "empty_title": "Nincs {{type}} elérhető",
+    "empty_desc": "Jelenleg további forrásokat válogatunk erre a témára.",
+    "footer": "Mantra Care • Bizonyítékokon alapuló források"
+  },
+  "detail": {
+    "loading": "Betöltés...",
+    "tip": {
+      "insight_label": "Az Insight",
+      "plan_title": "Napi Cselekvési Terv",
+      "steps": "{{count}} Lépcsők",
+      "example_label": "Gyakorlati példa",
+      "instead_of": "Ahelyett, hogy",
+      "try_this": "Próbáld ki ezt"
+    },
+    "article": {
+      "final_thought": "Végső gondolat"
+    },
+    "story": {
+      "reflection_label": "Valami, amivel leülhetsz",
+      "note_label": "A szerző jegyzete"
+    },
+    "myth": {
+      "truth_label": "A tudományos igazság",
+      "explanation_label": "Részletes magyarázat",
+      "insight_label": "Kulcsfontosságú meglátás"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Újrakezdés",
+    "finish_exit": "Befejezés és kilépés",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Elkészítési idő",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Részesedés",
+    "share_progress": "Haladás megosztása",
+    "inspire_others": "Inspirálj másokat még ma",
+    "share_text": "Ezt a(z) {{activityName}} tevékenységet csináltam a TherapyMantra-ban, és nagyon élvezem, te is meg tudod csinálni, csak kövesd az {{androidUrl}} androidos vagy {{iosUrl}} iOS-es alkalmazás linkjét.",
+    "this_activity": "ez a tevékenység",
+    "copied": "Másolva!",
+    "copy_message": "Üzenet másolása",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Erőforrás",
+  "concerns": {
+    "acceptance": "Elfogadás",
+    "adolescent": "Serdülő",
+    "anger": "Harag",
+    "anxiety": "Szorongás",
+    "depression": "Depresszió",
+    "eating-disorder": "étkezési zavar",
+    "grief": "Bánat",
+    "parenting": "Szülői lét",
+    "postpartum": "Szülés utáni",
+    "ptsd": "Poszttraumás stressz szindróma (PTSD)",
+    "relationship": "Kapcsolat",
+    "sexuality": "Nemiség",
+    "sleep": "Alvás",
+    "stress": "Feszültség",
+    "workplace": "Munkahely"
+  },
+  "types": {
+    "stories": "Történetek",
+    "articles": "Cikkek",
+    "myths": "Mítoszok",
+    "tips": "Tippek"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

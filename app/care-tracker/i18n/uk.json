@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Почати спочатку",
+    "finish_exit": "Фініш і вихід",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Час завершити",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Поділитися",
+    "share_progress": "Поділитися прогресом",
+    "inspire_others": "Надихайте інших сьогодні",
+    "share_text": "Я виконав(-ла) цю активність ({{activityName}}) у TherapyMantra і мені дуже подобається, ви теж можете це зробити, просто перейдіть за посиланням на додаток для Android ({androidUrl}}) або iOS ({iosUrl}}).",
+    "this_activity": "ця діяльність",
+    "copied": "Скопійовано!",
+    "copy_message": "Копіювати повідомлення",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Трекер самодогляду",
+      "description": "Відстежуйте свої щоденні звички догляду за собою і подивіться, як вони впливають на ваше загальне самопочуття. Послідовність — ключ до здоровішого розуму.",
+      "benefits": {
+        "0": "Записуйте щоденні заняття з догляду за собою",
+        "1": "Відстежуйте час, витрачений на себе",
+        "2": "Слідкуйте за своїми патернами настрою",
+        "3": "Переглянути історію та прогрес"
+      },
+      "duration": "2-3 хвилини",
+      "benefit1": "Фіксуйте щоденні фізичні та психічні заходи",
+      "benefit2": "Помічайте труднощі, які заважають вам відпочити",
+      "benefit3": "Розвивайте усвідомленість через позитивне підкріплення"
+    },
+    "checkin": {
+      "title": "Перевірка 🌿 догляду за собою",
+      "subtitle": "Як ти сьогодні піклувався про себе?",
+      "question": "Ти сьогодні займався самодоглядом? *",
+      "description": "Догляд за собою — це будь-яка діяльність, яку ми виконуємо свідомо, щоб піклуватися про своє психічне, емоційне та фізичне здоров'я."
+    },
+    "activities": {
+      "title": "Ваша діяльність 🎯",
+      "subtitle": "Які заняття з догляду за собою ви займалися сьогодні?"
+    },
+    "duration": {
+      "title": "Час, проведений ⏱️",
+      "subtitle": "Скільки часу ви витратили на догляд за собою? (за бажанням)"
+    },
+    "noSelfCare": {
+      "title": "Це нормально 💛",
+      "subtitle": "Давайте розберемося, що сталося сьогодні.",
+      "question1": "Що сьогодні завадило турботі про себе? (за бажанням)",
+      "question2": "Який тип самодогляду міг би допомогти? (за бажанням)"
+    },
+    "mood": {
+      "title": "Як ти себе почуваєш? 🫧",
+      "subtitle": "Виберіть свій поточний настрій (за бажанням)"
+    },
+    "review": {
+      "title": "Ваш запис 📋",
+      "subtitle": "Ось короткий підсумок сьогоднішньої перевірки",
+      "didSelfCare": "Чи догляд за собою?",
+      "activities": "Діяльність",
+      "duration": "Тривалість",
+      "mood": "Настрій",
+      "challenges": "Запобіжно",
+      "whatHelps": "Це б допомогло",
+      "viewHistory": "Щотижнева історія",
+      "editToday": "Редагувати запис",
+      "summary": "Резюме"
+    },
+    "history": {
+      "title": "Щотижнева історія 📅",
+      "subtitle": "За останні 7 днів не було записів"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Ой! Сторінка не знайдена",
+      "returnHome": "Повернення додому"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Фізичні вправи",
+      "Meditation": "Медитація",
+      "Journaling": "Ведення щоденника",
+      "Reading": "Читання",
+      "Rest / Nap": "Відпочинок / Дрімати",
+      "Skincare": "Догляд за шкірою",
+      "Healthy Meal": "Здорова їжа",
+      "Nature / Walk": "Природа / Прогулянка",
+      "Social Time": "Соціальний час",
+      "Hobby": "Хобі",
+      "Therapy": "Терапія",
+      "Digital Detox": "Цифровий детокс"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 хвилин",
+      "10–30 minutes": "10–30 хвилин",
+      "30–60 minutes": "30–60 хвилин",
+      "1+ hour": "1+ година"
+    },
+    "reasons": {
+      "Busy schedule": "Насичений графік",
+      "Low energy": "Низька енергія",
+      "Stress": "Стрес",
+      "Forgot": "Забув",
+      "No motivation": "Без мотивації",
+      "Not feeling well": "Погано себе почуваюся",
+      "Lack of time": "Брак часу",
+      "Emotional overwhelm": "Емоційне перевантаження"
+    },
+    "helpfulTypes": {
+      "Rest": "Відпочинок",
+      "Relaxation": "Релаксація",
+      "Physical activity": "Фізична активність",
+      "Talking to someone": "Розмовляю з кимось",
+      "Quiet time": "Час тиші",
+      "Creative activity": "Творча діяльність"
+    },
+    "moods": {
+      "Happy": "Щасливий",
+      "Calm": "Спокій",
+      "Neutral": "Нейтральний",
+      "Low": "Низький",
+      "Stressed": "Стрес",
+      "Tired": "Втомлений"
+    },
+    "positiveStatements": {
+      "0": "Ти сьогодні прийшов заради себе. Це потужно. 🌿",
+      "1": "Піклування про себе — це не егоїзм, це необхідно. Молодець. 💚",
+      "2": "Кожен маленький акт турботи зміцнює тебе. 🌱",
+      "3": "Ти сьогодні інвестував у себе. Це важливо. ✨",
+      "4": "Піклуватися про тебе — це найкраще, що ти зробив сьогодні. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Все гаразд. Завтра — новий початок. Будь лагідним до себе. 🤍",
+      "1": "Не кожен день буде ідеальним, і це цілком нормально. 🕊️",
+      "2": "Ти робиш усе можливе. Цього завжди достатньо. 💛",
+      "3": "Відпочинок — це також форма турботи про себе. Будь до себе поблажливим. 🌸",
+      "4": "Визнати сьогоднішній день вимагає мужності. Ти вже ростеш. 🌷"
+    }
+  },
+  "app_title": "Трекер самодогляду",
+  "app_description": "Відстежуйте свої щоденні звички догляду за собою та дізнайтеся, як вони впливають на ваше загальне самопочуття. Послідовність – це ключ до здорового розуму.",
+  "initializing_session": "Ініціалізація сеансу",
+  "language": "Мова",
+  "your_progress_over_the_last_7_days": "Ваш прогрес за останні 7 днів",
+  "fetching_data": "Отримання даних...",
+  "more": "Більше",
+  "breadcrumb": "хлібні крихти",
+  "previous_slide": "Попередній слайд",
+  "next_slide": "Наступний слайд",
+  "close": "Закрити",
+  "previous": "Попередній",
+  "more_pages": "Більше сторінок",
+  "pagination": "пагінація",
+  "go_to_previous_page": "Перейти на попередню сторінку",
+  "go_to_next_page": "Перейти на наступну сторінку",
+  "toggle_sidebar": "Перемикання бічної панелі",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "довгий"
+}

@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Lad os tage en kort pause sammen.\n\nI det næste minut er der intet, du behøver at løse, rette eller reagere på. Tillad dig selv at sætte farten ned.\n\nSæt dig behageligt, sæt fødderne på jorden hvis du kan, og tag forsigtigt en langsom indånding... og langsomt ånde ud.\n\nDette er dit øjeblik til at nulstille og genoprette forbindelsen til nutiden.",
+      "button": "Begynd"
+    },
+    "1": {
+      "heading": "5 ting du kan se",
+      "body": "Se dig langsomt omkring. Lad dine øjne bevæge sig blidt hen over rummet. Læg mærke til farver, former, lys, skygger eller små detaljer, du måske ikke har lagt mærke til før.",
+      "button": "Næste"
+    },
+    "2": {
+      "heading": "4 ting du kan mærke",
+      "body": "Fokuser på din krop. Mærk dine fødder røre gulvet, din ryg mod stolen, dit tøj på huden eller luften omkring dig. Anerkend fire fysiske fornemmelser.",
+      "button": "Næste"
+    },
+    "3": {
+      "heading": "3 ting du kan høre",
+      "body": "Lyt godt efter. Du kan høre fjerne lyde, en ventilator, tastaturskrivning, vejrtrækning eller endda stilhed. Identificer tre lyde uden at dømme dem.",
+      "button": "Næste"
+    },
+    "4": {
+      "heading": "2 Ting Du Kan Lugte",
+      "body": "Se om du kan opfange nogen duft i rummet. Hvis intet skiller sig ud, så læg blot mærke til den neutrale lugt af luften omkring dig.",
+      "button": "Næste"
+    },
+    "5": {
+      "heading": "1 ting du kan smage",
+      "body": "Vær opmærksom på smagen i munden. Det kan være subtilt eller neutralt — bare observer det.",
+      "button": "Næste"
+    },
+    "6": {
+      "heading": "Refleksion",
+      "body": "Tag en langsom indånding... og pust blidt ud.",
+      "button": "Indsend"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start forfra",
+    "finish_exit": "Afslut og afslut",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tid til at færdiggøre",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dele",
+    "share_progress": "Del fremskridt",
+    "inspire_others": "Inspirer andre i dag",
+    "share_text": "Jeg har gjort dette {{activityName}} i TherapyMantra og nyder det virkelig. Du kan også gøre det, bare følg linket til Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}.",
+    "this_activity": "denne aktivitet",
+    "copied": "Kopieret!",
+    "copy_message": "Kopiér besked",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Jordforbindelse",
+  "intro_p1": "Reducerer angst hurtigt",
+  "intro_p2": "Bringer dig tilbage til nutiden",
+  "intro_p3": "Beroliger racersind",
+  "app_description": "5-4-3-2-1 Jordforbindelse",
+  "more": "Mere",
+  "breadcrumb": "brødkrumme",
+  "previous_slide": "Forrige slide",
+  "next_slide": "Næste slide",
+  "close": "Tæt",
+  "previous": "Tidligere",
+  "more_pages": "Flere sider",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå til forrige side",
+  "go_to_next_page": "Gå til næste side",
+  "toggle_sidebar": "Slå sidebjælken til/fra",
+  "oops_page_not_found": "Ups! Siden blev ikke fundet",
+  "return_to_home": "Tilbage til hjemmet",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-jordforbindelse"
+}

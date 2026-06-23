@@ -1,0 +1,100 @@
+{
+  "steps": {
+    "0": {
+      "body": "Sandaling paghinto.\n\nSa susunod na minuto, wala kang kailangang solusyunan, ayusin, o tugunan. Hayaan mo lang ang iyong sarili na huminahon.\n\nUmupo nang kumportable, ilagay ang iyong mga paa sa lupa kung kaya mo, at dahan-dahang huminga nang dahan-dahan... at dahan-dahang huminga palabas.\n\nIto ang iyong sandali upang i-reset at makipag-ugnayan muli sa kasalukuyan.",
+      "button": "Simulan"
+    },
+    "1": {
+      "heading": "5 Bagay na Maari Mong Makita",
+      "body": "Dahan-dahang tumingin sa paligid. Hayaang gumalaw nang marahan ang iyong mga mata sa kabuuan ng espasyo. Pansinin ang mga kulay, hugis, liwanag, anino, o maliliit na detalye na maaaring hindi mo pa napapansin noon.",
+      "button": "Susunod"
+    },
+    "2": {
+      "heading": "4 na Bagay na Maaari Mong Maramdaman",
+      "body": "Ituon ang iyong atensyon sa iyong katawan. Damhin ang iyong mga paa na dumadampi sa sahig, ang iyong likod sa upuan, ang iyong mga damit sa iyong balat, o ang hangin sa paligid mo. Kilalanin ang apat na pisikal na sensasyon.",
+      "button": "Susunod"
+    },
+    "3": {
+      "heading": "3 Bagay na Maaari Mong Maririnig",
+      "body": "Makinig nang mabuti. Maaari kang makarinig ng mga tunog mula sa malayo, bentilador, pagta-type, paghinga, o kahit katahimikan. Tukuyin ang tatlong tunog nang hindi hinuhusgahan ang mga ito.",
+      "button": "Susunod"
+    },
+    "4": {
+      "heading": "2 Bagay na Maaamoy Mo",
+      "body": "Tingnan mo kung may maamoy ka sa silid. Kung walang mapapansin, pansinin mo lang ang neutral na amoy ng hangin sa paligid mo.",
+      "button": "Susunod"
+    },
+    "5": {
+      "heading": "1 Bagay na Matitikman Mo",
+      "body": "Bigyang-pansin ang lasa sa iyong bibig. Maaari itong banayad o neutral — obserbahan lamang ito.",
+      "button": "Susunod"
+    },
+    "6": {
+      "heading": "Repleksyon",
+      "body": "Huminga nang dahan-dahan... at dahan-dahang huminga palabas.",
+      "button": "Isumite"
+    }
+  },
+  "common": {
+    "thank_you": "Salamat",
+    "you_feel": "Pakiramdam mo:",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "start_again": "Magsimula Muli",
+    "reflection_question": "Sa isang salita, ano ang nararamdaman mo ngayon?",
+    "reflection_placeholder": "hal. kalmado, nakahinga nang maluwag, matatag...",
+    "get_started": "Get Started",
+    "start_over": "Start Over",
+    "finish_exit": "Finish & Exit",
+    "well_done": "Well Done!",
+    "time_to_complete": "Time to complete",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share Progress",
+    "inspire_others": "Inspire others today",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied!",
+    "copy_message": "Copy Message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Grounding",
+  "intro_p1": "Reduces anxiety quickly",
+  "intro_p2": "Brings you back to the present",
+  "intro_p3": "Calms the racing mind",
+  "app_description": "5-4-3-2-1 Grounding",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-grounding"
+}

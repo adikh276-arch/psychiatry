@@ -1,0 +1,99 @@
+{
+  "app_title": "Bronnen",
+  "not_found": {
+    "title": "Niet gevonden",
+    "message": "Bron niet gevonden",
+    "description": "De content die je zoekt is misschien verhuisd.",
+    "button": "Ga terug"
+  },
+  "list": {
+    "empty_title": "Geen {{type}} beschikbaar",
+    "empty_desc": "We zijn momenteel bezig met het samenstellen van meer bronnen voor dit onderwerp.",
+    "footer": "Mantra Care • Evidence-based Resources"
+  },
+  "detail": {
+    "loading": "Laden...",
+    "tip": {
+      "insight_label": "Het Inzicht",
+      "plan_title": "Dagelijks Actieplan",
+      "steps": "{{count}} Stappen",
+      "example_label": "Oefenvoorbeeld",
+      "instead_of": "In plaats van",
+      "try_this": "Probeer dit eens"
+    },
+    "article": {
+      "final_thought": "Eindgedachte"
+    },
+    "story": {
+      "reflection_label": "Iets om mee te zitten",
+      "note_label": "Een opmerking van de auteur"
+    },
+    "myth": {
+      "truth_label": "De Wetenschappelijke Waarheid",
+      "explanation_label": "Gedetailleerde uitleg",
+      "insight_label": "Belangrijke inzichten"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Opnieuw beginnen",
+    "finish_exit": "Voltooien en afsluiten",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tijd om te voltooien",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Deel",
+    "share_progress": "Voortgang delen",
+    "inspire_others": "Inspireer anderen vandaag nog",
+    "share_text": "Ik heb deze activiteit {{activityName}} in TherapyMantra gedaan en ik vind het erg leuk. Jij kunt het ook doen, volg gewoon de link naar de Android-app {{androidUrl}} of de iOS-app {{iosUrl}}.",
+    "this_activity": "deze activiteit",
+    "copied": "Gekopieerd!",
+    "copy_message": "Bericht kopiëren",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Bronnen",
+  "concerns": {
+    "acceptance": "Aanvaarding",
+    "adolescent": "Adolescent",
+    "anger": "Woede",
+    "anxiety": "Spanning",
+    "depression": "Depressie",
+    "eating-disorder": "Eetstoornis",
+    "grief": "Rouw",
+    "parenting": "Ouderschap",
+    "postpartum": "Postpartum",
+    "ptsd": "PTSS",
+    "relationship": "Relatie",
+    "sexuality": "Seksualiteit",
+    "sleep": "Slaap",
+    "stress": "Spanning",
+    "workplace": "Werkplek"
+  },
+  "types": {
+    "stories": "Verhalen",
+    "articles": "Artikelen",
+    "myths": "Mythen",
+    "tips": "Tips"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

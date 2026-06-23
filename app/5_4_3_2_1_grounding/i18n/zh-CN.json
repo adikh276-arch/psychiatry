@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "让我们一起稍作停顿。\n\n接下来的一分钟，你无需解决任何问题，也无需做出任何回应。只需让自己慢下来。\n\n舒适地坐下，如果可以，双脚平放在地上，轻轻地吸气……然后慢慢地呼气。\n\n这是你重置身心，重新与当下连接的时刻。",
+      "button": "开始"
+    },
+    "1": {
+      "heading": "你可以看到的5件事",
+      "body": "慢慢环顾四周。让你的目光轻轻地扫过空间。留意一下你之前可能没有注意到的颜色、形状、光线、阴影或细微之处。",
+      "button": "下一个"
+    },
+    "2": {
+      "heading": "你能感受到的4件事",
+      "body": "将注意力集中在你的身体上。感受你的双脚触地，背部靠在椅子上，衣服贴着皮肤，或者周围的空气。觉察这四种身体感觉。",
+      "button": "下一个"
+    },
+    "3": {
+      "heading": "你能听到的三件事",
+      "body": "仔细聆听。你可能会听到远处的声音、风扇声、打字声、呼吸声，甚至一片寂静。请辨别三种不同的声音，不要妄加评判。",
+      "button": "下一个"
+    },
+    "4": {
+      "heading": "两种你能闻到的东西",
+      "body": "看看你能不能闻到房间里有什么气味。如果没有特别明显的气味，那就留意一下周围空气的自然气味。",
+      "button": "下一个"
+    },
+    "5": {
+      "heading": "你能尝到的1种东西",
+      "body": "注意感受一下口中的味道。它可能很淡，也可能没什么味道——只需仔细观察即可。",
+      "button": "下一个"
+    },
+    "6": {
+      "heading": "反射",
+      "body": "慢慢吸一口气……然后轻轻呼气。",
+      "button": "提交"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成时间",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Share",
+    "share_progress": "Share progress",
+    "inspire_others": "Inspire others",
+    "share_text": "I have done this {{activityName}} in TherapyMantra and really enjoy it you can do it too just follow the link to android app {{androidUrl}} or ios app {{iosUrl}}",
+    "this_activity": "this activity",
+    "copied": "Copied",
+    "copy_message": "Copy message",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Grounding",
+  "intro_p1": "Reduces anxiety quickly",
+  "intro_p2": "Brings you back to the present",
+  "intro_p3": "Calms the racing mind",
+  "app_description": "5-4-3-2-1 Grounding",
+  "more": "More",
+  "breadcrumb": "breadcrumb",
+  "previous_slide": "Previous slide",
+  "next_slide": "Next slide",
+  "close": "Close",
+  "previous": "Previous",
+  "more_pages": "More pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Go to previous page",
+  "go_to_next_page": "Go to next page",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Oops! Page not found",
+  "return_to_home": "Return to Home",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-接地"
+}

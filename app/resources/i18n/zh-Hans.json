@@ -1,0 +1,99 @@
+{
+  "app_title": "资源",
+  "not_found": {
+    "title": "未找到",
+    "message": "资源未找到",
+    "description": "您要查找的内容可能已移动。",
+    "button": "回去"
+  },
+  "list": {
+    "empty_title": "没有 {{type}} 可用",
+    "empty_desc": "我们目前正在整理更多关于这个主题的资源。",
+    "footer": "Mantra Care •循证资源"
+  },
+  "detail": {
+    "loading": "加载中...",
+    "tip": {
+      "insight_label": "洞察",
+      "plan_title": "每日行动计划",
+      "steps": "{{count}} 步",
+      "example_label": "练习示例",
+      "instead_of": "而不是",
+      "try_this": "试试这个"
+    },
+    "article": {
+      "final_thought": "最后想说"
+    },
+    "story": {
+      "reflection_label": "可以坐下来一起坐坐",
+      "note_label": "作者的话"
+    },
+    "myth": {
+      "truth_label": "科学真相",
+      "explanation_label": "详细解释",
+      "insight_label": "关键见解"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新开始",
+    "finish_exit": "结束并退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成时间",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "分享",
+    "share_progress": "分享进度",
+    "inspire_others": "今天激励他人",
+    "share_text": "我在 TherapyMantra 上完成了这个 {{activityName}} 活动，非常喜欢，你也试试吧，只需点击链接即可下载安卓应用 {{androidUrl}} 或 iOS 应用 {{iosUrl}}",
+    "this_activity": "这项活动",
+    "copied": "已复制！",
+    "copy_message": "复制消息",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "资源",
+  "concerns": {
+    "acceptance": "验收",
+    "adolescent": "青少年",
+    "anger": "愤怒",
+    "anxiety": "焦虑",
+    "depression": "沮丧",
+    "eating-disorder": "饮食失调",
+    "grief": "悲伤",
+    "parenting": "育儿",
+    "postpartum": "产后",
+    "ptsd": "创伤后应激障碍",
+    "relationship": "关系",
+    "sexuality": "性欲",
+    "sleep": "睡觉",
+    "stress": "压力",
+    "workplace": "工作场所"
+  },
+  "types": {
+    "stories": "故事",
+    "articles": "文章",
+    "myths": "神话",
+    "tips": "尖端"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

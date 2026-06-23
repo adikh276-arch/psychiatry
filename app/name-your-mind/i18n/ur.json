@@ -1,0 +1,136 @@
+{
+  "app_title": "اپنا ذہن نام رکھو",
+  "intro": {
+    "title": "اپنے ذہن سے ملیں",
+    "description": "اپنے اندرونی آواز کو ایک نام دے کر اپنے آپ کو مغلوب خیالات سے دور رکھنا سیکھیں۔",
+    "benefits": {
+      "0": "ذہنی فاصلہ پیدا کریں",
+      "1": "سخت خیالات کی طاقت کو کم کریں",
+      "2": "خیالات کو نوٹس کریں بغیر ان کے کہ وہ ہوں"
+    },
+    "duration": "2-3 منٹ",
+    "view_past": "ماضی کی اندراجات دیکھیں"
+  },
+  "history": {
+    "title": "ماضی کی اندراجات",
+    "no_entries": "ابھی تک کوئی اندراجات نہیں ہیں۔",
+    "reflection_label": "عکاسی: {{text}}"
+  },
+  "complete": {
+    "title": "سرگرمی مکمل",
+    "great_job": "زبردست کام!",
+    "message": "آپ نے کامیابی سے اپنے ذہن کا نام رکھا ہے اور اپنے اور اپنے خیالات کے درمیان کچھ فاصلہ پیدا کیا ہے۔",
+    "footer": "یاد رکھیں: آپ کو اپنے ذہن کے ہر خیال پر یقین کرنے کی ضرورت نہیں۔"
+  },
+  "subtitles": {
+    "concept": "نقطہ نظر",
+    "input_thought": "نوٹس",
+    "input_name": "نام",
+    "practice": "عمل",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "ایک چھوٹا سا شفٹ",
+      "example": "\"میں کافی اچھا نہیں ہوں\"",
+      "desc": "جب کوئی خیال آتا ہے تو اکثر ایسا محسوس ہوتا ہے جیسے وہ <0>آپ</0> ہے۔ لیکن اگر آپ پیچھے ہٹ کر <1>نوٹس</1> کر سکیں؟"
+    },
+    "input_thought": {
+      "title": "آئیے ایک حقیقی خیال سے شروع کرتے ہیں",
+      "desc": "کون سا خیال ہے جو حال ہی میں آپ کو پریشان کر رہا ہے؟",
+      "placeholder": "بالکل ویسا ہی لکھو جیسا تمہارے پاس آتا ہے..."
+    },
+    "input_name": {
+      "title": "کچھ فاصلہ بنائیں",
+      "desc": "اپنے ذہن کو ایک نام دیں تاکہ آپ ان خیالات سے الگ ہو سکیں۔",
+      "placeholder": "یا اپنا خود ٹائپ کریں...",
+      "examples": {
+        "0": "نقاد",
+        "1": "زیادہ سوچنے والا",
+        "2": "ویئر ایف ایم",
+        "3": "زیادہ سوچنے والی مشین",
+        "4": "اندرونی نقاد",
+        "5": "واٹ-اگر جنریٹر",
+        "6": "ڈرامہ ڈائریکٹر"
+      }
+    },
+    "practice": {
+      "title": "یہ شفٹ آزماؤ",
+      "instead_of": "بجائے اس کے کہ",
+      "try_saying": "کہنے کی کوشش کریں",
+      "is_telling_me": "{{name}} مجھے بتا رہا ہے:",
+      "guide": "یہ جملہ اپنے آپ سے 4-5 بار اپنی رفتار سے نرمی سے دہرائیں۔",
+      "button": "میں تیار ہوں"
+    },
+    "reflection": {
+      "title": "آپ نے کیا نوٹ کیا؟",
+      "desc": "نام دینے کے بعد یہ خیال کیسا لگا؟",
+      "options": {
+        "0": "یہ خیال پہلے سے تھوڑا کم شدید محسوس ہو رہا تھا",
+        "1": "مجھے لگا کہ میرے پاس اس خیال سے کچھ فاصلہ ہے",
+        "2": "یہ اب بھی پہلے کی طرح ہی مضبوط محسوس ہوتا تھا",
+        "3": "مجھے نہیں معلوم کہ کیا بدلا ہے، اگر کچھ بدلا ہے"
+      },
+      "button": "مکمل عکاسی"
+    }
+  },
+  "buttons": {
+    "continue": "جاری رکھیں",
+    "restart": "دوبارہ شروع کریں"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "دوبارہ شروع کریں۔",
+    "finish_exit": "ختم کریں اور باہر نکلیں۔",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "مکمل ہونے کا وقت",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "شیئر کریں۔",
+    "share_progress": "پیش رفت کا اشتراک کریں",
+    "inspire_others": "آج دوسروں کو متاثر کریں۔",
+    "share_text": "میں نے یہ {{activityName}} TherapyMantra میں کیا ہے اور واقعی اس سے لطف اندوز ہوں آپ بھی کر سکتے ہیں بس android ایپ {{androidUrl}} یا ios ایپ {{iosUrl}} کے لنک پر عمل کریں۔",
+    "this_activity": "اس سرگرمی",
+    "copied": "نقل کیا گیا!",
+    "copy_message": "پیغام کاپی کریں۔",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "اپنے دماغ کو نام دیں۔",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "جب کوئی خیال ظاہر ہوتا ہے، تو اکثر ایسا محسوس ہوتا ہے جیسے یہ ہے۔",
+  "more": "مزید",
+  "breadcrumb": "بریڈ کرمب",
+  "previous_slide": "پچھلی سلائیڈ",
+  "next_slide": "اگلی سلائیڈ",
+  "close": "بند",
+  "previous": "پچھلا",
+  "more_pages": "مزید صفحات",
+  "pagination": "صفحہ بندی",
+  "go_to_previous_page": "پچھلے صفحے پر جائیں۔",
+  "go_to_next_page": "اگلے صفحے پر جائیں۔",
+  "toggle_sidebar": "سائڈبار کو ٹوگل کریں۔",
+  "oops_page_not_found": "افوہ! صفحہ نہیں ملا",
+  "return_to_home": "گھر واپس جائیں۔",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "لمبا"
+}

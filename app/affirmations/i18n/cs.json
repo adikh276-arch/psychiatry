@@ -1,0 +1,225 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Začít znovu",
+    "finish_exit": "Dokončit a ukončit",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Čas na dokončení",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Podíl",
+    "share_progress": "Sdílet pokrok",
+    "inspire_others": "Inspirujte ostatní ještě dnes",
+    "share_text": "Tuto aktivitu {{activityName}} jsem dělal/a v TherapyMantra a opravdu si ji užívám. Můžete to dělat i vy, stačí kliknout na odkaz na aplikaci pro Android {{androidUrl}} nebo aplikaci pro iOS {{iosUrl}}.",
+    "this_activity": "tato aktivita",
+    "copied": "Zkopírováno!",
+    "copy_message": "Kopírovat zprávu",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "chooseAnother": "Choose another feeling",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "feelings": {
+    "lonely": {
+      "label": "Když se cítíte osamělí a smutní",
+      "affirmations": {
+        "0": "Nejsem v tom sám, i když to tak cítím.",
+        "1": "Mé pocity si zaslouží péči a jemnost.",
+        "2": "Tento okamžik nebude trvat věčně.",
+        "3": "Mám právo potřebovat spojení.",
+        "4": "Mohu si teď nabídnout teplo."
+      }
+    },
+    "terrified": {
+      "label": "Když se bojíš",
+      "affirmations": {
+        "0": "V tuto chvíli jsem v bezpečí.",
+        "1": "Strach je pocit, ne předpověď.",
+        "2": "Zvládnu to brát po dechu.",
+        "3": "Nemusím teď všechno řešit.",
+        "4": "Jsem silnější než tento okamžik."
+      }
+    },
+    "insignificant": {
+      "label": "Když se cítíte bezvýznamní",
+      "affirmations": {
+        "0": "Malé okamžiky stále znamenají význam.",
+        "1": "Nemusím dokazovat svou hodnotu.",
+        "2": "Mám právo zabírat místo.",
+        "3": "Moje existence má význam.",
+        "4": "Jsem dost taková, jaká jsem."
+      }
+    },
+    "overwhelmed": {
+      "label": "Když se cítíte zahlceni",
+      "affirmations": {
+        "0": "Nemusím dělat všechno najednou.",
+        "1": "Stačí jeden malý krok.",
+        "2": "Je v pořádku se zastavit.",
+        "3": "Mám právo odpočívat.",
+        "4": "To bude zase zvládnutelné."
+      }
+    },
+    "hopeless": {
+      "label": "Když se cítíš beznadějně",
+      "affirmations": {
+        "0": "Dnes odpovědi nepotřebuji.",
+        "1": "Změna je stále možná.",
+        "2": "Těžké dny jsem už přežil.",
+        "3": "Mohu tu zatím zůstat.",
+        "4": "Něco jemného se ještě může rozvinout."
+      }
+    },
+    "conflicted": {
+      "label": "Když se cítíte rozpolceně",
+      "affirmations": {
+        "0": "Je v pořádku cítit víc než jednu věc najednou.",
+        "1": "Nepotřebuji hned jasno.",
+        "2": "Zmatení neznamená neúspěch.",
+        "3": "Můžu si dát čas.",
+        "4": "Věřím si, že to zvládnu."
+      }
+    },
+    "self-critical": {
+      "label": "Když jste velmi sebekritičtí",
+      "affirmations": {
+        "0": "Dokážu mluvit sám se sebou laskavě.",
+        "1": "Nemusím se trestat, abych rostl.",
+        "2": "Chyby mě nedefinují.",
+        "3": "Učím se, ne selhávám.",
+        "4": "Růst nevyžaduje krutost."
+      }
+    },
+    "out-of-place": {
+      "label": "Když se cítíte společensky nepatřičně",
+      "affirmations": {
+        "0": "Mám právo být tichý nebo jiný.",
+        "1": "Nemusím se vyrovnat energii nikoho jiného.",
+        "2": "Patřím taková, jaká jsem.",
+        "3": "Místo mohu zabírat jemně.",
+        "4": "Nedělám to špatně."
+      }
+    },
+    "unsafe": {
+      "label": "Když se cítíš nebezpečně mezi cizími lidmi",
+      "affirmations": {
+        "0": "Můžu se pohybovat vlastním tempem.",
+        "1": "Mám právo chránit své hranice.",
+        "2": "Dokážu zůstat ukotvený ve svém těle.",
+        "3": "Mám právo opustit situace.",
+        "4": "Dokážu se chránit."
+      }
+    },
+    "pressured": {
+      "label": "Když se cítíš v práci pod tlakem",
+      "affirmations": {
+        "0": "Moje hodnota není v produktivitě.",
+        "1": "Nemusím se pořád dokazovat.",
+        "2": "Dnes mi stačí dělat maximum.",
+        "3": "Jedna úloha najednou je v pořádku.",
+        "4": "Jsem víc než jen svou roli."
+      }
+    },
+    "face-the-day": {
+      "label": "Když nechceš čelit dni",
+      "affirmations": {
+        "0": "Dnešek můžu vzít po malých kouscích.",
+        "1": "Dostat se skrz to stačí.",
+        "2": "Nepotřebuji motivaci, abych začal.",
+        "3": "I když přijdeš jemně, stále se počítá.",
+        "4": "Tento den mě nedefinuje."
+      }
+    },
+    "future": {
+      "label": "Když se bojíš o svou budoucnost",
+      "affirmations": {
+        "0": "Můžu se vrátit do přítomnosti.",
+        "1": "Budu to řešit, jak přijde.",
+        "2": "Dnes nepotřebuji jistotu.",
+        "3": "Jsem schopný se přizpůsobit.",
+        "4": "Můžu si trochu víc věřit."
+      }
+    },
+    "stuck": {
+      "label": "Když se cítíte zaseknutí v problému",
+      "affirmations": {
+        "0": "Být zaseknutý neznamená, že jsem rozbitý.",
+        "1": "Mohu se zastavit, aniž bych to vzdal.",
+        "2": "Nepotřebuji okamžitá řešení.",
+        "3": "Mám právo cítit se nejistá.",
+        "4": "Stále se hýbu, i když pomalu."
+      }
+    },
+    "compare": {
+      "label": "Když se srovnáváš",
+      "affirmations": {
+        "0": "Moje cesta je moje vlastní.",
+        "1": "Nemusím soutěžit, abych byl hoden.",
+        "2": "Mám právo růst svým tempem.",
+        "3": "Úspěch někoho jiného nevymaže ten můj.",
+        "4": "Nejsem pozadu."
+      }
+    },
+    "give-up": {
+      "label": "Když chceš vzdát",
+      "affirmations": {
+        "0": "Teď nemusím nic rozhodovat.",
+        "1": "Ten pocit pomine.",
+        "2": "Přežil jsem víc, než si uvědomuji.",
+        "3": "Můžu zůstat ještě chvíli.",
+        "4": "Stále jsem tady — a na tom záleží."
+      }
+    }
+  },
+  "app_complete_title": "Cítíte se posíleni",
+  "app_complete_message": "Denní afirmace pomáhají přetvořit vaše myšlení. Noste tyto pozitivní myšlenky s sebou ještě dnes.",
+  "app_duration": "2–3 minuty",
+  "app_title": "Myšlení",
+  "app_description": "Změňte své myšlení pomocí každodenních afirmací.",
+  "intro": {
+    "description": "Denní afirmace pomáhají změnit vaše myšlení a budovat emoční odolnost. Věnujte chvíli soustředění se na pozitivní myšlenky a mluvte k sobě laskavě.",
+    "benefits": {
+      "0": "Najděte klid v těžkých chvílích",
+      "1": "Zpochybňujte negativní myšlenkové vzorce",
+      "2": "Budujte si soucit se sebou samým a posilujte svou sílu"
+    }
+  },
+  "affirmation_for": "Potvrzení pro",
+  "affirmation": "Potvrzení",
+  "language": "Jazyk",
+  "more": "Více",
+  "breadcrumb": "strouhanka",
+  "previous_slide": "Předchozí snímek",
+  "next_slide": "Další snímek",
+  "close": "Blízko",
+  "previous": "Předchozí",
+  "more_pages": "Více stránek",
+  "pagination": "stránkování",
+  "go_to_previous_page": "Přejít na předchozí stránku",
+  "go_to_next_page": "Přejít na další stránku",
+  "toggle_sidebar": "Přepnout postranní panel",
+  "oops_page_not_found": "Jejda! Stránka nenalezena.",
+  "return_to_home": "Návrat domů",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "feelings_heading": "Jak se cítíš?",
+  "feelings_subheading": "Vyberte si emoci, kterou vy",
+  "lang": "dlouhý"
+}

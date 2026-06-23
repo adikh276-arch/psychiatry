@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Давайте зробимо коротку паузу разом.\n\nНаступну хвилину немає нічого, що потрібно вирішувати, виправляти чи на що реагувати. Просто дозволь собі сповільнитися.\n\nСідай зручно, поклади ноги на землю, якщо можеш, і повільно вдихни... і повільно видихати.\n\nЦе ваш момент, щоб скинутися і знову відчути зв'язок із теперішнім.",
+      "button": "Початок"
+    },
+    "1": {
+      "heading": "5 речей, які ви можете побачити",
+      "body": "Повільно озирніться навколо. Дозвольте очам м'яко рухатися по простору. Зверніть увагу на кольори, форми, світло, тіні або дрібні деталі, на які раніше могли не звертати уваги.",
+      "button": "Далі"
+    },
+    "2": {
+      "heading": "4 речі, які ви можете відчути",
+      "body": "Зверніть увагу на своє тіло. Відчувай, як твої ноги торкаються підлоги, спину до стільця, одяг на шкірі або повітря навколо. Визнайте чотири фізичні відчуття.",
+      "button": "Далі"
+    },
+    "3": {
+      "heading": "3 речі, які можна почути",
+      "body": "Слухай уважно. Ви можете почути далекі звуки, вентилятор, друкування, дихання або навіть тишу. Визначте три звуки, не засуджуючи їх.",
+      "button": "Далі"
+    },
+    "4": {
+      "heading": "2 речі, які можна відчути",
+      "body": "Спробуй відчути якийсь запах у кімнаті. Якщо нічого не виділяється, просто зверніть увагу на нейтральний запах повітря навколо себе.",
+      "button": "Далі"
+    },
+    "5": {
+      "heading": "Одна річ, яку можна відчути на смак",
+      "body": "Звертайте увагу на смак у роті. Вона може бути тонкою або нейтральною — просто спостерігайте.",
+      "button": "Далі"
+    },
+    "6": {
+      "heading": "Рефлексія",
+      "body": "Зроби один повільний вдих... і ніжно видихає.",
+      "button": "Подати"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Почати спочатку",
+    "finish_exit": "Фініш і вихід",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Час завершити",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Поділитися",
+    "share_progress": "Поділитися прогресом",
+    "inspire_others": "Надихайте інших сьогодні",
+    "share_text": "Я виконав(-ла) цю активність ({{activityName}}) у TherapyMantra і мені дуже подобається, ви теж можете це зробити, просто перейдіть за посиланням на додаток для Android ({androidUrl}}) або iOS ({iosUrl}}).",
+    "this_activity": "ця діяльність",
+    "copied": "Скопійовано!",
+    "copy_message": "Копіювати повідомлення",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 Заземлення",
+  "intro_p1": "Швидко зменшує тривожність",
+  "intro_p2": "Повертає тебе у теперішнє",
+  "intro_p3": "Заспокоює шалений розум",
+  "app_description": "5-4-3-2-1 Заземлення",
+  "more": "Більше",
+  "breadcrumb": "хлібні крихти",
+  "previous_slide": "Попередній слайд",
+  "next_slide": "Наступний слайд",
+  "close": "Закрити",
+  "previous": "Попередній",
+  "more_pages": "Більше сторінок",
+  "pagination": "пагінація",
+  "go_to_previous_page": "Перейти на попередню сторінку",
+  "go_to_next_page": "Перейти на наступну сторінку",
+  "toggle_sidebar": "Перемикання бічної панелі",
+  "oops_page_not_found": "Ой! Сторінку не знайдено",
+  "return_to_home": "Повернення додому",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-заземлення"
+}

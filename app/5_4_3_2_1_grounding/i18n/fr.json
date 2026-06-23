@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "Faisons une petite pause ensemble.\n\nPendant une minute, vous n'avez rien à résoudre, à réparer, ni à quoi répondre. Accordez-vous simplement le droit de ralentir.\n\nAsseyez-vous confortablement, posez vos pieds à plat sur le sol si possible, et inspirez lentement… puis expirez lentement.\n\nC'est le moment de vous recentrer et de vous reconnecter au présent.",
+      "button": "Commencer"
+    },
+    "1": {
+      "heading": "5 choses que vous pouvez voir",
+      "body": "Regardez lentement autour de vous. Laissez votre regard parcourir doucement l'espace. Remarquez les couleurs, les formes, la lumière, les ombres, ou les petits détails auxquels vous n'aviez peut-être pas prêté attention auparavant.",
+      "button": "Suivant"
+    },
+    "2": {
+      "heading": "4 choses que vous pouvez ressentir",
+      "body": "Portez votre attention sur votre corps. Sentez vos pieds toucher le sol, votre dos contre la chaise, vos vêtements sur votre peau, ou l'air qui vous entoure. Prenez conscience de quatre sensations physiques.",
+      "button": "Suivant"
+    },
+    "3": {
+      "heading": "3 choses que vous pouvez entendre",
+      "body": "Écoutez attentivement. Vous pourriez entendre des bruits lointains, un ventilateur, un clavier, une respiration, ou même le silence. Identifiez trois sons sans les juger.",
+      "button": "Suivant"
+    },
+    "4": {
+      "heading": "2 choses que vous pouvez sentir",
+      "body": "Essayez de déceler une odeur particulière dans la pièce. Si rien ne vous frappe, contentez-vous de percevoir l'odeur neutre de l'air ambiant.",
+      "button": "Suivant"
+    },
+    "5": {
+      "heading": "1 chose que vous pouvez goûter",
+      "body": "Concentrez-vous sur le goût dans votre bouche. Il peut être subtil ou neutre ; observez-le simplement.",
+      "button": "Suivant"
+    },
+    "6": {
+      "heading": "Réflexion",
+      "body": "Inspirez lentement… et expirez doucement.",
+      "button": "Soumettre"
+    }
+  },
+  "common": {
+    "get_started": "Commencer",
+    "start_over": "Recommencer",
+    "finish_exit": "Fin et sortie",
+    "well_done": "Bien joué !",
+    "completion_message": "Vous avez terminé cette activité avec succès. Prenez un moment pour apprécier vos progrès.",
+    "time_to_complete": "Temps écoulé",
+    "back": "Retour",
+    "next": "Suivant",
+    "save": "Enregistrer",
+    "loading": "Chargement...",
+    "share": "Partager",
+    "share_progress": "Partager les progrès",
+    "inspire_others": "Inspirez les autres aujourd'hui",
+    "share_text": "J'ai réalisé cette activité {{activityName}} sur TherapyMantra et j'ai beaucoup apprécié. Vous pouvez la faire aussi ; il suffit de suivre le lien vers l'application Android {{androidUrl}} ou l'application iOS {{iosUrl}}.",
+    "this_activity": "cette activité",
+    "copied": "Copié !",
+    "copy_message": "Copier le message",
+    "yes": "Oui",
+    "no": "Non",
+    "date": "Date",
+    "continue": "Continuer",
+    "step_of": "Étape {{current}} sur {{total}}",
+    "round_of": "Round {{current}} sur {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+    "instruction_running": "Suivez le cercle pour réguler votre respiration"
+  },
+  "app_title": "Mise à la terre 5-4-3-2-1",
+  "intro_p1": "Réduit rapidement l'anxiété",
+  "intro_p2": "Cela vous ramène au présent",
+  "intro_p3": "Calme l'esprit agité",
+  "app_description": "Mise à la terre 5-4-3-2-1",
+  "more": "Plus",
+  "breadcrumb": "chapelure",
+  "previous_slide": "Diapositive précédente",
+  "next_slide": "Diapositive suivante",
+  "close": "Fermer",
+  "previous": "Précédent",
+  "more_pages": "Plus de pages",
+  "pagination": "pagination",
+  "go_to_previous_page": "Aller à la page précédente",
+  "go_to_next_page": "Passer à la page suivante",
+  "toggle_sidebar": "Afficher/masquer la barre latérale",
+  "oops_page_not_found": "Oups ! Page introuvable",
+  "return_to_home": "Retour à l'accueil",
+  "phase_label": "Phase",
+  "instruction_ready": "Réglez vos rounds et appuyez sur play pour commencer",
+  "instruction_running": "Suivez le cercle pour réguler votre respiration",
+  "round_x_of_y": "Round {{current}} sur {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Oui",
+  "no": "Non",
+  "date": "Date",
+  "continue": "Continuer",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-Mise à la terre"
+}

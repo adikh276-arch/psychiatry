@@ -1,0 +1,95 @@
+{
+  "steps": {
+    "0": {
+      "body": "آئیے ایک مختصر وقفہ لیتے ہیں۔\n\nاگلے ایک منٹ تک، آپ کو کچھ حل کرنے، ٹھیک کرنے یا جواب دینے کی ضرورت نہیں ہوتی۔ بس خود کو آہستہ ہونے دیں۔\n\nآرام سے بیٹھیں، اگر ممکن ہو تو اپنے پاؤں زمین پر رکھیں، اور آہستہ آہستہ سانس لیں... اور آہستہ آہستہ سانس باہر نکالتے ہیں۔\n\nیہ آپ کا لمحہ ہے کہ آپ حال سے دوبارہ جڑیں اور دوبارہ جڑیں۔",
+      "button": "آغاز"
+    },
+    "1": {
+      "heading": "5 چیزیں جو آپ دیکھ سکتے ہیں",
+      "body": "آہستہ آہستہ اپنے ارد گرد دیکھو۔ اپنی آنکھوں کو آہستہ آہستہ جگہ پر گھمائیں۔ رنگوں، شکلوں، روشنی، سائے یا چھوٹے چھوٹے تفصیلات کو نوٹ کریں جن پر آپ نے پہلے توجہ نہیں دی ہو۔",
+      "button": "اگلا"
+    },
+    "2": {
+      "heading": "چار چیزیں جو آپ محسوس کر سکتے ہیں",
+      "body": "اپنی توجہ اپنے جسم کی طرف مبذول کرو۔ اپنے پاؤں فرش کو چھونے کا احساس، کرسی کے ساتھ اپنی پیٹھ لگائے، اپنے کپڑے اپنی جلد پر، یا اپنے ارد گرد کی ہوا کو محسوس کریں۔ چار جسمانی احساسات کو تسلیم کریں۔",
+      "button": "اگلا"
+    },
+    "3": {
+      "heading": "3 چیزیں جو آپ سن سکتے ہیں",
+      "body": "غور سے سنو۔ آپ دور کی آوازیں، پنکھا، ٹائپنگ، سانس لینے یا حتیٰ کہ خاموشی سن سکتے ہیں۔ تین آوازوں کو بغیر فیصلہ کیے شناخت کریں۔",
+      "button": "اگلا"
+    },
+    "4": {
+      "heading": "2 چیزیں جو آپ سونگھ سکتے ہیں",
+      "body": "دیکھیں کہ کمرے میں کوئی خوشبو محسوس ہو رہی ہے یا نہیں۔ اگر کچھ خاص نہ ہو تو بس اپنے ارد گرد کی ہوا کی غیر جانبدار خوشبو کو محسوس کریں۔",
+      "button": "اگلا"
+    },
+    "5": {
+      "heading": "1 چیز جو آپ ذائقہ محسوس کر سکتے ہیں",
+      "body": "اپنے منہ کے ذائقے پر دھیان دو۔ یہ ہلکا یا غیر جانبدار ہو سکتا ہے — بس اسے دیکھیں۔",
+      "button": "اگلا"
+    },
+    "6": {
+      "heading": "عکاسی",
+      "body": "ایک آہستہ سانس لو... اور آہستہ سے سانس باہر نکالیں۔",
+      "button": "جمع کروائیں"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "دوبارہ شروع کریں۔",
+    "finish_exit": "ختم کریں اور باہر نکلیں۔",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "مکمل ہونے کا وقت",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "شیئر کریں۔",
+    "share_progress": "پیش رفت کا اشتراک کریں",
+    "inspire_others": "آج دوسروں کو متاثر کریں۔",
+    "share_text": "میں نے یہ {{activityName}} TherapyMantra میں کیا ہے اور واقعی اس سے لطف اندوز ہوں آپ بھی کر سکتے ہیں بس android ایپ {{androidUrl}} یا ios ایپ {{iosUrl}} کے لنک پر عمل کریں۔",
+    "this_activity": "اس سرگرمی",
+    "copied": "نقل کیا گیا!",
+    "copy_message": "پیغام کاپی کریں۔",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_title": "5-4-3-2-1 گراؤنڈنگ",
+  "intro_p1": "بے چینی کو جلدی کم کرتا ہے۔",
+  "intro_p2": "آپ کو حال میں واپس لاتا ہے۔",
+  "intro_p3": "ریسنگ دماغ کو پرسکون کرتا ہے۔",
+  "app_description": "5-4-3-2-1 گراؤنڈنگ",
+  "more": "مزید",
+  "breadcrumb": "بریڈ کرمب",
+  "previous_slide": "پچھلی سلائیڈ",
+  "next_slide": "اگلی سلائیڈ",
+  "close": "بند",
+  "previous": "پچھلا",
+  "more_pages": "مزید صفحات",
+  "pagination": "صفحہ بندی",
+  "go_to_previous_page": "پچھلے صفحے پر جائیں۔",
+  "go_to_next_page": "اگلے صفحے پر جائیں۔",
+  "toggle_sidebar": "سائڈبار کو ٹوگل کریں۔",
+  "oops_page_not_found": "افوہ! صفحہ نہیں ملا",
+  "return_to_home": "گھر واپس جائیں۔",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "/5-4-3-2-1-grounding": "/5-4-3-2-1-گراؤنڈنگ"
+}

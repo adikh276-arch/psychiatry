@@ -1,0 +1,115 @@
+{
+  "app_title": "Spazio sicuro",
+  "nav": {
+    "0": "Check-in",
+    "1": "Richiamo delicatamente",
+    "2": "Osservazione",
+    "3": "Rimanere presenti",
+    "4": "Avanzare"
+  },
+  "s1": {
+    "title": "Troviamo un posto che vada bene",
+    "description": {
+      "0": "Prima di cominciare, prenditi un momento per fare un check-in...",
+      "1": "Come ti senti in questo momento?",
+      "2": "Non cerchiamo un \"posto sicuro\" perfetto. Solo qualcosa che sembri anche solo un po' calmo o a posto."
+    },
+    "placeholder": "Come ti senti in questo momento?",
+    "button": "Inizio visualizzazione"
+  },
+  "s2": {
+    "title": "Ricordatelo con delicatezza",
+    "description": {
+      "0": "Pensa a un posto dove ti sentissi anche solo un po' a tuo agio... o un posto che vorresti esistesse.",
+      "1": "Ora mettiti lì...",
+      "2": "Sei seduto, in piedi o sdraiato?"
+    },
+    "button": "Continua"
+  },
+  "s3": {
+    "title": "Guarda intorno lentamente",
+    "description": {
+      "0": "Dai un'occhiata delicata intorno...",
+      "1": "Qual è una cosa che riesci a vedere?",
+      "2": "Ora nota un suono... Cosa senti?"
+    },
+    "button": "Continua"
+  },
+  "s4": {
+    "title": "Resta con questo",
+    "description": {
+      "0": "Cosa c'è in questo posto che lo fa sentire anche solo un po' sicuro o a posto?",
+      "1": "Come noti che...",
+      "2": "Porta anche attenzione al respiro."
+    },
+    "breathe": "Respira",
+    "notice": "Se immaginare ti sembra difficile, pensa semplicemente all'idea di questo posto.",
+    "button": "Continua"
+  },
+  "s5": {
+    "title": "Porta questo con te",
+    "description": {
+      "0": "Nota come ti senti in questo momento. Anche un piccolo turno conta.",
+      "1": "Vedi se riesci a portare con te anche solo il 5% di questa sensazione."
+    },
+    "placeholder": "Come ti senti adesso?",
+    "button": "Sessione completa"
+  },
+  "complete": {
+    "title": "Sessione completata",
+    "message": "Questo luogo sicuro è sempre disponibile per te. Puoi tornare qui ogni volta che hai bisogno di un momento di calma."
+  },
+  "common": {
+    "get_started": "Inizia",
+    "start_over": "Ricomincia",
+    "finish_exit": "Arrivo e uscita",
+    "well_done": "Ben fatto!",
+    "completion_message": "Hai completato con successo questa attività. Prenditi un momento per apprezzare i tuoi progressi.",
+    "time_to_complete": "È ora di completare",
+    "back": "Indietro",
+    "next": "Prossimo",
+    "save": "Salva",
+    "loading": "Caricamento...",
+    "share": "Condividi",
+    "share_progress": "Condividi i progressi",
+    "inspire_others": "Ispira gli altri oggi",
+    "share_text": "L'ho fatto {{activityName}} su TherapyMantra e mi piace molto, puoi farlo anche tu basta seguire il link all'app Android {{androidUrl}} o all'app iOS {{iosUrl}}",
+    "this_activity": "Questa attività",
+    "copied": "Ricevuto!",
+    "copy_message": "Copia messaggio",
+    "yes": "Sì",
+    "no": "No",
+    "date": "Data",
+    "continue": "Continua",
+    "step_of": "Passaggio {{current}} di {{total}}",
+    "round_of": "Round {{current}} di {{total}}",
+    "phase_label": "Fase",
+    "rounds_selector": "{{count}} Turni",
+    "instruction_ready": "Imposta i tuoi round e tocca play per iniziare",
+    "instruction_running": "Segui il cerchio per regolare il respiro"
+  },
+  "app_description": "Spazio sicuro",
+  "more": "Altro",
+  "breadcrumb": "briciola",
+  "previous_slide": "Diapositiva precedente",
+  "next_slide": "Slide successiva",
+  "close": "Chiudi",
+  "previous": "Precedente",
+  "more_pages": "Altre pagine",
+  "pagination": "Paginazione",
+  "go_to_previous_page": "Vai alla pagina precedente",
+  "go_to_next_page": "Vai alla pagina successiva",
+  "toggle_sidebar": "Toggle Sidebar",
+  "oops_page_not_found": "Ops! Pagina non trovata",
+  "return_to_home": "Ritorno a casa",
+  "phase_label": "Fase",
+  "instruction_ready": "Imposta i tuoi round e tocca play per iniziare",
+  "instruction_running": "Segui il cerchio per regolare il respiro",
+  "round_x_of_y": "Round {{current}} di {{total}}",
+  "rounds_selector": "{{count}} Turni",
+  "yes": "Sì",
+  "no": "No",
+  "date": "Data",
+  "continue": "Continua",
+  "lang": "lunga"
+}

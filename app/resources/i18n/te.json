@@ -1,0 +1,99 @@
+{
+  "app_title": "వనరులు",
+  "not_found": {
+    "title": "కనుగొనబడలేదు",
+    "message": "వనరు కనుగొనబడలేదు",
+    "description": "మీరు వెతుకుతున్న కంటెంట్ కదిలించి ఉండవచ్చు.",
+    "button": "వెనక్కి వెళ్ళు"
+  },
+  "list": {
+    "empty_title": "{{type}} అందుబాటులో లేదు",
+    "empty_desc": "మేము ప్రస్తుతం ఈ అంశం కోసం మరిన్ని వనరులను క్యూరేట్ చేస్తున్నాము.",
+    "footer": "మంత్ర సంరక్షణ • సాక్ష్యం ఆధారిత వనరులు"
+  },
+  "detail": {
+    "loading": "లోడ్ అవుతోంది...",
+    "tip": {
+      "insight_label": "అంతర్దృష్టి",
+      "plan_title": "రోజువారీ కార్యాచరణ ప్రణాళిక",
+      "steps": "{{count}} దశలు",
+      "example_label": "ప్రాక్టీస్ ఉదాహరణ",
+      "instead_of": "బదులుగా",
+      "try_this": "దీన్ని ప్రయత్నించండి"
+    },
+    "article": {
+      "final_thought": "తుది ఆలోచన"
+    },
+    "story": {
+      "reflection_label": "కూర్చోవడానికి ఏదో ఒకటి",
+      "note_label": "రచయిత నుండి ఒక గమనిక"
+    },
+    "myth": {
+      "truth_label": "శాస్త్రీయ సత్యం",
+      "explanation_label": "వివరణాత్మక వివరణ",
+      "insight_label": "కీ అంతర్దృష్టి"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "మళ్ళీ ప్రారంభించండి",
+    "finish_exit": "ముగించి నిష్క్రమించండి",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "పూర్తి చేయడానికి సమయం",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "పంచుకోండి",
+    "share_progress": "పురోగతిని పంచుకోండి",
+    "inspire_others": "ఈరోజు ఇతరులకు స్ఫూర్తినివ్వండి",
+    "share_text": "నేను థెరపీమంత్రలో ఈ {{activityName}} చేశాను మరియు నాకు ఇది చాలా నచ్చింది. మీరు కూడా దీన్ని చేయవచ్చు, కేవలం ఈ లింక్‌ను అనుసరించండి: ఆండ్రాయిడ్ యాప్ {{androidUrl}} లేదా ఐఓఎస్ యాప్ {{iosUrl}}",
+    "this_activity": "ఈ కార్యాచరణ",
+    "copied": "కాపీ చేయబడింది!",
+    "copy_message": "సందేశాన్ని కాపీ చేయండి",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "వనరులు",
+  "concerns": {
+    "acceptance": "అంగీకారం",
+    "adolescent": "కౌమారదశలో",
+    "anger": "కోపం",
+    "anxiety": "ఆందోళన",
+    "depression": "డిప్రెషన్",
+    "eating-disorder": "ఆహార రుగ్మత",
+    "grief": "దుఃఖం",
+    "parenting": "పెంపకం",
+    "postpartum": "ప్రసవానంతర",
+    "ptsd": "PTSD",
+    "relationship": "సంబంధం",
+    "sexuality": "లైంగికత",
+    "sleep": "నిద్ర",
+    "stress": "ఒత్తిడి",
+    "workplace": "పని ప్రదేశం"
+  },
+  "types": {
+    "stories": "కథలు",
+    "articles": "వ్యాసాలు",
+    "myths": "పురాణాలు",
+    "tips": "చిట్కాలు"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

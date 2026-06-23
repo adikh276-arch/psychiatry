@@ -1,0 +1,99 @@
+{
+  "app_title": "Mga Mapagkukunan",
+  "not_found": {
+    "title": "Hindi Natagpuan",
+    "message": "Hindi natagpuan ang mapagkukunan",
+    "description": "Baka lumipat na ang nilalaman na hinahanap mo.",
+    "button": "Bumalik"
+  },
+  "list": {
+    "empty_title": "Walang {{type}} na magagamit",
+    "empty_desc": "Kasalukuyan kaming nag-curate ng higit pang mga mapagkukunan para sa paksang ito.",
+    "footer": "Pangangalaga sa Mantra • Mga Mapagkukunan na Batay sa Ebidensya"
+  },
+  "detail": {
+    "loading": "Naglo-load...",
+    "tip": {
+      "insight_label": "Ang Pananaw",
+      "plan_title": "Pang-araw-araw na Plano ng Pagkilos",
+      "steps": "{{count}} Mga Hakbang",
+      "example_label": "Halimbawa ng Pagsasanay",
+      "instead_of": "Sa halip na",
+      "try_this": "Subukan ito"
+    },
+    "article": {
+      "final_thought": "Pangwakas na Pag-iisip"
+    },
+    "story": {
+      "reflection_label": "Isang bagay na makakasama sa pag-upo",
+      "note_label": "Isang Tala mula sa May-akda"
+    },
+    "myth": {
+      "truth_label": "Ang Siyentipikong Katotohanan",
+      "explanation_label": "Detalyadong Paliwanag",
+      "insight_label": "Pangunahing Pananaw"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Magsimula Muli",
+    "finish_exit": "Tapusin at Lumabas",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Oras para makumpleto",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Ibahagi",
+    "share_progress": "Ibahagi ang Pag-unlad",
+    "inspire_others": "Magbigay-inspirasyon sa iba ngayon",
+    "share_text": "Ginawa ko na ito {{activityName}} sa TherapyMantra at talagang nasiyahan ako rito. Kaya mo rin itong gawin. Sundan lang ang link papunta sa android app {{androidUrl}} o ios app {{iosUrl}}.",
+    "this_activity": "aktibidad na ito",
+    "copied": "Kinopya!",
+    "copy_message": "Kopyahin ang Mensahe",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Mga Mapagkukunan",
+  "concerns": {
+    "acceptance": "Pagtanggap",
+    "adolescent": "Kabataan",
+    "anger": "Galit",
+    "anxiety": "Pagkabalisa",
+    "depression": "Depresyon",
+    "eating-disorder": "Karamdaman sa Pagkain",
+    "grief": "Pighati",
+    "parenting": "Pagiging Magulang",
+    "postpartum": "Pagkatapos manganak",
+    "ptsd": "PTSD",
+    "relationship": "Relasyon",
+    "sexuality": "Sekswalidad",
+    "sleep": "Tulog",
+    "stress": "Stress",
+    "workplace": "Lugar ng Trabaho"
+  },
+  "types": {
+    "stories": "Mga Kwento",
+    "articles": "Mga Artikulo",
+    "myths": "Mga Mito",
+    "tips": "Mga Tip"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

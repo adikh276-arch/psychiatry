@@ -1,0 +1,183 @@
+{
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Start på nytt",
+    "finish_exit": "Fullfør og avslutt",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tid for å fullføre",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Dele",
+    "share_progress": "Del fremdrift",
+    "inspire_others": "Inspirer andre i dag",
+    "share_text": "Jeg har gjort dette med {{activityName}} i TherapyMantra og liker det veldig godt. Du kan også gjøre det. Bare følg lenken til Android-appen {{androidUrl}} eller iOS-appen {{iosUrl}}.",
+    "this_activity": "denne aktiviteten",
+    "copied": "Kopiert!",
+    "copy_message": "Kopier melding",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "add_activity": "Add another activity...",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "screens": {
+    "intro": {
+      "title": "Egenomsorgssporer",
+      "description": "Følg med på dine daglige egenomsorgsvaner og se hvordan de påvirker din generelle velvære. Konsistens er nøkkelen til et sunnere sinn.",
+      "benefits": {
+        "0": "Loggfør daglige egenomsorgsaktiviteter",
+        "1": "Følg med på tiden du bruker på deg selv",
+        "2": "Følg med på humørmønstrene dine",
+        "3": "Se historie og fremgang"
+      },
+      "duration": "2-3 minutter",
+      "benefit1": "Loggføre daglige fysiske og mentale helsetiltak",
+      "benefit2": "Legg merke til utfordringer som hindrer deg i å hvile",
+      "benefit3": "Bygg mindfulness gjennom positiv forsterkning"
+    },
+    "checkin": {
+      "title": "Egenomsorg og oppfølging 🌿",
+      "subtitle": "Hvordan tok du vare på deg selv i dag?",
+      "question": "Praktiserte du egenomsorg i dag? *",
+      "description": "Egenomsorg er enhver aktivitet vi gjør bevisst for å ta vare på vår mentale, emosjonelle og fysiske helse."
+    },
+    "activities": {
+      "title": "Dine aktiviteter 🎯",
+      "subtitle": "Hvilke egenomsorgsaktiviteter gjorde du i dag?"
+    },
+    "duration": {
+      "title": "Tid brukt ⏱️",
+      "subtitle": "Hvor lenge brukte du på egenomsorg? (valgfritt)"
+    },
+    "noSelfCare": {
+      "title": "Det går bra 💛",
+      "subtitle": "La oss forstå hva som skjedde i dag.",
+      "question1": "Hva hindret egenomsorg i dag? (valgfritt)",
+      "question2": "Hva slags egenomsorg ville hjulpet? (valgfritt)"
+    },
+    "mood": {
+      "title": "Hvordan føler du deg? 🫧",
+      "subtitle": "Velg ditt nåværende humør (valgfritt)"
+    },
+    "review": {
+      "title": "Din innføring 📋",
+      "subtitle": "Her er en oppsummering av dagens innsjekking",
+      "didSelfCare": "Tok du vare på meg selv?",
+      "activities": "Aktiviteter",
+      "duration": "Varighet",
+      "mood": "Stemning",
+      "challenges": "Forhindret av",
+      "whatHelps": "Det hadde hjulpet",
+      "viewHistory": "Ukentlig historie",
+      "editToday": "Rediger oppføring",
+      "summary": "Sammendrag"
+    },
+    "history": {
+      "title": "Ukentlig historie 📅",
+      "subtitle": "Ingen påmeldinger de siste 7 dagene"
+    },
+    "notfound": {
+      "title": "404",
+      "subtitle": "Oops! Side ikke funnet",
+      "returnHome": "Tilbake til hjemmet"
+    }
+  },
+  "data": {
+    "activities": {
+      "Exercise": "Trening",
+      "Meditation": "Meditasjon",
+      "Journaling": "Dagbokføring",
+      "Reading": "Lesning",
+      "Rest / Nap": "Hvile / Lur",
+      "Skincare": "Hudpleie",
+      "Healthy Meal": "Sunt måltid",
+      "Nature / Walk": "Natur / Vandring",
+      "Social Time": "Sosial tid",
+      "Therapy": "Terapi",
+      "Digital Detox": "Digital avgiftning",
+      "Hobby": "Hobby"
+    },
+    "durations": {
+      "< 10 minutes": "< 10 minutter",
+      "10–30 minutes": "10–30 minutter",
+      "30–60 minutes": "30–60 minutter",
+      "1+ hour": "1+ time"
+    },
+    "reasons": {
+      "Busy schedule": "Travel timeplan",
+      "Low energy": "Lavenergi",
+      "Forgot": "Glemte",
+      "No motivation": "Ingen motivasjon",
+      "Not feeling well": "Føler meg ikke bra",
+      "Lack of time": "Mangel på tid",
+      "Emotional overwhelm": "Emosjonell overveldelse",
+      "Stress": "Stress"
+    },
+    "helpfulTypes": {
+      "Rest": "Hvile",
+      "Relaxation": "Avslapning",
+      "Physical activity": "Fysisk aktivitet",
+      "Talking to someone": "Å snakke med noen",
+      "Quiet time": "Stille tid",
+      "Creative activity": "Kreativ virksomhet"
+    },
+    "moods": {
+      "Happy": "Glad",
+      "Calm": "Rolig",
+      "Neutral": "Nøytral",
+      "Low": "Lavt",
+      "Stressed": "Stresset",
+      "Tired": "Trøtt"
+    },
+    "positiveStatements": {
+      "0": "Du møtte opp for deg selv i dag. Det er kraftfullt. 🌿",
+      "1": "Egenomsorg er ikke egoistisk — det er essensielt. Bra jobbet. 💚",
+      "2": "Hver lille omsorgshandling bygger en sterkere deg. 🌱",
+      "3": "Du investerte i deg selv i dag. Det betyr noe. ✨",
+      "4": "Å ta vare på deg selv er det beste du gjorde i dag. 🍃"
+    },
+    "supportiveStatements": {
+      "0": "Det går bra. I morgen er en ny start. Vær snill med deg selv. 🤍",
+      "1": "Ikke hver dag vil være perfekt, og det er helt greit. 🕊️",
+      "2": "Du gjør ditt beste. Det er alltid nok. 💛",
+      "3": "Hvile er også en form for egenomsorg. Vis deg selv nåde. 🌸",
+      "4": "Å erkjenne i dag krever mot. Du vokser allerede. 🌷"
+    }
+  },
+  "app_title": "Selvhjelpssporing",
+  "app_description": "Spor dine daglige egenpleievaner og se hvordan de påvirker din generelle velvære. Konsistens er nøkkelen til et sunnere sinn.",
+  "initializing_session": "Initialiserer økten",
+  "language": "Språk",
+  "your_progress_over_the_last_7_days": "Din fremgang de siste 7 dagene",
+  "fetching_data": "Henter data ...",
+  "more": "Flere",
+  "breadcrumb": "brødsmuler",
+  "previous_slide": "Forrige lysbilde",
+  "next_slide": "Neste lysbilde",
+  "close": "Lukke",
+  "previous": "Tidligere",
+  "more_pages": "Flere sider",
+  "pagination": "paginering",
+  "go_to_previous_page": "Gå til forrige side",
+  "go_to_next_page": "Gå til neste side",
+  "toggle_sidebar": "Slå sidefeltet av/på",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "lang"
+}

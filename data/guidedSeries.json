@@ -1,0 +1,848 @@
+{
+  "understanding-diagnosis": {
+    "categories": [
+      {
+        "name": "Know Your Diagnosis",
+        "activities": [
+          {
+            "name": "Symptom Check-In",
+            "description": "Rate how you're doing on 5 clinical dimensions today",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Appointment Prep",
+            "description": "Prepare questions and notes before your next visit",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          },
+          {
+            "name": "Mood Tracker",
+            "description": "Track daily mood patterns related to your diagnosis",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Mindset & Identity",
+        "activities": [
+          {
+            "name": "Diffusion Technique",
+            "description": "Create distance from the label and find yourself beyond it",
+            "icon": "Cloud",
+            "color": "#3B82F6",
+            "route": "/diffusion-technique"
+          },
+          {
+            "name": "A Letter to Self",
+            "description": "Write compassionately to yourself about your diagnosis journey",
+            "icon": "Book",
+            "color": "#8B5CF6",
+            "route": "/a-letter-to-self"
+          },
+          {
+            "name": "Know Your Values",
+            "description": "Anchor your identity in what truly matters to you",
+            "icon": "Target",
+            "color": "#7C3AED",
+            "route": "/know-your-values"
+          }
+        ]
+      },
+      {
+        "name": "Calm & Ground",
+        "activities": [
+          {
+            "name": "Box Breathing",
+            "description": "Calm the anxiety that comes with navigating a diagnosis",
+            "icon": "Wind",
+            "color": "#06B6D4",
+            "route": "/box-breathing"
+          },
+          {
+            "name": "5-4-3-2-1 Grounding",
+            "description": "Return to the present when overwhelm sets in",
+            "icon": "Target",
+            "color": "#8B5CF6",
+            "route": "/5_4_3_2_1_grounding"
+          }
+        ]
+      }
+    ]
+  },
+  "medication-treatment": {
+    "categories": [
+      {
+        "name": "Track Your Medication",
+        "activities": [
+          {
+            "name": "Medication Log",
+            "description": "Log each dose, timing, and whether you took it",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          },
+          {
+            "name": "Side Effect Logger",
+            "description": "Track and rate the side effects you're experiencing",
+            "icon": "Activity",
+            "color": "#EA580C",
+            "route": "/side-effect-logger"
+          },
+          {
+            "name": "Symptom Check-In",
+            "description": "See how your medication is affecting your daily functioning",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          }
+        ]
+      },
+      {
+        "name": "Prepare & Communicate",
+        "activities": [
+          {
+            "name": "Appointment Prep",
+            "description": "Document medication concerns before your psychiatric appointment",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          },
+          {
+            "name": "Brain Dump & Sort",
+            "description": "Organise your medication questions and worries",
+            "icon": "Brain",
+            "color": "#6366F1",
+            "route": "/brain-dump-and-sort"
+          }
+        ]
+      },
+      {
+        "name": "Wellbeing Alongside Medication",
+        "activities": [
+          {
+            "name": "Sleep Audit",
+            "description": "Many medications affect sleep — track yours",
+            "icon": "Moon",
+            "color": "#6366F1",
+            "route": "/sleep-audit"
+          },
+          {
+            "name": "Physical Activity Log",
+            "description": "Stay active — it works alongside your medication",
+            "icon": "Activity",
+            "color": "#10B981",
+            "route": "/physical-activity-log"
+          },
+          {
+            "name": "Care Tracker",
+            "description": "Build the routine that supports your treatment",
+            "icon": "Heart",
+            "color": "#F97316",
+            "route": "/care-tracker"
+          }
+        ]
+      }
+    ]
+  },
+  "mood-cycling-bipolar": {
+    "categories": [
+      {
+        "name": "Track Your Cycle",
+        "activities": [
+          {
+            "name": "Mood Tracker",
+            "description": "Log your mood daily to spot cycling patterns",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          },
+          {
+            "name": "Energy Tracker",
+            "description": "Track energy shifts that signal mood episodes",
+            "icon": "Zap",
+            "color": "#F97316",
+            "route": "/energy-tracker"
+          },
+          {
+            "name": "Sleep Audit",
+            "description": "Sleep disruption is often the first warning sign",
+            "icon": "Moon",
+            "color": "#6366F1",
+            "route": "/sleep-audit"
+          },
+          {
+            "name": "Symptom Check-In",
+            "description": "Clinical snapshot to spot the early edge of an episode",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          }
+        ]
+      },
+      {
+        "name": "Stabilise",
+        "activities": [
+          {
+            "name": "Medication Log",
+            "description": "Consistency with medication is your anchor",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          },
+          {
+            "name": "Care Tracker",
+            "description": "Build the stable daily structure that prevents cycling",
+            "icon": "Heart",
+            "color": "#F97316",
+            "route": "/care-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Safety & Support",
+        "activities": [
+          {
+            "name": "Crisis Plan",
+            "description": "Know your warning signs and have a plan in place",
+            "icon": "ShieldAlert",
+            "color": "#DC2626",
+            "route": "/crisis-plan"
+          },
+          {
+            "name": "Appointment Prep",
+            "description": "Track your cycles and bring the data to your psychiatrist",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          }
+        ]
+      }
+    ]
+  },
+  "adhd-wired-brain": {
+    "categories": [
+      {
+        "name": "Understand Your Brain",
+        "activities": [
+          {
+            "name": "Symptom Check-In",
+            "description": "Rate your focus and functioning today",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Energy Tracker",
+            "description": "ADHD and energy are closely linked — track yours",
+            "icon": "Zap",
+            "color": "#F97316",
+            "route": "/energy-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Organise & Execute",
+        "activities": [
+          {
+            "name": "Brain Dump & Sort",
+            "description": "Externalise the mental chaos onto paper — then sort it",
+            "icon": "Brain",
+            "color": "#6366F1",
+            "route": "/brain-dump-and-sort"
+          },
+          {
+            "name": "Diffusion Technique",
+            "description": "Create space from distracting or self-critical thoughts",
+            "icon": "Cloud",
+            "color": "#3B82F6",
+            "route": "/diffusion-technique"
+          }
+        ]
+      },
+      {
+        "name": "Medication & Routine",
+        "activities": [
+          {
+            "name": "Medication Log",
+            "description": "Track your stimulant or non-stimulant medication daily",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          },
+          {
+            "name": "Side Effect Logger",
+            "description": "ADHD medications have distinct side effects — log them",
+            "icon": "Activity",
+            "color": "#EA580C",
+            "route": "/side-effect-logger"
+          },
+          {
+            "name": "Physical Activity Log",
+            "description": "Exercise is a natural executive function booster",
+            "icon": "Activity",
+            "color": "#10B981",
+            "route": "/physical-activity-log"
+          }
+        ]
+      }
+    ]
+  },
+  "living-with-psychosis": {
+    "categories": [
+      {
+        "name": "Grounding Tools",
+        "activities": [
+          {
+            "name": "5-4-3-2-1 Grounding",
+            "description": "Use your five senses to anchor to reality",
+            "icon": "Target",
+            "color": "#8B5CF6",
+            "route": "/5_4_3_2_1_grounding"
+          },
+          {
+            "name": "Box Breathing",
+            "description": "Slow and steady breathing to reduce overwhelming sensations",
+            "icon": "Wind",
+            "color": "#06B6D4",
+            "route": "/box-breathing"
+          },
+          {
+            "name": "Safe Space Canvas",
+            "description": "Visualise a place of safety and calm",
+            "icon": "Sparkles",
+            "color": "#EC4899",
+            "route": "/safe-space"
+          }
+        ]
+      },
+      {
+        "name": "Track & Monitor",
+        "activities": [
+          {
+            "name": "Symptom Check-In",
+            "description": "Daily clinical snapshot to notice early warning signs",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Medication Log",
+            "description": "Consistent medication is the foundation of stability",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          }
+        ]
+      },
+      {
+        "name": "Safety Planning",
+        "activities": [
+          {
+            "name": "Crisis Plan",
+            "description": "Know what to do before things get serious",
+            "icon": "ShieldAlert",
+            "color": "#DC2626",
+            "route": "/crisis-plan"
+          },
+          {
+            "name": "Appointment Prep",
+            "description": "Document changes to bring to your next appointment",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          }
+        ]
+      }
+    ]
+  },
+  "sleep-clinical-marker": {
+    "categories": [
+      {
+        "name": "Track Your Sleep",
+        "activities": [
+          {
+            "name": "Sleep Audit",
+            "description": "Evaluate your sleep quality and spot patterns",
+            "icon": "Moon",
+            "color": "#6366F1",
+            "route": "/sleep-audit"
+          },
+          {
+            "name": "Mood Tracker",
+            "description": "See how sleep quality correlates with your mood",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          },
+          {
+            "name": "Symptom Check-In",
+            "description": "Check how sleep deprivation affects your clinical functioning",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          }
+        ]
+      },
+      {
+        "name": "Wind Down",
+        "activities": [
+          {
+            "name": "4-6-8 Breathing",
+            "description": "Use extended exhalation to prepare for sleep",
+            "icon": "Wind",
+            "color": "#0EA5E9",
+            "route": "/4_6_8_breathing"
+          },
+          {
+            "name": "Safe Space Canvas",
+            "description": "Visualise a calming space to ease into sleep",
+            "icon": "Sparkles",
+            "color": "#EC4899",
+            "route": "/safe-space"
+          }
+        ]
+      },
+      {
+        "name": "Support Your Sleep Routine",
+        "activities": [
+          {
+            "name": "Medication Log",
+            "description": "Log medications that may be affecting your sleep",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          },
+          {
+            "name": "Appointment Prep",
+            "description": "Share your sleep data with your psychiatrist",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          }
+        ]
+      }
+    ]
+  },
+  "biology-mental-health": {
+    "categories": [
+      {
+        "name": "Monitor Your Body",
+        "activities": [
+          {
+            "name": "Symptom Check-In",
+            "description": "Daily check-in to observe neurobiological signals",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Sleep Audit",
+            "description": "Sleep directly affects neurotransmitter balance",
+            "icon": "Moon",
+            "color": "#6366F1",
+            "route": "/sleep-audit"
+          },
+          {
+            "name": "Energy Tracker",
+            "description": "Track how your brain chemistry affects energy",
+            "icon": "Zap",
+            "color": "#F97316",
+            "route": "/energy-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Support Your Brain Chemistry",
+        "activities": [
+          {
+            "name": "Physical Activity Log",
+            "description": "Exercise releases dopamine, serotonin, and BDNF",
+            "icon": "Activity",
+            "color": "#10B981",
+            "route": "/physical-activity-log"
+          },
+          {
+            "name": "Gratitude Tracker",
+            "description": "Gratitude activates dopamine and serotonin pathways",
+            "icon": "Heart",
+            "color": "#EC4899",
+            "route": "/gratitude-tracker"
+          },
+          {
+            "name": "Box Breathing",
+            "description": "Diaphragmatic breathing activates the vagal nerve",
+            "icon": "Wind",
+            "color": "#06B6D4",
+            "route": "/box-breathing"
+          }
+        ]
+      }
+    ]
+  },
+  "talking-to-psychiatrist": {
+    "categories": [
+      {
+        "name": "Prepare Before You Go",
+        "activities": [
+          {
+            "name": "Appointment Prep",
+            "description": "Structure your notes, side effects, and questions",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          },
+          {
+            "name": "Symptom Check-In",
+            "description": "Bring a clinical snapshot of your past week",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Mood Tracker",
+            "description": "Show your psychiatrist how your mood has moved",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Document Your Treatment",
+        "activities": [
+          {
+            "name": "Medication Log",
+            "description": "Evidence of what you took, when, and what you noticed",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          },
+          {
+            "name": "Side Effect Logger",
+            "description": "Specific, rated side effects — more useful than vague reports",
+            "icon": "Activity",
+            "color": "#EA580C",
+            "route": "/side-effect-logger"
+          }
+        ]
+      },
+      {
+        "name": "Manage Appointment Anxiety",
+        "activities": [
+          {
+            "name": "Box Breathing",
+            "description": "Calm yourself in the waiting room",
+            "icon": "Wind",
+            "color": "#06B6D4",
+            "route": "/box-breathing"
+          },
+          {
+            "name": "Brain Dump & Sort",
+            "description": "Organise everything you want to say before you walk in",
+            "icon": "Brain",
+            "color": "#6366F1",
+            "route": "/brain-dump-and-sort"
+          }
+        ]
+      }
+    ]
+  },
+  "managing-side-effects": {
+    "categories": [
+      {
+        "name": "Track What You're Experiencing",
+        "activities": [
+          {
+            "name": "Side Effect Logger",
+            "description": "Rate and document each side effect with specificity",
+            "icon": "Activity",
+            "color": "#EA580C",
+            "route": "/side-effect-logger"
+          },
+          {
+            "name": "Symptom Check-In",
+            "description": "Daily snapshot including how side effects affect functioning",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Energy Tracker",
+            "description": "Many side effects show up as fatigue or energy shifts",
+            "icon": "Zap",
+            "color": "#F97316",
+            "route": "/energy-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Communicate with Your Doctor",
+        "activities": [
+          {
+            "name": "Appointment Prep",
+            "description": "Turn your side effect notes into a clear conversation guide",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          },
+          {
+            "name": "Medication Log",
+            "description": "See timing correlations between dose and side effect onset",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          }
+        ]
+      },
+      {
+        "name": "Physical Wellbeing",
+        "activities": [
+          {
+            "name": "Physical Activity Log",
+            "description": "Counteract fatigue and weight-related side effects",
+            "icon": "Activity",
+            "color": "#10B981",
+            "route": "/physical-activity-log"
+          },
+          {
+            "name": "Sleep Audit",
+            "description": "Monitor insomnia or hypersomnia side effects",
+            "icon": "Moon",
+            "color": "#6366F1",
+            "route": "/sleep-audit"
+          }
+        ]
+      }
+    ]
+  },
+  "psychiatric-stability": {
+    "categories": [
+      {
+        "name": "Your Daily Pillars",
+        "activities": [
+          {
+            "name": "Medication Log",
+            "description": "Consistent medication is the bedrock of stability",
+            "icon": "Pill",
+            "color": "#0284C7",
+            "route": "/medication-log"
+          },
+          {
+            "name": "Sleep Audit",
+            "description": "Stable sleep is the second pillar of psychiatric health",
+            "icon": "Moon",
+            "color": "#6366F1",
+            "route": "/sleep-audit"
+          },
+          {
+            "name": "Mood Tracker",
+            "description": "Spot early drift before it becomes an episode",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          },
+          {
+            "name": "Care Tracker",
+            "description": "Log the daily habits that anchor your stability",
+            "icon": "Heart",
+            "color": "#F97316",
+            "route": "/care-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Monitor & Adjust",
+        "activities": [
+          {
+            "name": "Symptom Check-In",
+            "description": "Daily clinical check to catch early warning signs",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Appointment Prep",
+            "description": "Bring your stability data to your psychiatrist",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          },
+          {
+            "name": "Crisis Plan",
+            "description": "Have a plan ready for when stability wavers",
+            "icon": "ShieldAlert",
+            "color": "#DC2626",
+            "route": "/crisis-plan"
+          }
+        ]
+      },
+      {
+        "name": "Physical Foundation",
+        "activities": [
+          {
+            "name": "Physical Activity Log",
+            "description": "Exercise is one of the best stabilisers in psychiatry",
+            "icon": "Activity",
+            "color": "#10B981",
+            "route": "/physical-activity-log"
+          },
+          {
+            "name": "Gratitude Tracker",
+            "description": "Build a positive anchor point in each day",
+            "icon": "Heart",
+            "color": "#EC4899",
+            "route": "/gratitude-tracker"
+          }
+        ]
+      }
+    ]
+  },
+  "crisis-safety-planning": {
+    "categories": [
+      {
+        "name": "Build Your Safety Plan",
+        "activities": [
+          {
+            "name": "Crisis Plan",
+            "description": "A structured 4-step personal safety plan builder",
+            "icon": "ShieldAlert",
+            "color": "#DC2626",
+            "route": "/crisis-plan"
+          },
+          {
+            "name": "Appointment Prep",
+            "description": "Discuss your plan with your psychiatrist to make it stronger",
+            "icon": "CalendarClock",
+            "color": "#059669",
+            "route": "/appointment-prep"
+          }
+        ]
+      },
+      {
+        "name": "Grounding When Crisis Hits",
+        "activities": [
+          {
+            "name": "5-4-3-2-1 Grounding",
+            "description": "Interrupt a crisis spiral with your five senses",
+            "icon": "Target",
+            "color": "#8B5CF6",
+            "route": "/5_4_3_2_1_grounding"
+          },
+          {
+            "name": "Box Breathing",
+            "description": "Regulate your nervous system during a crisis moment",
+            "icon": "Wind",
+            "color": "#06B6D4",
+            "route": "/box-breathing"
+          },
+          {
+            "name": "Safe Space Canvas",
+            "description": "Mentally go somewhere safe when reality feels unbearable",
+            "icon": "Sparkles",
+            "color": "#EC4899",
+            "route": "/safe-space"
+          }
+        ]
+      },
+      {
+        "name": "Monitor Your Warning Signs",
+        "activities": [
+          {
+            "name": "Symptom Check-In",
+            "description": "Daily monitoring to catch early warning signs",
+            "icon": "ScanLine",
+            "color": "#7C3AED",
+            "route": "/symptom-check-in"
+          },
+          {
+            "name": "Mood Tracker",
+            "description": "Track mood shifts that often precede a crisis",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          }
+        ]
+      }
+    ]
+  },
+  "stigma-identity": {
+    "categories": [
+      {
+        "name": "Know Yourself Beyond the Diagnosis",
+        "activities": [
+          {
+            "name": "Know Your Values",
+            "description": "Your diagnosis is part of you — but not the whole of you",
+            "icon": "Target",
+            "color": "#8B5CF6",
+            "route": "/know-your-values"
+          },
+          {
+            "name": "A Letter to Self",
+            "description": "Write to yourself with the compassion you deserve",
+            "icon": "Book",
+            "color": "#6366F1",
+            "route": "/a-letter-to-self"
+          },
+          {
+            "name": "Affirmations",
+            "description": "Counter stigma narratives with grounded truths about yourself",
+            "icon": "Star",
+            "color": "#10B981",
+            "route": "/affirmations"
+          }
+        ]
+      },
+      {
+        "name": "Emotional Processing",
+        "activities": [
+          {
+            "name": "Diffusion Technique",
+            "description": "Step back from stigma-related thoughts without buying into them",
+            "icon": "Cloud",
+            "color": "#3B82F6",
+            "route": "/diffusion-technique"
+          },
+          {
+            "name": "Brain Dump & Sort",
+            "description": "Get your feelings about stigma out of your head and onto the page",
+            "icon": "Brain",
+            "color": "#6366F1",
+            "route": "/brain-dump-and-sort"
+          },
+          {
+            "name": "Mood Tracker",
+            "description": "Notice how social interactions and stigma affect your mood",
+            "icon": "HeartPulse",
+            "color": "#F59E0B",
+            "route": "/vibe-tracker"
+          }
+        ]
+      },
+      {
+        "name": "Build Resilience",
+        "activities": [
+          {
+            "name": "Gratitude Tracker",
+            "description": "Anchor yourself in what is good in your life",
+            "icon": "Heart",
+            "color": "#EC4899",
+            "route": "/gratitude-tracker"
+          },
+          {
+            "name": "Care Tracker",
+            "description": "Caring for yourself is an act of defiance against stigma",
+            "icon": "Heart",
+            "color": "#F97316",
+            "route": "/care-tracker"
+          }
+        ]
+      }
+    ]
+  }
+}

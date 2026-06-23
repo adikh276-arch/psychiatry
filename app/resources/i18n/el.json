@@ -1,0 +1,99 @@
+{
+  "app_title": "Πόροι",
+  "not_found": {
+    "title": "Δεν βρέθηκε",
+    "message": "Ο πόρος δεν βρέθηκε",
+    "description": "Το περιεχόμενο που αναζητάτε μπορεί να έχει μετακινηθεί.",
+    "button": "Επιστροφή"
+  },
+  "list": {
+    "empty_title": "Δεν υπάρχουν {{type}} διαθέσιμα",
+    "empty_desc": "Αυτήν τη στιγμή επιμελούμαστε περισσότερους πόρους για αυτό το θέμα.",
+    "footer": "Mantra Care • Πόροι βασισμένοι σε στοιχεία"
+  },
+  "detail": {
+    "loading": "Φόρτωση...",
+    "tip": {
+      "insight_label": "Η ενόραση",
+      "plan_title": "Ημερήσιο Σχέδιο Δράσης",
+      "steps": "{{count}} Βήματα",
+      "example_label": "Παράδειγμα πρακτικής",
+      "instead_of": "Αντί για",
+      "try_this": "Δοκιμάστε αυτό"
+    },
+    "article": {
+      "final_thought": "Τελική σκέψη"
+    },
+    "story": {
+      "reflection_label": "Κάτι για να καθίσετε",
+      "note_label": "Σημείωση από τον συγγραφέα"
+    },
+    "myth": {
+      "truth_label": "Η Επιστημονική Αλήθεια",
+      "explanation_label": "Λεπτομερής εξήγηση",
+      "insight_label": "Βασικές πληροφορίες"
+    }
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Ξεκινήστε από την αρχή",
+    "finish_exit": "Τέλος & Έξοδος",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Ώρα για ολοκλήρωση",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Μερίδιο",
+    "share_progress": "Κοινοποίηση προόδου",
+    "inspire_others": "Εμπνεύστε τους άλλους σήμερα",
+    "share_text": "Έχω κάνει αυτό το {{activityName}} στο TherapyMantra και το απολαμβάνω πολύ. Μπορείτε να το κάνετε κι εσείς, απλώς ακολουθήστε τον σύνδεσμο για την εφαρμογή Android {{androidUrl}} ή την εφαρμογή iOS {{iosUrl}}",
+    "this_activity": "αυτή η δραστηριότητα",
+    "copied": "Αντιγράφηκε!",
+    "copy_message": "Αντιγραφή μηνύματος",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Πόροι",
+  "concerns": {
+    "acceptance": "Αποδοχή",
+    "adolescent": "Εφηβος",
+    "anger": "Θυμός",
+    "anxiety": "Ανησυχία",
+    "depression": "Κατάθλιψη",
+    "eating-disorder": "Διατροφική διαταραχή",
+    "grief": "Θλίψη",
+    "parenting": "Γονική μέριμνα",
+    "postpartum": "Μετά τον τοκετό",
+    "ptsd": "Μετατραυματικό Στρες",
+    "relationship": "Σχέση",
+    "sexuality": "Σεξουαλικότητα",
+    "sleep": "Υπνος",
+    "stress": "Στρες",
+    "workplace": "Χώρος εργασίας"
+  },
+  "types": {
+    "stories": "Ιστορίες",
+    "articles": "Άρθρα",
+    "myths": "Μύθοι",
+    "tips": "Συμβουλές"
+  },
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue"
+}

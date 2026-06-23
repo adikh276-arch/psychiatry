@@ -1,0 +1,136 @@
+{
+  "app_title": "說出你的心聲",
+  "intro": {
+    "title": "遇見你的心靈",
+    "description": "學習透過為內心的聲音命名來擺脫紛亂的思緒。",
+    "benefits": {
+      "0": "保持心理距離",
+      "1": "削弱負面情緒的影響",
+      "2": "覺察念頭，而不成為念頭本身。"
+    },
+    "duration": "2-3分鐘",
+    "view_past": "查看往期條目"
+  },
+  "history": {
+    "title": "往期條目",
+    "no_entries": "暫無條目。",
+    "reflection_label": "反思：{{text}}"
+  },
+  "complete": {
+    "title": "活動完成",
+    "great_job": "幹得好！",
+    "message": "你已經成功地為你的思想命名，並在你和你的思想之間創造了一些空間。",
+    "footer": "記住：你不必相信你腦中產生的每一個想法。"
+  },
+  "subtitles": {
+    "concept": "看法",
+    "input_thought": "注意",
+    "input_name": "姓名",
+    "practice": "實踐",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "一個小小的轉變",
+      "example": "“我不夠好”",
+      "desc": "當一個念頭出現時，你常常會覺得它是<0>你自己</0>。但如果你能退後一步，<1>注意到</1>它呢？"
+    },
+    "input_thought": {
+      "title": "讓我們從一個真正的思考開始。",
+      "desc": "最近有什麼事情一直困擾著你？",
+      "placeholder": "想到什麼就寫什麼…"
+    },
+    "input_name": {
+      "title": "保持一定距離",
+      "desc": "給你的思緒取個名字，有助於你擺脫這些想法。",
+      "placeholder": "或輸入您自己的內容…",
+      "examples": {
+        "0": "評論家",
+        "1": "過度思考者",
+        "2": "憂慮調頻",
+        "3": "過度思考機器",
+        "4": "內在批評家",
+        "5": "假設生成器",
+        "6": "戲劇導演"
+      }
+    },
+    "practice": {
+      "title": "試試這個換檔",
+      "instead_of": "而不是",
+      "try_saying": "試著說",
+      "is_telling_me": "{{name}} 告訴我：",
+      "guide": "請用自己的步調輕輕重複這句話 4-5 遍。",
+      "button": "我準備好了"
+    },
+    "reflection": {
+      "title": "你注意到了什麼？",
+      "desc": "命名它之後，你當時是什麼感覺？",
+      "options": {
+        "0": "這種想法感覺比以前淡了一些。",
+        "1": "我覺得自己與這種想法保持了一定的距離。",
+        "2": "感覺仍然和以前一樣強烈。",
+        "3": "我不確定究竟發生了什麼變化，如果有的話。"
+      },
+      "button": "完整反思"
+    }
+  },
+  "buttons": {
+    "continue": "繼續",
+    "restart": "重啟"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "重新開始",
+    "finish_exit": "結束並退出",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "完成時間",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "分享",
+    "share_progress": "分享進度",
+    "inspire_others": "今天激勵他人",
+    "share_text": "我在 TherapyMantra 上完成了這個 {{activityName}} 活動，非常喜歡，你也試試看吧，只需點擊連結下載安卓應用程式 {{androidUrl}} 或 iOS 應用程式 {{iosUrl}}。",
+    "this_activity": "這項活動",
+    "copied": "已複製！",
+    "copy_message": "複製訊息",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "說出你的心聲",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "當一個念頭出現時，通常感覺就像是…",
+  "more": "更多的",
+  "breadcrumb": "麵包屑",
+  "previous_slide": "上一張投影片",
+  "next_slide": "下一張投影片",
+  "close": "關閉",
+  "previous": "以前的",
+  "more_pages": "更多頁面",
+  "pagination": "分頁",
+  "go_to_previous_page": "回上一頁",
+  "go_to_next_page": "前往下一頁",
+  "toggle_sidebar": "切換側邊欄",
+  "oops_page_not_found": "糟糕！頁面未找到",
+  "return_to_home": "回首頁",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "長篇"
+}

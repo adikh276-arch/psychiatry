@@ -1,0 +1,136 @@
+{
+  "app_title": "Aklını Söyle",
+  "intro": {
+    "title": "Zihninle Buluş",
+    "description": "İç sesinize bir isim vererek bunaltıcı düşüncelerden uzaklaşmayı öğrenin.",
+    "benefits": {
+      "0": "Zihinsel mesafe yaratın",
+      "1": "Sert düşüncelerin gücünü azalt",
+      "2": "Düşünceleri fark etmek ama onlar olmak"
+    },
+    "duration": "2-3 dakika",
+    "view_past": "Geçmiş Girişleri Görüntüle"
+  },
+  "history": {
+    "title": "Geçmiş Kayıtlar",
+    "no_entries": "Henüz kayıt yok.",
+    "reflection_label": "Yansıma: {{text}}"
+  },
+  "complete": {
+    "title": "Etkinlik Tamamlandı",
+    "great_job": "Harika iş!",
+    "message": "Zihninize başarıyla isim verdiniz ve düşüncelerinizle aranızda bir boşluk yarattınız.",
+    "footer": "Unutmayın: Zihninizin verdiği her düşünceye inanmak zorunda değilsiniz."
+  },
+  "subtitles": {
+    "concept": "Perspektif",
+    "input_thought": "Bildirim",
+    "input_name": "İsim",
+    "practice": "Uygulama",
+    "notice": "Notice your thoughts",
+    "name": "Give it a name"
+  },
+  "screens": {
+    "concept": {
+      "title": "Küçük bir vardiya",
+      "example": "\"Yeterince iyi değilim\"",
+      "desc": "Bir düşünce ortaya çıktığında genellikle <0>sen</0> gibi hissedilir. Ama ya geri çekilip <1>fark et</1> yapabilseydin?"
+    },
+    "input_thought": {
+      "title": "Gerçek bir düşünceyle başlayalım.",
+      "desc": "Son zamanlarda sizi rahatsız eden bir düşünce nedir?",
+      "placeholder": "Tam olarak sana geldiği gibi yaz..."
+    },
+    "input_name": {
+      "title": "Biraz mesafe yaratın",
+      "desc": "Zihninize bu düşüncelerden ayrılmanız için bir isim verin.",
+      "placeholder": "Ya da kendi yazın...",
+      "examples": {
+        "0": "Eleştirmen",
+        "1": "Aşırı Düşünen",
+        "2": "Worry FM",
+        "3": "Aşırı Düşünen Makine",
+        "4": "İçsel Eleştirmen",
+        "5": "Ne Olsaydı Jeneratörü",
+        "6": "Drama Yönetmeni"
+      }
+    },
+    "practice": {
+      "title": "Bu vardiyayı dene",
+      "instead_of": "Yerine",
+      "try_saying": "Şöyle dene.",
+      "is_telling_me": "{{name}} bana şöyle diyor:",
+      "guide": "Bu cümleyi kendi hızınızda 4–5 kez nazikçe tekrarlayın.",
+      "button": "Hazırım"
+    },
+    "reflection": {
+      "title": "Ne fark ettin?",
+      "desc": "İsim verdikten sonra düşünce nasıl hissettirdi?",
+      "options": {
+        "0": "Bu düşünce öncekinden biraz daha az yoğun geliyordu",
+        "1": "Bu düşünceden biraz uzaklaştığımı hissettim",
+        "2": "Hâlâ eskisi kadar güçlü hissettiriyordu",
+        "3": "Neyin değiştiğinden emin değilim, eğer bir şey değişti"
+      },
+      "button": "Tam Yansıtma"
+    }
+  },
+  "buttons": {
+    "continue": "Devam et",
+    "restart": "Yeniden başlatma"
+  },
+  "common": {
+    "get_started": "Get Started",
+    "start_over": "Baştan Başla",
+    "finish_exit": "Bitir ve Çık",
+    "well_done": "Well Done!",
+    "completion_message": "You've successfully completed this activity. Take a moment to appreciate your progress.",
+    "time_to_complete": "Tamamlama süresi",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "loading": "Loading...",
+    "share": "Paylaşmak",
+    "share_progress": "İlerlemenizi Paylaşın",
+    "inspire_others": "Bugün başkalarına ilham verin.",
+    "share_text": "Bu aktiviteyi ({{activityName}}) TherapyMantra'da yaptım ve gerçekten çok beğendim, siz de yapabilirsiniz, sadece Android uygulamasına ({{androidUrl}}) veya iOS uygulamasına ({{iosUrl}}) giden bağlantıyı takip edin.",
+    "this_activity": "bu aktivite",
+    "copied": "Kopyalandı!",
+    "copy_message": "Mesajı Kopyala",
+    "yes": "Yes",
+    "no": "No",
+    "date": "Date",
+    "continue": "Continue",
+    "step_of": "Step {{current}} of {{total}}",
+    "round_of": "Round {{current}} of {{total}}",
+    "phase_label": "Phase",
+    "rounds_selector": "{{count}} Rounds",
+    "instruction_ready": "Set your rounds and tap play to begin",
+    "instruction_running": "Follow the circle to regulate your breath"
+  },
+  "app_description": "Zihninizi Adlandırın",
+  "when_a_thought_shows_up_it_often_feels_like_it_s": "Bir düşünce ortaya çıktığında, çoğu zaman sanki...",
+  "more": "Daha",
+  "breadcrumb": "ekmek kırıntısı",
+  "previous_slide": "Önceki slayt",
+  "next_slide": "Sonraki slayt",
+  "close": "Kapalı",
+  "previous": "Öncesi",
+  "more_pages": "Daha fazla sayfa",
+  "pagination": "sayfalama",
+  "go_to_previous_page": "Önceki sayfaya git",
+  "go_to_next_page": "Sonraki sayfaya git",
+  "toggle_sidebar": "Kenar Çubuğunu Aç/Kapat",
+  "oops_page_not_found": "Ups! Sayfa bulunamadı.",
+  "return_to_home": "Ana sayfaya dön",
+  "phase_label": "Phase",
+  "instruction_ready": "Set your rounds and tap play to begin",
+  "instruction_running": "Follow the circle to regulate your breath",
+  "round_x_of_y": "Round {{current}} of {{total}}",
+  "rounds_selector": "{{count}} Rounds",
+  "yes": "Yes",
+  "no": "No",
+  "date": "Date",
+  "continue": "Continue",
+  "lang": "uzun"
+}

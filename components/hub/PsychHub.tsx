@@ -49,12 +49,12 @@ interface TopicCard {
 }
 
 const toolCards = [
-  { id: "symptom-check-in",    icon: ScanLine,      label: "Symptom Check-In",   bgClass: "bg-[#EDE9FE]", textClass: "text-[#4C1D95]", iconClass: "text-[#6D28D9]", url: "/symptom-check-in" },
-  { id: "medication-log",      icon: Pill,           label: "Medication Log",     bgClass: "bg-[#E0F2FE]", textClass: "text-[#0C4A6E]", iconClass: "text-[#0369A1]", url: "/medication-log" },
-  { id: "appointment-prep",    icon: CalendarClock,  label: "Appointment Prep",   bgClass: "bg-[#D1FAE5]", textClass: "text-[#064E3B]", iconClass: "text-[#047857]", url: "/appointment-prep" },
-  { id: "vibe-tracker",        icon: HeartPulse,     label: "Mood Tracker",       bgClass: "bg-[#FEF3C7]", textClass: "text-[#78350F]", iconClass: "text-[#B45309]", url: "/vibe-tracker" },
-  { id: "sleep-audit",         icon: Moon,           label: "Sleep Audit",        bgClass: "bg-[#E0E7FF]", textClass: "text-[#312E81]", iconClass: "text-[#4338CA]", url: "/sleep-audit" },
-  { id: "crisis-plan",         icon: ShieldAlert,    label: "Crisis Plan",        bgClass: "bg-[#FFE4E6]", textClass: "text-[#881337]", iconClass: "text-[#BE123C]", url: "/crisis-plan" },
+  { id: "symptom-check-in",    icon: ScanLine,      label: "SYMPTOM CHECK-IN",   bgClass: "from-[#06b6d4] to-[#0891b2]", url: "/symptom-check-in" },
+  { id: "medication-log",      icon: Pill,           label: "MEDICATION LOG",     bgClass: "from-[#fbbf24] to-[#f59e0b]", url: "/medication-log" },
+  { id: "appointment-prep",    icon: CalendarClock,  label: "APPOINTMENT PREP",   bgClass: "from-[#f472b6] to-[#db2777]", url: "/appointment-prep" },
+  { id: "vibe-tracker",        icon: HeartPulse,     label: "MOOD TRACKER",       bgClass: "from-[#38bdf8] to-[#0284c7]", url: "/vibe-tracker" },
+  { id: "sleep-audit",         icon: Moon,           label: "SLEEP AUDIT",        bgClass: "from-[#34d399] to-[#059669]", url: "/sleep-audit" },
+  { id: "crisis-plan",         icon: ShieldAlert,    label: "CRISIS PLAN",        bgClass: "from-[#fdba74] to-[#ea580c]", url: "/crisis-plan" },
 ];
 
 const topicCards: TopicCard[] = [
@@ -529,11 +529,11 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 exit={{ opacity: 0 }}
-                className="space-y-8"
+                className="space-y-10 py-6"
               >
                 {/* Header */}
-                <div className="space-y-2 mb-8">
-                  <div className="flex items-center gap-3">
+                <div className="space-y-1 mb-10">
+                  <div className="flex items-center gap-4">
                     <button
                       onClick={() => {
                         if (typeof window !== 'undefined') {
@@ -546,21 +546,21 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                           }
                         }
                       }}
-                      className="p-2 -ml-2 text-slate-400 hover:text-slate-900 transition-colors rounded-full"
+                      className="text-slate-400 hover:text-slate-900 transition-colors"
                     >
                       <ChevronLeft size={24} />
                     </button>
-                    <div className="w-10 h-10 bg-violet-100 rounded-xl flex items-center justify-center shadow-sm">
-                      <Brain size={20} className="text-violet-600" />
+                    <div className="w-12 h-12 bg-[#E0F2FE] rounded-[1rem] flex items-center justify-center shadow-sm">
+                      <Sparkles size={24} className="text-[#0284C7]" />
                     </div>
-                    <h1 className="text-3xl font-bold text-slate-900 tracking-tight">Psychiatry Self-Care</h1>
+                    <h1 className="text-3xl font-bold text-[#0B192C] tracking-tight">Self-Care Resources</h1>
                   </div>
-                  <p className="text-slate-500 font-medium ml-12">Understand your brain, your diagnosis, and your treatment</p>
+                  <p className="text-slate-500 font-medium ml-[4.5rem]">Explore tools and guidance for your mental wellness journey</p>
                 </div>
 
                 {/* Quick-Access Tools */}
-                <div className="space-y-4">
-                  <h2 className="text-lg font-semibold text-slate-900">Quick Tools</h2>
+                <div className="space-y-5">
+                  <h2 className="text-[22px] font-bold text-[#0B192C]">Tools</h2>
                   <motion.div
                     variants={container}
                     initial="hidden"
@@ -577,12 +577,12 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                           playPop();
                           router.push(withLang(tool.url));
                         }}
-                        className={`p-5 rounded-2xl flex flex-col justify-between h-28 shadow-[0_8px_30px_rgba(0,0,0,0.06)] hover:shadow-[0_10px_40px_rgba(0,0,0,0.12)] transition-all relative overflow-hidden group ${tool.bgClass}`}
+                        className={`aspect-square p-5 rounded-[1.5rem] flex flex-col justify-between shadow-[0_8px_20px_rgba(0,0,0,0.08)] hover:shadow-[0_12px_30px_rgba(0,0,0,0.12)] transition-all relative overflow-hidden group bg-gradient-to-br ${tool.bgClass}`}
                       >
-                        <tool.icon size={26} className={`relative z-10 ${tool.iconClass}`} />
-                        <span className={`text-[12px] font-bold tracking-tight text-left leading-tight relative z-10 ${tool.textClass}`}>{tool.label}</span>
-                        <div className={`absolute -right-4 -bottom-4 opacity-10 group-hover:scale-125 transition-transform duration-500 ${tool.iconClass}`}>
-                          <tool.icon size={80} />
+                        <tool.icon size={32} className="relative z-10 text-white" strokeWidth={1.5} />
+                        <span className="text-[11px] font-black tracking-widest text-left leading-snug relative z-10 text-white uppercase w-[85%]">{tool.label}</span>
+                        <div className="absolute -right-6 -bottom-6 opacity-20 group-hover:scale-110 group-hover:opacity-30 transition-all duration-500 text-white">
+                          <tool.icon size={110} strokeWidth={1} />
                         </div>
                       </motion.button>
                     ))}
@@ -590,9 +590,9 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                 </div>
 
                 {/* Topics */}
-                <div className="space-y-4">
-                  <h2 className="text-lg font-semibold text-slate-900">Topics</h2>
-                  <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div className="space-y-5">
+                  <h2 className="text-[22px] font-bold text-[#0B192C]">Topics</h2>
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                     {topicCards.map((topic) => (
                       <motion.button
                         key={topic.id}
@@ -602,13 +602,13 @@ function PsychHubInner({ topicId }: { topicId?: string }) {
                           playPop();
                           router.replace(withLang(`/topics/${topic.id}`));
                         }}
-                        className="p-6 bg-white border border-slate-100/60 rounded-[2rem] flex flex-col items-center justify-center gap-4 transition-all hover:shadow-[0_8px_30px_rgba(0,0,0,0.04)] hover:border-slate-200 text-center"
+                        className="p-8 bg-white rounded-3xl flex flex-col items-center justify-center gap-5 transition-all shadow-[0_4px_20px_rgba(0,0,0,0.03)] hover:shadow-[0_8px_30px_rgba(0,0,0,0.08)] border-transparent text-center group"
                       >
-                        <div className="w-16 h-16 rounded-2xl flex items-center justify-center transition-transform group-hover:scale-110" style={{ backgroundColor: topic.bgColor }}>
-                          <topic.icon size={28} style={{ color: topic.iconColor }} />
+                        <div className="w-[4.5rem] h-[4.5rem] rounded-[1.25rem] flex items-center justify-center transition-transform group-hover:scale-110" style={{ backgroundColor: topic.bgColor }}>
+                          <topic.icon size={32} strokeWidth={1.5} style={{ color: topic.iconColor }} />
                         </div>
                         <div>
-                          <span className="font-bold text-slate-800 text-[15px] leading-tight block">{topic.label}</span>
+                          <span className="font-bold text-[#0B192C] text-[15px] leading-tight block">{topic.label}</span>
                         </div>
                       </motion.button>
                     ))}
